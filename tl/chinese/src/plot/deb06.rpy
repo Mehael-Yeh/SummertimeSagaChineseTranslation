@@ -76,7 +76,7 @@ translate chinese deb06_lotion_185ec3e7:
 translate chinese deb06_lotion_bc856548:
 
     # anon @ -m_talk "{i}*SNIIIIIIIIIIIIIIIIIIIIFFF*{/i}"
-    anon @ -m_talk "{i}*吸气*{/i}"
+    anon @ -m_talk "{i}*深吸一口气*{/i}"
 
 # game/src/plot/deb06.rpy:39
 translate chinese deb06_lotion_0df89b61:

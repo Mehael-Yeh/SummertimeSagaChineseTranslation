@@ -4675,10 +4675,3 @@ translate chinese strings:
 
     old "s all you"
     new "这就是你"
-    old "Okay?"
-    new "好吗？"
-    old "See you later!"
-    new "回头见！"
-
-    old "I'll leave you be."
-    new "我不打扰你了。"

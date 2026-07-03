@@ -89,5 +89,3 @@ translate chinese strings:
 
     old "m on hall monitoring duty... and you"
     new "我在走廊巡逻... 和你"
-    old "Hi."
-    new "嗨。"

@@ -227,12 +227,3 @@ translate chinese cedric_what_38187eb2:
 
     # cedric "Suit yourself."
     cedric "随你便。"
-
-translate chinese strings:
-
-    old "What have you been up to?"
-    new "你最近在忙什么？"
-    old "Can you spot me?"
-    new "能帮我保护一下吗？"
-    old "See ya!"
-    new "回头见！"

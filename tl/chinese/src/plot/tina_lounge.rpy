@@ -183,5 +183,3 @@ translate chinese strings:
 
     old "s kinda late, I probably shouldn"
     new "有点晚了，我可能不该"
-    old "I wanted to see you."
-    new "我想见你。"

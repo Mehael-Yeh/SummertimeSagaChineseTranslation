@@ -29,7 +29,4 @@ translate chinese strings:
     # game/src/plot/micoe.rpy:5
     old "How are they?"
     new "他们怎么样？"
-    old "Thanks."
-    new "谢谢。"
-
     # game/src/plot/micoe.rpy:8

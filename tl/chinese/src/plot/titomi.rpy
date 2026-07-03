@@ -362,8 +362,3 @@ translate chinese strings:
     old "ve gotta carry steaming hot dishes through here and I"
     new "我得端着滚烫的菜从这里经过。"
 
-    old "Where are you from?"
-    new "你从哪里来？"
-
-    old "Ara Ara."
-    new "哎呀哎呀。"

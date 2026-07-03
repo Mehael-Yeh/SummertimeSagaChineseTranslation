@@ -2398,7 +2398,3 @@ translate chinese strings:
 
     old " the fuckin"
     new "操他妈的"
-    old "How are you?"
-    new "你好吗？"
-    old "What are you doing?"
-    new "你在干什么？"

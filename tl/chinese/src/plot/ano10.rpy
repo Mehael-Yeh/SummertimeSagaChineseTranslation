@@ -2035,5 +2035,3 @@ translate chinese strings:
 
     old "mon, what"
     new "拜托，什么"
-    old "Sure!"
-    new "当然！"

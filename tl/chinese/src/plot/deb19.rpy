@@ -1873,5 +1873,3 @@ translate chinese strings:
 
     old "re just looking out for what"
     new "你只是在为"
-    old "Keep going."
-    new "继续。"

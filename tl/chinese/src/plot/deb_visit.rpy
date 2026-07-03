@@ -1784,5 +1784,3 @@ translate chinese strings:
 
     old "t know what I"
     new "我不知道我"
-    old "Okay, sure!"
-    new "好的，当然！"

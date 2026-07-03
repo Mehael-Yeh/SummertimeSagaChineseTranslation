@@ -822,7 +822,3 @@ translate chinese strings:
 
     old "ve tasted your cooking, it"
     new "尝过你的厨艺后，"
-    old "Do it."
-    new "做吧。"
-    old "Okay."
-    new "好吧。"

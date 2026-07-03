@@ -1177,5 +1177,3 @@ translate chinese strings:
 
     old "t think it"
     new "不这么认为"
-    old "Never mind."
-    new "算了。"

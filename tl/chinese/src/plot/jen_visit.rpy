@@ -233,5 +233,3 @@ translate chinese strings:
 
     old "ve got a mega hot girl stroking your cock right now and you"
     new "你现在正有个超级火辣的女孩在撸你的鸡巴，而你"
-    old "Right now?"
-    new "现在？"

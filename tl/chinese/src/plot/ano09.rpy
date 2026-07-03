@@ -2384,5 +2384,3 @@ translate chinese strings:
     old "s garbage disposal is actin"
     new "垃圾处理器出问题了"
 
-    old "Not really..."
-    new "也不是……"

@@ -434,7 +434,3 @@ translate chinese strings:
     old "s in the back cookin"
     new "在后面做饭"
 
-
-    old "Where's [saga.cast.maria]?"
-    new "[saga.cast.maria]在哪里？"
-

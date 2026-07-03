@@ -150,5 +150,3 @@ translate chinese strings:
     # game/src/plot/bridget.rpy:40
     old "Training."
     new "训练。"
-    old "Nothing."
-    new "没什么。"

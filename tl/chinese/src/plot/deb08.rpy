@@ -2301,8 +2301,3 @@ translate chinese strings:
 
     old "s my fault, I shouldn"
     new "是我的错，我不应该"
-    old "Why not?"
-    new "为什么不呢？"
-
-    old "Y-yeah..."
-    new "是、是啊……"

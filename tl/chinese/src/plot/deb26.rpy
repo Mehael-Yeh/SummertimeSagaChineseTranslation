@@ -5184,7 +5184,3 @@ translate chinese strings:
 
     old "m certain she"
     new "m确定她"
-    old "Absolutely!"
-    new "当然！"
-    old "Eh, maybe later."
-    new "呃，也许以后吧。"

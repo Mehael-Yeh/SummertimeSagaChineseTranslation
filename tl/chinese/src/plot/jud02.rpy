@@ -725,7 +725,3 @@ translate chinese strings:
 
     old "s coming from the girls"
     new "来自那些女孩"
-    old "I know..."
-    new "我知道……"
-    old "Sure."
-    new "当然。"

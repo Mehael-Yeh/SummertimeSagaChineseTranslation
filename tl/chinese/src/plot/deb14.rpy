@@ -1199,5 +1199,3 @@ translate chinese strings:
 
     old "m... uhh, glad... you"
     new "嗯...呃，很高兴...你"
-    old "Not really."
-    new "也不是。"

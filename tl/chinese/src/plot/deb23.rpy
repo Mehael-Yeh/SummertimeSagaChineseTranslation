@@ -4023,7 +4023,3 @@ translate chinese strings:
 
     old "m just glad you didn"
     new "我只是很高兴你没有"
-    old "Nice."
-    new "不错。"
-    old "Conservative."
-    new "保守。"

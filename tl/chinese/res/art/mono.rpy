@@ -5,7 +5,7 @@ translate chinese strings:
     new "debbie oa_fingers p_car z_oa"
 
     old "mono frame"
-    new "单帧"
+    new "mono frame"
 
     old "debbie_car_inside base car"
     new "debbie_car_inside base car"

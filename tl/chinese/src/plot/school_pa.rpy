@@ -220,7 +220,7 @@ translate chinese school_pa_v09_fb45154c:
 translate chinese school_pa_v09_fc3b04f3:
 
     # pa "We are still looking to fill a few spots on the Summerville College athletics team."
-    pa "我们仍在招募少数几个夏天镇大学运动队的席位。"
+    pa "我们仍在招募少数几个夏日大学运动队的席位。"
 
 # game/src/plot/school_pa.rpy:92
 translate chinese school_pa_v09_87036ab3:

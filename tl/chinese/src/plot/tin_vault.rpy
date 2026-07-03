@@ -1235,5 +1235,3 @@ translate chinese strings:
 
     old "mon, babyface... you think I"
     new "来吧，宝贝...你觉得我"
-    old "Wanna bang?"
-    new "想干一场吗？"

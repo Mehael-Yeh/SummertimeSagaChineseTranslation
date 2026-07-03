@@ -3383,7 +3383,3 @@ translate chinese strings:
 
     old "m totally gonna end up sitting in a corner holding your purse aren"
     new "我完全会沦落到拿着你的包坐在角落里的，不是吗"
-    old "Let's go!"
-    new "走吧！"
-    old "Maybe next time."
-    new "下次吧。"

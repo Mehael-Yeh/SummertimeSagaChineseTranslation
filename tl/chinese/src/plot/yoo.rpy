@@ -282,5 +282,3 @@ translate chinese strings:
 
     old "m gonna tell your boss about the way you"
     new "我要告诉你老板你..."
-    old "Employee of the month?"
-    new "月度最佳员工？"

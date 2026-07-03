@@ -445,5 +445,3 @@ translate chinese strings:
 
     old "s this one here that"
     new "就是这里的这个"
-    old "Dick."
-    new "混蛋。"

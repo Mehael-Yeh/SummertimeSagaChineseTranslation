@@ -5634,20 +5634,3 @@ translate chinese strings:
     old "ve heard she"
     new "我听说她"
 
-    old "You doing okay?"
-    new "你还好吗？"
-
-    old "Can I get you something?"
-    new "要我给你拿点什么吗？"
-
-    old "You guys need anything?"
-    new "你们需要什么吗？"
-
-    old "Looking forward to daycare?"
-    new "期待去日托吗？"
-
-    old "About [saga.cast.debbie]..."
-    new "关于[saga.cast.debbie]……"
-
-    old "[saga.cast.debbie] is driving you crazy?"
-    new "[saga.cast.debbie]把你逼疯了？"

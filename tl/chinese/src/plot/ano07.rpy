@@ -1565,7 +1565,3 @@ translate chinese strings:
     old "re still breathin"
     new "只要还在喘气"
 
-    old "Yes."
-    new "是。"
-    old "No."
-    new "不。"

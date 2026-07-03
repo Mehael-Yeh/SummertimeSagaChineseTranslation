@@ -790,11 +790,3 @@ translate chinese strings:
 
     old "s perfect, I"
     new "完美"
-    old "Yeah!"
-    new "耶！"
-    old "Great!"
-    new "太好了！"
-    old "Well..."
-    new "嗯……"
-    old "Yup."
-    new "嗯。"

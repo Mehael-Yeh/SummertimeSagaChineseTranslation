@@ -237,5 +237,3 @@ translate chinese strings:
 
     old "ll look them up and find "
     new "我会帮你查，然后找到它们。"
-    old "Not right now."
-    new "不是现在。"
