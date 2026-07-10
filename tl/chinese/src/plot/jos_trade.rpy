@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jos_trade.rpy:2
 translate chinese jos_trade_e67cb137:
@@ -830,16 +830,3 @@ translate chinese strings:
     old "No deal."
     new "不成交。"
 
-translate chinese strings:
-
-    old "s a bit much, isn"
-    new "有点过分了，不是吗"
-
-    old "s not like I"
-    new "这不像我"
-
-    old "mon... It wasn"
-    new "mon... 这不"
-
-    old "ve got work I"
-    new "我工作了"

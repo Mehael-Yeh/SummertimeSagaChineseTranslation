@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb18.rpy:4
 translate chinese deb18_debbies_767c6cd3:
@@ -1068,19 +1068,3 @@ translate chinese deb18_outro_block_d78e6ebe:
     # anon @ -m_talk "( ... I should let her rest. )"
     anon @ -m_talk "(……我该让她休息了。)"
 
-translate chinese strings:
-
-    old "m so very proud of the man you"
-    new "我为你成为这样的男人感到非常自豪。"
-
-    old "s where I"
-    new "我..."
-
-    old "s nothing to be sorry about... I"
-    new "没什么好抱歉的... 我..."
-
-    old "s grown up so quickly because everything that"
-    new "你成长得这么快，因为一切都..."
-
-    old "ll bet you"
-    new "我敢打赌你..."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen12.rpy:8
 translate chinese jen12_setup_block_20d9fe3e:
@@ -348,13 +348,3 @@ translate chinese jen12_watch_vid2_aad89a37:
     # anon "( Surely she wouldn't go that far, would she? )"
     anon "(她肯定不会那么过火，对吧？)"
 
-translate chinese strings:
-
-    old "s see what she"
-    new "让我看看她"
-
-    old "t watch them now though... it"
-    new "不过现在不能看……它"
-
-    old "t {i}not{/i} check that videos tab... I"
-    new "得{i}别{/i}去检查那个视频标签……我"

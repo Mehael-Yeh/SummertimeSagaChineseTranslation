@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen21.rpy:8
 translate chinese jen21_intro_c3491ca7:
@@ -1032,22 +1032,3 @@ translate chinese jen21_outro_bed2_1fc36ce4:
     # anon @ -m_talk "( ... I should probably leave her be. )"
     anon @ -m_talk "(……我大概还是别去打扰她比较好。)"
 
-translate chinese strings:
-
-    old "t get any ideas, it"
-    new "你别有其他念头，"
-
-    old "s right, we"
-    new "对，我们"
-
-    old "Jenny"
-    new "Jenny"
-
-    old "t tell me what you"
-    new "别告诉我你"
-
-    old "m here now, aren"
-    new "我现在就在这里，不是吗"
-
-    old "ll just have to wait and find out, won"
-    new "只能等着瞧了，不是吗"

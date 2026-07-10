@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mel02.rpy:5
 translate chinese mel02_intro_577ee5ee:
@@ -2838,67 +2838,3 @@ translate chinese mel02_outro_bca18cf1:
     # anon "Bye, [saga.cast.melody]."
     anon "再见，[saga.cast.melody]。"
 
-translate chinese strings:
-
-    old "Cause I have a feeling I"
-    new "因为我有个预感，"
-
-    old "m gonna need a lot more booze before I"
-    new "我需要更多酒才能"
-
-    old "d like to but I can"
-    new "我很想去，但我不能"
-
-    old "m pretty sure she"
-    new "我很确定她"
-
-    old "s okay. We don"
-    new "没事。我们不"
-
-    old "ll text him real quick, hopefully he"
-    new "我马上给他发短信，希望他"
-
-    old "ll show you amateurs how it"
-    new "我会向你们这些新手展示如何"
-
-    old "t mind but I"
-    new "没问题，但我"
-
-    old "Cause I don"
-    new "因为我不"
-
-    old "t even notice it"
-    new "甚至没注意到它"
-
-    old "s alright. I don"
-    new "好吧。我没"
-
-    old "t notice you walking off with my ex-husband"
-    new "注意到你和我前夫走了"
-
-    old "t play an instrument and I definitely don"
-    new "不会演奏乐器，我肯定不"
-
-    old "s got a voice like an angel, you won"
-    new "她的声音像天使一样，你不会"
-
-    old "t play any instruments. I"
-    new "演奏任何乐器。我"
-
-    old "ll just text my sis- {i}*Hic*{/i} She"
-    new "发短信给我姐- {i}*嗝*{/i}她"
-
-    old "re getting me excited! I"
-    new "弄得我兴奋起来了！我"
-
-    old "t- {i}*Hic*{/i} wasn"
-    new "呃——{i}*呃*{/i}不是"
-
-    old "mon drunkie. Let"
-    new "贪杯鬼。让"
-
-    old "mon! I"
-    new "我！"
-
-    old "s not a bad idea. It"
-    new "这主意不错。"

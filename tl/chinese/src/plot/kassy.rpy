@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/kassy.rpy:24
 translate chinese kassy_gift_shop_intro1_d53178a3:
@@ -76,7 +76,3 @@ translate chinese strings:
     old "Just browsing."
     new "随便看看。"
 
-translate chinese strings:
-
-    old "m just going to have a nose around, if that"
-    new "我就在附近转转，如果那个"

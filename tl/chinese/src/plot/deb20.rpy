@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb20.rpy:4
 translate chinese deb20_lobby_ca9301cd:
@@ -924,31 +924,3 @@ translate chinese deb20_outro_debbie_52b9639e:
     # anon @ -m_talk "( Better to give [saga.cast.diane]'s words some time to sink in. )"
     anon @ -m_talk "(最好给[saga.cast.diane]的话一点时间消化。)"
 
-translate chinese strings:
-
-    old "t mad while also making it clear that he shouldn"
-    new "他发疯了，同时也清楚地表示他不该"
-
-    old "m still not seeing the problem... Isn"
-    new "我还是没看出问题... 你们不都是"
-
-    old "re both consenting adults and what you do in the privacy of your home is nobody"
-    new "自愿的成年人吗，在自己家里做什么是别人管不着的"
-
-    old "d love to see you more often, and I"
-    new "我也很想多见见你，而且我"
-
-    old "s got the biggest... {i}cock{/i} I"
-    new "他有着最大的... {i}鸡巴{/i} 我"
-
-    old "m certain you won"
-    new "我肯定你不会"
-
-    old "s not surprising, the poor boy"
-    new "这并不奇怪，那个可怜的男孩"
-
-    old "s like he"
-    new "他看起来就像"
-
-    old "s a good thing, that"
-    new "这是件好事，那"

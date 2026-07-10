@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/viv05.rpy:10
 translate chinese viv05_setup_viv_09d85aa1:
@@ -868,7 +868,3 @@ translate chinese strings:
     old "Chair"
     new "椅子"
 
-translate chinese strings:
-
-    old "t begin to describe how much I"
-    new "我根本无法形容我有多"

@@ -312,25 +312,3 @@ translate chinese ano16_shop_rails_dca6dcbc:
     # anon @ -m_talk "( I need to get to the pizzeria right now! )"
     anon @ -m_talk "(我现在就得去披萨店！)"
 
-translate chinese strings:
-
-    old "t want the kid goin"
-    new "不想让孩子去"
-
-    old "re gonna be the godfather, ain"
-    new "就要当教父了，对吧"
-
-    old "ll be able to handle it much better when you"
-    new "到时候你会处理得更好"
-
-    old "s gonna get himself killed and I ain"
-    new "他会把自己搞死的，我可不想"
-
-    old "s an offer you can"
-    new "这是个你无法拒绝的提议"
-
-    old "s not gonna happen, darlin"
-    new "不会发生的，亲爱的"
-
-    old "t surprisin"
-    new "不奇怪"

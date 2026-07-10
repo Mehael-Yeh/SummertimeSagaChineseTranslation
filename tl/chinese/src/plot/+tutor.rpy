@@ -164,7 +164,3 @@ translate chinese tutor_hud_d41d8cd9:
     # nvl clear
     nvl clear
 
-translate chinese strings:
-
-    old "s bed. Sometimes it may also be desirable to use the chair to ensure a peaceful night"
-    new "床。有时，为了确保安宁的夜晚，使用椅子也可能是可取的。"

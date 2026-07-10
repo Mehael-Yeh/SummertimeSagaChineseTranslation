@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen11.rpy:4
 translate chinese jen11_intro_c1596e4c:
@@ -186,10 +186,3 @@ translate chinese jen11_laptop_rails_a092ad31:
     # anon @ -m_talk "( Maybe I should check her laptop hefore I leave. )"
     anon @ -m_talk "(也许我应该在离开前检查一下她的笔记本电脑。)"
 
-translate chinese strings:
-
-    old "ll have to be careful but I think it"
-    new "得小心点，但我觉得可以。"
-
-    old "s the perfect time to see what she"
-    new "这正是看看她的时候"

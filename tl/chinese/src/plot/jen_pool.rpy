@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_pool.rpy:2
 translate chinese jen_pool_45f3866c:
@@ -936,10 +936,3 @@ translate chinese jen_pool_once_36753b8b:
     # jenny f_calm "... Hmm, alright. I suppose that was good enough, peasant."
     jenny f_calm "……嗯，好吧。我想这已经够好了，贱民。"
 
-translate chinese strings:
-
-    old "t be a pussy, she"
-    new "别当个怂包，她"
-
-    old "s easier to pretend you"
-    new "还不如假装你"

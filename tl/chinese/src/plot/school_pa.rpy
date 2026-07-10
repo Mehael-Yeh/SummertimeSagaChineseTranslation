@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/school_pa.rpy:6
 translate chinese school_pa_merge_eb780b0f:
@@ -612,7 +612,3 @@ translate chinese school_pa_v23_e1b1b6d7:
     # pa "Thank you and have a pleasant day!"
     pa "谢谢，祝您愉快！"
 
-translate chinese strings:
-
-    old "re 0-12 this season but that doesn"
-    new "这个赛季0胜12负，但这并不"

@@ -1518,28 +1518,3 @@ translate chinese ano03_outro_kitchen_1b43d89c:
     # anon @ -m_talk "( I shouldn't interrupt them.. )"
     anon @ -m_talk "(我不该打断他们……)"
 
-translate chinese strings:
-
-    old "s right, ma"
-    new "是的，女士"
-
-    old "am, we don"
-    new "先生，我们不"
-
-    old "s part of a criminal organization that"
-    new "犯罪组织的一部分"
-
-    old "t you two go take a seat at the table and I"
-    new "你们俩去桌前坐下，我"
-
-    old "s okay... He"
-    new "没关系……他"
-
-    old "mon, let"
-    new "来吧，让"
-
-    old "t pay up, he"
-    new "不付钱，他"
-
-    old "s the guy who"
-    new "就是那个家伙"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb22.rpy:6
 translate chinese deb22_visit_3590e1d5:
@@ -736,16 +736,3 @@ translate chinese strings:
     old "Go back to bed."
     new "回床上睡觉。"
 
-translate chinese strings:
-
-    old "ll be able to sleep knowing you"
-    new "知道你还醒着就能睡得着。"
-
-    old "t have to talk or anything... I just want to give you a hug and then I"
-    new "不必说话或做任何事……我只是想给你一个拥抱，然后我"
-
-    old "m in love with my tenant"
-    new "我爱上了我的房客"
-
-    old "s really not a big deal, you don"
-    new "真的没什么大不了的，你不"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mar01.rpy:3
 translate chinese mar01_maria_02bb4811:
@@ -1002,40 +1002,3 @@ translate chinese mar01_maria_creampie_a9222fef:
     # maria m_lip p_turn @ -m_talk "Mm."
     maria m_lip p_turn @ -m_talk "嗯。"
 
-translate chinese strings:
-
-    old "t go thinkin"
-    new "别去想"
-
-    old " okay, to keep gettin"
-    new "好吧，继续"
-
-    old "t gonna mind us havin"
-    new "不介意我们"
-
-    old "t much goin"
-    new "没多少"
-
-    old " a bit of guilt... then I guess, you"
-    new "有点内疚... 然后我猜，你"
-
-    old "mon... what"
-    new "哥们... 怎么了"
-
-    old "s botherin"
-    new "烦什么"
-
-    old "re one of the most gorgeous women I"
-    new "你是我见过最美的女人之一"
-
-    old "m gonna be walkin"
-    new "我要走了"
-
-    old "m super happy for you guys, now that you"
-    new "我真为你们高兴，既然你们"
-
-    old "t tell me ya didn"
-    new "别告诉我你没有"
-
-    old "s a shame we didn"
-    new "真可惜我们没"

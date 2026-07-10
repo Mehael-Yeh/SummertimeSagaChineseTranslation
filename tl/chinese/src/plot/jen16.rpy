@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen16.rpy:4
 translate chinese jen16_intro_85c9530a:
@@ -1656,31 +1656,3 @@ translate chinese jen16_retry_jenny_4e560f19:
     # anon "Alright, sheesh!"
     anon "好了，够了！"
 
-translate chinese strings:
-
-    old "t that the super religious girl you"
-    new "那个超级虔诚的女孩，就是你"
-
-    old "m sure you have figured it out by now, I"
-    new "我敢肯定你现在已经明白了，我"
-
-    old "t laugh, it"
-    new "别笑，这"
-
-    old "s not the most glamorous profession but it"
-    new "虽然不是最光鲜的职业，但确实"
-
-    old "t want anyone to know it"
-    new "不想让别人知道这"
-
-    old "ll... Ugh, I"
-    new "好吧……唉，我"
-
-    old "t be dense, you know what I"
-    new "别装傻，你知道我"
-
-    old "t know, won"
-    new "不知道，不会"
-
-    old "t talk to me, I"
-    new "跟我说话，我"

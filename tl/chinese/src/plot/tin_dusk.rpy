@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tin_dusk.rpy:2
 translate chinese tin_dusk_tina_5fd26f0b:
@@ -996,7 +996,3 @@ translate chinese tin_dusk_lounge_rails_ebbb42c0:
     # anon e_b m_teeth @ -m_talk "( Double-oh-six-seven, license to drill! )"
     anon e_b m_teeth @ -m_talk "零零六七，持牌干炮！"
 
-translate chinese strings:
-
-    old "mon, babyface... I"
-    new "妈妈，小脸蛋……我"

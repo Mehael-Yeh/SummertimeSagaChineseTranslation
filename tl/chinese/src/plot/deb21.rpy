@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb21.rpy:6
 translate chinese deb21_landing1_2887d2d3:
@@ -1830,34 +1830,3 @@ translate chinese deb21_outro_block_f484bf24:
     # anon @ -m_talk "( ... Probably. )"
     anon @ -m_talk "(... 可能吧。)"
 
-translate chinese strings:
-
-    old "t understand why you can"
-    new "不明白你为什么能"
-
-    old "m busy and you"
-    new "我很忙，而你"
-
-    old "m the only one you"
-    new "我是你唯一的"
-
-    old "s not what it looks like, we weren"
-    new "这不是你看到的那样，我们没有"
-
-    old "s not like there"
-    new "不像那样"
-
-    old "s like I can"
-    new "好像我可以"
-
-    old "ll bet she"
-    new "我打赌她"
-
-    old "d best head on to bed, there"
-    new "最好还是去睡觉吧"
-
-    old "m sure that"
-    new "我很确定"
-
-    old "s wrong... I don"
-    new "出问题了... 我"

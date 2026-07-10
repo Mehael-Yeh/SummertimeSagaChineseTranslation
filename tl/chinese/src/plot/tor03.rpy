@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor03.rpy:5
 translate chinese tor03_intro_db2f92c7:
@@ -1596,22 +1596,3 @@ translate chinese tor03_office2_rails_f82b4d79:
     # anon @ -m_talk "( Best not keep her waiting. )"
     anon @ -m_talk "(最好别让她久等。)"
 
-translate chinese strings:
-
-    old "s the problem? I"
-    new "问题出在哪里？我"
-
-    old "s incredible! Who do you think you"
-    new "太不可思议了！你以为你是"
-
-    old "re ready to work once I"
-    new "我已经准备好一"
-
-    old "t tell me! I"
-    new "别告诉我！"
-
-    old "ll need to make certain the school"
-    new "我需要确保学校"
-
-    old "t matter though, didn"
-    new "不过没关系，不是吗"

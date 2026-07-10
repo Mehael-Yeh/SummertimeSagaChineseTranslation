@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mel03.rpy:6
 translate chinese mel03_setup_melody_ad4b9a32:
@@ -846,22 +846,3 @@ translate chinese mel03_post_block_64d479cf:
     # anon @ -m_talk "( I'm sure [saga.cast.melody] will bounce back, she just needs a little time. )"
     anon @ -m_talk "(我相信[saga.cast.melody]会振作起来的，她只需要一点时间。)"
 
-translate chinese strings:
-
-    old "m afraid I won"
-    new "我恐怕不能"
-
-    old "m sorry but did you see what they"
-    new "抱歉，你看到他们"
-
-    old "m sorry, ma"
-    new "对不起，妈"
-
-    old "re slick but I know you"
-    new "你很滑头，但我知道你"
-
-    old "re not sure, ma"
-    new "你不确定，妈"
-
-    old "ll be okay. I"
-    new "会没事的。"

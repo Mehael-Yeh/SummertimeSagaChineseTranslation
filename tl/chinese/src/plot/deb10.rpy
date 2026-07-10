@@ -527,11 +527,3 @@ translate chinese deb10_outro_block_abd775d5:
 
     # anon e_b f_happy m_teeth @ -m_talk "( ... What a good day! )"
     anon e_b f_happy m_teeth @ -m_talk "(……多美好的一天啊！)"
-
-translate chinese strings:
-
-    old "t believe I"
-    new "真不敢相信我"
-
-    old "s been so long, and you"
-    new "已经过了这么久，你"

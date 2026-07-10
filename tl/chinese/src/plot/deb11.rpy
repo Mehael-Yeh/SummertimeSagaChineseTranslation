@@ -528,13 +528,3 @@ translate chinese deb11_wake_2be32442:
     # anon f_worried_surprised @ -m_talk "( ... {i}Literally.{/i} )"
     anon f_worried_surprised @ -m_talk "(... {i}字面意思。{/i})"
 
-translate chinese strings:
-
-    old "t understand why you even need a new dress... it"
-    new "真不明白你干嘛非要买新裙子……你"
-
-    old "re such a loser sometimes, it"
-    new "有时候你真是个废物。"
-
-    old "s the color of money so I"
-    new "这是金钱的颜色，所以我"

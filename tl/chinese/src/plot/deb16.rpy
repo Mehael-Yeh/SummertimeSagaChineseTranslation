@@ -1686,25 +1686,3 @@ translate chinese deb16_post_block_460d6157:
     # anon @ -m_talk "( No need to disturb her further. )"
     anon @ -m_talk "(没必要再去打扰她了。)"
 
-translate chinese strings:
-
-    old "re really hammering home that she"
-    new "你真的把这想法灌输得很彻底……"
-
-    old "s alright, sweetie... I don"
-    new "没事的，亲爱的……我不——"
-
-    old "t believe this isn"
-    new "我不敢相信这不算"
-
-    old "ve just done something horrendous and I"
-    new "我刚刚做了一件可怕的事，而我"
-
-    old "m just taking solace in the fact that you"
-    new "只是在安慰自己，你"
-
-    old "re my {i}landlady{/i}... surely we shouldn"
-    new "是我的{i}房东{/i}……我们当然不应该"
-
-    old "t wanna say, it"
-    new "想说，这"

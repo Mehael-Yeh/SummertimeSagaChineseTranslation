@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/viv04.rpy:5
 translate chinese viv04_office_df684ec0:
@@ -3760,55 +3760,3 @@ translate chinese strings:
     old "Don't pay."
     new "不付钱。"
 
-translate chinese strings:
-
-    old "s just say, he thinks he"
-    new "不妨说，他觉得自己"
-
-    old "t wait too long. The State Championship won"
-    new "等不了多久了。州冠军赛不会"
-
-    old "ll come back when I"
-    new "等我回来时"
-
-    old "t wait too long. There"
-    new "等不了多久了。有"
-
-    old "s a good thing she"
-    new "她真是个好东西"
-
-    old "s ginormous isn"
-    new "这玩意儿真大，不是吗"
-
-    old "ve never felt this prepared for a test before. I"
-    new "我从未为考试准备得这么充分过。我"
-
-    old "ve got a bangin"
-    new "我有个超棒的"
-
-    old "m sure I"
-    new "我确定我"
-
-    old "ve found them, it"
-    new "找到他们了，那"
-
-    old "s a good teacher, and she"
-    new "她是个好老师"
-
-    old "ll try. That"
-    new "我试试。那"
-
-    old "s this special lotion I use. I"
-    new "这是我用的一种特殊乳液。"
-
-    old "s right. Now let"
-    new "是对的。现在让我们"
-
-    old "s resourceful though, I"
-    new "虽然她很机智，但我"
-
-    old "t even know they"
-    new "甚至不知道他们"
-
-    old "re so awesome, and he"
-    new "真是太棒了，他"

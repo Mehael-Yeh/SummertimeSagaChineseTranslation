@@ -462,7 +462,3 @@ translate chinese deb01_debbie_70db4646:
     # anon @ -m_talk "( I've got a bad feeling about this. )"
     anon @ -m_talk "(我有种不好的预感。)"
 
-translate chinese strings:
-
-    old "s nothing to worry about, but what if she"
-    new "没什么好担心的，但如果她"

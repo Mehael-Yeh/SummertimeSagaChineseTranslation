@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/diane_plot.rpy:10
 translate chinese diane_plot_diane_33daf976:
@@ -66,7 +66,3 @@ translate chinese diane_plot_wait_99b46934:
     # anon @ -m_talk "( Need to at least give the garden a little time to recover. )"
     anon @ -m_talk "(至少得给花园一点时间恢复。)"
 
-translate chinese strings:
-
-    old "ll come back when the sun"
-    new "等太阳出来的时候我会回来的。"

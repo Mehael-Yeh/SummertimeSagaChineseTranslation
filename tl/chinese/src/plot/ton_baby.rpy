@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/ton_baby.rpy:9
 translate chinese ton_baby_post_intro_d7d054c1:
@@ -413,24 +413,4 @@ translate chinese ton_baby_post_outro_376e3be0:
 
     # anon a_side "Cool, thanks!"
     anon a_side "酷，谢了！"
-
-translate chinese strings:
-
-    old "m just here to arrange the meetin"
-    new "我只是来安排会面的。"
-
-    old "t know what hit "
-    new "不知道被什么击中了"
-
-    old "t want "
-    new "想要"
-
-    old "t want any customers hearin"
-    new "不想让任何顾客听到"
-
-    old "s why you always take "
-    new "这就是为什么你总是带到"
-
-    old "s in the back cookin"
-    new "在后面做饭"
 

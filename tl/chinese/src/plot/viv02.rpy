@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/viv02.rpy:6
 translate chinese viv02_setup_viv_d03760e5:
@@ -1650,25 +1650,3 @@ translate chinese viv02_outro_office1_93db23ee:
     # anon a_side o_right p_stand @ -m_talk "( Perhaps if I continue on with her tutoring sessions, I'll discover some way to be of help? )"
     anon a_side o_right p_stand @ -m_talk "(要是继续跟她上课，也许我能找到帮忙的法子？)"
 
-translate chinese strings:
-
-    old "s lessons... I"
-    new "她的课……我"
-
-    old "re just the librarian"
-    new "不过是图书管理员"
-
-    old "t even realize it"
-    new "根本没意识到"
-
-    old "s scope out what they"
-    new "他们先打探清楚"
-
-    old "ve been sending letters to their homes but that doesn"
-    new "一直往他们家里寄信，但那不"
-
-    old "s my personal aide and you"
-    new "是我的私人助理，你"
-
-    old "s in there, otherwise, I dunno what I"
-    new "里面可能有，否则，我不知道我"

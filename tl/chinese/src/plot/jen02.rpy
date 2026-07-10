@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen02.rpy:6
 translate chinese jen02_lobby_e6f442e0:
@@ -348,7 +348,3 @@ translate chinese jen02_lobby_521e17ec:
     # anon f_pensive @ -m_talk "( [saga.cast.jenny] doesn't realize how lucky she is. )"
     anon f_pensive @ -m_talk "([saga.cast.jenny]不知道自己有多幸运。)"
 
-translate chinese strings:
-
-    old "t worry, you won"
-    new "别担心，你不会"

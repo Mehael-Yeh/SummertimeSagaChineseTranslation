@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tv.rpy:7
 translate chinese tv_arrest_dacaed93:
@@ -84,7 +84,3 @@ translate chinese tv_volley_690b3a72:
     # anon "( That's the kind of sport I could get into. )"
     anon "(那种运动我可以参与。)"
 
-translate chinese strings:
-
-    old "s the mayor"
-    new "市长"

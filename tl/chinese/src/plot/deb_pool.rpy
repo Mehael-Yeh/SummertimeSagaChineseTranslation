@@ -336,7 +336,3 @@ translate chinese deb_pool_0f9ee9cc:
     # anon "I'm close too!"
     anon "我也快了！"
 
-translate chinese strings:
-
-    old "s hard to take my eyes off you when you"
-    new "你让我难以移开视线。"

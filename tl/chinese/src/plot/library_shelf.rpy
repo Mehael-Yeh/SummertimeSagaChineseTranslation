@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/library_shelf.rpy:9
 translate chinese library_shelf_item_444c4617:
@@ -233,7 +233,3 @@ translate chinese strings:
     old "Yes please."
     new "好的，请。"
 
-translate chinese strings:
-
-    old "ll look them up and find "
-    new "我会帮你查，然后找到它们。"

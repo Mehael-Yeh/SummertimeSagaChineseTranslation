@@ -83,9 +83,3 @@ translate chinese strings:
     # game/src/plot/annie.rpy:5
     old "Model."
     new "模特。"
-
-    # game/src/plot/annie.rpy:8
-translate chinese strings:
-
-    old "m on hall monitoring duty... and you"
-    new "我在走廊巡逻... 和你"

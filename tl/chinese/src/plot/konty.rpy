@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/konty.rpy:9
 translate chinese konty_school_office2_misc1_6dddb91f:
@@ -216,7 +216,3 @@ translate chinese konty_school_office2_misc8_d91a992e:
     # anon "..."
     anon "..."
 
-translate chinese strings:
-
-    old "ll find it"
-    new "我会找到它的"

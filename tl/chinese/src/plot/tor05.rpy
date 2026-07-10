@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor05.rpy:12
 translate chinese tor05_intro_c8b12bb1:
@@ -2724,37 +2724,3 @@ translate chinese strings:
     old "Could you repeat that?"
     new "你能再说一遍吗？"
 
-translate chinese strings:
-
-    old "s funny... I don"
-    new "真有趣……我不"
-
-    old "m sure you don"
-    new "我肯定你不"
-
-    old "t believe she didn"
-    new "别以为她没"
-
-    old "ll work fast. Why don"
-    new "我会尽快搞定。不如"
-
-    old "t have time to start over today. You"
-    new "没时间今天重新开始了。你"
-
-    old "ll have to bring it by your office sometime. It"
-    new "改天得带到你办公室去。它"
-
-    old "m glad you"
-    new "我很高兴你"
-
-    old "m glad you think it"
-    new "很高兴你这么认为"
-
-    old "t do it while she"
-    new "别在她面前做"
-
-    old "m afraid I haven"
-    new "恐怕我还没有"
-
-    old "t leave without that DNA, who knows when I"
-    new "不留下那个DNA，谁知道我什么时候"

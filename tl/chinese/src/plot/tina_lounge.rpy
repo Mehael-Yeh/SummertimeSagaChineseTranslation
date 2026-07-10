@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tina_lounge.rpy:7
 translate chinese tina_lounge_becca_41592954:
@@ -179,7 +179,3 @@ translate chinese strings:
     old "Wrong door."
     new "走错门了。"
 
-translate chinese strings:
-
-    old "s kinda late, I probably shouldn"
-    new "有点晚了，我可能不该"

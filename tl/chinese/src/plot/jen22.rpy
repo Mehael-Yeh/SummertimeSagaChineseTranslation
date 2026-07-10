@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen22.rpy:23
 translate chinese jen22_jenny_7d5ac8bd:
@@ -354,10 +354,3 @@ translate chinese jen22_jenny_244739f4:
     # mono ""
     mono ""
 
-translate chinese strings:
-
-    old "s nice you"
-    new "很高兴你"
-
-    old "s hard to concentrate on what you"
-    new "很难集中注意力在你"

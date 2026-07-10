@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen26.rpy:8
 translate chinese jen26_intro_82a14f74:
@@ -2694,67 +2694,3 @@ translate chinese jen26_outro_rails_ee666901:
     # anon @ -m_talk "( Let's just go to bed, eh? )"
     anon @ -m_talk "(咱们就上床睡觉吧，嗯？)"
 
-translate chinese strings:
-
-    old "t even care... I"
-    new "我根本不在乎……我"
-
-    old "s well endowed...\nIt"
-    new "天赋异禀……\n它会给你一点甜头……"
-
-    old "ll throw you a bone...\nBut for tonight, dear husband, you"
-    new "但今晚，亲爱的丈夫，你\n你喜欢那样，不是吗"
-
-    old "d like that, wouldn"
-    new "我承认那看起来很糟……我不是"
-
-    old "ll admit that looks bad... I wasn"
-    new "我承认那看起来不太妙……我并不是"
-
-    old "m cumming! I"
-    new "我要射了！我"
-
-    old "t care, I"
-    new "不在乎，我"
-
-    old "s all mine and I"
-    new "全都是我的，我"
-
-    old "m really sorry if I freaked you out, I wasn"
-    new "真的很抱歉吓到你了，我不是"
-
-    old "s sorry and it won"
-    new "很抱歉，而且不会"
-
-    old "re the guy who"
-    new "你就是那个"
-
-    old "s finally dead and not a moment too soon...\nI wouldn"
-    new "终于死了，而且死得正是时候……\n我不会"
-
-    old "s all gone, isn"
-    new "都没了，不是吗"
-
-    old "s go see a cartoon movie and it"
-    new "我们去看卡通电影吧"
-
-    old "re going out in public, of course I"
-    new "我们要出门了，我当然会"
-
-    old "Cause you"
-    new "因为你"
-
-    old "d better not ever see your face again or you"
-    new "你最好再也别让我看到你的脸，否则你就"
-
-    old "re saying, you weren"
-    new "你是说，你并没有"
-
-    old "m not your fucking girlfriend, and you"
-    new "我不是你他妈的女朋友，你也"
-
-    old "ll turn into a whole thing and I"
-    new "这会变成一桩大事，我也"
-
-    old "re that prick who"
-    new "你就是那个混蛋"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_finger.rpy:2
 translate chinese jen_finger_c1d8a4d0:
@@ -574,7 +574,3 @@ translate chinese strings:
     old "Stop."
     new "停下。"
 
-translate chinese strings:
-
-    old "ll shut you up, I"
-    new "我会让你闭嘴。"

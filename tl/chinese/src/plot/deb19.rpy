@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb19.rpy:11
 translate chinese deb19_intro_83a5ecf5:
@@ -1857,19 +1857,3 @@ translate chinese strings:
     old "Sex."
     new "做爱。"
 
-translate chinese strings:
-
-    old "ve gotta keep my head here... this isn"
-    new "我得保持清醒……这不"
-
-    old "t suppose, you"
-    new "应该，你"
-
-    old "ll be there and he"
-    new "会在那里，而他"
-
-    old "s silly but I feel so much better knowing there"
-    new "虽然很傻，但知道你在那里，我感觉好多了。"
-
-    old "re just looking out for what"
-    new "你只是在为"

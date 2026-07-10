@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor_office.rpy:4
 translate chinese tor_office_69dc1585:
@@ -372,13 +372,3 @@ translate chinese tor_office_busy_7a240c2f:
     # anon "Right, I'll just leave you to it then."
     anon "好吧，那你继续忙你的吧。"
 
-translate chinese strings:
-
-    old "m not sure I"
-    new "我不确定我"
-
-    old "re going into the augmented reality, won"
-    new "要进入增强现实，会"
-
-    old "ll need to heighten pineal function and keep the subject"
-    new "需要增强松果体功能并保持对象"

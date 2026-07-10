@@ -1175,27 +1175,3 @@ translate chinese strings:
     # game/src/plot/deb14.rpy:156
     old "They're not you."
     new "她们不是你。"
-
-    # game/src/plot/deb14.rpy:159
-translate chinese strings:
-
-    old "re just confused, that"
-    new "你只是困惑而已，"
-
-    old "s the truth, isn"
-    new "这是事实，不是吗？"
-
-    old "s nothing a quick shower won"
-    new "没什么是冲个快澡解决不了的。"
-
-    old "m sure one more time won"
-    new "我确定再来一次不会"
-
-    old "s wrong but I don"
-    new "s 错了，但我不知道"
-
-    old "t think you understand what you"
-    new "我不认为你理解你自己"
-
-    old "m... uhh, glad... you"
-    new "嗯...呃，很高兴...你"

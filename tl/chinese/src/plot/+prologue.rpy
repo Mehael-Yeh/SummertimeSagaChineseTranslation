@@ -119,8 +119,3 @@ translate chinese prologue_02929702:
 
     # more "3) I have to find a date for the Sorority Ball."
     more "3) 我必须为姐妹会舞会找个约会对象。"
-
-translate chinese strings:
-
-    old "t believe he"
-    new "不相信他"

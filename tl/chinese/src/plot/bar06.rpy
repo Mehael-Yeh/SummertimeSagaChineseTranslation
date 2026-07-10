@@ -1182,25 +1182,3 @@ translate chinese bar06_office3_barb_2664e5a9:
     # anon "I'll see you there, [saga.cast.barb]."
     anon "那儿见，[saga.cast.barb]。"
 
-translate chinese strings:
-
-    old "t teach you here though. You"
-    new "不过在这里教不了你。你"
-
-    old "ll get there someday, don"
-    new "总有一天能做到的，别"
-
-    old "s extremely talented, isn"
-    new "她非常有天赋，不是吗"
-
-    old "t you go lock the door. We don"
-    new "你去把门锁上。我们不要"
-
-    old "t believe it"
-    new "简直不敢相信"
-
-    old "s one more art technique I"
-    new "这又是一项我"
-
-    old "t you come up to my office after class and I"
-    new "下课后你来我办公室一趟"

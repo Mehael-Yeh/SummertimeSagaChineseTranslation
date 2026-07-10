@@ -1148,32 +1148,3 @@ translate chinese strings:
     # game/src/plot/deb05.rpy:167
     old "You're busy."
     new "你太忙了。"
-
-translate chinese strings:
-
-    old "t worry... I"
-    new "别担心……我"
-
-    old "s alright, sweetie... there"
-    new "没事的，亲爱的……只是"
-
-    old "s just so heavy and I"
-    new "太重了，我"
-
-    old "s sweet, but really... you don"
-    new "你真好，不过真的……你不用"
-
-    old "s very sweet but you don"
-    new "很甜蜜，但你不能"
-
-    old "s fine... I"
-    new "没关系...我"
-
-    old "s not the noise, it"
-    new "不是噪音，它"
-
-    old "t for the life of me figure out why we didn"
-    new "无论如何也想不通为什么我们不"
-
-    old "t think it"
-    new "不这么认为"

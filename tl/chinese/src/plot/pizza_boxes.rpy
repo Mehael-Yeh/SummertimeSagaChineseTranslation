@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/pizza_boxes.rpy:30
 translate chinese pizza_boxes_alt1_6d9fb168:
@@ -270,10 +270,3 @@ translate chinese pizza_boxes_tony_ea5b47c4:
     # tony "Plenty more where that came from, y'hear?"
     tony "还有很多呢，听到了吗？"
 
-translate chinese strings:
-
-    old "t go spendin"
-    new "别花光"
-
-    old " and we"
-    new "和我们"

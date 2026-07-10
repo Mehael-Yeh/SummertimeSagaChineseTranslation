@@ -690,10 +690,3 @@ translate chinese ano05_outro_block_41e32a46:
     # anon @ -m_talk "( No sense wasting time sitting around the house. )"
     anon @ -m_talk "(与其坐在家里浪费时间，不如出去走走。)"
 
-translate chinese strings:
-
-    old "m sure it"
-    new "我确定它"
-
-    old "re not little kids... we don"
-    new "我们又不像小孩子了…… 我们不要"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/dia01.rpy:3
 translate chinese dia01_intro_24fc4aaf:
@@ -594,16 +594,3 @@ translate chinese dia01_outro_rails_d2c4e7a3:
     # anon e_sw -m_laugh @ -m_talk "( Keep the long and hard ones, clear the rest. Got it. )"
     anon e_sw -m_laugh @ -m_talk "(留下又长又硬的，清除其他的。明白了。)"
 
-translate chinese strings:
-
-    old "m paying you to the bank too, when you"
-    new "我也在往银行汇款，当你"
-
-    old "s okay... You"
-    new "没关系...你"
-
-    old "t you come back tomorrow, and we"
-    new "你明天再来吧，我们"
-
-    old "ll just have to pick up a new one next time I"
-    new "下次我只得再买个新的了"

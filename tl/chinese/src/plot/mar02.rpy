@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mar02.rpy:2
 translate chinese mar02_tony_3f858fd3:
@@ -168,13 +168,3 @@ translate chinese mar02_tony_8f71f543:
     # tony "Eyy, that's my guy!"
     tony "嘿，这才是我兄弟！"
 
-translate chinese strings:
-
-    old "re free, and we"
-    new "你有空的时候，我们"
-
-    old "s born, and we"
-    new "出生后，我们再"
-
-    old "t gonna leave yer ole"
-    new "不会抛下你的老"

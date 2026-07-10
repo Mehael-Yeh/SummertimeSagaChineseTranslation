@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mar_couch.rpy:9
 translate chinese mar_couch_creampie1_c84ef7d3:
@@ -1206,10 +1206,3 @@ translate chinese mar_couch_dusk2_7388e8e4:
     # maria p_sex s_8 "Pretend it's just you and me."
     maria p_sex s_8 "假装只有你和我。"
 
-translate chinese strings:
-
-    old "re awake, aren"
-    new "你醒了，是吧"
-
-    old "er real good, didn"
-    new "真的很好，没"

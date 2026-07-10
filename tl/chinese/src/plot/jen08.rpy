@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen08.rpy:4
 translate chinese jen08_intro_08ab6aed:
@@ -1884,31 +1884,3 @@ translate chinese jen08_jenny_area_5b74bc74:
     # anon "Oh, right. Will do!"
     anon "哦，好的。没问题！"
 
-translate chinese strings:
-
-    old "t even think about touching because that"
-    new "连想都别想碰，因为那"
-
-    old "t want to say, it"
-    new "我想说的是，它"
-
-    old "m currently battling a sex addiction and it"
-    new "我现在正和性瘾作斗争，它"
-
-    old "s not that big a deal, it"
-    new "那不是什么大事，它"
-
-    old "m stern with her and don"
-    new "跟她一起严厉，但不要"
-
-    old "re a little overdressed, don"
-    new "你穿得有点多，但不要"
-
-    old "m a pathetic little loser and I"
-    new "我是个可怜的小失败者，而我"
-
-    old "m really sorry for the inconvenience, ma"
-    new "真的很抱歉给您带来不便，女士"
-
-    old "ll get completely naked in front of me, but you won"
-    new "你会在我面前完全脱光，但你不会"

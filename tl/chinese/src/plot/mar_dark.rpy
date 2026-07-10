@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mar_dark.rpy:2
 translate chinese mar_dark_tony_58e48dee:
@@ -2214,58 +2214,3 @@ translate chinese strings:
     old "Threeway?"
     new "3P？"
 
-translate chinese strings:
-
-    old "t know if I"
-    new "不知道我"
-
-    old "s it, darlin"
-    new "就这样，亲爱的"
-
-    old "m sorry darlin"
-    new "对不起，亲爱的"
-
-    old "t be talkin"
-    new "别说话"
-
-    old "s okay, isn"
-    new "没关系，不是吗"
-
-    old "re so damn tight back here, darlin"
-    new "你这后面可真紧啊，亲爱的"
-
-    old "Ay, don"
-    new "喂，别"
-
-    old "m running outta ideas here, darlin"
-    new "我这儿快没辙了，亲爱的"
-
-    old "t wanna snap the kid"
-    new "不想弄伤这孩子"
-
-    old "d rather pull out, that"
-    new "我宁愿抽出来，那"
-
-    old "re tryin"
-    new "你在尝试"
-
-    old "re alright, ain"
-    new "你没事，不是吗"
-
-    old "ve really awoken somethin"
-    new "你真是唤醒了我"
-
-    old " good, darlin"
-    new "感觉真好，亲爱的"
-
-    old " sexy, darlin"
-    new "真性感，亲爱的"
-
-    old "s gonna be seein"
-    new "马上就会看到"
-
-    old "s that feel, darlin"
-    new "那就是感觉，亲爱的"
-
-    old "m trying... I"
-    new "我正试着... 我"

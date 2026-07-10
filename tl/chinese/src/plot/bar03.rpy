@@ -1854,34 +1854,3 @@ translate chinese bar03_art2_rails_de1afe64:
     # anon @ -m_talk "( I should hurry back to art class with these magazines. )"
     anon @ -m_talk "(我该快点带着这些杂志回美术课了。)"
 
-translate chinese strings:
-
-    old "s a thick one, isn"
-    new "这根可真粗，对吧？"
-
-    old "s lived such an adventurous life, and she"
-    new "她过着如此冒险的生活，而且她"
-
-    old "s so juicy looking... Don"
-    new "看起来这么多汁……别"
-
-    old "t think you"
-    new "你以为你"
-
-    old "s being very forward with me, don"
-    new "她对我这么主动，别"
-
-    old "re out of luck I"
-    new "你运气不好"
-
-    old "ve got just about everything we need right here. We"
-    new "我们这里基本上已经应有尽有了。"
-
-    old "m just hoping it isn"
-    new "我只是希望不是"
-
-    old "s something you"
-    new "某物是你"
-
-    old "ll definitely need more than this but it"
-    new "肯定不止这些，但确实需要更多。"

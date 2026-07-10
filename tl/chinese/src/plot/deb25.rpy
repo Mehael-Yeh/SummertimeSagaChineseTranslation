@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb25.rpy:9
 translate chinese deb25_intro_b932bb93:
@@ -2568,22 +2568,3 @@ translate chinese deb25_outro_93787286:
     # anon e_w @ -m_talk "( For both of us. )"
     anon e_w @ -m_talk "(为我们俩好。)"
 
-translate chinese strings:
-
-    old "m {i}so{/i} in love with my tenant"
-    new "我{i}如此{/i}迷恋我的房客"
-
-    old "m sure he wouldn"
-    new "我确定他也不会"
-
-    old "s nothing in there that can help with these urges I"
-    new "里面没有任何东西能帮助我缓解这些冲动"
-
-    old "t know how but I"
-    new "我不知道怎么做，但我"
-
-    old "m pretty sure my headspace hasn"
-    new "我很确定我的心态没有"
-
-    old "mon... C"
-    new "拜托…… C"

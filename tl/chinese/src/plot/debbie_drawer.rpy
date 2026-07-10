@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/debbie_drawer.rpy:8
 translate chinese debbie_drawer_dark_fd8b7fa2:
@@ -18,7 +18,3 @@ translate chinese debbie_drawer_near_d9bfab99:
     # anon @ -m_talk "( C'mon, man... use your head! )"
     anon @ -m_talk "(拜托，老兄……用用你的脑子！)"
 
-translate chinese strings:
-
-    old "t go rooting around in her panty drawer while she"
-    new "不要在她不在的时候翻她的内裤抽屉。"

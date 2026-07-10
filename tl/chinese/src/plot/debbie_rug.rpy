@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/debbie_rug.rpy:6
 translate chinese debbie_rug_alt_f7897854:
@@ -402,7 +402,3 @@ translate chinese debbie_rug_sleep_0f9f4bc5:
     # anon "( ... Not at all like the bitchzilla she really is! )"
     anon "(……一点也不像她真正的泼妇样！)"
 
-translate chinese strings:
-
-    old "t interrupt her while she"
-    new "t 打断她的话时她"

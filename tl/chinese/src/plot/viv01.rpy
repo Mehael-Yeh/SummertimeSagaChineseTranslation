@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/viv01.rpy:6
 translate chinese viv01_intro_6cc4fbef:
@@ -1314,31 +1314,3 @@ translate chinese strings:
     old "Insufficient {color=e40002}STR{/color}."
     new "{color=e40002}STR{/color}不足。"
 
-translate chinese strings:
-
-    old "m lucky you"
-    new "我真幸运你"
-
-    old "ll be really careful and you won"
-    new "我会非常小心的，你不会"
-
-    old "ll have to order a new one but it"
-    new "得订一个新的，但它"
-
-    old "re failing right now, aren"
-    new "你现在搞砸了，对吧"
-
-    old "s more likely she"
-    new "她更有可能"
-
-    old "s missing a few pages but hopefully it"
-    new "她缺了几页，但希望它"
-
-    old "m pretty desperate. I"
-    new "我非常绝望。"
-
-    old "m afraid I"
-    new "我恐怕得说"
-
-    old "m already doing pretty well, so it"
-    new "我已经做得相当不错了，所以它"

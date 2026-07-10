@@ -473,20 +473,3 @@ translate chinese strings:
     # game/src/plot/ano14.rpy:170
     old "[saga.cast.maria] moderate affection points +[renpy.random.randint(10, 2000)]!"
     new "[saga.cast.maria] 好感度 +[renpy.random.randint(10, 2000)]！"
-
-translate chinese strings:
-
-    old "m keeping up with orders for now, and it"
-    new "目前还能应付订单，"
-
-    old "s tough, but so am I, and he"
-    new "虽然不容易，但我也很强，"
-
-    old "s doin"
-    new "他正在努力，"
-
-    old "ll look after the place while I"
-    new "我会照看店里的，"
-
-    old "s never a day when pizzas don"
-    new "没有一天不卖披萨的"

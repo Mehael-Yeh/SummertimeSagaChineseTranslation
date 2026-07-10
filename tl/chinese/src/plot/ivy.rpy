@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/ivy.rpy:24
 translate chinese ivy_toy_shop_intro1_3a811524:
@@ -100,7 +100,3 @@ translate chinese strings:
     old "Just shopping."
     new "只是逛逛。"
 
-translate chinese strings:
-
-    old "s okay! I understand! Everyone"
-    new "没关系！我理解！大家"

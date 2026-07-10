@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen25.rpy:4
 translate chinese jen25_lobby_c2012ad9:
@@ -384,7 +384,3 @@ translate chinese jen25_jenny_rails_aa460c27:
     # anon f_worried @ -m_talk "( Even though we both know she's going to say no. )"
     anon f_worried @ -m_talk "( 尽管我们都知道她会拒绝。 )"
 
-translate chinese strings:
-
-    old "s some pervert spying on me and you"
-    new "某个变态在偷窥我和你"

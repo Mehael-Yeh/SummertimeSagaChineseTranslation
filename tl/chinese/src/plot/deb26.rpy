@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb26.rpy:6
 translate chinese deb26_intro_b4fb69d5:
@@ -5126,61 +5126,3 @@ translate chinese strings:
     old "Let [saga.cast.debbie] decide."
     new "让[saga.cast.debbie]决定。"
 
-translate chinese strings:
-
-    old "s a lot we still need to discuss and I can"
-    new "我们还有很多事情需要讨论，而我"
-
-    old "s only right that I pamper you a bit and I"
-    new "宠你一下是应该的，我"
-
-    old "m just saying, it"
-    new "我只是说，这"
-
-    old "s way out of her price range and she was adamant that I shouldn"
-    new "这远超她的预算，她坚持要我不要"
-
-    old "m glad I don"
-    new "我很高兴我没有"
-
-    old "m kinda in the mood for sushi but I don"
-    new "我有点想吃寿司，但我不"
-
-    old "ve got some sencha for you, but be careful, it"
-    new "我给你准备了煎茶，但小心，它"
-
-    old "re supposed to pretend I"
-    new "我本该假装"
-
-    old "t know where we"
-    new "知道我们在哪里"
-
-    old "ve not told me where we"
-    new "没告诉我我们在哪里"
-
-    old "s what we"
-    new "这就是我们"
-
-    old "s just, your landlady isn"
-    new "只是，你的女房东不"
-
-    old "s go check on her and see how she"
-    new "我们去看看她，看看她怎么样了"
-
-    old "s been a very long time since anyone"
-    new "很久没有人"
-
-    old "re not just her tenant anymore, you"
-    new "你不再只是她的房客了"
-
-    old "t you go take a seat and I"
-    new "你何不坐下，我来"
-
-    old "s a beautiful morning and we"
-    new "美好的早晨，我们"
-
-    old "s {i}my{/i} future we"
-    new "s{i}我{/i}的未来我们"
-
-    old "m certain she"
-    new "m确定她"

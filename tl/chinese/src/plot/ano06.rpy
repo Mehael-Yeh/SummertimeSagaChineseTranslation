@@ -1974,31 +1974,3 @@ translate chinese ano06_outro_block_a8570724:
     # anon f_pouty @ -m_talk "( [saga.cast.jenny]'s reaction probably didn't help either. )"
     anon f_pouty @ -m_talk "([saga.cast.jenny]的反应大概也没帮上什么忙。)"
 
-translate chinese strings:
-
-    old "t you swing by some time, and we"
-    new "你不妨改天过来，我们"
-
-    old "t know what we"
-    new "我们知道我们"
-
-    old "ll snuff out your entire family, and they won"
-    new "会灭你满门，而且他们不会"
-
-    old "s reaction probably didn"
-    new "你的反应可能没"
-
-    old "ll still be capable of feedin"
-    new "仍然能喂养"
-
-    old "ll make you corpse if you don"
-    new "如果你不照办，我就让你变成尸体"
-
-    old "s with that tattoo you"
-    new "你那个纹身"
-
-    old "t worry about the tattoo... it"
-    new "别担心纹身……它"
-
-    old "ve seen things that would make you curl up in a ball and cry "
-    new "我见过的事情会让你蜷缩成一团哭泣"

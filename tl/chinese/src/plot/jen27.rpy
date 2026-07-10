@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen27.rpy:4
 translate chinese jen27_intro_15402cd3:
@@ -384,13 +384,3 @@ translate chinese jen27_kitchen_rails_5c0a9112:
     # anon @ -m_talk "( I should head down to breakfast and speak with [saga.cast.jenny]. )"
     anon @ -m_talk "(我应该下楼去吃早餐，和[saga.cast.jenny]谈谈。)"
 
-translate chinese strings:
-
-    old "re welcome to stay here at home forever, so far as I"
-    new "欢迎你永远待在家里，只要我"
-
-    old "t you two go have a seat at the table and I"
-    new "你们两个先到桌边坐下，我"
-
-    old "re having phenomenal sex and making great money, why can"
-    new "享受着绝妙的性爱，赚着大把的钱，为什么不能"

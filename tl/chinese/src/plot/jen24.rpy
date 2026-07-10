@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen24.rpy:10
 translate chinese jen24_intro_6c925435:
@@ -1996,25 +1996,3 @@ translate chinese strings:
     old "Let her have this."
     new "让她拥有这个。"
 
-translate chinese strings:
-
-    old "m thinking I won"
-    new "我在想我不会"
-
-    old "d better head down to breakfast and see what she"
-    new "最好下楼吃早餐，看看她"
-
-    old "re only plastic, I"
-    new "只是塑料，我"
-
-    old "re going to do while she"
-    new "当她在的时候要做的事"
-
-    old "re lucky my fans like your big cock, otherwise I"
-    new "幸运的是我的粉丝喜欢你的大鸡巴，否则我"
-
-    old "s difficult when I"
-    new "当我感到困难时"
-
-    old "ll go get it right now, just remind me where it"
-    new "我现在就去拿，只要提醒我在哪里"

@@ -89,8 +89,3 @@ translate chinese anon_pc_work_fcfcacfa:
 
     # anon "( I have no homework to do right now. )"
     anon "(我现在没有作业要做。)"
-
-translate chinese strings:
-
-    old "s no time like the present. Hope this isn"
-    new "没有比现在更好的时机了。希望这不是"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/titomi.rpy:21
 translate chinese titomi_sushi_shop_home_6814990f:
@@ -353,12 +353,4 @@ translate chinese titomi_sushi_shop_venue_9ac806c2:
 
     # anon "Sorry."
     anon "抱歉。"
-
-translate chinese strings:
-
-    old "ve got a waitress outfit on, don"
-    new "我穿着女服务员的制服，不是吗？"
-
-    old "ve gotta carry steaming hot dishes through here and I"
-    new "我得端着滚烫的菜从这里经过。"
 

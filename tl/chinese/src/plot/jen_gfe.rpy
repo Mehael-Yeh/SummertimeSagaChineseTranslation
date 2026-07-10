@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_gfe.rpy:4
 translate chinese jen_gfe_ready_289a45f5:
@@ -2194,31 +2194,3 @@ translate chinese strings:
     old "Stay in."
     new "待在家里。"
 
-translate chinese strings:
-
-    old "t be dating you if I didn"
-    new "如果我不喜欢你，就不会和你约会。"
-
-    old "s too stubborn to ever admit it. That"
-    new "他太固执了，从不承认这一点。"
-
-    old "m the one paying money for this... don"
-    new "我才是付钱的人……别误会，"
-
-    old "t get me wrong, it"
-    new "是Courtney，你可能觉得她很有趣，"
-
-    old "s Courtney and you probably think she"
-    new "柯特妮，而且你可能觉得她"
-
-    old "s really funny, you"
-    new "真的很有趣，你"
-
-    old "re saying and you"
-    new "你在说，而你"
-
-    old "m really happy you"
-    new "我真的很高兴你"
-
-    old "m pretty sure that I"
-    new "我很确定我"

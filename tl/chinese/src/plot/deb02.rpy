@@ -441,7 +441,3 @@ translate chinese strings:
     old "Fuzz."
     new "绒毛。"
 
-translate chinese strings:
-
-    old "s this one here that"
-    new "就是这里的这个"

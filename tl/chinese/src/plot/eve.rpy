@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/eve.rpy:49
 translate chinese eve_school_french_intro1_af9c33b8:
@@ -272,7 +272,3 @@ translate chinese strings:
     old "Adhesive."
     new "胶粘剂。"
 
-translate chinese strings:
-
-    old "s so boring when you"
-    new "你不在的时候太"

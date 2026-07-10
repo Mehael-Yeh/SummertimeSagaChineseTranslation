@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/dia02.rpy:5
 translate chinese dia02_diane_af1a0dd3:
@@ -834,13 +834,3 @@ translate chinese dia02_retry_067ebebd:
     # diane "... I'm afraid it's too much for my poor back."
     diane "……恐怕我这可怜的腰实在搬不动。"
 
-translate chinese strings:
-
-    old "s fine. You"
-    new "没关系。你"
-
-    old "t! You aren"
-    new "不行！你不"
-
-    old "m just tired today, that"
-    new "我今天只是累了，就这样。"

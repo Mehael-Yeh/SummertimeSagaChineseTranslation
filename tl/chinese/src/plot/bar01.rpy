@@ -660,16 +660,3 @@ translate chinese bar01_clay_rails_bf3ebc03:
     # anon @ -m_talk "( [saga.cast.barb] wants me to grab a slab of clay and take my seat. )"
     anon @ -m_talk "([saga.cast.barb]要我去拿一块泥板并坐下。)"
 
-translate chinese strings:
-
-    old "s certainly very... Gifted. Isn"
-    new "这确实非常……有天赋。不是吗？"
-
-    old "t know! Whatever this stuff is, it"
-    new "不知道！不管这东西是什么，它"
-
-    old "re the most talented student I"
-    new "是我最有才华的学生。"
-
-    old "t give you what I don"
-    new "我不能给你我没有的东西。"

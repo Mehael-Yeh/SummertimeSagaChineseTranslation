@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/debbie.rpy:3
 translate chinese debbie_debbie_bed1_bebdc4ad:
@@ -1274,19 +1274,3 @@ translate chinese strings:
     old "Swim."
     new "游泳。"
 
-translate chinese strings:
-
-    old "m sure they wouldn"
-    new "我确定他们不会。"
-
-    old "m certain you"
-    new "我确定你"
-
-    old "t bother her when she"
-    new "不要打扰她，当她"
-
-    old "t fall too far behind, what with all that"
-    new "不要落后太多，鉴于所有那些"
-
-    old "s a good thing you"
-    new "你真好，"

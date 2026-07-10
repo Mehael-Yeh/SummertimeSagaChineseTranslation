@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/debbie_tv.rpy:7
 translate chinese debbie_tv_auth_c15c7b2f:
@@ -256,10 +256,3 @@ translate chinese strings:
     old "Maybe later."
     new "也许以后再说。"
 
-translate chinese strings:
-
-    old "ll work, it"
-    new "会管用的，它"
-
-    old "s see what"
-    new "看看有什么"

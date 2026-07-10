@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mar_kitchen.rpy:3
 translate chinese mar_kitchen_c9eeb784:
@@ -228,13 +228,3 @@ translate chinese mar_kitchen_e8eb27be:
     # maria b_anon p_sex_06 "[saga.cast.anon], I swear to gawd, if you don't-"
     maria b_anon p_sex_06 "[saga.cast.anon]，我向上帝发誓，你要是再不——"
 
-translate chinese strings:
-
-    old "t want no customers wanderin"
-    new "不想有顾客闲逛"
-
-    old "m jus"
-    new "我只是"
-
-    old "t keep me waitin"
-    new "别让我等着。"

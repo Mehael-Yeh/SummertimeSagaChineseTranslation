@@ -912,20 +912,3 @@ translate chinese deb_island_creampie_503a2e90:
     # debbie a_embarrassed f_calm "Heh, you're such a sweet boy."
     debbie a_embarrassed f_calm "呵呵，你真是个乖乖boy。"
 
-translate chinese strings:
-
-    # game/src/plot/deb_island.rpy:167
-    old "Eat that pussy."
-    new "好好舔那个小穴。"
-
-    # game/src/plot/deb_island.rpy:170
-    old "Pound that pussy."
-    new "用力干那个小穴。"
-
-translate chinese strings:
-
-    old "t you go rest for a bit and I"
-    new "你先去休息一会儿，我"
-
-    old "d love nothing more but I"
-    new "我巴不得，但"

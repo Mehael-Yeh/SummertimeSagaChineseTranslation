@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen18.rpy:6
 translate chinese jen18_setup_jenny_d4066efc:
@@ -1080,13 +1080,3 @@ translate chinese jen18_outro_bed2_1fc36ce4:
     # anon @ -m_talk "( ... I should probably leave her be. )"
     anon @ -m_talk "(...我最好还是别去惹她。)"
 
-translate chinese strings:
-
-    old "s his first time on camera for fuck"
-    new "这是他第一次在镜头前操逼"
-
-    old "mon, don"
-    new "别这样，操"
-
-    old "mon, big guy... It"
-    new "别这样，大个子... 它"

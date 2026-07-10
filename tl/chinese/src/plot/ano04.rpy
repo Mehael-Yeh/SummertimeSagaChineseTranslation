@@ -258,10 +258,3 @@ translate chinese ano04_tammy_93e5e9e3:
     # tammy "I'll do that! You two take care of each other now, you hear?"
     tammy "我会的！你们俩要好好照顾彼此，听到了吗？"
 
-translate chinese strings:
-
-    old "s feeling. It"
-    new "的感觉。这也"
-
-    old "s helping him come out of his shell too! So it"
-    new "帮他走出自己的壳了！所以这也"

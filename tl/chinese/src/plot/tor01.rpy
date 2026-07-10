@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor01.rpy:5
 translate chinese tor01_intro_7b8250e9:
@@ -2148,22 +2148,3 @@ translate chinese tor01_redux_tori_6c533610:
     # anon f_confused @ -m_talk "( I guess... I'll just check back later then. )"
     anon f_confused @ -m_talk "(我想……那我待会儿再来看看吧。)"
 
-translate chinese strings:
-
-    old "d become so concerned with advancing the science that I"
-    new "我太专注于推进科学，以至于"
-
-    old "re in my office, why don"
-    new "我在办公室，不如"
-
-    old "s not alright! I"
-    new "这不对劲！我"
-
-    old "t touch anything that"
-    new "不要碰任何东西"
-
-    old "t you start with that and I"
-    new "你先从那个开始，我就"
-
-    old "t be foolish. This is a good deal! If you get the blueprints out of my office, help me build what"
-    new "别犯傻了。这笔交易很划算！如果你从我的办公室拿到蓝图，帮我建造"

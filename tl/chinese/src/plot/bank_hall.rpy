@@ -12,7 +12,3 @@ translate chinese bank_hall_self_c4039bd4:
     # anon @ -m_talk "( It's employees only, I'll get in trouble. )"
     anon @ -m_talk "( 那里只允许员工进入，我会惹上麻烦的。)"
 
-translate chinese strings:
-
-    old "s employees only, I"
-    new "那里只允许员工进入，我会"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jos01.rpy:4
 translate chinese jos01_intro_a7e5acf3:
@@ -2356,52 +2356,3 @@ translate chinese strings:
     old "Woah, cool sword!"
     new "哇，酷毙了的剑！"
 
-translate chinese strings:
-
-    old "t worry, he"
-    new "别担心，他"
-
-    old "m sorry but it"
-    new "对不起，但它"
-
-    old "m working on it, didn"
-    new "我正在努力，还没有"
-
-    old "ll give it back to her once she"
-    new "一旦她，我就会把它还给她"
-
-    old "s what you"
-    new "这就是你"
-
-    old "d make an exception because, like, oh my god, they"
-    new "应该破个例，因为，天哪，他们"
-
-    old "t even make sense... I"
-    new "根本说不通……我"
-
-    old "t do that if they have... men"
-    new "如果他们那里有……男人，就不会那么做"
-
-    old "s my daughter"
-    new "这是我的女儿"
-
-    old "ll be damned if I"
-    new "如果我他妈的不"
-
-    old "ve been working this delivery job at Tony"
-    new "我一直在[saga.cast.tony]那里干这份送货的活儿"
-
-    old "ll kick me out if I quit, and there"
-    new "要是我辞职，他会把我赶出去"
-
-    old "t get those T-straps, I"
-    new "而且拿不到那些T型绑带"
-
-    old "s got Hattori Hanzō"
-    new "他有服部半藏"
-
-    old "ll come back when they"
-    new "等他们回来我再"
-
-    old "m not really looking to buy at the moment and even if I was, I"
-    new "我现在不太想买，就算我想买，我也"

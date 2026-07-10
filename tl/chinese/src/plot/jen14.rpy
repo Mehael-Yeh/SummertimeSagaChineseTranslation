@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen14.rpy:9
 translate chinese jen14_dining_787aa86b:
@@ -1104,16 +1104,3 @@ translate chinese jen14_jenny_8954e945:
     # anon @ -m_talk "( I should probably give her space until she calms down. )"
     anon @ -m_talk "(我可能应该给她空间，直到她冷静下来。)"
 
-translate chinese strings:
-
-    old "s still better than that cereal you"
-    new "那还是比你带的那种麦片强"
-
-    old "ll bring you a plate as soon as it"
-    new "我一准备好就给你端一盘"
-
-    old "ve been trying, he won"
-    new "我一直在努力，但他不肯"
-
-    old "s what you said you"
-    new "这就是你说的话"

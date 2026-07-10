@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/viv03.rpy:13
 translate chinese viv03_french_df684ec0:
@@ -2118,22 +2118,3 @@ translate chinese viv03_outro_office1_980c8dd5:
     # anon @ -m_talk "( ... Let's get out of here. )"
     anon @ -m_talk "(……我们离开这里吧。)"
 
-translate chinese strings:
-
-    old "m sorry!!\" (show_lang=\"D"
-    new "对不起！！"
-
-    old "s lucky I don"
-    new "算你走运我不"
-
-    old "ve gotta get home, I"
-    new "我得回家了，我"
-
-    old "t kidding, it"
-    new "开玩笑的，它"
-
-    old "re lucky I don"
-    new "算你走运我不"
-
-    old "s certainly {i}a{/i} book here, let"
-    new "这里确实{i}有{/i}一本书"

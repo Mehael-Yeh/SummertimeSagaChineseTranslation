@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor02.rpy:5
 translate chinese tor02_intro_fa698c47:
@@ -2826,37 +2826,3 @@ translate chinese tor02_outro_block_b087c479:
     # anon f_calm @ -m_talk "( Let's find literally anything else to do. )"
     anon f_calm @ -m_talk "(我们去找点别的事做吧。)"
 
-translate chinese strings:
-
-    old "t think that"
-    new "我觉得不是这样。"
-
-    old "s alright. I"
-    new "没关系。我"
-
-    old "t. You"
-    new "你。"
-
-    old "s also a good thing, "
-    new "也是件好事，"
-
-    old "s true that as scientists, we must be willing to sacrifice in the name of humankind"
-    new "诚然，作为科学家，我们必须愿意为人类之名做出牺牲"
-
-    old "s just focus on building it, and once it"
-    new "我们专注于建造它，一旦它"
-
-    old "m ready, let"
-    new "准备好了，我们"
-
-    old "s alright, I don"
-    new "没关系，我不"
-
-    old "re going to steal the Principal"
-    new "你要偷校长的？"
-
-    old "re boyfriend and girlfriend, and then I"
-    new "关于男女朋友，然后我"
-
-    old "Cause it"
-    new "因为"

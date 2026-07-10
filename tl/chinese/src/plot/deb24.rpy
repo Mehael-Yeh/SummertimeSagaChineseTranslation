@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb24.rpy:3
 translate chinese deb24_yard_0318c83c:
@@ -2052,28 +2052,3 @@ translate chinese deb24_outro_block_b5ae5ffc:
     # anon f_worried_surprised @ -m_talk "( I have to respect her wishes... otherwise I could blow our entire arrangement. )"
     anon f_worried_surprised @ -m_talk "(我必须尊重她的意愿……否则我可能会毁了我们整个约定。)"
 
-translate chinese strings:
-
-    old "t turn around. Please don"
-    new "不要转身。请不要"
-
-    old "ve given him a taste and now he"
-    new "我已经让他尝到了甜头，现在他"
-
-    old "s my tenant, and it wouldn"
-    new "是我的房客，这不会"
-
-    old "ve not forgotten... It"
-    new "我还没忘……"
-
-    old "s nothing that says women in their forties can"
-    new "四十岁的女人没什么不可以"
-
-    old "ve got a sexy young stud ruttin"
-    new "我有个性感的娃娃脸在操"
-
-    old "mon, I know you couldn"
-    new "拜托，我知道你不可能"
-
-    old "d best look around and make sure she"
-    new "最好四处看看，确认她"

@@ -1328,19 +1328,3 @@ translate chinese strings:
     old "Shamelessly pose!"
     new "无耻地摆姿势！"
 
-translate chinese strings:
-
-    old "s what he"
-    new "是他"
-
-    old "m sorry, it"
-    new "对不起，我"
-
-    old "s good you"
-    new "你很好"
-
-    old "t play dumb... I see what you"
-    new "你装傻……我明白你"
-
-    old "t know at what point she arrived and started watching, but I got the feeling it"
-    new "我不知道她什么时候到的，什么时候开始看的，但我感觉到它"

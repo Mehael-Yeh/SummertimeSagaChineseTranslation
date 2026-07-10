@@ -3160,28 +3160,3 @@ translate chinese strings:
     old "Analingus."
     new "舔肛。"
 
-translate chinese strings:
-
-    old "s too much, I can"
-    new "我受不了了，"
-
-    old "s a shame I"
-    new "真可惜我"
-
-    old "re in the shower, it"
-    new "在淋浴间里，"
-
-    old "ll fix it when I"
-    new "我会修好它，当我"
-
-    old "t worry, sweetie... I"
-    new "别担心，亲爱的……我"
-
-    old "s get cleaned up quickly and I"
-    new "我们快点清理干净，然后我"
-
-    old "t so late I"
-    new "太晚了，我"
-
-    old "s just your imagination talking... I don"
-    new "只是你的错觉在作祟……我不"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tammy_bed2_scope.rpy:11
 translate chinese tammy_bed2_scope_empty_e1a3b0f8:
@@ -162,7 +162,3 @@ translate chinese tammy_bed2_scope_tammy2_bd3c96d9:
     # anon "( What a sight... )"
     anon "(真是壮观...)"
 
-translate chinese strings:
-
-    old "re kissing on the mouth!? That"
-    new "接吻了！？居然"

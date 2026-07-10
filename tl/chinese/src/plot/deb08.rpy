@@ -2266,38 +2266,3 @@ translate chinese strings:
     # game/src/plot/deb08.rpy:592
     old "I got this."
     new "我来处理。"
-
-translate chinese strings:
-
-    old "ll be nice to spend the day together, don"
-    new "一起度过这一天会很好，不是吗？"
-
-    old "re saving all your money up for next years tuition and that"
-    new "把所有的钱都攒下来交明年的学费"
-
-    old "m sure there are things you"
-    new "我肯定有些事情你"
-
-    old "ll bet you know {i}all{/i} the secrets when it comes to holding a woman"
-    new "我敢打赌，在取悦女人这方面你肯定{i}全都{/i}知道。"
-
-    old "s your roommate, you shouldn"
-    new "那是你的室友，你不应该"
-
-    old "s called a women"
-    new "那叫女人"
-
-    old "re a size sixteen I"
-    new "你是16码，我"
-
-    old "s okay, sweetheart! There"
-    new "没关系，亲爱的！这"
-
-    old "s alright, sweetie... it"
-    new "没事的，亲爱的...这"
-
-    old "m really sorry about earlier, I didn"
-    new "真的很抱歉刚才的事，我不是"
-
-    old "s my fault, I shouldn"
-    new "是我的错，我不应该"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tin_vault.rpy:5
 translate chinese tin_vault_tina_1c267275:
@@ -1225,13 +1225,3 @@ translate chinese strings:
     old "Is there somewhere quiet we could go?"
     new "有没有安静的地方我们能去？"
 
-translate chinese strings:
-
-    old "t the one who"
-    new "不是那个人"
-
-    old "m sorry... I just wasn"
-    new "对不起...我只是没"
-
-    old "mon, babyface... you think I"
-    new "来吧，宝贝...你觉得我"

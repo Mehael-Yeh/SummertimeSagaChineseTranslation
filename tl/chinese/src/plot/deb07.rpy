@@ -845,20 +845,3 @@ translate chinese deb07_outro_block_48884ea3:
 
     # anon a_uneasy of_blush @ -m_talk "( No reason to make things even more awkward. )"
     anon a_uneasy of_blush @ -m_talk "(没必要让事情变得更尴尬。)"
-
-translate chinese strings:
-
-    old "ll go get situated and you just come join me when you"
-    new "我去安顿一下，你等会儿过来找我就行。"
-
-    old "ll admit, the film wasn"
-    new "我承认，这部电影并不"
-
-    old "s okay! Nothing I haven"
-    new "还行！没什么我没"
-
-    old "t decided yet... I"
-    new "还没决定……我"
-
-    old "m just straight up popping boners right between my landlady"
-    new "我对着女房东硬得不行。"

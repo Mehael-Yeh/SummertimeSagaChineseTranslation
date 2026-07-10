@@ -1996,7 +1996,7 @@ translate chinese strings:
 
     # game/src/plot/deb_laundry.rpy:439
     old "Cum"
-    new "高潮"
+    new "射精"
 
     old "Continue"
     new "继续"

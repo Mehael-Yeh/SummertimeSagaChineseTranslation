@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen23.rpy:4
 translate chinese jen23_intro_cbddd005:
@@ -1236,16 +1236,3 @@ translate chinese jen23_scope_alt_6af74dda:
     # jenny "Phew, yeah... Alright, that was pretty good."
     jenny "呼，好多了……行，刚才还挺不错的。"
 
-translate chinese strings:
-
-    old "s nothing you haven"
-    new "没什么你没"
-
-    old "s putting on a show for you and you"
-    new "为你表演，而你"
-
-    old "t that your friend"
-    new "那是你的朋友"
-
-    old "s getting and you"
-    new "得到，而你"

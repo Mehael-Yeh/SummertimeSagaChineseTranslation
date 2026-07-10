@@ -1771,16 +1771,3 @@ translate chinese strings:
     old "Not tonight, [saga.cast.debbie]."
     new "今晚不行，[saga.cast.debbie]。"
 
-translate chinese strings:
-
-    old "s just been a long day, that"
-    new "只是今天太长了，"
-
-    old "s probably because my tenant"
-    new "可能是因为我的房客"
-
-    old "s the baby... I don"
-    new "是宝宝……我不知道"
-
-    old "t know what I"
-    new "我不知道我"

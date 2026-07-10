@@ -396,13 +396,3 @@ translate chinese deb17_visit_9bea31bf:
     # anon a_up e_b f_calm p_bed3_visit @ -m_talk "Zzz."
     anon a_up e_b f_calm p_bed3_visit @ -m_talk "Zzz。"
 
-translate chinese strings:
-
-    old "s just been so long since I"
-    new "已经过去这么久了我"
-
-    old "s one thing for him to be having them.... he"
-    new "他做这种事是一回事……他"
-
-    old "re doing together, it"
-    new "我们一起做的"

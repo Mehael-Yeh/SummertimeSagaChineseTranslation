@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen04.rpy:4
 translate chinese jen04_landing_eb780b0f:
@@ -378,7 +378,3 @@ translate chinese jen04_outro_block_d5c9da80:
     # anon f_worried_surprised @ -m_talk "( Not too keen to take another beating from that hairdryer. )"
     anon f_worried_surprised @ -m_talk "( 我可不想再被那吹风机暴打一顿。 )"
 
-translate chinese strings:
-
-    old "re out of your mind if you think I"
-    new "你疯了，要是你觉得我"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor04.rpy:6
 translate chinese tor04_setup_tori_b0487d53:
@@ -624,13 +624,3 @@ translate chinese tor04_outro_block_f570566b:
     # anon @ -m_talk "( I should let her rest for now. )"
     anon @ -m_talk "(现在应该让她休息一下。)"
 
-translate chinese strings:
-
-    old "ve narrowed the problem down to a few possibilities. Bring me the remote off my desk and I"
-    new "我已经把问题缩小到几种可能。把我桌上的遥控器拿来，我就"
-
-    old "t the slightest clue what you"
-    new "你一点线索都没有"
-
-    old "s any to be found, you"
-    new "如果有任何发现的话，你"

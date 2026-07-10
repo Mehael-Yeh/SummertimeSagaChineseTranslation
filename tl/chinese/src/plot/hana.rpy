@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/hana.rpy:24
 translate chinese hana_sushi_shop_intro1_ede0211f:
@@ -354,7 +354,3 @@ translate chinese strings:
     old "Menu."
     new "菜单。"
 
-translate chinese strings:
-
-    old "m going to bring a date here, I"
-    new "我要带个约会对象来这里，我"

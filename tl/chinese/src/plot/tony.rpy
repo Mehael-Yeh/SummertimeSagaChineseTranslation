@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tony.rpy:29
 translate chinese tony_maria_lounge_intro1_236d9437:
@@ -349,25 +349,3 @@ translate chinese strings:
     new "车辆。"
 
     # game/src/plot/tony.rpy:148
-translate chinese strings:
-
-    old "t forget about that bike, y"
-    new "别忘了那辆自行车，"
-
-    old " done this mornin"
-    new "今天早上做完的"
-
-    old "s a peach, ain"
-    new "这是一个桃子，不是吗"
-
-    old "Ey, there"
-    new "嘿，那边"
-
-    old "Ey, how you doin"
-    new "嘿，你好吗"
-
-    old "t much needs doin"
-    new "没什么好做的"
-
-    old "m just straightenin"
-    new "我只是在整理"

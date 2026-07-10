@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen05.rpy:11
 translate chinese jen05_jenny_952ff40e:
@@ -780,13 +780,3 @@ translate chinese strings:
     old "Try again."
     new "再试一次。"
 
-translate chinese strings:
-
-    old "ve had this account active for a couple weeks now, and I"
-    new "这个账号我已经活跃了几个星期了，而且"
-
-    old "re awfully full of yourself, aren"
-    new "你真够自恋的，不是吗"
-
-    old "s perfect, I"
-    new "完美"

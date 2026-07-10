@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen07.rpy:8
 translate chinese jen07_intro_bed2_30ecdd03:
@@ -1062,16 +1062,3 @@ translate chinese jen07_jenny_df08939c:
     # jenny f_annoyed "I dunno, do you have two hundred dollars?"
     jenny f_annoyed "不知道，你有两百美元吗？"
 
-translate chinese strings:
-
-    old "t pretend like you don"
-    new "别装得好像你不"
-
-    old "m hot and those porno skanks aren"
-    new "我性感火辣，而那些色情贱货不"
-
-    old "t the hottest pair of tits you"
-    new "这对奶子可是最性感的了"
-
-    old "m letting you touch them for anything less than two hundred, you"
-    new "少于两百块你别想碰它们"

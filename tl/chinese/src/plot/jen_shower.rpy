@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_shower.rpy:7
 translate chinese jen_shower_6612eea1:
@@ -1960,19 +1960,3 @@ translate chinese strings:
     old "Not now."
     new "现在不行。"
 
-translate chinese strings:
-
-    old "til I"
-    new "直到我"
-
-    old "ve been doing for her camshows, showering together doesn"
-    new "我一直为她的网络直播做这些，一起洗澡不算"
-
-    old "m thinking... You"
-    new "我在想……你"
-
-    old "s a shame she"
-    new "真可惜她"
-
-    old "d love to go in there and join her but she"
-    new "我很想进去和她一起，但她"

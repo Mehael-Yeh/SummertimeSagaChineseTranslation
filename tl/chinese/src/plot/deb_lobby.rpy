@@ -628,10 +628,3 @@ translate chinese strings:
     old "Appreciate [saga.cast.debbie]... vigorously."
     new "我会好好珍惜[saga.cast.debbie]……用力地。"
 
-translate chinese strings:
-
-    old "re sure I can"
-    new "我当然可以"
-
-    old "s just my normal routine... there"
-    new "只是我的日常……而已"

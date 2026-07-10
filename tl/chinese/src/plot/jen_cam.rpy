@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_cam.rpy:6
 translate chinese jen_cam_5943dba2:
@@ -1170,7 +1170,3 @@ translate chinese jen_cam_soon_80bfbf7e:
     # anon f_calm @ f_happy "Awesome!"
     anon f_calm @ f_happy "太棒了！"
 
-translate chinese strings:
-
-    old "s time for a poll, don"
-    new "是时候进行投票了，不是吗"

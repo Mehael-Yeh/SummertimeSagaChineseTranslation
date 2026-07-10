@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen28.rpy:5
 translate chinese jen28_jenny_96d08ae5:
@@ -966,31 +966,3 @@ translate chinese strings:
     old "No, I want the real thing!"
     new "不，我要真家伙！"
 
-translate chinese strings:
-
-    old "t you see I"
-    new "你没看到我"
-
-    old "re the one who said I couldn"
-    new "是那个说我不能"
-
-    old "m thinking, since you"
-    new "我在想，既然你"
-
-    old "s what you want, isn"
-    new "这就是你想要的，不是吗"
-
-    old "s only got two braincells in his head and they"
-    new "他脑子里只有两个脑细胞，而且它们"
-
-    old "ve had this baby and for five hundred dollars I"
-    new "我生了这个孩子，为了五百美元我"
-
-    old "ll just take a second and I think you"
-    new "我就花一秒钟，我想你"
-
-    old "re gonna grow up and be a movie star, aren"
-    new "你长大后一定会成为电影明星的，不是吗？"
-
-    old "t really mean it the first two times I told you I"
-    new "前两次我告诉你我爱你，其实我并不是真心的。"

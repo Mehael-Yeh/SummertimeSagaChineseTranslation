@@ -1128,16 +1128,3 @@ translate chinese deb04_wrench_take_217f5d13:
     # anon "( I hope the girls appreciate all the trouble I'm going through. )"
     anon "(希望姑娘们能体谅我经历的这些麻烦。)"
 
-translate chinese strings:
-
-    old "s so obvious you"
-    new "你太明显了。"
-
-    old "t believe you"
-    new "真不敢相信你。"
-
-    old "t thank me yet, I"
-    new "你还没感谢我呢，我"
-
-    old "m not all that knowledgeable about it either, I"
-    new "我对这个也不是很了解，我"

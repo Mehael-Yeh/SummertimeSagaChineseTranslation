@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen10.rpy:6
 translate chinese jen10_lobby_5cc2e093:
@@ -2328,46 +2328,3 @@ translate chinese jen10_toy_rails_5d298b03:
     # anon @ -m_talk "( Let's just grab the UltraVibe and chalk this one up to experience. )"
     anon @ -m_talk "(赶紧拿了UltraVibe，把这事当成一次教训吧。)"
 
-translate chinese strings:
-
-    old "s no need to be embarrassed... I think it"
-    new "没必要尴尬……我觉得它"
-
-    old "re just... having money problems and I"
-    new "只是……有经济问题而已"
-
-    old "m surprised you didn"
-    new "我很惊讶你没有"
-
-    old "t shut up, the only place you"
-    new "闭嘴，你唯一的地位就是"
-
-    old "s your toy, why don"
-    new "你的玩具，为什么不"
-
-    old "m sorry. I didn"
-    new "对不起。我没有"
-
-    old "s alright. I wasn"
-    new "没关系。我没有"
-
-    old "t act like I haven"
-    new "别装得好像我没有"
-
-    old "m really busy, so if you don"
-    new "我真的很忙，所以如果你不"
-
-    old "re busy, so if you don"
-    new "你很忙，所以如果你不"
-
-    old "m sure she"
-    new "我确定她"
-
-    old "t walk too close! I don"
-    new "别走太近！我不"
-
-    old "mon loser, let"
-    new "你这卑鄙的失败者，让"
-
-    old "t know why you"
-    new "不知道为什么你会"

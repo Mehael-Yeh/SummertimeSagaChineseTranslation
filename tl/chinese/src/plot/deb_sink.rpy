@@ -1152,10 +1152,3 @@ translate chinese strings:
     old "Cunnilingus."
     new "舔阴"
 
-translate chinese strings:
-
-    old "t here you really let loose, don"
-    new "你在这里真的很放得开，是吧"
-
-    old "s no way I can stand at the stove after lovin"
-    new "亲热之后我根本没法站在炉灶前"

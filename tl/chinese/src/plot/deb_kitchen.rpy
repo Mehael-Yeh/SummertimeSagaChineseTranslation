@@ -1230,7 +1230,3 @@ translate chinese strings:
     old "Just talk."
     new "只是聊聊。"
 
-translate chinese strings:
-
-    old "t worry, she"
-    new "别担心，她"

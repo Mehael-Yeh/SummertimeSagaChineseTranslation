@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen17.rpy:4
 translate chinese jen17_intro_0202104a:
@@ -1560,16 +1560,3 @@ translate chinese jen17_jenny_6620ea36:
     # anon e_b f_happy m_teeth @ -m_talk "( I guess I'll come back on [saga.time.dow + when] afternoon then... )"
     anon e_b f_happy m_teeth @ -m_talk "(我想那我下午[saga.time.dow + when]再来吧……)"
 
-translate chinese strings:
-
-    old "s kinda girly, don"
-    new "有点娘娘腔，不是吗"
-
-    old "m happy with what I"
-    new "我对我所拥有的感到满意"
-
-    old "mon, we don"
-    new "得了吧，我们不"
-
-    old "t know you"
-    new "认识你"

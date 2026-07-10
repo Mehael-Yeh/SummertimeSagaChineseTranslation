@@ -4581,29 +4581,3 @@ translate chinese strings:
     # game/src/plot/deb_tv.rpy:886
     old "Ask for a hand."
     new "求助。"
-
-translate chinese strings:
-
-    old "d better be in bed by the time I"
-    new "最好在我回来时已经上床了。"
-
-    old "re lucky I"
-    new "算你走运，我"
-
-    old "m thankful they"
-    new "我很感激他们"
-
-    old "s for the best we don"
-    new "对我们来说最好不过了，我们不"
-
-    old "s what my baby wants, that"
-    new "宝宝要什么，那就"
-
-    old "t believe they"
-    new "真不敢相信他们"
-
-    old "m really glad you"
-    new "我真的很高兴你"
-
-    old "d say you"
-    new "你会说"

@@ -2814,31 +2814,3 @@ translate chinese bar05_art2_rails_dd0b257a:
     # anon @ -m_talk "( Let's just head to the art class and get this over with, yeah? )"
     anon @ -m_talk "(我们就直接去美术课把这事搞定，对吧？)"
 
-translate chinese strings:
-
-    old "s getting really late, isn"
-    new "已经很晚了，不是"
-
-    old "s me, isn"
-    new "是我，不是吗"
-
-    old "ll get over it pretty quick when I tell her the art class won"
-    new "我跟她说美术课取消了，她很快就会没事的。"
-
-    old "s no way she"
-    new "她不可能"
-
-    old "ll see that you"
-    new "她看得出来"
-
-    old "re the artist aren"
-    new "你就是那位画家，对吧"
-
-    old "re a little frayed. I hope that"
-    new "你有点紧张。我希望"
-
-    old "d say that"
-    new "我会说"
-
-    old "t allowed to be here, ma"
-    new "女士，您不能待在这里。"

@@ -799,23 +799,3 @@ translate chinese strings:
     # game/src/plot/deb12.rpy:128
     old "I need experience."
     new "我需要经验。"
-
-translate chinese strings:
-
-    old "s just because I"
-    new "这只是因为我"
-
-    old "m really sorry about that... it"
-    new "对此我真的很抱歉……"
-
-    old "m the adult here and I shouldn"
-    new "我才是大人，我不应该"
-
-    old "t think showing you is a good idea, given all that"
-    new "不太确定给你看是不是个好主意，考虑到所有那些"
-
-    old "s the most pathetic thing I"
-    new "这是我见过最可悲的事了"
-
-    old "t want you to feel like it"
-    new "我不想让你觉得它"

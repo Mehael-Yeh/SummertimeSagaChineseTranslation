@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tin02.rpy:2
 translate chinese tin02_tina_5fd26f0b:
@@ -942,22 +942,3 @@ translate chinese tin02_cubicle_liu_65546dad:
     # anon f_happy "Perfect, thanks, [saga.cast.liu]."
     anon f_happy "太好了，谢谢，[saga.cast.liu]。"
 
-translate chinese strings:
-
-    old "s alright, I"
-    new "没事，我"
-
-    old "s nothing a little dry cleaning can"
-    new "干洗一下就好"
-
-    old "t, well then, we"
-    new "那好吧，我们"
-
-    old "ll be into that, don"
-    new "会进入那个的，别"
-
-    old "t that why you"
-    new "那不就是你"
-
-    old "ll make sure that doesn"
-    new "我会确保那不会"

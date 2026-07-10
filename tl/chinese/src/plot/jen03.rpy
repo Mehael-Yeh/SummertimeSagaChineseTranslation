@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen03.rpy:4
 translate chinese jen03_intro_c820c168:
@@ -402,7 +402,3 @@ translate chinese jen03_kitchen_rails_217b075d:
     # anon @ -m_talk "( Smells like [saga.cast.debbie] has breakfast going... Let's hurry to the kitchen! )"
     anon @ -m_talk "(闻起来[saga.cast.debbie]在做早餐……我们快点去厨房吧！)"
 
-translate chinese strings:
-
-    old "t you go sit down at the table and I"
-    new "t you go sit down at the table and I"

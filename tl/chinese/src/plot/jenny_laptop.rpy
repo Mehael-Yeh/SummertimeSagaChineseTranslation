@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jenny_laptop.rpy:9
 translate chinese jenny_laptop_area_560eea42:
@@ -900,25 +900,3 @@ translate chinese jenny_laptop_wish_08afc17a:
     # anon "( Looks like a list of... toys? )"
     anon "(看起来像是一堆……玩具？)"
 
-translate chinese strings:
-
-    old "cause I"
-    new "因为"
-
-    old "d better pay quickly if you don"
-    new "你最好快点付钱，如果你不"
-
-    old "d have a chance to watch that adult cable TV channel would be when everybody"
-    new "当所有人都有机会看那个成人有线电视频道的时候"
-
-    old "s a shame they don"
-    new "真可惜他们没有"
-
-    old "s right, tip more and you"
-    new "没错，多给点小费，你"
-
-    old "t know about the anal, sam9... We"
-    new "不知道肛门的事，sam9... 我们"
-
-    old "mon now... You can do better than that, can"
-    new "拜托了…… 你能做得比那更好，可以吗"

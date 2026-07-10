@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen01.rpy:4
 translate chinese jen01_bath_26473f4a:
@@ -186,7 +186,3 @@ translate chinese jen01_bath_ee52d060:
     # jenny @ -m_talk "( I just wanna wring his stupid neck! )"
     jenny @ -m_talk "(我真想掐断他那愚蠢的脖子！)"
 
-translate chinese strings:
-
-    old "mon... it"
-    new "怪物……是它"

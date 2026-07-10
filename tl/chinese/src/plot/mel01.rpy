@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/mel01.rpy:5
 translate chinese mel01_intro_1b068d1b:
@@ -1884,37 +1884,3 @@ translate chinese mel01_outro_melody_bca18cf1:
     # anon "Bye, [saga.cast.melody]."
     anon "再见，[saga.cast.melody]。"
 
-translate chinese strings:
-
-    old "t worry! I"
-    new "别担心！我会加入的。"
-
-    old "ll join and I"
-    new "有点娘，不是吗？"
-
-    old "s kinda girly, isn"
-    new "这是爸爸的老练习曲。"
-
-    old "s an old drill of Dad"
-    new "这是爸爸的老把戏了"
-
-    old "s that old drill of Dad"
-    new "那是爸的老把戏"
-
-    old "ve been carrying my Dad"
-    new "我一直带着我爸的"
-
-    old "t mind, let"
-    new "别介意，让"
-
-    old "d really like to see this year"
-    new "真的很想看到今年"
-
-    old "s the sheet music for the concert. Your part shouldn"
-    new "这是音乐会的乐谱。你的部分不应该"
-
-    old "t hesitate to come and talk to me if you"
-    new "如果你有任何疑问，请随时来找我"
-
-    old "re done with this flute, I wouldn"
-    new "这支长笛用完了，我不会"

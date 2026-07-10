@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/deb23.rpy:12
 translate chinese deb23_setup_bath_767c6cd3:
@@ -3974,52 +3974,3 @@ translate chinese strings:
     old "Thick and delicious."
     new "又浓又美味。"
 
-translate chinese strings:
-
-    old "m guessing you don"
-    new "我猜你并不"
-
-    old "s way too conservative when you"
-    new "你这么做太保守了，当你"
-
-    old "t you try the purple one and we"
-    new "不如试试那件紫色的，我们"
-
-    old "t get your hopes up about seeing that white one because I"
-    new "别对看到那件白色抱太大希望，因为我"
-
-    old "s no pressure to show us if you don"
-    new "如果你不愿意，也不用勉强给我们看"
-
-    old "s just so tight and there isn"
-    new "它实在太紧了，而且没有"
-
-    old "t be anyone"
-    new "不会有任何人"
-
-    old "s way too small for me and I can"
-    new "对我来说太小了，我不能"
-
-    old "s the second time you"
-    new "这是第二次你"
-
-    old "re a teenager and I"
-    new "我是个青少年，我"
-
-    old "mon, it wouldn"
-    new "拜托，这不会"
-
-    old "s a wonderful feeling, isn"
-    new "这是一种美妙的感觉，不是吗"
-
-    old "s really sweet you"
-    new "你真的很好"
-
-    old "t you two head on to the cash register and I"
-    new "你们两个去收银台吧，我"
-
-    old "s that, sweetie, I can"
-    new "就这样吧，亲爱的，我可以"
-
-    old "m just glad you didn"
-    new "我只是很高兴你没有"

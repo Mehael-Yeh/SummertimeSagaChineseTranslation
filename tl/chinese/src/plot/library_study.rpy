@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/library_study.rpy:4
 translate chinese library_study_b80342e1:
@@ -132,7 +132,3 @@ translate chinese library_study_63ed779f:
     # anon "( I should visit the library more often! )"
     anon "(我应该多去图书馆！)"
 
-translate chinese strings:
-
-    old "s filming... Do they even know that it"
-    new "正在拍摄...他们知道吗？"

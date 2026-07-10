@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/yoo.rpy:18
 translate chinese yoo_car_shop_eotm_0688e220:
@@ -275,10 +275,3 @@ translate chinese strings:
     old "I'm done."
     new "我受够了。"
 
-translate chinese strings:
-
-    old "re an asshole and people don"
-    new "你是个混蛋，人们不..."
-
-    old "m gonna tell your boss about the way you"
-    new "我要告诉你老板你..."

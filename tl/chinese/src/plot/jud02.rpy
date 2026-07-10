@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jud02.rpy:7
 translate chinese jud02_hall1w_239dafe5:
@@ -712,16 +712,3 @@ translate chinese strings:
     old "We should stop."
     new "我们该停下了。"
 
-translate chinese strings:
-
-    old "s fine! It felt really good... I"
-    new "没关系！感觉真的很棒……我"
-
-    old "re gonna get the boys"
-    new "我们要去找那些男的"
-
-    old "m just being honest... and I"
-    new "我只是实话实说...还有我"
-
-    old "s coming from the girls"
-    new "来自那些女孩"

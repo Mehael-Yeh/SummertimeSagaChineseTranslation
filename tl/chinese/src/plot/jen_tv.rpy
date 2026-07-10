@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_tv.rpy:4
 translate chinese jen_tv_0282f6c1:
@@ -870,13 +870,3 @@ translate chinese strings:
     old "Fuck"
     new "操"
 
-translate chinese strings:
-
-    old "s exciting! Isn"
-    new "真令人兴奋！"
-
-    old "s just so deep, I can"
-    new "就是那么深，我"
-
-    old "t you think that"
-    new "你不觉得吗"

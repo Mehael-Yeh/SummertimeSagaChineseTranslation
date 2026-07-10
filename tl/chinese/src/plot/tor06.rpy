@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/tor06.rpy:7
 translate chinese tor06_setup_tori_00e25302:
@@ -1050,10 +1050,3 @@ translate chinese strings:
     old "Toggle augmented reality"
     new "切换增强现实"
 
-translate chinese strings:
-
-    old "s almost like scratching at an itch that won"
-    new "就像在挠一个止不住的痒"
-
-    old "s so tight! It"
-    new "太紧了！它"

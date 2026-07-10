@@ -726,25 +726,3 @@ translate chinese ano02_harold_rails_174c72a8:
     # anon @ -m_talk "( I should check it out. )"
     anon @ -m_talk "( 我该去看看。 )"
 
-translate chinese strings:
-
-    old "m afraid we haven"
-    new "恐怕我们还没有"
-
-    old "m terribly sorry, ma"
-    new "非常抱歉，女士"
-
-    old "re gonna sort this whole thing out, ma"
-    new "会处理好这一切，女士"
-
-    old "t really speak to that, ma"
-    new "真的无法回应这一点，女士"
-
-    old "t know, ma"
-    new "不知道，女士"
-
-    old "m afraid we"
-    new "恐怕我们"
-
-    old "m sure there"
-    new "我确信那里"

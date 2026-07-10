@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_table.rpy:3
 translate chinese jen_table_45f3866c:
@@ -948,7 +948,3 @@ translate chinese jen_table_creampie_244739f4:
     # mono ""
     mono ""
 
-translate chinese strings:
-
-    old "s just a bit warm today... He"
-    new "今天只是有点暖和……他"

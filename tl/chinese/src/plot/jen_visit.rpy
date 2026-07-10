@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_visit.rpy:8
 translate chinese jen_visit_6a86384f:
@@ -229,7 +229,3 @@ translate chinese strings:
     old "Not tonight."
     new "今晚不行。"
 
-translate chinese strings:
-
-    old "ve got a mega hot girl stroking your cock right now and you"
-    new "你现在正有个超级火辣的女孩在撸你的鸡巴，而你"

@@ -250,16 +250,3 @@ translate chinese strings:
     old "Leave."
     new "离开。"
 
-translate chinese strings:
-
-    old "ve made a mess of everything, haven"
-    new "我们把一切都搞砸了，不是吗"
-
-    old "ve lost our heads a few times now and done some {i}things{/i} we shouldn"
-    new "我们已经失控了几次，做了一些我们不该做的{i}事情{/i}"
-
-    old "t just do as you"
-    new "就按你说的做吧"
-
-    old "t resist... I"
-    new "我抵抗不了……"

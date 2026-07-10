@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen_sleep.rpy:6
 translate chinese jen_sleep_94d90a2d:
@@ -812,13 +812,3 @@ translate chinese strings:
     old "Yes, that {i}is{/i} enough."
     new "是的，那{i}已经{/i}足够了。"
 
-translate chinese strings:
-
-    old "s not like you"
-    new "不像你。"
-
-    old "t just sneak into a woman"
-    new "就这样偷偷溜进一个女人。"
-
-    old "ve tasted your cooking, it"
-    new "尝过你的厨艺后，"

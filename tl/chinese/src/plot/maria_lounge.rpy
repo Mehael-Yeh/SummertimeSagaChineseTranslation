@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/maria_lounge.rpy:7
 translate chinese maria_lounge_becca_11b03188:
@@ -60,7 +60,3 @@ translate chinese maria_lounge_skip_292571bc:
     # anon @ -m_talk "( Feels kinda a rude to loiter in here. )"
     anon @ -m_talk "有点晚了，我不该"
 
-translate chinese strings:
-
-    old "s kinda late, I shouldn"
-    new "有点晚了，我不应该"

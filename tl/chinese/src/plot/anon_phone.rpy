@@ -47,8 +47,3 @@ translate chinese anon_phone_wifi_ac83c525:
 
     # anon "( You already got what you wanted, leave it alone! )"
     anon "(你已经得到你想要的，别再动了！)"
-
-translate chinese strings:
-
-    old "d hate to break something that"
-    new "可不想弄坏什么"

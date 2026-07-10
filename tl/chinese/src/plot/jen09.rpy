@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen09.rpy:6
 translate chinese jen09_kitchen_db0ccea5:
@@ -532,22 +532,3 @@ translate chinese strings:
     old "Confront her. {dom}"
     new "质问{dom}。"
 
-translate chinese strings:
-
-    old "m happy that you"
-    new "很高兴你"
-
-    old "re not doing something you"
-    new "不会做让自己后悔的事"
-
-    old "m just curious about this new job you"
-    new "我只是好奇你的新工作"
-
-    old "s hiding something for sure and I"
-    new "肯定在隐瞒什么，我"
-
-    old "m sure you have a million things you"
-    new "敢肯定你有无数事情要"
-
-    old "ll join me, won"
-    new "你会加入我的，对吧"

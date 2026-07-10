@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jane.rpy:35
 translate chinese jane_library_lobby_intro_99900ed1:
@@ -44,7 +44,3 @@ translate chinese strings:
     old "Dairy operations."
     new "乳制品业务。"
 
-translate chinese strings:
-
-    old "ll return once I remember the book"
-    new "等我想起这本书"

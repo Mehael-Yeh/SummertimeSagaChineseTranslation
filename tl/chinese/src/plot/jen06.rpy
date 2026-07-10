@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
+# TODO: Translation updated at 2026-06-18 00:52
 
 # game/src/plot/jen06.rpy:4
 translate chinese jen06_intro_4c804028:
@@ -640,13 +640,3 @@ translate chinese strings:
     old "Screw you. {dom}"
     new "去你的。{dom}"
 
-translate chinese strings:
-
-    old "s sexy, it"
-    new "它很性感"
-
-    old "re the pathetic one who"
-    new "你才是那个可悲的人"
-
-    old "m not sure about classy but it"
-    new "我不确定是否高雅，但它"
