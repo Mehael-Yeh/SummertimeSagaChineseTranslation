@@ -3974,3 +3974,10 @@ translate chinese strings:
     old "Thick and delicious."
     new "又浓又美味。"
 
+    # game/src/plot/deb23.rpy:1031
+    old "Conservative."
+    new "保守。"
+
+    # game/src/plot/deb23.rpy:1029
+    old "Nice."
+    new "很好。"

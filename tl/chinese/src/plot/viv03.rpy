@@ -2118,3 +2118,20 @@ translate chinese viv03_outro_office1_980c8dd5:
     # anon @ -m_talk "( ... Let's get out of here. )"
     anon @ -m_talk "(……我们离开这里吧。)"
 
+
+translate chinese strings:
+
+    old "{i}*Sigh*{/i} C'est ridicule."
+    new "{i}*叹气*{/i} 真是荒谬。"
+
+    old "Connasse!"
+    new "贱货！"
+
+    old "D'accord, OK, je suis désolé!"
+    new "行吧，好，对不起！"
+
+    old "Ow, ça fait mal!"
+    new "嗷，好痛！"
+
+    old "Pas plus!"
+    new "别太过分！"

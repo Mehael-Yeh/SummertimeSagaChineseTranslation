@@ -712,3 +712,10 @@ translate chinese strings:
     old "We should stop."
     new "我们该停下了。"
 
+    # game/src/plot/jud02.rpy:73
+    old "I know..."
+    new "我知道..."
+
+    # game/src/plot/jud02.rpy:118
+    old "Sure."
+    new "当然。"

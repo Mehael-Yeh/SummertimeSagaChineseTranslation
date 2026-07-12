@@ -234,3 +234,11 @@ translate chinese strings:
 
     old "Wages. ($[saga.prop.pizza_boxes.owed:,])"
     new "工资 ($[saga.prop.pizza_boxes.owed:,])"
+
+    # game/src/plot/maria.rpy:176
+    old "Good night."
+    new "晚安。"
+
+    # game/src/plot/maria.rpy:73
+    old "Just saying hi."
+    new "只是打个招呼。"

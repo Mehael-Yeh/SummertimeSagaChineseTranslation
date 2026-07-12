@@ -2914,13 +2914,13 @@ translate chinese ano15_pantry_merge1_c9b92101:
 translate chinese ano15_pantry_merge1_49c436b0:
 
     # tony a_point "Oh, and don't forget the visualization thing we talked about!"
-    tony a_point "哦，别忘了我们讨论过的可视化技巧！"
+    tony a_point "哦，别忘了我们讨论过的想象技巧！"
 
 # game/src/plot/ano15.rpy:1130
 translate chinese ano15_pantry_merge1_913eb07d:
 
     # maria "Visualization thing?"
-    maria "可视化啥？"
+    maria "想象技巧？"
 
 # game/src/plot/ano15.rpy:1131
 translate chinese ano15_pantry_merge1_21afcbc5:
@@ -3676,7 +3676,7 @@ translate chinese ano15_pantry_merge2_a1f61959:
 translate chinese ano15_pantry_merge2_1c33109d:
 
     # tony "Make sure you keep those legs elevated so his little guys can get to the egg."
-    tony "记得把腿抬高，这样他的娃娃脸们才能游到卵子那里。"
+    tony "记得把腿抬高，这样他的小家伙们才能游到卵子那里。"
 
 # game/src/plot/ano15.rpy:1422
 translate chinese ano15_pantry_merge2_d6cd6e49:
@@ -3963,7 +3963,7 @@ translate chinese ano15_pantry_reuse_8cab90b4:
 # game/src/plot/ano15.rpy:1536
 translate chinese ano15_pantry_reuse_155101ce:
 
-    # anon @ -m_talk "( I can't believe I just had sex with [saga.cast.maria]! "
+    # anon @ -m_talk "( I can't believe I just had sex with [saga.cast.maria]! )"
     anon @ -m_talk "(我真不敢相信我刚和[saga.cast.maria]做了爱！)"
 
 # game/src/plot/ano15.rpy:1541
@@ -4023,7 +4023,7 @@ translate chinese ano15_pantry_reuse_e619b6bb:
 # game/src/plot/ano15.rpy:1558
 translate chinese ano15_pantry_reuse_4daa889b:
 
-    # anon a_pocket e_w f_tired_happy -m_yawn @ -m_talk "Man, it's really late..."
+    # anon a_pocket e_w f_tired_happy -m_yawn @ -m_talk "( Man, it's really late... )"
     anon a_pocket e_w f_tired_happy -m_yawn @ -m_talk "天啊，真的很晚了……"
 
 # game/src/plot/ano15.rpy:1559
@@ -4204,13 +4204,13 @@ translate chinese ano15_pantry_ogle2_767658ae:
 translate chinese ano15_pantry_ogle2_409c7378:
 
     # maria "... You're gonna freak the kid out!"
-    maria "……你会吓到那孩子的！"
+    maria "……你会吓到这孩子的！"
 
 # game/src/plot/ano15.rpy:1629
 translate chinese ano15_pantry_ogle2_5810c796:
 
     # tony "Aww, it ain't botherin' him none. Is it, champ?!"
-    tony "哎呀，它一点都没烦到他。是吧，小冠军？！"
+    tony "哎呀，它一点都没烦到他。是吧，冠军？！"
 
 # game/src/plot/ano15.rpy:1639
 translate chinese ano15_pantry_ogle2_a5262ffb:
@@ -4264,13 +4264,13 @@ translate chinese ano15_pantry_poly_f1c61136:
 translate chinese ano15_pantry_poly_054ed58e:
 
     # maria p_lay "Wow, it really don't bother ya, [saga.cast.anon]?"
-    maria p_lay "哇，它真的一点都不烦你啊，[saga.cast.anon]？"
+    maria p_lay "哇，这么做真的一点都没烦到你啊，[saga.cast.anon]？"
 
 # game/src/plot/ano15.rpy:1654
 translate chinese ano15_pantry_poly_38639342:
 
     # anon "Not at all."
-    anon "一点也不。"
+    anon "一点也没有。"
 
 # game/src/plot/ano15.rpy:1659
 translate chinese ano15_pantry_poly_854ca2e6:
@@ -4437,7 +4437,7 @@ translate chinese ano15_reset_block_48edbd17:
 # game/src/plot/ano15.rpy:1729
 translate chinese ano15_reset_block_1187ba12:
 
-    # anon @ -m_talk " ... And I'm sure [saga.cast.tony] and [saga.cast.maria] would appreciate some alone time too. "
+    # anon @ -m_talk "( ... And I'm sure [saga.cast.tony] and [saga.cast.maria] would appreciate some alone time too. )"
     anon @ -m_talk "……而且我敢肯定[saga.cast.tony]和[saga.cast.maria]也想单独待一会儿。"
 
 # game/src/plot/ano15.rpy:1736
@@ -4524,3 +4524,7 @@ translate chinese strings:
     # game/src/plot/ano15.rpy:1633
     old "You're making me uncomfortable."
     new "你让我感到不舒服。"
+
+    # game/src/plot/ano15.rpy:1636
+    old "I don't mind."
+    new "我不介意。"

@@ -233,3 +233,29 @@ translate chinese strings:
 
     old "this option off will revert to showing only "
     new "关闭此选项将恢复仅显示"
+
+    # game/src/menu/pref.rpy:11
+
+    # game/src/menu/pref.rpy:19
+
+    # game/src/menu/pref.rpy:44
+
+    # game/src/menu/pref.rpy:72
+
+    # game/src/menu/pref.rpy:82
+
+    # game/src/menu/pref.rpy:82
+
+    # game/src/menu/pref.rpy:130
+
+    # game/src/menu/pref.rpy:130
+
+    # game/src/menu/pref.rpy:137
+
+    # game/src/menu/pref.rpy:140
+
+    # game/src/menu/pref.rpy:195
+
+    # game/src/menu/pref.rpy:195
+    old "On"
+    new "开"

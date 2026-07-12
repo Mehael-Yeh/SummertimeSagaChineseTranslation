@@ -2307,3 +2307,11 @@ translate chinese strings:
 
     # game/src/plot/mar_baby.rpy:1171
     # game/src/plot/mar_baby.rpy:1174
+
+    # game/src/plot/mar_baby.rpy:150
+    old "How are you?"
+    new "你还好吗？"
+
+    # game/src/plot/mar_baby.rpy:1173
+    old "What are you doing?"
+    new "你在干什么？"

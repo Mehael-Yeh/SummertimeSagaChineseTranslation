@@ -1225,3 +1225,6 @@ translate chinese strings:
     old "Is there somewhere quiet we could go?"
     new "有没有安静的地方我们能去？"
 
+    # game/src/plot/tin_vault.rpy:46
+    old "Wanna bang?"
+    new "想干炮吗？"

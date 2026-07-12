@@ -5533,3 +5533,31 @@ translate chinese strings:
 
     # game/src/plot/jen_baby.rpy:2271
     # game/src/plot/jen_baby.rpy:2274
+
+    # game/src/plot/jen_baby.rpy:508
+    old "About [saga.cast.debbie]..."
+    new "关于 [saga.cast.debbie]..."
+
+    # game/src/plot/jen_baby.rpy:188
+    old "Are you still mad?"
+    new "你还生气吗？"
+
+    # game/src/plot/jen_baby.rpy:505
+    old "Can I get you something?"
+    new "需要我给你拿点什么吗？"
+
+    # game/src/plot/jen_baby.rpy:2273
+    old "Looking forward to daycare?"
+    new "期待去托儿所吗？"
+
+    # game/src/plot/jen_baby.rpy:186
+    old "You doing okay?"
+    new "你还好吗？"
+
+    # game/src/plot/jen_baby.rpy:2271
+    old "You guys need anything?"
+    new "你们需要什么吗？"
+
+    # game/src/plot/jen_baby.rpy:666
+    old "[saga.cast.debbie] is driving you crazy?"
+    new "[saga.cast.debbie] 快把你逼疯了吧？"

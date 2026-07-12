@@ -29,3 +29,17 @@ translate chinese inv_french_poem_f758a3ac:
 
     # anon "( I need to turn this in to [saga.cast.viv] and hope no one else ever reads this! )"
     anon "我得把这个交给[saga.cast.viv]，希望没有别人读到！"
+
+translate chinese strings:
+
+    old "( {i}\"Je me glisse lentement sous les draps de satin.\"{/i} )"
+    new "( {i}「我慢慢滑进绸缎被单下。」{/i} )"
+
+    old "( {i}\"Sur tes seins ma bouche se pose.\"{/i} )"
+    new "( {i}「我的唇落在你的胸前。」{/i} )"
+
+    old "( {i}\"Tu es allong? sur le ventre, ton dos accueil ma main.\"{/i} )"
+    new "( {i}「你俯卧着，你的背迎接我的手。」{/i} )"
+
+    old "( {i}\"Tout doucement ton corps nu tu exposes.\"{/i} )"
+    new "( {i}「你缓缓展露赤裸的身体。」{/i} )"

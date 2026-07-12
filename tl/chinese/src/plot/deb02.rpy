@@ -441,3 +441,6 @@ translate chinese strings:
     old "Fuzz."
     new "绒毛。"
 
+    # game/src/plot/deb02.rpy:33
+    old "Dick."
+    new "鸡巴。"

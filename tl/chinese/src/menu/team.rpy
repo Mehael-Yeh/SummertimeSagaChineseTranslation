@@ -20,11 +20,11 @@ translate chinese strings:
 
     # game/src/menu/team.rpy:39
     old "HR"
-    new "HR"
+    new "人力资源"
 
     # game/src/menu/team.rpy:43
     old "IT"
-    new "IT"
+    new "信息技术"
 
     # game/src/menu/team.rpy:48
     old "PLAYTESTERS"
@@ -41,16 +41,18 @@ translate chinese strings:
 translate chinese strings:
 
     old "Joaka"
-    new "Joaka"
+    new "乔卡"
 
     old "Arboris"
-    new "Arboris"
+    new "阿伯里斯"
 
     old "Volé"
-    new "Volé"
+    new "沃莱"
 
     old "Jelgan"
-    new "Jelgan"
+    new "杰尔甘"
 
     old "Abigfatnobody"
-    new "Abigfatnobody"
+    new "阿比格法特诺巴迪"
+
+    # game/src/menu/team.rpy:69

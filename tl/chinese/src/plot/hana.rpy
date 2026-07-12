@@ -354,3 +354,23 @@ translate chinese strings:
     old "Menu."
     new "菜单。"
 
+    old "O-kaerinasai mase, [saga.cast.anon]-san."
+    new "欢迎回家，[saga.cast.anon]先生。"
+
+    old "Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!"
+    new "非常感谢！期待您的再次光临！"
+
+    old "Of course, dōitashimashite!"
+    new "当然，不客气！"
+
+    old "Arigatō gozaimashita! Mata okoshi kudasai!"
+    new "非常感谢！欢迎下次再来！"
+
+    old "Oh, hai!"
+    new "哦，是的！"
+
+    old "Oh, arigato! Arigato!"
+    new "哦，谢谢！谢谢！"
+
+    old "Ahh, hajimemashite..."
+    new "啊，初次见面……"

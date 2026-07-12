@@ -414,3 +414,9 @@ translate chinese ton_baby_post_outro_376e3be0:
     # anon a_side "Cool, thanks!"
     anon a_side "酷，谢了！"
 
+
+translate chinese strings:
+
+    # game/src/plot/ton_baby.rpy:50
+    old "Where's [saga.cast.maria]?"
+    new "[saga.cast.maria]在哪儿？"

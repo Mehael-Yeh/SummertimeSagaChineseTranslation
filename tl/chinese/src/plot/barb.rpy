@@ -280,3 +280,7 @@ translate chinese strings:
     # game/src/plot/barb.rpy:153
     old "Nothing right now."
     new "现在没什么。"
+
+    # game/src/plot/barb.rpy:41
+    old "I should go."
+    new "我得走了。"

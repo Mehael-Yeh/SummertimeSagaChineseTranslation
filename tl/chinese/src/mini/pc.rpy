@@ -327,7 +327,7 @@ translate chinese strings:
     new "您的银行！\n\n"
 
     old "Dirty Harold"
-    new "Dirty Harold"
+    new "脏哈罗德"
 
     old "Prince Kaosu Uzu of Nigeria. I am presently being held "
     new "尼日利亚的卡奥斯·乌祖王子。我目前被关押"
@@ -472,7 +472,7 @@ translate chinese strings:
     new "感谢您的在线购买！我们所有的订单可能需要"
 
     old "{app.name} - FunMediaPlaya"
-    new "{app.name} - FunMediaPlaya"
+    new "{app.name} - 娱乐媒体玩家"
 
     old "jenny c_naked p_debbie_bed2_cam_electro_anim_01 #_thumb"
     new "jenny c_naked p_debbie_bed2_cam_electro_anim_01 #_thumb"
@@ -502,10 +502,14 @@ translate chinese strings:
     new "我知道这条消息会令你惊讶，但我"
 
     old "debbie_bed2_video base noon"
-    new "debbie_bed2_video base noon"
+    new "黛比的卧室2 视频 中午"
 
     old "Woohoo! You just got paid!"
     new "呜呼！你刚刚收到钱了！"
 
     old "Kao the best prince"
     new "考是最好的王子"
+
+    # game/src/mini/pc.rpy:353
+    old "Congratulations!"
+    new "恭喜！"

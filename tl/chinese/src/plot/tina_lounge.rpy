@@ -179,3 +179,6 @@ translate chinese strings:
     old "Wrong door."
     new "走错门了。"
 
+    # game/src/plot/tina_lounge.rpy:72
+    old "I wanted to see you."
+    new "我想见你。"

@@ -13,3 +13,5 @@ translate chinese strings:
 
     old "including commerical, MIT, and OFL. "
     new "包括商业许可、MIT 许可和 OFL 许可。"
+
+    # game/src/menu/tech.rpy:12

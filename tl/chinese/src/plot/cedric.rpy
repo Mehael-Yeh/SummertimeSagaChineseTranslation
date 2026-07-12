@@ -227,3 +227,17 @@ translate chinese cedric_what_38187eb2:
 
     # cedric "Suit yourself."
     cedric "随你便。"
+
+translate chinese strings:
+
+    # game/src/plot/cedric.rpy:16
+    old "Can you spot me?"
+    new "你能借我点钱吗？"
+
+    # game/src/plot/cedric.rpy:19
+    old "See ya!"
+    new "回头见！"
+
+    # game/src/plot/cedric.rpy:13
+    old "What have you been up to?"
+    new "你最近在忙什么呢？"

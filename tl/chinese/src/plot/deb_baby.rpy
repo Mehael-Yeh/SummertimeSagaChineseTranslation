@@ -4597,3 +4597,15 @@ translate chinese strings:
     # game/src/plot/deb_baby.rpy:1981
     old "Daycare."
     new "托儿所"
+
+    # game/src/plot/deb_baby.rpy:946
+    old "Okay?"
+    new "好吧？"
+
+    # game/src/plot/deb_baby.rpy:1254
+    old "I'll leave you be."
+    new "我就不打扰你了。"
+
+    # game/src/plot/deb_baby.rpy:1986
+    old "See you later!"
+    new "回头见！"

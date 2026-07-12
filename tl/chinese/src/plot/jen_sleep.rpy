@@ -812,3 +812,10 @@ translate chinese strings:
     old "Yes, that {i}is{/i} enough."
     new "是的，那{i}已经{/i}足够了。"
 
+    # game/src/plot/jen_sleep.rpy:17
+    old "Do it."
+    new "动手吧。"
+
+    # game/src/plot/jen_sleep.rpy:74
+    old "Okay."
+    new "好的。"

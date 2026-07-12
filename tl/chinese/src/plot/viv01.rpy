@@ -1314,3 +1314,8 @@ translate chinese strings:
     old "Insufficient {color=e40002}STR{/color}."
     new "{color=e40002}STR{/color}不足。"
 
+    old "Merveilleuse!"
+    new "太棒了！"
+
+    old "Quel petit futé ce garçon."
+    new "这小子真机灵。"

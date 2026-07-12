@@ -2266,3 +2266,16 @@ translate chinese strings:
     # game/src/plot/deb08.rpy:592
     old "I got this."
     new "我来处理。"
+
+    # game/src/plot/deb08.rpy:376
+    # game/src/plot/deb08.rpy:383
+    old "Y-yeah..."
+    new "是...是啊..."
+
+    # game/src/plot/deb08.rpy:589
+    old "Why not?"
+    new "为什么不呢？"
+
+    # game/src/plot/deb08.rpy:376
+    old "Definitely!"
+    new "当然！"

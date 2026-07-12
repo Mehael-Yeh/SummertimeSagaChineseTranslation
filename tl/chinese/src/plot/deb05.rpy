@@ -1148,3 +1148,7 @@ translate chinese strings:
     # game/src/plot/deb05.rpy:167
     old "You're busy."
     new "你太忙了。"
+
+    # game/src/plot/deb05.rpy:51
+    old "Never mind."
+    new "没什么。"

@@ -3760,3 +3760,11 @@ translate chinese strings:
     old "Don't pay."
     new "不付钱。"
 
+    old "Merci, [saga.cast.anon]!"
+    new "谢谢，[saga.cast.anon]！"
+
+    old "Magnifique, [saga.cast.anon]!"
+    new "太棒了，[saga.cast.anon]！"
+
+    old "Vraiment?"
+    new "真的吗？"

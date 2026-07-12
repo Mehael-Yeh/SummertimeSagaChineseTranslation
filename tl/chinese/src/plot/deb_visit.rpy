@@ -1771,3 +1771,6 @@ translate chinese strings:
     old "Not tonight, [saga.cast.debbie]."
     new "今晚不行，[saga.cast.debbie]。"
 
+    # game/src/plot/deb_visit.rpy:142
+    old "Okay, sure!"
+    new "好的，没问题！"

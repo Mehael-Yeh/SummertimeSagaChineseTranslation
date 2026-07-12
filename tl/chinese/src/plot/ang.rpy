@@ -42,3 +42,7 @@ translate chinese strings:
     old "Linens."
     new "亚麻布。"
     # game/src/plot/ang.rpy:14
+
+    # game/src/plot/ang.rpy:14
+    old "I was just leaving."
+    new "我正要走了。"

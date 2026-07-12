@@ -61,3 +61,9 @@ translate chinese strings:
 
     old "{saga.cast.anon} - Day {saga.time.date}"
     new "{saga.cast.anon} - 第 {saga.time.date} 天"
+
+    # game/src/menu/slot.rpy:47
+    old "{#date_fmt}%B %d, %H:%M"
+    new "{#date_fmt}%m月%d日, %H:%M"
+
+    # game/src/menu/slot.rpy:157

@@ -1857,3 +1857,6 @@ translate chinese strings:
     old "Sex."
     new "做爱。"
 
+    # game/src/plot/deb19.rpy:206
+    old "Keep going."
+    new "继续。"

@@ -5126,3 +5126,13 @@ translate chinese strings:
     old "Let [saga.cast.debbie] decide."
     new "让[saga.cast.debbie]决定。"
 
+    # game/src/plot/deb26.rpy:225
+    old "Eh, maybe later."
+    new "呃，也许改天吧。"
+
+    old "Irasshaimase!"
+    new "いらっしゃいませ！"
+
+    # game/src/plot/deb26.rpy:196
+    old "Absolutely!"
+    new "当然可以！"

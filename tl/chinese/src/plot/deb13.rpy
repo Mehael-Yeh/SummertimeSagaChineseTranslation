@@ -2930,3 +2930,7 @@ translate chinese strings:
     # game/src/plot/deb13.rpy:621
     old "Um... funsies?"
     new "呃……玩玩？"
+
+    # game/src/plot/deb13.rpy:606
+    old "Are you sure there's nothing you can do?"
+    new "你确定你什么都做不了吗？"

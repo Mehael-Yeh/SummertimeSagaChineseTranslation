@@ -3334,3 +3334,10 @@ translate chinese strings:
     old "Blowjob."
     new "口交。"
 
+    # game/src/plot/deb_mall.rpy:58
+    old "Let's go!"
+    new "走吧！"
+
+    # game/src/plot/deb_mall.rpy:61
+    old "Maybe next time."
+    new "下次吧。"

@@ -780,3 +780,18 @@ translate chinese strings:
     old "Try again."
     new "再试一次。"
 
+    # game/src/plot/jen05.rpy:188
+    old "Great!"
+    new "太棒了！"
+
+    # game/src/plot/jen05.rpy:217
+    old "Well..."
+    new "嗯..."
+
+    # game/src/plot/jen05.rpy:161
+    old "Yeah!"
+    new "没错！"
+
+    # game/src/plot/jen05.rpy:243
+    old "Yup."
+    new "对。"

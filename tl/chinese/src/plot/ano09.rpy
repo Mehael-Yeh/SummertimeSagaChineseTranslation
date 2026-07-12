@@ -2303,3 +2303,9 @@ translate chinese ano09_tony_scooter_b3cc0282:
 
     # anon a_salute e_b m_teeth @ m_laugh "Yes, sir!"
     anon a_salute e_b m_teeth @ m_laugh "是，先生！"
+
+translate chinese strings:
+
+    # game/src/plot/ano09.rpy:212
+    old "Not really..."
+    new "也不完全是..."

@@ -354,3 +354,13 @@ translate chinese titomi_sushi_shop_venue_9ac806c2:
     # anon "Sorry."
     anon "抱歉。"
 
+
+translate chinese strings:
+
+    # game/src/plot/titomi.rpy:10
+    old "Ara Ara."
+    new "哎呀哎呀。"
+
+    # game/src/plot/titomi.rpy:7
+    old "Where are you from?"
+    new "你从哪里来？"

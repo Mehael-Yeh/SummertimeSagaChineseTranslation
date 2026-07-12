@@ -1175,3 +1175,7 @@ translate chinese strings:
     # game/src/plot/deb14.rpy:156
     old "They're not you."
     new "她们不是你。"
+
+    # game/src/plot/deb14.rpy:158
+    old "Not really."
+    new "也不算啦。"

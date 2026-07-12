@@ -30,3 +30,7 @@ translate chinese strings:
     old "How are they?"
     new "他们怎么样？"
     # game/src/plot/micoe.rpy:8
+
+    # game/src/plot/micoe.rpy:7
+    old "Thanks."
+    new "谢谢。"

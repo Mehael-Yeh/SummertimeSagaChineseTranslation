@@ -1937,3 +1937,13 @@ translate chinese ano11_maria_fence_8c7c4bbe:
 
     # anon a_think e_nw f_pensive @ -m_talk "( ... Perhaps [saga.cast.maria] and I together could manage it though. )"
     anon a_think e_nw f_pensive @ -m_talk "(……不过，也许我和[saga.cast.maria]一起能搬得动。)"
+
+translate chinese strings:
+
+    # game/src/plot/ano11.rpy:226
+    old "Put some back into it!"
+    new "再用点力！"
+
+    # game/src/plot/ano11.rpy:229
+    old "Give it some welly!"
+    new "使劲儿干！"

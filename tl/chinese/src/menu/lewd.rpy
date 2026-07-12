@@ -40,3 +40,10 @@ translate chinese strings:
 
     old "digestible way in future."
     new "方便未来消化的方式。"
+
+    # game/src/menu/lewd.rpy:66
+    old "Got it!"
+    new "知道了！"
+
+    old "Replay ') + s.image.replace('_"
+    new "回放 ') + s.image.replace('_"

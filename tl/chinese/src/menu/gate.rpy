@@ -10,3 +10,6 @@ translate chinese strings:
     old "I am 18 years of age or older."
     new "我已年满18岁。"
 
+    # game/src/menu/gate.rpy:20
+
+    # game/src/menu/gate.rpy:21

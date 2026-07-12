@@ -18,3 +18,14 @@ translate chinese strings:
     old "Changelog"
     new "更新日志"
 
+    # game/src/menu/core.rpy:4
+
+    # game/src/menu/core.rpy:10
+
+    # game/src/menu/core.rpy:12
+
+    # game/src/menu/core.rpy:15
+
+    # game/src/menu/core.rpy:25
+
+    # game/src/menu/core.rpy:28

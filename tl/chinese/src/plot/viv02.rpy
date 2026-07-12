@@ -1650,3 +1650,14 @@ translate chinese viv02_outro_office1_93db23ee:
     # anon a_side o_right p_stand @ -m_talk "( Perhaps if I continue on with her tutoring sessions, I'll discover some way to be of help? )"
     anon a_side o_right p_stand @ -m_talk "(要是继续跟她上课，也许我能找到帮忙的法子？)"
 
+
+translate chinese strings:
+
+    old "Bien joué, [saga.cast.anon]!"
+    new "干得好，[saga.cast.anon]！"
+
+    old "Oui, Madame [saga.cast.ursula.clan]."
+    new "是的，[saga.cast.ursula.clan]太太。"
+
+    old "{i}Mon fromage et moi{/i}..."
+    new "{i}我和我的奶酪{/i}……"
