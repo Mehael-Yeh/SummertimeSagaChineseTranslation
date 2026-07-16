@@ -5,20 +5,6 @@ on:
   release:
     types:
       - published
-  pull_request:
-    paths:
-      - "tl/chinese/**"
-      - "*.rpy"
-      - "tools/build_rpa.py"
-      - ".github/workflows/build-chinese-rpa.yml"
-  push:
-    branches:
-      - main
-    paths:
-      - "tl/chinese/**"
-      - "*.rpy"
-      - "tools/build_rpa.py"
-      - ".github/workflows/build-chinese-rpa.yml"
 
 permissions:
   contents: read
