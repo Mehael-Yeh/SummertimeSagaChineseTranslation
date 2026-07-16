@@ -136,7 +136,7 @@ translate chinese mar02_tony_2d69d2d2:
 translate chinese mar02_tony_5622adc3:
 
     # tony a_hips "Abso-fuckin’-lutely!"
-    tony a_hips "他妈·的当然！"
+    tony a_hips "他妈的，当然！"
 
 # game/src/plot/mar02.rpy:34
 translate chinese mar02_tony_b779d239:

@@ -16,7 +16,7 @@ translate chinese anon_chair_9675c6ee:
 translate chinese anon_chair_f30debdd:
 
     # anon @ -m_talk "( ... The wheels on it are totally clogged! )"
-    anon @ -m_talk "(……轮子完全堵住了！)"
+    anon @ -m_talk "(……轮子完全卡了！)"
 
 # game/src/plot/anon_chair.rpy:8
 translate chinese anon_chair_3503556f:

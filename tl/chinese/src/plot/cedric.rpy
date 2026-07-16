@@ -4,7 +4,7 @@
 translate chinese cedric_fb46e941:
 
     # cedric "What's up, little buddy?"
-    cedric "怎么了，娃娃脸？"
+    cedric "怎么了，小家伙？"
 
 # game/src/plot/cedric.rpy:6
 translate chinese cedric_33f1f441:
@@ -34,7 +34,7 @@ translate chinese cedric_choice_507cf189:
 translate chinese cedric_choice_e35a3fb1:
 
     # cedric "See you around, little buddy."
-    cedric "回头见，娃娃脸。"
+    cedric "回头见，小家伙。"
 
 # game/src/plot/cedric.rpy:30
 translate chinese cedric_choice_d0908f56:
@@ -58,7 +58,7 @@ translate chinese cedric_intro_33f1f441:
 translate chinese cedric_intro_324389ea:
 
     # cedric "I haven't seen you for a while, little buddy."
-    cedric "我有一阵子没见你了，娃娃脸。"
+    cedric "我有一阵子没见你了，小家伙。"
 
 # game/src/plot/cedric.rpy:43
 translate chinese cedric_intro_675a249d:
@@ -106,7 +106,7 @@ translate chinese cedric_spot_fd1ce279:
 translate chinese cedric_spot_7a2a8f1c:
 
     # cedric a_reject "No can do, little buddy."
-    cedric a_reject "不行，小老弟。"
+    cedric a_reject "不行，小家伙。"
 
 # game/src/plot/cedric.rpy:65
 translate chinese cedric_spot_a3ed64bb:
@@ -202,7 +202,7 @@ translate chinese cedric_what_5c7d22df:
 translate chinese cedric_what_86e9c720:
 
     # cedric "It's real good, little buddy!"
-    cedric "这真是太好了，娃娃脸！"
+    cedric "这真是太好了，小家伙！"
 
 # game/src/plot/cedric.rpy:99
 translate chinese cedric_what_e7603b09:

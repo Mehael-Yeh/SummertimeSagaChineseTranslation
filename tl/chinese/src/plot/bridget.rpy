@@ -58,7 +58,7 @@ translate chinese bridget_school_office6_outro_f2fb4d6a:
 translate chinese bridget_school_office6_outro_219372a8:
 
     # anon a_salute f_worried_surprised -m_teeth "Yes, ma'am!!!"
-    anon a_salute f_worried_surprised -m_teeth "是的，夫人！！！"
+    anon a_salute f_worried_surprised -m_teeth "是的，女士！！！"
 
 # game/src/plot/bridget.rpy:53
 translate chinese bridget_school_track_intro_c13af039:
@@ -76,7 +76,7 @@ translate chinese bridget_school_track_intro_878b0034:
 translate chinese bridget_school_track_intro_f3c95301:
 
     # anon f_shocked m_open @ -m_talk "Yes, ma'am!!!"
-    anon f_shocked m_open @ -m_talk "是的，夫人！！！"
+    anon f_shocked m_open @ -m_talk "是的，女士！！！"
 
 # game/src/plot/bridget.rpy:57
 translate chinese bridget_school_track_intro_634edd56:
@@ -142,11 +142,11 @@ translate chinese bridget_school_track_train_769084be:
 translate chinese bridget_school_track_train_9705595b:
 
     # anon a_salute -m_teeth "Yes, ma'am!!!"
-    anon a_salute -m_teeth "是的，夫人！！！"
+    anon a_salute -m_teeth "是的，女士！！！"
 
 translate chinese strings:
 
     # game/src/plot/bridget.rpy:5
     # game/src/plot/bridget.rpy:40
     old "Training."
-    new "训练。"
+    new "训练"

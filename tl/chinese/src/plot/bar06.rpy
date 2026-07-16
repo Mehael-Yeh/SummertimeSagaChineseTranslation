@@ -172,13 +172,13 @@ translate chinese bar06_art_a3be3209:
 translate chinese bar06_art_83859534:
 
     # iwanka "I got your phone number from [saga.cast.barb]. I hope that's alright?"
-    iwanka "我从[saga.cast.barb]那里拿到了你的电话号码。希望没关系？"
+    iwanka "我从[saga.cast.barb]那里拿到了你的电话号码。希望这没关系？"
 
 # game/src/plot/bar06.rpy:74
 translate chinese bar06_art_d845e517:
 
     # anon "Y-yeah, of course!"
-    anon "当、当然可以！"
+    anon "当……当然可以！"
 
 # game/src/plot/bar06.rpy:76
 translate chinese bar06_art_899e64b9:
@@ -748,7 +748,7 @@ translate chinese bar06_office3_reuse_cb357689:
 translate chinese bar06_office3_reuse_11d7eaf2:
 
     # barb "Oh, fuck me!"
-    barb "哦，操我！"
+    barb "哦，肏我！"
 
 # game/src/plot/bar06.rpy:356
 translate chinese bar06_office3_reuse_55d5e467:
@@ -778,7 +778,7 @@ translate chinese bar06_office3_reuse_c0e51fac:
 translate chinese bar06_office3_reuse_94dce5fc:
 
     # barb "Yes! Yes! Fuck me!"
-    barb "是的！是的！干我！"
+    barb "是的！是的！肏我！"
 
 # game/src/plot/bar06.rpy:362
 translate chinese bar06_office3_reuse_13fca07c:
@@ -880,7 +880,7 @@ translate chinese bar06_office3_reuse_94f210f4:
 translate chinese bar06_office3_reuse_dcb4c8ce:
 
     # barb "Oh, yes!"
-    barb "哦，是的！"
+    barb "哦，好的！"
 
 # game/src/plot/bar06.rpy:386
 translate chinese bar06_office3_reuse_37c053d2:
@@ -1180,5 +1180,5 @@ translate chinese bar06_office3_barb_71de75ea:
 translate chinese bar06_office3_barb_2664e5a9:
 
     # anon "I'll see you there, [saga.cast.barb]."
-    anon "那儿见，[saga.cast.barb]。"
+    anon "回见，[saga.cast.barb]。"
 

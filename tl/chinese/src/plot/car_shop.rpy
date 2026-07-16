@@ -16,4 +16,4 @@ translate chinese car_shop_dark_429c5901:
 translate chinese car_shop_skip_b7d30cad:
 
     # anon @ -m_talk "( I can't wait around here, the dealership will be closing soon. )"
-    anon @ -m_talk "(我不能在这里干等，经销商很快要关门了。)"
+    anon @ -m_talk "(我不能在这里干等，车行很快要关门了。)"
