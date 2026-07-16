@@ -1,0 +1,94 @@
+name: Build Chinese RPA
+
+on:
+  workflow_dispatch:
+  release:
+    types:
+      - published
+  pull_request:
+    paths:
+      - "tl/chinese/**"
+      - "*.rpy"
+      - "tools/build_rpa.py"
+      - ".github/workflows/build-chinese-rpa.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "tl/chinese/**"
+      - "*.rpy"
+      - "tools/build_rpa.py"
+      - ".github/workflows/build-chinese-rpa.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout translation sources
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Download Ren'Py 8.5.3 SDK
+        shell: bash
+        run: |
+          curl --fail --location --retry 3 \
+            --output renpy-sdk.tar.bz2 \
+            https://www.renpy.org/dl/8.5.3/renpy-8.5.3-sdk.tar.bz2
+          echo "eb0a9be7f0fb13632fe25ceade9a8bed5a1b4d6b6e83bd19eeeb29e1a1bb4a45  renpy-sdk.tar.bz2" | sha256sum --check
+          tar -xjf renpy-sdk.tar.bz2
+
+      - name: Compile translation scripts
+        shell: bash
+        run: |
+          mkdir -p build/game
+          cp -R tl build/game/tl
+          cp set_default_language_at_startup.rpy hook_add_change_language_entrance.rpy build/game/
+          ./renpy-8.5.3-sdk/renpy.sh build compile
+
+      - name: Build and verify chinese.rpa
+        run: python tools/build_rpa.py --root build/game --compiled --output dist/chinese.rpa
+
+      - name: Verify chinese.rpa
+        run: python tools/build_rpa.py --root build/game --compiled --output dist/chinese.rpa --verify-only
+
+      - name: Upload chinese.rpa
+        uses: actions/upload-artifact@v7
+        with:
+          name: summertime-saga-chinese-rpa-${{ github.sha }}
+          path: dist/chinese.rpa
+          if-no-files-found: error
+          retention-days: 30
+
+  publish-release:
+    if: github.event_name == 'release'
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download built RPA
+        uses: actions/download-artifact@v8
+        with:
+          name: summertime-saga-chinese-rpa-${{ github.sha }}
+          path: dist
+
+      - name: Attach files to GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh release upload "${{ github.event.release.tag_name }}" \
+            dist/chinese.rpa \
+            --clobber \
+            --repo "${{ github.repository }}"
