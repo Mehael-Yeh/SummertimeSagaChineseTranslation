@@ -1,0 +1,55 @@
+name: Build Chinese RPA
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "tl/chinese/**"
+      - "*.rpy"
+      - "tools/build_rpa.py"
+      - ".github/workflows/build-chinese-rpa.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "tl/chinese/**"
+      - "*.rpy"
+      - "tools/build_rpa.py"
+      - ".github/workflows/build-chinese-rpa.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout translation sources
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build and verify chinese.rpa
+        run: python tools/build_rpa.py --output dist/chinese.rpa
+
+      - name: Write checksums and file list
+        shell: bash
+        run: |
+          cd dist
+          sha256sum chinese.rpa > chinese.rpa.sha256
+          python ../tools/build_rpa.py --root .. --output chinese.rpa --verify-only
+
+      - name: Upload chinese.rpa
+        uses: actions/upload-artifact@v4
+        with:
+          name: summertime-saga-chinese-rpa-${{ github.sha }}
+          path: |
+            dist/chinese.rpa
+            dist/chinese.rpa.sha256
+          if-no-files-found: error
+          retention-days: 30

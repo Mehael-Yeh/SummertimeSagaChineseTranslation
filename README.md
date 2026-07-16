@@ -13,3 +13,12 @@
 ├── set_default_language_at_startup.rpy
 ├── hook_add_change_language_entrance.rpy
 ```
+
+### 下载单文件汉化包
+在仓库的 **Actions → Build Chinese RPA** 页面手动运行工作流，完成后下载页面底部生成的 artifact。将其中的 `chinese.rpa` 直接放到游戏的 `game` 目录即可。归档同时包含 `tl/chinese`、默认语言设置和语言入口脚本。
+
+也可以在本地使用 Python 3 生成并校验相同的文件：
+
+```bash
+python tools/build_rpa.py --output dist/chinese.rpa
+```
