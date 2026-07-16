@@ -16,7 +16,7 @@ translate chinese ano16_shop_07bc0b25:
 translate chinese ano16_shop_5f715f5b:
 
     # anon "What the-"
-    anon "搞什么——"
+    anon "怎么——"
 
 # game/src/plot/ano16.rpy:12
 translate chinese ano16_shop_7ab1993f:

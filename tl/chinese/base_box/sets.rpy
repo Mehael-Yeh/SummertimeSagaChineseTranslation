@@ -84,7 +84,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:30
  old "Arena"
- new "竞技场"
+ new "田径馆"
 
  # game/res/meta/sets.rpym:31
  old "Basement"
@@ -100,7 +100,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:35
  old "Saga Financial"
- new "Saga 金融"
+ new "传说金融银行"
 
  # game/res/meta/sets.rpym:36
  old "Office"
@@ -176,7 +176,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:57
  old "Dealership"
- new "4S 店"
+ new "车行"
 
  # game/res/meta/sets.rpym:59
  old "Showroom"
@@ -590,7 +590,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:232
  old "Summerville College"
- new "夏默维尔学院"
+ new "夏日学院"
 
  # game/res/meta/sets.rpym:233
  old "Music Classroom"

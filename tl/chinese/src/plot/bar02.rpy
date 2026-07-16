@@ -82,7 +82,7 @@ translate chinese bar02_intro_d5006672:
 translate chinese bar02_intro_3973d25a:
 
     # barb f_calm "She's just such a cutie pie, isn't she?"
-    barb f_calm "她真是个娃娃脸，不是吗？"
+    barb f_calm "她真是个小可爱，不是吗？"
 
 # game/src/plot/bar02.rpy:18
 translate chinese bar02_intro_617a5968:
@@ -298,7 +298,7 @@ translate chinese bar02_mia_fail_ff233a3d:
 translate chinese bar02_barb_e73456f7:
 
     # anon f_calm "[saga.cast.mia] has agreed to be my partner for your lessons."
-    anon f_calm "[saga.cast.mia] 同意当我课上的搭档了。"
+    anon f_calm "[saga.cast.mia]同意当我课上的搭档了。"
 
 # game/src/plot/bar02.rpy:123
 translate chinese bar02_barb_3f2ded4f:
@@ -328,7 +328,7 @@ translate chinese bar02_barb_06b473a5:
 translate chinese bar02_barb_09a61ea7:
 
     # anon "Y-yes, ma'am."
-    anon "是……是的，夫人。"
+    anon "是……是的，女士。"
 
 # game/src/plot/bar02.rpy:139
 translate chinese bar02_barb_mia_e87f08ac:
@@ -592,7 +592,7 @@ translate chinese bar02_delay_mia_e61a45ee:
 translate chinese bar02_art1_7d3bd824:
 
     # barb "Hey there, cutie pie!"
-    barb "嘿，娃娃脸！"
+    barb "嘿，小可爱！"
 
 # game/src/plot/bar02.rpy:279
 translate chinese bar02_art1_4f404b52:
@@ -736,7 +736,7 @@ translate chinese bar02_art1_e90e2e60:
 translate chinese bar02_art1_4bf46d3d:
 
     # barb "Right, cutie pie?"
-    barb "对吧，娃娃脸？"
+    barb "对吧，小可爱？"
 
 # game/src/plot/bar02.rpy:345
 translate chinese bar02_art1_04c4ab0f:
@@ -1402,7 +1402,7 @@ translate chinese bar02_chad_eve_93a4c265:
 translate chinese bar02_chad_eve_97f6c59f:
 
     # eve @ e_r f_annoyed "Oh, [saga.cast.chad] probably has it."
-    eve @ e_r f_annoyed "哦，[saga.cast.chad] 大概拿着呢。"
+    eve @ e_r f_annoyed "哦，[saga.cast.chad]大概拿着呢。"
 
 # game/src/plot/bar02.rpy:667
 translate chinese bar02_chad_eve_5df078e1:
@@ -1492,7 +1492,7 @@ translate chinese bar02_eve3_76ddd08d:
 translate chinese bar02_eve3_d9a9e7f9:
 
     # chad "W-what did I do?!"
-    chad "我、我做什么了？！"
+    chad "我……我做什么了？！"
 
 # game/src/plot/bar02.rpy:705
 translate chinese bar02_eve3_db990c7e:
@@ -1678,7 +1678,7 @@ translate chinese bar02_art2_4ae233da:
 translate chinese bar02_art2_9674d4ce:
 
     # barb "Oh, sure you are, cutie pie!"
-    barb "哦，你当然有，娃娃脸！"
+    barb "哦，你当然有，小可爱！"
 
 # game/src/plot/bar02.rpy:802
 translate chinese bar02_art2_0d03af33:

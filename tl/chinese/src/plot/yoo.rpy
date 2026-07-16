@@ -268,10 +268,13 @@ translate chinese strings:
 
     # game/src/plot/yoo.rpy:5
     old "Rude."
-    new "粗鲁。"
+    new "粗鲁"
 
     # game/src/plot/yoo.rpy:8
     # game/src/plot/yoo.rpy:11
     old "I'm done."
     new "我受够了。"
 
+    # game/src/plot/yoo.rpy:18
+    old "Employee of the month?"
+    new "月度最佳员工？"

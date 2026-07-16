@@ -10,7 +10,7 @@ translate chinese mar_dark_tony_58e48dee:
 translate chinese mar_dark_tony_06745398:
 
     # tony f_horny @ e_b_w "Sure is, champ."
-    tony f_horny @ e_b_w "当然没问题，老兄。"
+    tony f_horny @ e_b_w "当然没问题，冠军。"
 
 # game/src/plot/mar_dark.rpy:8
 translate chinese mar_dark_tony_d1b0fb04:
@@ -40,7 +40,7 @@ translate chinese mar_dark_tony_f1cdcd60:
 translate chinese mar_dark_tony_busy_b1b9870c:
 
     # tony f_sad "No can do, champ."
-    tony f_sad "不行，老兄。"
+    tony f_sad "不行，冠军。"
 
 # game/src/plot/mar_dark.rpy:17
 translate chinese mar_dark_tony_busy_bf6d4949:
@@ -172,7 +172,7 @@ translate chinese mar_dark_maria_b98044df:
 translate chinese mar_dark_maria_92b1fb85:
 
     # tony a_point o_left "Fuck her good, champ."
-    tony a_point o_left "好好干她，冠军。"
+    tony a_point o_left "好好肏她，冠军。"
 
 # game/src/plot/mar_dark.rpy:124
 translate chinese mar_dark_maria_accca3e1:
@@ -334,19 +334,19 @@ translate chinese mar_dark_maria_merge1_c27c15aa:
 translate chinese mar_dark_maria_merge1_66c7dfcc:
 
     # maria "Oh, gawd, fuck me, [saga.cast.anon]!!"
-    maria "哦，天啊，干我，[saga.cast.anon]！！"
+    maria "哦，天啊，肏我，[saga.cast.anon]！！"
 
 # game/src/plot/mar_dark.rpy:240
 translate chinese mar_dark_maria_merge1_231aa67c:
 
     # maria "Fuck me harder!"
-    maria "用力操我！"
+    maria "用力肏我！"
 
 # game/src/plot/mar_dark.rpy:243
 translate chinese mar_dark_maria_merge1_a87ccb22:
 
     # tony "You heard her, champ!"
-    tony "你听到了吗，小子！"
+    tony "你听到了吗，冠军！"
 
 # game/src/plot/mar_dark.rpy:254
 translate chinese mar_dark_maria_merge1_13ce197e:
@@ -970,7 +970,7 @@ translate chinese mar_dark_maria_creampie_0238d9bb:
 translate chinese mar_dark_maria_creampie_eb6666d9:
 
     # tony "You really fucked her brains out..."
-    tony "你真是把她操得神魂颠倒了..."
+    tony "你真是把她肏得神魂颠倒了..."
 
 # game/src/plot/mar_dark.rpy:501
 translate chinese mar_dark_maria_creampie_04900160:
@@ -1174,13 +1174,13 @@ translate chinese mar_dark_maria_merge4_416708dc:
 translate chinese mar_dark_maria_merge4_745ae2d2:
 
     # tony f_horny "... You've really awoken somethin' in her, champ!"
-    tony f_horny "……你还真唤醒了她内心的某样东西啊，小子！"
+    tony f_horny "……你还真唤醒了她内心的某样东西啊，冠军！"
 
 # game/src/plot/mar_dark.rpy:655
 translate chinese mar_dark_maria_ogle2_73741803:
 
     # tony "Boy, you really did a number on her, didn't ya, champ?"
-    tony "好家伙，你还真把她折腾得不轻，是吧，小子？"
+    tony "好家伙，你还真把她折腾得不轻，是吧，冠军？"
 
 # game/src/plot/mar_dark.rpy:656
 translate chinese mar_dark_maria_ogle2_8ea3167f:
@@ -1204,7 +1204,7 @@ translate chinese mar_dark_maria_ogle2_82615e0e:
 translate chinese mar_dark_maria_ogle2_eecebe4d:
 
     # tony "Ahh, it's alright, champ."
-    tony "啊，没事，小子。"
+    tony "啊，没事，冠军。"
 
 # game/src/plot/mar_dark.rpy:670
 translate chinese mar_dark_maria_ogle2_d694e475:
@@ -1222,7 +1222,7 @@ translate chinese mar_dark_maria_ogle2_c35871f2:
 translate chinese mar_dark_maria_ogle2_7894b502:
 
     # tony "Who told ya to fuck my wife so good, eh?!"
-    tony "谁让你把我老婆操得这么爽的，嗯？！"
+    tony "谁让你把我老婆肏得这么爽的，嗯？！"
 
 # game/src/plot/mar_dark.rpy:685
 translate chinese mar_dark_maria_ogle2_0ed18b0b:
@@ -1342,7 +1342,7 @@ translate chinese mar_dark_maria_trio1_1c1122e0:
 translate chinese mar_dark_maria_trio1_d0f405f0:
 
     # tony "Then you can work the pussy while I work the ass, capiche?"
-    tony "然后你可以操逼，而我操屁眼，明白吗？"
+    tony "然后你可以肏逼，而我肏屁眼，明白吗？"
 
 # game/src/plot/mar_dark.rpy:771
 translate chinese mar_dark_maria_trio1_ae320bbb:
@@ -1648,7 +1648,7 @@ translate chinese mar_dark_maria_trio1_649adac4:
 translate chinese mar_dark_maria_trio1_bab9269d:
 
     # tony "You alright, champ?"
-    tony "你没事吧，老兄？"
+    tony "你没事吧，冠军？"
 
 # game/src/plot/mar_dark.rpy:856
 translate chinese mar_dark_maria_trio1_cbe7ae72:
@@ -1774,7 +1774,7 @@ translate chinese mar_dark_maria_trio1a_3964071e:
 translate chinese mar_dark_maria_trio1a_68b1dac7:
 
     # tony "Let her rip, champ!"
-    tony "上吧，冠军！"
+    tony "让她爽上天，冠军！"
 
 # game/src/plot/mar_dark.rpy:882
 translate chinese mar_dark_maria_trio1a_301aa803:
@@ -2140,7 +2140,7 @@ translate chinese mar_dark_maria_trio2_4149b20a:
 translate chinese mar_dark_maria_trio2_9b4e79b6:
 
     # tony "You like it when I work your tight little asshole?"
-    tony "你喜欢我操你紧致的小屁眼吗？"
+    tony "你喜欢我肏你紧致的小屁眼吗？"
 
 # game/src/plot/mar_dark.rpy:1009
 translate chinese mar_dark_maria_trio2_1547e067:

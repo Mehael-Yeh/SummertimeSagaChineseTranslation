@@ -28,13 +28,13 @@ translate chinese jos_trade_bb781331:
 translate chinese jos_trade_38dee3af:
 
     # anon a_rub f_shy "Yeah, The Overcompensator."
-    anon a_rub f_shy "是的，那辆补偿者。"
+    anon a_rub f_shy "是的，那辆过度补偿者。"
 
 # game/src/plot/jos_trade.rpy:18
 translate chinese jos_trade_87a68a30:
 
     # josie e_w f_calm "That's a bold strategy, Cotton."
-    josie e_w f_calm "这招挺大胆的，科顿。"
+    josie e_w f_calm "这招真够胆大的，老兄。"
 
 # game/src/plot/jos_trade.rpy:19
 translate chinese jos_trade_54fda35d:
@@ -334,7 +334,7 @@ translate chinese jos_trade_compact2_c51efd8f:
 translate chinese jos_trade_coupe1_8bb75ef0:
 
     # anon a_hips f_happy "\"Wow\" me."
-    anon a_hips f_happy "让我惊艳一下。"
+    anon a_hips f_happy "让我「惊艳一下」。"
 
 # game/src/plot/jos_trade.rpy:198
 translate chinese jos_trade_coupe1_cbe42cda:
@@ -796,11 +796,11 @@ translate chinese strings:
 
     # game/src/plot/jos_trade.rpy:44
     old "On a budget."
-    new "预算有限。"
+    new "预算有限"
 
     # game/src/plot/jos_trade.rpy:47
     old "Gotta have four wheels."
-    new "得有四个轮子。"
+    new "得有四个轮子"
 
     # game/src/plot/jos_trade.rpy:50
     old "Take my money!"
@@ -812,21 +812,21 @@ translate chinese strings:
 
     # game/src/plot/jos_trade.rpy:131
     old "Yes. [[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
-    new "是的。[][{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
+    new "是的。[[{usd=$[opts[saga.prop.key_compact] - cost:,]}]"
 
     # game/src/plot/jos_trade.rpy:257
     old "I guess so. [[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
-    new "我想是这样。[][{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
+    new "我想就这样吧。[[{usd=$[opts[saga.prop.key_coupe] - cost:,]}]"
 
     # game/src/plot/jos_trade.rpy:260
     old "Pass."
-    new "跳过。"
+    new "跳过"
 
     # game/src/plot/jos_trade.rpy:362
     old "Deal! [[{usd=$[opts[saga.prop.key_scooter] - cost:,]}]"
-    new "成交！[][{usd=$[opts[saga.prop.key_scooter] - cost:,]}]"
+    new "成交！[[{usd=$[opts[saga.prop.key_scooter] - cost:,]}]"
 
     # game/src/plot/jos_trade.rpy:365
     old "No deal."
-    new "不成交。"
+    new "不成交"
 

@@ -496,7 +496,7 @@ translate chinese ano15_shop1_12b9426b:
 translate chinese ano15_shop1_975fcebf:
 
     # tony "How many times have you said you wanna repay me for everything, eh?!"
-    tony "你说过多少次想报答我的一切了，嗯？！"
+    tony "你这家伙说要好好报答我，这话都说过几遍了，嗯？！"
 
 # game/src/plot/ano15.rpy:151
 translate chinese ano15_shop1_a72551cc:
@@ -2260,7 +2260,7 @@ translate chinese ano15_kitchen_153d8ab5:
 translate chinese ano15_kitchen_5b848557:
 
     # tony @ -m_talk "We're makin' a baby, eh?"
-    tony @ -m_talk "我们要生个孩子，嗯？"
+    tony @ -m_talk "我们要创造个孩子，嗯？"
 
 # game/src/plot/ano15.rpy:851
 translate chinese ano15_kitchen_c2808c5b:
@@ -4066,7 +4066,7 @@ translate chinese ano15_pantry_ogle1_900b2c28:
 translate chinese ano15_pantry_ogle1_2b352e05:
 
     # tony f_horny "We're havin' a baby here, you two!"
-    tony f_horny "我们这儿要生孩子了，你们两个！"
+    tony f_horny "我们这儿要添个孩子了，你们两个！"
 
 # game/src/plot/ano15.rpy:1575
 translate chinese ano15_pantry_ogle1_ed4e5818:

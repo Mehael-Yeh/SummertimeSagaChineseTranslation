@@ -4,7 +4,7 @@
 translate chinese anon_phone_wifi_bf02007f:
 
     # anon "( Full bars, nice! )"
-    anon "(全部满格了，真棒！)"
+    anon "(全部满格，真棒！)"
 
 # game/src/plot/anon_phone.rpy:11
 translate chinese anon_phone_wifi_bcb69513:

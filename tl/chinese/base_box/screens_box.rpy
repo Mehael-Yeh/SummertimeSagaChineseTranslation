@@ -98,7 +98,7 @@ translate chinese strings:
     old "Navigate the interface."
     new "导航界面。"
     old "Escape"
-    new "Esc"
+    new "退出"
     old "Accesses the game menu."
     new "访问游戏菜单。"
     old "Ctrl"
