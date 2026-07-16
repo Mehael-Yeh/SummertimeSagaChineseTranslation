@@ -57,20 +57,14 @@ jobs:
       - name: Build and verify chinese.rpa
         run: python tools/build_rpa.py --root build/game --compiled --output dist/chinese.rpa
 
-      - name: Write checksums and file list
-        shell: bash
-        run: |
-          cd dist
-          sha256sum chinese.rpa > chinese.rpa.sha256
-          python ../tools/build_rpa.py --root ../build/game --compiled --output chinese.rpa --verify-only
+      - name: Verify chinese.rpa
+        run: python tools/build_rpa.py --root build/game --compiled --output dist/chinese.rpa --verify-only
 
       - name: Upload chinese.rpa
         uses: actions/upload-artifact@v7
         with:
           name: summertime-saga-chinese-rpa-${{ github.sha }}
-          path: |
-            dist/chinese.rpa
-            dist/chinese.rpa.sha256
+          path: dist/chinese.rpa
           if-no-files-found: error
           retention-days: 30
 
@@ -96,6 +90,5 @@ jobs:
         run: |
           gh release upload "${{ github.event.release.tag_name }}" \
             dist/chinese.rpa \
-            dist/chinese.rpa.sha256 \
             --clobber \
             --repo "${{ github.repository }}"
