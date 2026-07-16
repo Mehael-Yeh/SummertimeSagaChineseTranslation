@@ -19,12 +19,18 @@ ROOT_FILES = (
 )
 
 
-def source_files(root: Path) -> list[tuple[str, Path]]:
-    files = [(name, root / name) for name in ROOT_FILES]
+def source_files(root: Path, compiled: bool = False) -> list[tuple[str, Path]]:
+    root_names = tuple(f"{name}c" for name in ROOT_FILES) if compiled else ROOT_FILES
+    files = [(name, root / name) for name in root_names]
     files.extend(
         (path.relative_to(root).as_posix(), path)
         for path in (root / "tl" / "chinese").rglob("*")
-        if path.is_file() and path.suffix.lower() not in {".rpyc", ".rpymc"}
+        if path.is_file()
+        and (
+            path.suffix.lower() not in {".rpy", ".rpym", ".rpyb", ".rpyc", ".rpymc"}
+            or (compiled and path.suffix.lower() in {".rpyc", ".rpymc"})
+            or (not compiled and path.suffix.lower() in {".rpy", ".rpym"})
+        )
     )
     missing = [name for name, path in files if not path.is_file()]
     if missing:
@@ -32,8 +38,8 @@ def source_files(root: Path) -> list[tuple[str, Path]]:
     return sorted(files)
 
 
-def build(root: Path, output: Path) -> dict[str, str]:
-    files = source_files(root)
+def build(root: Path, output: Path, compiled: bool = False) -> dict[str, str]:
+    files = source_files(root, compiled)
     index: dict[str, list[tuple[int, int]]] = {}
     hashes: dict[str, str] = {}
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -69,8 +75,8 @@ def read_index(archive_path: Path) -> tuple[int, dict[str, list[tuple[int, int]]
     return key, index
 
 
-def verify(root: Path, archive_path: Path) -> None:
-    expected = {name: path for name, path in source_files(root)}
+def verify(root: Path, archive_path: Path, compiled: bool = False) -> None:
+    expected = {name: path for name, path in source_files(root, compiled)}
     key, index = read_index(archive_path)
     if set(index) != set(expected):
         missing = sorted(set(expected) - set(index))
@@ -95,15 +101,16 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--output", type=Path, default=Path("dist/chinese.rpa"))
+    parser.add_argument("--compiled", action="store_true", help="Pack compiled .rpyc scripts")
     parser.add_argument("--verify-only", action="store_true")
     args = parser.parse_args()
 
     root = args.root.resolve()
     output = args.output.resolve()
     if not args.verify_only:
-        hashes = build(root, output)
+        hashes = build(root, output, args.compiled)
         print(f"Packed {len(hashes)} files into {output}")
-    verify(root, output)
+    verify(root, output, args.compiled)
 
 
 if __name__ == "__main__":
