@@ -46,7 +46,7 @@ translate chinese annie_school_music_d4e8fc02:
 translate chinese annie_school_music_b4a74194:
 
     # annie f_annoyed "I'm trying to concentrate."
-    annie f_annoyed "我正在集中注意力。"
+    annie f_annoyed "我正在保持注意力。"
 
 # game/src/plot/annie.rpy:40
 translate chinese annie_school_music_260d478c:
@@ -64,7 +64,7 @@ translate chinese annie_school_music_7bc63134:
 translate chinese annie_school_music_38fb4b49:
 
     # annie @ f_angry "I'M CONCENTRATING!" with hpunch
-    annie @ f_angry "我在集中注意力！" with hpunch
+    annie @ f_angry "我在保持注意力！" with hpunch
 
 # game/src/plot/annie.rpy:44
 translate chinese annie_school_music_f81b77ae:
@@ -82,4 +82,4 @@ translate chinese strings:
 
     # game/src/plot/annie.rpy:5
     old "Model."
-    new "模特。"
+    new "模特"

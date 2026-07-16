@@ -166,7 +166,7 @@ translate chinese ano02_harold_eddf3f90:
 translate chinese ano02_harold_d05a28a5:
 
     # harold "And he was employed at Saga Financial Bank?"
-    harold "他是在佐贺金融银行工作？"
+    harold "他是在传说金融银行工作？"
 
 # game/src/plot/ano02.rpy:53
 translate chinese ano02_harold_fe84f3b8:
@@ -244,7 +244,7 @@ translate chinese ano02_harold_4197ad97:
 translate chinese ano02_harold_90a5bdef:
 
     # harold "Yes, apparently he was quite friendly with a teller by the name of... [saga.cast.liu] Wang."
-    harold "是的，据说他和一个名叫……[saga.cast.liu]王 的出纳员关系不错。"
+    harold "是的，据说他和一个名叫……王[saga.cast.liu]的出纳员关系不错。"
 
 # game/src/plot/ano02.rpy:68
 translate chinese ano02_harold_db7b17c9:
@@ -724,5 +724,5 @@ translate chinese ano02_harold_rails_42e96f06:
 translate chinese ano02_harold_rails_174c72a8:
 
     # anon @ -m_talk "( I should check it out. )"
-    anon @ -m_talk "( 我该去看看。 )"
+    anon @ -m_talk "(我该去看看。)"
 

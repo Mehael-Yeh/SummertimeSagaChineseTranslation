@@ -34,7 +34,7 @@ translate chinese ano06_debbies_50586da6:
 translate chinese ano06_debbies_b0921c5f:
 
     # mono "With no time to run, and even less hope of hiding, I donned my most stoic expression and steeled myself for the encounter ahead." with fade
-    mono "没时间逃跑，更无处躲藏，我摆出最冷静的表情，为接下来的相遇做好准备。" with fade
+    mono "没时间逃跑，更无处躲藏，我摆出最冷静的表情，为接下来的遭遇做好准备。" with fade
 
 # game/src/plot/ano06.rpy:21
 translate chinese ano06_debbies_89e82438:
@@ -154,13 +154,13 @@ translate chinese ano06_debbies_25d35edc:
 translate chinese ano06_debbies_c310e706:
 
     # dimitri f_smug "You do nothing."
-    dimitri f_smug "你什么也不做。"
+    dimitri f_smug "你什么也没做。"
 
 # game/src/plot/ano06.rpy:65
 translate chinese ano06_debbies_46230c44:
 
     # dimitri "I tell you to give nice lady message, did I not?"
-    dimitri "我让你给那位好心的女士带个口信，难道没有吗？"
+    dimitri "我让你给那位漂亮的女士带个口信，可以吗？"
 
 # game/src/plot/ano06.rpy:68
 translate chinese ano06_debbies_957eacdd:
@@ -520,7 +520,7 @@ translate chinese ano06_debbies_merge_afe47975:
 translate chinese ano06_debbies_merge_25a1e87b:
 
     # igor a_hand e_s f_disgusted "{i}*Sigh*{/i} Give me hand sanitizer."
-    igor a_hand e_s f_disgusted "{i}*叹气*{/i} 给我免洗洗手液。"
+    igor a_hand e_s f_disgusted "{i}*叹气*{/i} 给我洗手液。"
 
 # game/src/plot/ano06.rpy:182
 translate chinese ano06_debbies_merge_16cf3da6:
@@ -532,7 +532,7 @@ translate chinese ano06_debbies_merge_16cf3da6:
 translate chinese ano06_debbies_merge_17c69dfd:
 
     # igor e_w f_angry "There is always time for hand sanitizer!"
-    igor e_w f_angry "洗手液永远都有时间！"
+    igor e_w f_angry "洗手液永远都有时间找！"
 
 # game/src/plot/ano06.rpy:184
 translate chinese ano06_debbies_merge_87f13c6c:
@@ -604,7 +604,7 @@ translate chinese ano06_debbies_merge_24aa459c:
 translate chinese ano06_debbies_merge_bfc144d0:
 
     # igor f_curious "Ehh, \"break something\"... I think?"
-    igor f_curious "呃，「打破点什么」……我想是吧？"
+    igor f_curious "呃，「打断点什么」……我想是吧？"
 
 # game/src/plot/ano06.rpy:199
 translate chinese ano06_debbies_merge_27415ceb:
@@ -616,7 +616,7 @@ translate chinese ano06_debbies_merge_27415ceb:
 translate chinese ano06_debbies_merge_5dfb8548:
 
     # dimitri "We must break something."
-    dimitri "我们必须打破点什么。"
+    dimitri "我们必须打断点什么。"
 
 # game/src/plot/ano06.rpy:204
 translate chinese ano06_debbies_merge_864be7a5:
@@ -628,7 +628,7 @@ translate chinese ano06_debbies_merge_864be7a5:
 translate chinese ano06_debbies_merge_f22974a1:
 
     # dimitri e_onw f_pensive "But what to break?"
-    dimitri e_onw f_pensive "但打破什么呢？"
+    dimitri e_onw f_pensive "但打断什么呢？"
 
 # game/src/plot/ano06.rpy:207
 translate chinese ano06_debbies_merge_7a4e5bfa:
@@ -658,7 +658,7 @@ translate chinese ano06_debbies_merge_9af6560a:
 translate chinese ano06_debbies_merge_6bc62e3f:
 
     # dimitri f_calm "Nice lady must know we mean business."
-    dimitri f_calm "那位好女士必须知道我们是认真的。"
+    dimitri f_calm "那位漂亮女士必须知道我们是认真的。"
 
 # game/src/plot/ano06.rpy:214
 translate chinese ano06_debbies_merge_465d7c6d:
@@ -1042,7 +1042,7 @@ translate chinese ano06_debbies_merge_33f756a9:
 translate chinese ano06_debbies_merge_c5ef45d6:
 
     # anon f_shy "Auntie [saga.cast.diane], remember?"
-    anon f_shy "阿姨，[saga.cast.diane]，记得吗？"
+    anon f_shy "[saga.cast.diane]阿姨，记得吗？"
 
 # game/src/plot/ano06.rpy:322
 translate chinese ano06_debbies_merge_0883c381:
@@ -1132,7 +1132,7 @@ translate chinese ano06_debbies_merge_2c3ac12e:
 translate chinese ano06_debbies_merge_4b1da71a:
 
     # anon a_uneasy f_worried "Not really."
-    anon a_uneasy f_worried "不完全是。"
+    anon a_uneasy f_worried "还没有。"
 
 # game/src/plot/ano06.rpy:347
 translate chinese ano06_debbies_merge_9ec7e241:
@@ -1156,7 +1156,7 @@ translate chinese ano06_debbies_merge_0b358582:
 translate chinese ano06_debbies_merge_bd3651b4:
 
     # tony a_hips "We could use an extra pair of hands down at the pizzeria."
-    tony a_hips "比萨店那边正好缺人手。"
+    tony a_hips "披萨店那边正好缺人手。"
 
 # game/src/plot/ano06.rpy:354
 translate chinese ano06_debbies_merge_2c5034b1:
@@ -1366,13 +1366,13 @@ translate chinese ano06_debbies_merge_578d8a64:
 translate chinese ano06_debbies_merge_791d349e:
 
     # jenny "Russians?"
-    jenny "俄国人？"
+    jenny "俄国佬？"
 
 # game/src/plot/ano06.rpy:424
 translate chinese ano06_debbies_merge_081cc913:
 
     # anon "Oh, yeah... I found out they're Russian."
-    anon "哦，是啊...我发现他们是俄国人。"
+    anon "哦，是啊...我发现他们是俄国佬。"
 
 # game/src/plot/ano06.rpy:425
 translate chinese ano06_debbies_merge_87a167d9:
@@ -1444,7 +1444,7 @@ translate chinese ano06_debbies_merge_2d0a9be5:
 translate chinese ano06_debbies_merge_cf827fc2:
 
     # anon "I mean, those Russians were really terrified of him!"
-    anon "我是说，那些俄国人真的很怕他！"
+    anon "我是说，那些俄国佬真的很怕他！"
 
 # game/src/plot/ano06.rpy:437
 translate chinese ano06_debbies_merge_47befdd6:
@@ -1894,7 +1894,7 @@ translate chinese ano06_debbies_merge_08e00cd0:
 translate chinese ano06_debbies_merge_1cf69512:
 
     # anon @ -m_talk "( Those Russians were already really making things hard on us... )"
-    anon @ -m_talk "(那些俄罗斯人已经让我们很为难了……)"
+    anon @ -m_talk "(那些俄国佬已经让我们很为难了……)"
 
 # game/src/plot/ano06.rpy:565
 translate chinese ano06_debbies_merge_ec3c9bf6:

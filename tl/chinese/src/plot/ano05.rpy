@@ -70,7 +70,7 @@ translate chinese ano05_dimitri_2ec3e3e6:
 translate chinese ano05_dimitri_65830902:
 
     # debbie a_shock f_surprised "Y-you did?"
-    debbie a_shock f_surprised "你、你做了？！"
+    debbie a_shock f_surprised "你、你又看到了？！"
 
 # game/src/plot/ano05.rpy:31
 translate chinese ano05_dimitri_59ee9270:
@@ -526,7 +526,7 @@ translate chinese ano05_dimitri_920e3f9b:
 translate chinese ano05_dimitri_5b2cd8a6:
 
     # debbie "... Finding a nice girlfriend..."
-    debbie "...找个好女朋友..."
+    debbie "...找个好女友..."
 
 # game/src/plot/ano05.rpy:162
 translate chinese ano05_dimitri_0defe2b4:
@@ -682,7 +682,7 @@ translate chinese ano05_dimitri_df00b614:
 translate chinese ano05_outro_block_4b3bcecb:
 
     # anon @ -m_talk "( [saga.cast.debbie] is right, I've got a whole world to explore out here! )"
-    anon @ -m_talk "( [saga.cast.debbie]说得对，我面前有整个世界可以去探索！)"
+    anon @ -m_talk "([saga.cast.debbie]说得对，我面前有整个世界可以去探索！)"
 
 # game/src/plot/ano05.rpy:221
 translate chinese ano05_outro_block_41e32a46:

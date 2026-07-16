@@ -88,7 +88,7 @@ translate chinese ano09_shop_d105d724:
 translate chinese ano09_shop_fc523209:
 
     # tony f_sad "I owe Luigi that much, at least..."
-    tony f_sad "至少，这是我欠路易吉的……"
+    tony f_sad "至少，这是我欠Luigi的……"
 
 # game/src/plot/ano09.rpy:27
 translate chinese ano09_shop_f11e42eb:
@@ -286,7 +286,7 @@ translate chinese ano09_shop_a1f0b75a:
 translate chinese ano09_shop_26c23a9c:
 
     # tony f_sceptical "Move out of her way, knucklehead..."
-    tony f_sceptical "别挡她的路，笨蛋……"
+    tony f_sceptical "别挡她的路，傻瓜……"
 
 # game/src/plot/ano09.rpy:85
 translate chinese ano09_shop_f4e729a3:
@@ -310,7 +310,7 @@ translate chinese ano09_shop_f53cf495:
 translate chinese ano09_shop_521286b9:
 
     # tina "One of yours, I'll take it?"
-    tina "你的一份，我来收下？"
+    tina "这就是你们新的那位？"
 
 # game/src/plot/ano09.rpy:94
 translate chinese ano09_shop_717c6c03:
@@ -334,7 +334,7 @@ translate chinese ano09_shop_3acacf94:
 translate chinese ano09_shop_3ceb4a7f:
 
     # tony a_wtf "That's just what [saga.cast.maria] said!"
-    tony a_wtf "[saga.cast.maria]就是这么说的！"
+    tony a_wtf "[saga.cast.maria]也是这么说的！"
 
 # game/src/plot/ano09.rpy:103
 translate chinese ano09_shop_942295e0:
@@ -364,25 +364,25 @@ translate chinese ano09_shop_d662784f:
 translate chinese ano09_shop_a51632d6:
 
     # anon a_shy_neck f_shy "T-thanks!"
-    anon a_shy_neck f_shy "谢、谢谢！"
+    anon a_shy_neck f_shy "谢-谢谢！"
 
 # game/src/plot/ano09.rpy:119
 translate chinese ano09_shop_f2fbb4c2:
 
     # anon "Who was that?!"
-    anon "那是谁？！"
+    anon "她是谁？！"
 
 # game/src/plot/ano09.rpy:120
 translate chinese ano09_shop_30745982:
 
     # tony "Heh, that's an old friend of mine."
-    tony "呵呵，那是我的一个老朋友。"
+    tony "呵呵，她是我的一个老朋友。"
 
 # game/src/plot/ano09.rpy:122
 translate chinese ano09_shop_a6b1aeb3:
 
     # tony f_sad "Her husband and I used to be best friends, back before he got himself whacked."
-    tony f_sad "她丈夫和我曾经是最好的朋友，在他被人干掉之前。"
+    tony f_sad "她丈夫和我曾经是最好的朋友，那是在他被干掉之前的事了。"
 
 # game/src/plot/ano09.rpy:123
 translate chinese ano09_shop_97e039cc:
@@ -466,7 +466,7 @@ translate chinese ano09_shop_3aea1ed8:
 translate chinese ano09_shop_d8267a69:
 
     # tony "Luigi and I, we promised each other, you know... If one of our numbers ever came up, we'd look after the other guy's family."
-    tony "我和路易吉彼此承诺过，你知道……如果我们中谁先走了，就要照顾另一个人的家人。"
+    tony "我和Luigi彼此承诺过，你知道……如果我们中谁先走了，就要照顾另一个人的家人。"
 
 # game/src/plot/ano09.rpy:146
 translate chinese ano09_shop_99ba4dd0:
@@ -490,7 +490,7 @@ translate chinese ano09_shop_027232dd:
 translate chinese ano09_shop_df4edc3a:
 
     # tony a_wide f_calm "I mean, Luigi left 'em lots of money."
-    tony a_wide f_calm "我的意思是，路易吉给她们留了很多钱。"
+    tony a_wide f_calm "我的意思是，Luigi给她们留了很多钱。"
 
 # game/src/plot/ano09.rpy:151
 translate chinese ano09_shop_fcf0e0fc:
@@ -514,7 +514,7 @@ translate chinese ano09_shop_5a80c4da:
 translate chinese ano09_shop_342f859a:
 
     # tony a_wave "Ahh, Luigi was like a brother to me."
-    tony a_wave "啊，路易吉就像我的兄弟一样。"
+    tony a_wave "啊，Luigi就像我的兄弟一样。"
 
 # game/src/plot/ano09.rpy:156
 translate chinese ano09_shop_4ac0b2d5:
@@ -604,7 +604,7 @@ translate chinese ano09_shop_f4c0268e:
 translate chinese ano09_shop_8a3e6a92:
 
     # tony a_point "You been doin' a good job out there deliverin' pizza, champ."
-    tony a_point "你送披萨干得不错，小伙子。"
+    tony a_point "你送披萨干得不错，冠军。"
 
 # game/src/plot/ano09.rpy:174
 translate chinese ano09_shop_92b56b31:
@@ -634,7 +634,7 @@ translate chinese ano09_shop_1aea41f7:
 translate chinese ano09_shop_be0a4d9e:
 
     # anon f_confused "What do you mean?"
-    anon f_confused "你什么意思？"
+    anon f_confused "什么意思？"
 
 # game/src/plot/ano09.rpy:179
 translate chinese ano09_shop_3a9cc5da:
@@ -676,7 +676,7 @@ translate chinese ano09_shop_c92ef46b:
 translate chinese ano09_shop_ef9137ce:
 
     # anon a_hips e_w f_worried -m_drink "W-what are we gonna do to fix it?"
-    anon a_hips e_w f_worried -m_drink "我——我们该怎么办才能修好它？"
+    anon a_hips e_w f_worried -m_drink "我——我们该怎么办才能解决它？"
 
 # game/src/plot/ano09.rpy:190
 translate chinese ano09_shop_d99050ed:
@@ -748,7 +748,7 @@ translate chinese ano09_shop_26d9ba63:
 translate chinese ano09_shop_4c3b8d40:
 
     # tony "Doesn't need to be anything fancy."
-    tony "不需要多 fancy。"
+    tony "不用太花哨。"
 
 # game/src/plot/ano09.rpy:210
 translate chinese ano09_shop_66e860b4:
@@ -892,7 +892,7 @@ translate chinese ano09_shop_beed5096:
 translate chinese ano09_shop_733e0d66:
 
     # anon a_salute "Yes, sir!"
-    anon a_salute "是，长官！"
+    anon a_salute "是，先生！"
 
 # game/src/plot/ano09.rpy:252
 translate chinese ano09_shop_quick_73c4fe21:
@@ -994,7 +994,7 @@ translate chinese ano09_shop_quick_f79c204b:
 translate chinese ano09_shop_quick_ecbf23f0:
 
     # tony a_whisper f_sceptical "{i}Asphinctersayswhat{/i}."
-    tony a_whisper f_sceptical "{i}括约肌说什么{/i}。"
+    tony a_whisper f_sceptical "{i}蠢货才会说「什么？」{/i}。"
 
 # game/src/plot/ano09.rpy:277
 translate chinese ano09_shop_quick_eb780b0f:
@@ -1018,7 +1018,7 @@ translate chinese ano09_shop_quick_9eee16ae:
 translate chinese ano09_shop_quick_e3c8d1c1:
 
     # tony "Alright, champ... it's okay."
-    tony "好吧，小伙子……没事的。"
+    tony "好吧，冠军……没事的。"
 
 # game/src/plot/ano09.rpy:288
 translate chinese ano09_shop_quick_57d1734b:
@@ -1108,13 +1108,13 @@ translate chinese ano09_vehicle_tony_cfec2e6f:
 translate chinese ano09_vehicle_tony_20b4e24b:
 
     # tony "Get down to the car dealership and see what's in your price range!"
-    tony "去汽车经销商那儿看看你预算范围内有什么车！"
+    tony "去车行那儿看看你预算范围内有什么车！"
 
 # game/src/plot/ano09.rpy:341
 translate chinese ano09_vehicle_tony_fe21d8bf:
 
     # anon a_salute f_calm "Yes, sir!"
-    anon a_salute f_calm "是，长官！"
+    anon a_salute f_calm "是，先生！"
 
 # game/src/plot/ano09.rpy:348
 translate chinese ano09_tony_95c13e15:
@@ -1174,7 +1174,7 @@ translate chinese ano09_tony_acd2ff59:
 translate chinese ano09_tony_a21f78de:
 
     # anon "Yes, sir!"
-    anon "遵命，长官！"
+    anon "遵命，先生！"
 
 # game/src/plot/ano09.rpy:380
 translate chinese ano09_tony_merge_7c1ad396:
@@ -1192,13 +1192,13 @@ translate chinese ano09_tony_merge_f00baa42:
 translate chinese ano09_tony_merge_5bb8a869:
 
     # maria "What the hell is this about a new ride?!"
-    maria "这新坐骑到底是怎么回事？！"
+    maria "这新座驾到底是怎么回事？！"
 
 # game/src/plot/ano09.rpy:394
 translate chinese ano09_tony_merge_f815f3d0:
 
     # maria "Holy Mary, Mother, and Joseph!"
-    maria "圣母玛利亚，约瑟夫圣父啊！"
+    maria "天哪！"
 
 # game/src/plot/ano09.rpy:395
 translate chinese ano09_tony_merge_d8a5df4e:
@@ -1288,13 +1288,13 @@ translate chinese ano09_tony_merge_4b9b3c42:
 translate chinese ano09_tony_merge_418a4783:
 
     # tony e_e f_calm "That's my tutelage payin' off, right there..."
-    tony e_e f_calm "这就是我教导的成果，没错吧......"
+    tony e_e f_calm "这就是我的真传啊......"
 
 # game/src/plot/ano09.rpy:429
 translate chinese ano09_tony_merge_9ebfc5a7:
 
     # tony "The kid's a chip off the ole' block, I tell ya."
-    tony "这孩子真是块老姜，我跟你说。"
+    tony "这小子简直就是我的翻版，我跟你说。"
 
 # game/src/plot/ano09.rpy:431
 translate chinese ano09_tony_merge_316f73c6:
@@ -1306,7 +1306,7 @@ translate chinese ano09_tony_merge_316f73c6:
 translate chinese ano09_tony_merge_dd43edac:
 
     # anon @ e_b m_laugh "The Overcompensator!"
-    anon @ e_b m_laugh "补偿者号！"
+    anon @ e_b m_laugh "矫枉过正者！"
 
 # game/src/plot/ano09.rpy:438
 translate chinese ano09_tony_merge_e169777d:
@@ -1324,7 +1324,7 @@ translate chinese ano09_tony_merge_f86f0851:
 translate chinese ano09_tony_merge_d235274b:
 
     # maria @ e_w "Yeah, he's a chip off the ole' block alright."
-    maria @ e_w "是啊，他真是遗传了老子的优良基因。"
+    maria @ e_w "是啊，他简直就是你的翻版。"
 
 # game/src/plot/ano09.rpy:444
 translate chinese ano09_tony_merge_fc5eaab2:
@@ -1570,7 +1570,7 @@ translate chinese ano09_tony_alt1_9b36ea99:
 translate chinese ano09_tony_alt1_b3cc0282:
 
     # anon a_salute e_b m_teeth @ m_laugh "Yes, sir!"
-    anon a_salute e_b m_teeth @ m_laugh "是的，长官！"
+    anon a_salute e_b m_teeth @ m_laugh "是的，先生！"
 
 # game/src/plot/ano09.rpy:552
 translate chinese ano09_tony_alt2_4d6c8210:
@@ -1582,7 +1582,7 @@ translate chinese ano09_tony_alt2_4d6c8210:
 translate chinese ano09_tony_alt2_a2f2f4a3:
 
     # anon a_hips @ e_b m_laugh "The Overcompensator!"
-    anon a_hips @ e_b m_laugh "过度补偿者！"
+    anon a_hips @ e_b m_laugh "矫枉过正者！"
 
 # game/src/plot/ano09.rpy:555
 translate chinese ano09_tony_alt2_49d3fbaf:
@@ -1594,7 +1594,7 @@ translate chinese ano09_tony_alt2_49d3fbaf:
 translate chinese ano09_tony_alt2_c4876276:
 
     # anon a_side f_worried "The Over-"
-    anon a_side f_worried "过度——"
+    anon a_side f_worried "矫枉——"
 
 # game/src/plot/ano09.rpy:558
 translate chinese ano09_tony_alt2_8fa2e151:
@@ -2068,7 +2068,7 @@ translate chinese ano09_tony_scooter_87f5fc36:
 translate chinese ano09_tony_scooter_6f45f2a8:
 
     # anon "Not only did I get fifteen percent off from their weekly deal..."
-    anon "不仅是因为他们的周促销给了我15%的折扣..."
+    anon "不仅是因为他们的周促销给了我八五折的折扣..."
 
 # game/src/plot/ano09.rpy:748
 translate chinese ano09_tony_scooter_2aa6c8ed:
@@ -2080,13 +2080,13 @@ translate chinese ano09_tony_scooter_2aa6c8ed:
 translate chinese ano09_tony_scooter_f1929a71:
 
     # anon "... But the girl at the dealership gave me a {i}very{/i} generous valuation for my trade-in."
-    anon "...而且车行的那个女孩给我的旧车估值{i}非常{/i}慷慨。"
+    anon "...而且车行的那个女孩给我的旧车估值{i}非常{/i}高。"
 
 # game/src/plot/ano09.rpy:753
 translate chinese ano09_tony_scooter_ca63e428:
 
     # anon "... But I got chunk off from my trade-in too."
-    anon "...而且我的旧车折价也打了个折扣。"
+    anon "...而且我的旧车折价也给了个高价。"
 
 # game/src/plot/ano09.rpy:755
 translate chinese ano09_tony_scooter_444cadc9:
@@ -2170,7 +2170,7 @@ translate chinese ano09_tony_scooter_c07a6fc6:
 translate chinese ano09_tony_scooter_1d2b2ff8:
 
     # anon "Yes, ma'am."
-    anon "是的，女士。"
+    anon "是的，夫人。"
 
 # game/src/plot/ano09.rpy:793
 translate chinese ano09_tony_scooter_f68ae979:

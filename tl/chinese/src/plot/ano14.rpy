@@ -94,7 +94,7 @@ translate chinese ano14_setup_maria_717477d4:
 translate chinese ano14_setup_tony_157a1d5b:
 
     # anon f_curious "So how far did you say you have to go for this meeting?"
-    anon f_curious "你说这次会议要去多远？"
+    anon f_curious "你说这次会面要去多远？"
 
 # game/src/plot/ano14.rpy:35
 translate chinese ano14_setup_tony_0e361c35:
@@ -388,7 +388,7 @@ translate chinese ano14_shop_d91a992e_5:
 translate chinese ano14_shop_a22289f9:
 
     # anon "What do you mean \"for this update\"?! That's not-"
-    anon "「这次更新」是什么意思？！那不是——"
+    anon "「这次升级」是什么意思？！那不是——"
 
 # game/src/plot/ano14.rpy:150
 translate chinese ano14_shop_16def446:

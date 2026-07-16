@@ -106,7 +106,7 @@ translate chinese tutor_hud_64dceacd:
 translate chinese tutor_hud_5166f5b2:
 
     # tutor "Money can be earned around Summerville by taking on certain jobs and tasks. As you may expect, it's mostly used for shopping."
-    tutor "通过在夏日镇周围从事某些工作和任务来赚钱。你可以预料到，这些钱主要用于购物。"
+    tutor "通过在夏日镇周围从事某些工作和任务来赚钱。正如你所料，这些钱主要用于购物。"
 
 # game/src/plot/+tutor.rpy:120
 translate chinese tutor_hud_490c62a2:

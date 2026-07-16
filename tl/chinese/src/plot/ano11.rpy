@@ -10,13 +10,13 @@ translate chinese ano11_shop_ed00ca91:
 translate chinese ano11_shop_6f5d96bc:
 
     # maria "... You shouldn't be so quick to dismiss the adoption thing."
-    maria "……你不该这么快就否决收养的事。"
+    maria "……你不该这么快就否决领养的事。"
 
 # game/src/plot/ano11.rpy:9
 translate chinese ano11_shop_ac48a1d5:
 
     # tony a_wave "I don't wanna hear another word about adoption!"
-    tony a_wave "我不想再听到任何关于收养的话！"
+    tony a_wave "我不想再听到任何关于领养的话！"
 
 # game/src/plot/ano11.rpy:10
 translate chinese ano11_shop_89814183:
@@ -40,7 +40,7 @@ translate chinese ano11_shop_5fb93797:
 translate chinese ano11_shop_d012cbfd:
 
     # tony a_wtf "Did you forget where Luigi and I grew up?"
-    tony a_wtf "你忘了路易吉和我在哪里长大的吗？"
+    tony a_wtf "你忘了Luigi和我在哪里长大的吗？"
 
 # game/src/plot/ano11.rpy:17
 translate chinese ano11_shop_f9ab0cd0:
@@ -364,7 +364,7 @@ translate chinese ano11_shop_fcfd98c6:
 translate chinese ano11_shop_60a11919:
 
     # tony "He's my protégé and I'm not sure he's ready for just {i}one{/i} girl."
-    tony "他是我的徒弟，我不确定他是否已经准备好只{i}和一个{/i}女孩交往。"
+    tony "他是我的门徒，我不确定他是否已经准备好只{i}和一个{/i}女孩交往。"
 
 # game/src/plot/ano11.rpy:120
 translate chinese ano11_shop_6122df17:
@@ -472,7 +472,7 @@ translate chinese ano11_shop_f81b3a00:
 translate chinese ano11_shop_a0b72146:
 
     # tina a_hips "Adoption would be perfect for you guys!"
-    tina a_hips "收养对你们来说太完美了！"
+    tina a_hips "领养对你们来说太完美了！"
 
 # game/src/plot/ano11.rpy:155
 translate chinese ano11_shop_38487b87:
@@ -556,7 +556,7 @@ translate chinese ano11_shop_e2450f6c:
 translate chinese ano11_shop_69f273c7:
 
     # anon a_salute f_calm "Y-yes, ma'am."
-    anon a_salute f_calm "是……是的，女士。"
+    anon a_salute f_calm "是……是的，夫人。"
 
 # game/src/plot/ano11.rpy:180
 translate chinese ano11_shop_a7db7ebf:
@@ -604,7 +604,7 @@ translate chinese ano11_shop_7b4c1503:
 translate chinese ano11_shop_867ff947:
 
     # tony a_fists_up f_sceptical o_right "Can't ya, champ?"
-    tony a_fists_up f_sceptical o_right "你能行吧，小伙子？"
+    tony a_fists_up f_sceptical o_right "你能行吧，冠军？"
 
 # game/src/plot/ano11.rpy:191
 translate chinese ano11_shop_f7731dad:
@@ -772,7 +772,7 @@ translate chinese ano11_flour_32542243:
 translate chinese ano11_flour_b4ce4a24:
 
     # maria "... Especially with all this pregnancy stuff [saga.cast.tony] and I are dealin' with."
-    maria "……尤其是我和[saga.cast.tony]正在处理的这些怀孕的事。"
+    maria "……尤其是我和[saga.cast.tony]正在处理的这怀孕的事。"
 
 # game/src/plot/ano11.rpy:265
 translate chinese ano11_flour_6cbb8649:
@@ -814,7 +814,7 @@ translate chinese ano11_flour_merge_cccf4203:
 translate chinese ano11_flour_merge_da8bace0:
 
     # tony "Who do you think you are, breakin' my fuckin' door?!"
-    tony "你以为你是谁，居然敢打断老子的门？！"
+    tony "你以为你是谁，居然敢打破老子的门？！"
 
 # game/src/plot/ano11.rpy:277
 translate chinese ano11_flour_merge_3641af64:
@@ -892,7 +892,7 @@ translate chinese ano11_flour_merge_edff41e6:
 translate chinese ano11_flour_merge_13ad9420:
 
     # dimitri a_point "Focus."
-    dimitri a_point "集中注意力。"
+    dimitri a_point "注意。"
 
 # game/src/plot/ano11.rpy:305
 translate chinese ano11_flour_merge_b9908278:
@@ -946,7 +946,7 @@ translate chinese ano11_flour_merge_a561b7e8:
 translate chinese ano11_flour_merge_4c51d63e:
 
     # dimitri "Big-time heavy for Rossi up in Brooklyn..."
-    dimitri "在布鲁克林为罗西卖命的大人物……"
+    dimitri "在布鲁克林为Rossi卖命的大人物……"
 
 # game/src/plot/ano11.rpy:317
 translate chinese ano11_flour_merge_0bcb9892:
@@ -1030,7 +1030,7 @@ translate chinese ano11_flour_merge_561d7079:
 translate chinese ano11_flour_merge_8599e20a:
 
     # tony a_fists_up "I got this!"
-    tony a_fists_up "我来！"
+    tony a_fists_up "我搞得定！"
 
 # game/src/plot/ano11.rpy:343
 translate chinese ano11_flour_merge_9ff6f227:
@@ -1042,13 +1042,13 @@ translate chinese ano11_flour_merge_9ff6f227:
 translate chinese ano11_flour_merge_77fe2ea0:
 
     # dimitri "This is not so smart, fat boy."
-    dimitri "这可不太聪明，胖小子。"
+    dimitri "这可不太聪明，死胖子。"
 
 # game/src/plot/ano11.rpy:346
 translate chinese ano11_flour_merge_7e0347f3:
 
     # tony "Back off, cream puff!"
-    tony "退后，奶油泡芙！"
+    tony "退后，你们这些懦夫！"
 
 # game/src/plot/ano11.rpy:348
 translate chinese ano11_flour_merge_a4c92112:
@@ -1072,7 +1072,7 @@ translate chinese ano11_flour_merge_9ffe504a:
 translate chinese ano11_flour_merge_80a66754:
 
     # maria "Get. "
-    maria "给。"
+    maria "滚。"
 
 # game/src/plot/ano11.rpy:359
 translate chinese ano11_flour_merge_4294d053:
@@ -1360,7 +1360,7 @@ translate chinese ano11_flour_merge_ae6459d6:
 translate chinese ano11_flour_merge_9768fd4e:
 
     # tony a_point f_calm "'Ey, cut that shit out, champ!"
-    tony a_point f_calm "嘿，别说这种屁话了，老弟！"
+    tony a_point f_calm "嘿，别说这种屁话了，冠军！"
 
 # game/src/plot/ano11.rpy:462
 translate chinese ano11_flour_merge_adfd2047:
@@ -1408,7 +1408,7 @@ translate chinese ano11_flour_merge_5615f4b6:
 translate chinese ano11_flour_merge_393ff9cb:
 
     # tony o_left "... Sorry, champ."
-    tony o_left "……抱歉，老弟。"
+    tony o_left "……抱歉，冠军。"
 
 # game/src/plot/ano11.rpy:475
 translate chinese ano11_flour_merge_94fdea37:
@@ -1486,13 +1486,13 @@ translate chinese ano11_flour_merge_23414190:
 translate chinese ano11_flour_merge_d11b6081:
 
     # anon "Why do they call him Four-Fingers?"
-    anon "为什么叫他'四指'？"
+    anon "为什么叫他四指？"
 
 # game/src/plot/ano11.rpy:491
 translate chinese ano11_flour_merge_40ccd466:
 
     # tony o_left "Because he's only got four fingers on his left hand, champ."
-    tony o_left "因为他左手只有四根手指，伙计。"
+    tony o_left "因为他左手只有四根手指，冠军。"
 
 # game/src/plot/ano11.rpy:492
 translate chinese ano11_flour_merge_13f5972e:
@@ -1702,7 +1702,7 @@ translate chinese ano11_flour_merge_d4c295f5:
 translate chinese ano11_flour_merge_a4b10f62:
 
     # tony "... She must have really taken a shine to you, champ."
-    tony "……她一定真的很喜欢你，小伙子。"
+    tony "……她一定真的很喜欢你，冠军。"
 
 # game/src/plot/ano11.rpy:537
 translate chinese ano11_flour_merge_83e0d498:
@@ -1744,7 +1744,7 @@ translate chinese ano11_flour_merge_df61674e:
 translate chinese ano11_flour_merge_af12ea4a:
 
     # tony "Uncle [saga.cast.tony]'s gonna get you through this."
-    tony "[saga.cast.tony]叔叔会帮你渡过难关的。"
+    tony "你[saga.cast.tony]叔叔会帮你渡过难关的。"
 
 # game/src/plot/ano11.rpy:548
 translate chinese ano11_flour_merge_65804523:
@@ -1870,7 +1870,7 @@ translate chinese ano11_flour_tony_cad171cf:
 translate chinese ano11_flour_tony_c3c078a8:
 
     # tony a_wtf "Well, you betta get to it, champ!"
-    tony a_wtf "那你最好快去，伙计！"
+    tony a_wtf "那你最好快去，冠军！"
 
 # game/src/plot/ano11.rpy:621
 translate chinese ano11_flour_tony_21b5ced9:
@@ -1946,4 +1946,4 @@ translate chinese strings:
 
     # game/src/plot/ano11.rpy:229
     old "Give it some welly!"
-    new "使劲儿干！"
+    new "使出吃奶的力气！"

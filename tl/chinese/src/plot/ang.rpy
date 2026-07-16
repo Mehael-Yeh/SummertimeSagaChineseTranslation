@@ -10,7 +10,7 @@ translate chinese ang_church_nave_intro_7f40b0c4:
 translate chinese ang_church_nave_intro_55523b83:
 
     # ang "Be welcome in the house of our lord."
-    ang "欢迎来到我们主的殿堂。"
+    ang "欢迎来到我主的教堂。"
 
 # game/src/plot/ang.rpy:28
 translate chinese ang_church_nave_intro_797ac872:
@@ -40,9 +40,9 @@ translate chinese strings:
 
     # game/src/plot/ang.rpy:5
     old "Linens."
-    new "亚麻布。"
+    new "亚麻布"
     # game/src/plot/ang.rpy:14
 
     # game/src/plot/ang.rpy:14
     old "I was just leaving."
-    new "我正要走了。"
+    new "我正要走。"

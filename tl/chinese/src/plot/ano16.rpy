@@ -130,7 +130,7 @@ translate chinese ano16_shop_256abd95:
 translate chinese ano16_shop_6b3922c4:
 
     # tony a_point_back "... I'm ya guy, capisce?"
-    tony a_point_back "...我就是你要找的人，懂吗？"
+    tony a_point_back "...你就是我要找的人，懂吗？"
 
 # game/src/plot/ano16.rpy:52
 translate chinese ano16_shop_157b5b90:
@@ -166,7 +166,7 @@ translate chinese ano16_shop_ee27b748:
 translate chinese ano16_shop_08f43012:
 
     # tony a_hips e_e "A tumble in the sack with my wife is bound to make a man forget a few things!"
-    tony a_hips e_e "跟我老婆滚一次床单，准能让男人忘掉几件事！"
+    tony a_hips e_e "跟我老婆在床上翻云覆雨一番，准能让男人忘掉几件事！"
 
 # game/src/plot/ano16.rpy:65
 translate chinese ano16_shop_3be9e3c7:
@@ -202,7 +202,7 @@ translate chinese ano16_shop_ec81fe0b:
 translate chinese ano16_shop_e689f049:
 
     # maria "I don't want the kid goin' anywhere near those animals!"
-    maria "我不想让那孩子靠近那些动物！"
+    maria "我不想让那孩子靠近那群畜生！"
 
 # game/src/plot/ano16.rpy:77
 translate chinese ano16_shop_7fc9c66e:

@@ -321,8 +321,8 @@ translate chinese ano01_debbie_c6aaf323:
 # game/src/plot/ano01.rpy:118
 translate chinese ano01_debbie_e7f56498:
 
-    # debbie "She asked if you might be willing?"
-    debbie "她问你是否愿意？"
+    # debbie "She asked if you might be willing to help?"
+    debbie "她问你是否愿意去帮忙？"
 
 # game/src/plot/ano01.rpy:119
 translate chinese ano01_debbie_8ac90aff:
@@ -376,7 +376,7 @@ translate chinese ano01_debbie_56601303:
 translate chinese ano01_debbie_f0bedc28:
 
     # debbie "But your father would want you to carry on, you know?"
-    debbie "但你父亲一定希望你继续前进，你明白吗？"
+    debbie "但你父亲一定希望你坚持下去，你明白吗？"
 
 # game/src/plot/ano01.rpy:130
 translate chinese ano01_debbie_280953f3:
@@ -502,7 +502,7 @@ translate chinese ano01_tammys_rails_72a58263:
 translate chinese ano01_tammys_rails_58324d66:
 
     # anon @ -m_talk "( I hope he's not still sleeping... )"
-    anon @ -m_talk "(希望他还没睡...)"
+    anon @ -m_talk "(希望他已经醒了...)"
 
 # game/src/plot/ano01.rpy:224
 translate chinese ano01_erik_18c5db72:
@@ -646,7 +646,7 @@ translate chinese ano01_erik_6bc22aa8:
 translate chinese ano01_erik_1527ec43:
 
     # anon f_calm "And your landlady is okay with you having this?"
-    anon f_calm "你的房东太太允许你养这个？"
+    anon f_calm "你的房东太太允许你玩这个？"
 
 # game/src/plot/ano01.rpy:254
 translate chinese ano01_erik_a2b2c9c1:
@@ -736,7 +736,7 @@ translate chinese ano01_erik_5d8d92d9:
 translate chinese ano01_erik_5579ef83:
 
     # tammy a_hips f_annoyed @ e_r "Of course I cut the crusts off; You think I dunno how to take care of my little puddin' face?!"
-    tammy a_hips f_annoyed @ e_r "我当然切了面包边；你以为我不知道怎么照顾我的娃娃脸脸吗？！"
+    tammy a_hips f_annoyed @ e_r "我当然切了面包边；你以为我不知道怎么照顾我的小饼脸吗？！"
 
 # game/src/plot/ano01.rpy:284
 translate chinese ano01_erik_c68499ae:
@@ -808,7 +808,7 @@ translate chinese ano01_erik_4364d808:
 translate chinese ano01_erik_4a620a12:
 
     # erik "Yeah, that's great [saga.cast.tammy]."
-    erik "是啊，那太好了 [saga.cast.tammy]。"
+    erik "是啊，那太好了[saga.cast.tammy]。"
 
 # game/src/plot/ano01.rpy:299
 translate chinese ano01_erik_a68e5439:
@@ -832,7 +832,7 @@ translate chinese ano01_erik_79201df1:
 translate chinese ano01_erik_464a316e:
 
     # tammy a_pinch_cheek "Not before I get some lovin' from my little puddin' face!"
-    tammy a_pinch_cheek "在我得到我的娃娃脸脸的爱之前，别想走！"
+    tammy a_pinch_cheek "在我得到我的小饼脸的爱之前，别想走！"
 
 # game/src/plot/ano01.rpy:304
 translate chinese ano01_erik_a4c79e9f:
@@ -1156,7 +1156,7 @@ translate chinese ano01_mia_1861b41b:
 translate chinese ano01_mia_c37e468a:
 
     # erik e_sw "Once you're inside, the scoreboard goes crazy!"
-    erik e_sw "一旦你进入，计分板就会疯狂！"
+    erik e_sw "一旦你插进去，计分就会疯涨！"
 
 # game/src/plot/ano01.rpy:448
 translate chinese ano01_mia_67df2937:
@@ -1426,7 +1426,7 @@ translate chinese ano01_roxxy_dc4b61cc:
 translate chinese ano01_roxxy_aec2aa90:
 
     # roxxy f_horny @ f_cynical "... And what are {i}you{/i} laughing at?"
-    roxxy f_horny @ f_cynical "……而你{i}又{/i}在笑什么？"
+    roxxy f_horny @ f_cynical "……而{i}你{/i}又在笑什么？"
 
 # game/src/plot/ano01.rpy:543
 translate chinese ano01_roxxy_632154dd:
@@ -1594,7 +1594,7 @@ translate chinese ano01_roxxy_8dcba5d1:
 translate chinese ano01_roxxy_f6b8852c:
 
     # erik "Man, she's pure evil..."
-    erik "天啊，她简直是个纯种恶魔……"
+    erik "天啊，她简直是个纯粹的恶魔……"
 
 # game/src/plot/ano01.rpy:590
 translate chinese ano01_roxxy_a0cb1c78:
@@ -1918,7 +1918,7 @@ translate chinese ano01_kevin_a130b06b:
 translate chinese ano01_kevin_40170f0a:
 
     # kevin "The people demand beefcake, not sweet cake!"
-    kevin "大家要的是肌肉猛男，不是亲爱的蛋糕！"
+    kevin "大家要的是肌肉猛男，不是甜品蛋糕！"
 
 # game/src/plot/ano01.rpy:674
 translate chinese ano01_kevin_896893a2:
@@ -1942,7 +1942,7 @@ translate chinese ano01_kevin_0f01e50f:
 translate chinese ano01_kevin_2aa22ea1:
 
     # kevin "Who knows, you might even be able to whoop [saga.cast.dexter]'s ass once you've got a few classes under your belt."
-    kevin "谁知道呢，等你上了几节课，说不定还能揍 [saga.cast.dexter] 一顿。"
+    kevin "谁知道呢，等你上了几节课，说不定还能揍[saga.cast.dexter]一顿。"
 
 # game/src/plot/ano01.rpy:679
 translate chinese ano01_kevin_b375817b:
@@ -1960,7 +1960,7 @@ translate chinese ano01_kevin_eaa9045c:
 translate chinese ano01_kevin_71ce5bce:
 
     # anon "[saga.cast.ursula] is waiting on me upstairs in her office."
-    anon "[saga.cast.ursula] 在楼上办公室等我。"
+    anon "[saga.cast.ursula]在楼上办公室等我。"
 
 # game/src/plot/ano01.rpy:683
 translate chinese ano01_kevin_25d08f9d:
@@ -1996,7 +1996,7 @@ translate chinese ano01_kevin_c6e322d8:
 translate chinese ano01_kevin_rails_d3197f74:
 
     # anon @ -m_talk "( [saga.cast.ursula] wanted to see me in her office, up on the third floor. )"
-    anon @ -m_talk "( [saga.cast.ursula] 在三楼办公室要见我。)"
+    anon @ -m_talk "([saga.cast.ursula]在三楼办公室要见我。)"
 
 # game/src/plot/ano01.rpy:698
 translate chinese ano01_kevin_rails_eb6269e9:
@@ -2224,7 +2224,7 @@ translate chinese ano01_ursula_d2ca2a92:
 translate chinese ano01_ursula_rails_18244df0:
 
     # anon @ -m_talk "( [saga.cast.ursula] wanted to see me in her office. )"
-    anon @ -m_talk "([saga.cast.ursula] 想在她的办公室见我。)"
+    anon @ -m_talk "([saga.cast.ursula]想在她的办公室见我。)"
 
 # game/src/plot/ano01.rpy:769
 translate chinese ano01_ursula_rails_c32fa95b:
@@ -3034,7 +3034,7 @@ translate chinese ano01_viv_c69241f2:
 translate chinese ano01_viv_47648993:
 
     # viv "I'm implementing a new learning opportunity for those trying to catch up."
-    viv "我正在为那些想赶上的学生实施一个新的学习机会。"
+    viv "我正在为那些想赶上成绩的学生安排一个新的学习机会。"
 
 # game/src/plot/ano01.rpy:1113
 translate chinese ano01_viv_6f323b5a:
@@ -3448,7 +3448,7 @@ translate chinese ano01_viv_74ce5285:
 translate chinese ano01_viv_a8042b45:
 
     # eve "Seriously [saga.cast.anon], if you ever need a pick me up come see me at the park."
-    eve "说真的 [saga.cast.anon]，你要是哪天需要打气，就到公园来找我吧。"
+    eve "说真的[saga.cast.anon]，你要是哪天需要打气，就到公园来找我吧。"
 
 # game/src/plot/ano01.rpy:1233
 translate chinese ano01_viv_d725ea88:
@@ -3484,7 +3484,7 @@ translate chinese ano01_viv_fdbdfd4f:
 translate chinese ano01_viv_ae0ccdbb:
 
     # eve "[saga.cast.barb] had some art project she wanted to talk to me about..."
-    eve "[saga.cast.barb] 有个艺术项目想跟我聊聊……"
+    eve "[saga.cast.barb]有个艺术项目想跟我聊聊……"
 
 # game/src/plot/ano01.rpy:1243
 translate chinese ano01_viv_c6e322d8:
@@ -3622,7 +3622,7 @@ translate chinese ano01_outro_fb8574dc:
 translate chinese ano01_outro_bf53209b:
 
     # erik "Hmmm... I usually shop for parts at Consum-R in the mall."
-    erik "嗯……我通常在商场的 Consum-R 买零件。"
+    erik "嗯……我通常在商场的Consum-R买零件。"
 
 # game/src/plot/ano01.rpy:1287
 translate chinese ano01_outro_d5963f25:

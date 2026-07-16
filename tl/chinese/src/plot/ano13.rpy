@@ -130,7 +130,7 @@ translate chinese ano13_delay1_tony_1f85460d:
 translate chinese ano13_delay1_tony_4ee84efc:
 
     # tony "Come back once the sun starts goin' down, champ."
-    tony "等太阳下山了再回来吧，小子。"
+    tony "等太阳下山了再回来吧，冠军。"
 
 # game/src/plot/ano13.rpy:72
 translate chinese ano13_shop1_d8c4acaa:
@@ -178,7 +178,7 @@ translate chinese ano13_shop1_561d7079:
 translate chinese ano13_shop1_8a2f6fd0:
 
     # tony a_side o_right "Hey there, champ!"
-    tony a_side o_right "嘿，小子！"
+    tony a_side o_right "嘿，冠军！"
 
 # game/src/plot/ano13.rpy:84
 translate chinese ano13_shop1_4374e69c:
@@ -256,7 +256,7 @@ translate chinese ano13_shop1_084502d6:
 translate chinese ano13_shop1_60a448b1:
 
     # tony e_e "Back me up here, champ!"
-    tony e_e "帮我说话啊，小子！"
+    tony e_e "帮我说话啊，冠军！"
 
 # game/src/plot/ano13.rpy:98
 translate chinese ano13_shop1_7fe6a8f9:
@@ -550,7 +550,7 @@ translate chinese ano13_shop1_68a861c3:
 translate chinese ano13_shop1_aebbbb33:
 
     # tony "While we're off jumpin' through hoops for this adoption business..."
-    tony "趁我们忙着办收养手续的时候……"
+    tony "趁我们忙着办领养手续的时候……"
 
 # game/src/plot/ano13.rpy:172
 translate chinese ano13_shop1_7e664699:
@@ -628,7 +628,7 @@ translate chinese ano13_shop1_79d4e990:
 translate chinese ano13_shop1_32babd25:
 
     # tony a_point_up "But this customer is a regular for us, and just so happens to know where my old pal, Eddie Four-Fingers, is hidin' out."
-    tony a_point_up "不过这位顾客是我们的熟客，而且正好知道我的老伙计‘Eddie·四指’藏在哪里。"
+    tony a_point_up "不过这位顾客是我们的熟客，而且正好知道我的老伙计Eddie·四指藏在哪里。"
 
 # game/src/plot/ano13.rpy:197
 translate chinese ano13_shop1_a0a82e5f:
@@ -640,7 +640,7 @@ translate chinese ano13_shop1_a0a82e5f:
 translate chinese ano13_shop1_db959ff5:
 
     # anon "Isn't that the guy with the intel on the Russians?"
-    anon "不就是那个有俄罗斯人情报的家伙吗？"
+    anon "不就是那个有俄国佬情报的家伙吗？"
 
 # game/src/plot/ano13.rpy:199
 translate chinese ano13_shop1_72399f13:
@@ -748,7 +748,7 @@ translate chinese ano13_shop1_eb780b0f_1:
 translate chinese ano13_shop1_4de20a45:
 
     # tony e_w -m_laugh "All you gotta do is deliver the pie and then follow their directions..."
-    tony e_w -m_laugh "你只需要把派送到，然后听他们的指示就行..."
+    tony e_w -m_laugh "你只需要把披萨送到，然后听他们的指示就行..."
 
 # game/src/plot/ano13.rpy:230
 translate chinese ano13_shop1_1200d996:
@@ -814,7 +814,7 @@ translate chinese ano13_shop1_7f83e673:
 translate chinese ano13_shop1_73fab975:
 
     # tony "And remember, champ..."
-    tony "记住，伙计..."
+    tony "记住，冠军..."
 
 # game/src/plot/ano13.rpy:245
 translate chinese ano13_shop1_2ba04e42:
@@ -1216,7 +1216,7 @@ translate chinese ano13_lounge_a87529b2:
 translate chinese ano13_lounge_caf19084:
 
     # tina @ e_b f_happy m_laugh "Heh, it was Luigi's favorite and now it's my daughter's as well."
-    tina @ e_b f_happy m_laugh "呵呵，这是路易吉的最爱，现在也是我女儿的最爱了。"
+    tina @ e_b f_happy m_laugh "呵呵，这是Luigi的最爱，现在也是我女儿的最爱了。"
 
 # game/src/plot/ano13.rpy:431
 translate chinese ano13_lounge_69627589:
@@ -1360,7 +1360,7 @@ translate chinese ano13_lounge_2b5bf2f5:
 translate chinese ano13_lounge_425aa493:
 
     # anon a_side "No, ma'am."
-    anon a_side "没有，女士。"
+    anon a_side "没有，夫人。"
 
 # game/src/plot/ano13.rpy:469
 translate chinese ano13_lounge_22a55656:
@@ -1714,7 +1714,7 @@ translate chinese ano13_lounge_3559a1b0:
 translate chinese ano13_lounge_b6ee7f17:
 
     # tina "I want you to fuck me with this."
-    tina "我想让你用这个操我。"
+    tina "我想让你用这个肏我。"
 
 # game/src/plot/ano13.rpy:603
 translate chinese ano13_lounge_811f93b2:
@@ -1732,7 +1732,7 @@ translate chinese ano13_lounge_c75e840a:
 translate chinese ano13_lounge_3761619d:
 
     # anon a_towel e_w f_shy "Which way to the bedroom?"
-    anon a_towel e_w f_shy "卧室怎么走？"
+    anon a_towel e_w f_shy "卧室在哪边？"
 
 # game/src/plot/ano13.rpy:615
 translate chinese ano13_lounge_ab8571df:
@@ -1960,7 +1960,7 @@ translate chinese ano13_lounge_e23bcabd:
 translate chinese ano13_lounge_3b838186:
 
     # anon "[saga.cast.tina] I can't-"
-    anon "[saga.cast.tina] 我不行了——"
+    anon "[saga.cast.tina]我不行了——"
 
 # game/src/plot/ano13.rpy:684
 translate chinese ano13_lounge_76bb4e1c:
@@ -2038,13 +2038,13 @@ translate chinese ano13_lounge_merge_ba21a236:
 translate chinese ano13_lounge_merge_c7c63722:
 
     # tina "Vigorous?"
-    tina "激烈吗？"
+    tina "爽吗？"
 
 # game/src/plot/ano13.rpy:712
 translate chinese ano13_lounge_merge_c2808c5b:
 
     # anon "Y-yeah."
-    anon "是、是啊。"
+    anon "是……是啊。"
 
 # game/src/plot/ano13.rpy:713
 translate chinese ano13_lounge_merge_cfff820d:
@@ -2200,7 +2200,7 @@ translate chinese ano13_lounge_merge_df548172:
 translate chinese ano13_lounge_merge_8a18ca28:
 
     # tina "Rebecca!"
-    tina "[saga.cast.becca]！"
+    tina "Rebecca！"
 
 # game/src/plot/ano13.rpy:784
 translate chinese ano13_lounge_merge_9b6c6f84:
@@ -2326,7 +2326,7 @@ translate chinese ano13_lounge_merge_425ceb47:
 translate chinese ano13_lounge_merge_45cfa19b:
 
     # becca a_hip f_surprised "I mean, he's [saga.cast.roxxy]'s boyfriend!"
-    becca a_hip f_surprised "我是说，他是[saga.cast.roxxy]的男朋友！"
+    becca a_hip f_surprised "我是说，他是[saga.cast.roxxy]的男友！"
 
 # game/src/plot/ano13.rpy:829
 translate chinese ano13_lounge_merge_4f537d0a:
@@ -2428,7 +2428,7 @@ translate chinese ano13_lounge_merge_67796a2d:
 translate chinese ano13_lounge_merge_14be9c0b:
 
     # tina a_upset_point_back "RIGHT NOW, REBECCA!!"
-    tina a_upset_point_back "就现在，Rebecca！！"
+    tina a_upset_point_back "就现在，REBECCA！！"
 
 # game/src/plot/ano13.rpy:861
 translate chinese ano13_lounge_merge_cad29668:
@@ -2680,7 +2680,7 @@ translate chinese ano13_shop2_f6143f31:
 translate chinese ano13_shop2_49e9310c:
 
     # tony f_calm @ e_b f_happy m_laugh "Hah, that's exactly what Luigi woulda said!"
-    tony f_calm @ e_b f_happy m_laugh "哈，这正是路易吉会说的话！"
+    tony f_calm @ e_b f_happy m_laugh "哈，这正是Luigi会说的话！"
 
 # game/src/plot/ano13.rpy:1006
 translate chinese ano13_shop2_43c19d41:
@@ -2806,7 +2806,7 @@ translate chinese ano13_shop2_52810a6b:
 translate chinese ano13_shop2_89ea58f7:
 
     # tony "I like your style, champ!"
-    tony "我喜欢你的风格，小子！"
+    tony "我喜欢你的风格，冠军！"
 
 # game/src/plot/ano13.rpy:1054
 translate chinese ano13_shop2_5ec8a8cb:
@@ -2842,13 +2842,13 @@ translate chinese ano13_shop2_b9b7d77a:
 translate chinese ano13_shop2_e24dc0d8:
 
     # anon "Ten stretch?"
-    anon "十项伸展？"
+    anon "十年刑？"
 
 # game/src/plot/ano13.rpy:1060
 translate chinese ano13_shop2_380a1b24:
 
     # tony f_sceptical "He's in prison, champ."
-    tony f_sceptical "他坐牢了，老弟。"
+    tony f_sceptical "他坐牢了，冠军。"
 
 # game/src/plot/ano13.rpy:1061
 translate chinese ano13_shop2_f73e5607:
@@ -2932,7 +2932,7 @@ translate chinese ano13_shop2_c61f3411:
 translate chinese ano13_shop2_213f1c21:
 
     # tony "You're as good as family, champ."
-    tony "你就跟家人一样，小伙子。"
+    tony "你就跟家人一样，冠军。"
 
 # game/src/plot/ano13.rpy:1081
 translate chinese ano13_shop2_de378fd7:
@@ -2950,7 +2950,7 @@ translate chinese ano13_shop2_7652e64c:
 translate chinese ano13_shop2_b90ca40e:
 
     # anon a_palm "Hey, speaking of family; how did things go with the adoption agency?"
-    anon a_palm "嘿，说到家人；收养机构那边怎么样了？"
+    anon a_palm "嘿，说到家人；领养机构那边怎么样了？"
 
 # game/src/plot/ano13.rpy:1085
 translate chinese ano13_shop2_8eaf9fd7:
@@ -3106,7 +3106,7 @@ translate chinese ano13_shop2_81036fb9:
 translate chinese ano13_shop2_6f659050:
 
     # anon "I mean, maybe I could go talk to this adoption lady and-"
-    anon "我是说，也许我可以去和那个收养负责人谈谈——"
+    anon "我是说，也许我可以去和那个领养负责人谈谈——"
 
 # game/src/plot/ano13.rpy:1121
 translate chinese ano13_shop2_2edfcf7c:
@@ -3124,7 +3124,7 @@ translate chinese ano13_shop2_f8205f9e:
 translate chinese ano13_shop2_02cf16e9:
 
     # tony "I appreciate it, champ, but we don't want you doin' that."
-    tony "谢了，孩子，但我们不想让你这么做。"
+    tony "谢了，冠军，但我们不想让你这么做。"
 
 # game/src/plot/ano13.rpy:1126
 translate chinese ano13_shop2_295290a6:
@@ -3196,13 +3196,13 @@ translate chinese ano13_shop2_1369941a:
 translate chinese ano13_shop2_4c1f5b95:
 
     # anon a_salute "You got it, boss."
-    anon a_salute "放心吧，头儿。"
+    anon a_salute "放心吧，老板。"
 
 # game/src/plot/ano13.rpy:1144
 translate chinese ano13_shop2_38632827:
 
     # tony @ f_happy "Thanks, champ."
-    tony @ f_happy "谢了，好伙计。"
+    tony @ f_happy "谢了，冠军。"
 
 # game/src/plot/ano13.rpy:1146
 translate chinese ano13_shop2_9483e19f:

@@ -34,13 +34,13 @@ translate chinese ano15_shop1_be9abc16:
 translate chinese ano15_shop1_85146a08:
 
     # maria a_fold "That's not how it's done and you know it!"
-    maria a_fold "你知道那根本不是这么做的！"
+    maria a_fold "事情根本不是这样的，你知道的！"
 
 # game/src/plot/ano15.rpy:11
 translate chinese ano15_shop1_6564e6b5:
 
     # tony "Pfft, the only thing I know is that we can't afford it, [saga.cast.maria]!"
-    tony "切，我只知道我们付不起那个钱，[saga.cast.maria]！"
+    tony "啐，我只知道我们付不起那个钱，[saga.cast.maria]！"
 
 # game/src/plot/ano15.rpy:12
 translate chinese ano15_shop1_7835541d:
@@ -238,7 +238,7 @@ translate chinese ano15_shop1_95aa54fc:
 translate chinese ano15_shop1_6e6c4762:
 
     # tony a_pocket e_s f_sad "I know that, champ..."
-    tony a_pocket e_s f_sad "我知道，小子……"
+    tony a_pocket e_s f_sad "我知道，冠军……"
 
 # game/src/plot/ano15.rpy:71
 translate chinese ano15_shop1_d2fac449:
@@ -304,7 +304,7 @@ translate chinese ano15_shop1_eb780b0f:
 translate chinese ano15_shop1_68be2374:
 
     # tony a_hips "Promise me, champ... Otherwise I'm throwin' that address down the garbage disposal."
-    tony a_hips "答应我，小子……否则我就把那地址扔进垃圾处理器。"
+    tony a_hips "答应我，冠军……否则我就把那地址扔进垃圾处理器。"
 
 # game/src/plot/ano15.rpy:90
 translate chinese ano15_shop1_cb7b62ad:
@@ -334,7 +334,7 @@ translate chinese ano15_shop1_1e4caf17:
 translate chinese ano15_shop1_6e6e9d45:
 
     # tony a_hips "... I'd like you to shtup my wife."
-    tony a_hips "……我希望你和我老婆上床。"
+    tony a_hips "……我希望你来满足我的老婆。"
 
 # game/src/plot/ano15.rpy:100
 translate chinese ano15_shop1_f79c204b:
@@ -346,7 +346,7 @@ translate chinese ano15_shop1_f79c204b:
 translate chinese ano15_shop1_ae740484:
 
     # tony "You know, churn her butter."
-    tony "你知道，搅动她的黄油。"
+    tony "你懂的，搅拌她的黄油。"
 
 # game/src/plot/ano15.rpy:104
 translate chinese ano15_shop1_e3ad72ce:
@@ -358,7 +358,7 @@ translate chinese ano15_shop1_e3ad72ce:
 translate chinese ano15_shop1_06c75b7c:
 
     # tony f_sceptical @ f_confused "Do the mattress dance."
-    tony f_sceptical @ f_confused "在床上跳舞。"
+    tony f_sceptical @ f_confused "在床垫上跳舞。"
 
 # game/src/plot/ano15.rpy:108
 translate chinese ano15_shop1_eb780b0f_1:
@@ -376,13 +376,13 @@ translate chinese ano15_shop1_055a29f0:
 translate chinese ano15_shop1_6bd24c6d:
 
     # tony a_point_hands e_e o_left "Put a pizza in her oven?"
-    tony a_point_hands e_e o_left "在她炉子里放个披萨？"
+    tony a_point_hands e_e o_left "把你的比萨饼放进她的烤箱？"
 
 # game/src/plot/ano15.rpy:114
 translate chinese ano15_shop1_a638f912:
 
     # anon a_up e_w "Oh, I dunno [saga.cast.tony], she always yells at me if I get too close to the ovens..."
-    anon a_up e_w "哦，我不知道[saga.cast.tony]，如果我靠炉子太近她总是冲我嚷嚷……"
+    anon a_up e_w "哦，我不知道[saga.cast.tony]，如果我离烤箱太近她总是冲我嚷嚷……"
 
 # game/src/plot/ano15.rpy:116
 translate chinese ano15_shop1_ca759756:
@@ -394,7 +394,7 @@ translate chinese ano15_shop1_ca759756:
 translate chinese ano15_shop1_747b1fed:
 
     # tony a_wtf e_w f_sceptical "Kid, I want you to pump a baby into her..."
-    tony a_wtf e_w f_sceptical "小子，我要你让她怀上孩子……"
+    tony a_wtf e_w f_sceptical "孩子，我想要你来让她受孕……"
 
 # game/src/plot/ano15.rpy:121
 translate chinese ano15_shop1_95d7c8ad:
@@ -418,7 +418,7 @@ translate chinese ano15_shop1_d63dba54:
 translate chinese ano15_shop1_fbac0db5:
 
     # anon "... H-have sex... With [saga.cast.maria]?"
-    anon "……和、和你……做爱…… [saga.cast.maria]？"
+    anon "……和、和[saga.cast.maria]做……做爱？"
 
 # game/src/plot/ano15.rpy:127
 translate chinese ano15_shop1_43469392:
@@ -448,7 +448,7 @@ translate chinese ano15_shop1_b4e394f3:
 translate chinese ano15_shop1_1d0e923e:
 
     # tony a_wtf f_angry "Somethin' wrong with my wife?!"
-    tony a_wtf f_angry "我老婆有什么问题吗？！"
+    tony a_wtf f_angry "是我老婆不够漂亮吗？！"
 
 # game/src/plot/ano15.rpy:136
 translate chinese ano15_shop1_85d2b52d:
@@ -472,13 +472,13 @@ translate chinese ano15_shop1_2bb7284b:
 translate chinese ano15_shop1_315ea72a:
 
     # tony o_left @ a_calm_down "Damnit, [saga.cast.maria]!"
-    tony o_left @ a_calm_down "该死，[saga.cast.maria]！"
+    tony o_left @ a_calm_down "闭嘴，[saga.cast.maria]！"
 
 # game/src/plot/ano15.rpy:145
 translate chinese ano15_shop1_40c8271d:
 
     # tony "Your biggest problem with the sperm donation, besides the fact that we can't fuckin' afford it, is that you don't want some stranger's stuff goin' up there!"
-    tony "你对捐精最大的问题，除了我们他妈的根本负担不起之外，就是你不想让某个陌生人的东西进到那里去！"
+    tony "你对捐精最大的问题，除了我们他妈的根本负担不起之外，就是你不想让某个陌生人的精子进到你的阴道！"
 
 # game/src/plot/ano15.rpy:146
 translate chinese ano15_shop1_7835541d_1:
@@ -490,7 +490,7 @@ translate chinese ano15_shop1_7835541d_1:
 translate chinese ano15_shop1_12b9426b:
 
     # tony a_point o_right "And you!"
-    tony a_point o_right "还有你！"
+    tony a_point o_right "而你！"
 
 # game/src/plot/ano15.rpy:149
 translate chinese ano15_shop1_975fcebf:
@@ -514,7 +514,7 @@ translate chinese ano15_shop1_d178f5ef:
 translate chinese ano15_shop1_ca64d275:
 
     # tony o_left "'Cause I'm tellin' you both right now... This is the only way we're gettin' a baby."
-    tony o_left "因为我现在就告诉你们俩……这是我们得到孩子的唯一办法。"
+    tony o_left "因为我现在就告诉你们俩……这是我们拥有孩子的唯一办法。"
 
 # game/src/plot/ano15.rpy:154
 translate chinese ano15_shop1_7835541d_2:
@@ -532,7 +532,7 @@ translate chinese ano15_shop1_eb780b0f_2:
 translate chinese ano15_shop1_0d482f8c:
 
     # tony "I need you to do this for me, champ."
-    tony "我需要你为我做这件事，好小子。"
+    tony "我需要你为我做这件事，冠军。"
 
 # game/src/plot/ano15.rpy:162
 translate chinese ano15_shop1_63f2d6d4:
@@ -616,7 +616,7 @@ translate chinese ano15_shop1_23d6fc14:
 translate chinese ano15_shop1_96e19409:
 
     # tony a_point_hands e_sw "[saga.cast.tina] said he was great in the sack, remember?"
-    tony a_point_hands e_sw "[saga.cast.tina] 说过他很擅长床上功夫，记得吗？"
+    tony a_point_hands e_sw "[saga.cast.tina]说过他很擅长床上功夫，记得吗？"
 
 # game/src/plot/ano15.rpy:201
 translate chinese ano15_shop1_435e4709:
@@ -682,13 +682,13 @@ translate chinese ano15_shop1_0d67481c:
 translate chinese ano15_shop1_1974ce7c:
 
     # tony f_sad "[saga.cast.anon] is more than an employee, [saga.cast.maria]..."
-    tony f_sad "[saga.cast.anon] 不只是一个员工，[saga.cast.maria]……"
+    tony f_sad "[saga.cast.anon]不只是一个员工，[saga.cast.maria]……"
 
 # game/src/plot/ano15.rpy:219
 translate chinese ano15_shop1_f05eb0b5:
 
     # tony "... He's practically a son to me."
-    tony "……他对我来说就像儿子一样。"
+    tony "……他对我来说就像亲生儿子一样。"
 
 # game/src/plot/ano15.rpy:221
 translate chinese ano15_shop1_a407a46f:
@@ -700,7 +700,7 @@ translate chinese ano15_shop1_a407a46f:
 translate chinese ano15_shop1_43a9814a:
 
     # tony f_calm "C'mon, darlin'... this is the way and you know it!"
-    tony f_calm "来吧，亲爱的……这是正途，你知道的！"
+    tony f_calm "来吧，亲爱的……这是唯一的办法，你知道的！"
 
 # game/src/plot/ano15.rpy:223
 translate chinese ano15_shop1_530ff153:
@@ -712,7 +712,7 @@ translate chinese ano15_shop1_530ff153:
 translate chinese ano15_shop1_dc0c8225:
 
     # tony "We're talkin' about {i}our{/i} baby, [saga.cast.maria]!"
-    tony "我们在谈论{i}我们的{/i}孩子，[saga.cast.maria]！"
+    tony "我们在谈论{i}我们自己的{/i}孩子，[saga.cast.maria]！"
 
 # game/src/plot/ano15.rpy:226
 translate chinese ano15_shop1_f505ec85:
@@ -904,7 +904,7 @@ translate chinese ano15_shop1_7e7b10f6:
 translate chinese ano15_shop1_6334aaf4:
 
     # anon @ -m_talk "( I can't think of anyone who would make better parents than [saga.cast.tony] and [saga.cast.maria]. )"
-    anon @ -m_talk "(我想不出谁会比 [saga.cast.tony] 和 [saga.cast.maria] 更适合做父母。)"
+    anon @ -m_talk "(我想不出谁会比[saga.cast.tony]和[saga.cast.maria]更适合做父母。)"
 
 # game/src/plot/ano15.rpy:294
 translate chinese ano15_shop1_c10e3e79:
@@ -922,13 +922,13 @@ translate chinese ano15_shop1_140e3ea1:
 translate chinese ano15_shop1_b3f23802:
 
     # anon @ -m_talk "( I'll just come back later tonight and get it done. )"
-    anon @ -m_talk "(我今晚晚点再回来搞定它。)"
+    anon @ -m_talk "(我今晚晚点再回来完成这件事。)"
 
 # game/src/plot/ano15.rpy:309
 translate chinese ano15_shop1_lounge1_bca3ac64:
 
     # "*Knock* *Knock*"
-    "*叩叩* *叩叩*"
+    "*敲* *敲*"
 
 # game/src/plot/ano15.rpy:312
 translate chinese ano15_shop1_lounge1_62c3574b:
@@ -946,7 +946,7 @@ translate chinese ano15_shop1_lounge1_bca3ac64_1:
 translate chinese ano15_shop1_lounge1_0f6451d0:
 
     # anon f_confused @ -m_talk "( C'mon [saga.cast.tony]... I really want that info. )"
-    anon f_confused @ -m_talk "(快点吧 [saga.cast.tony]... 我真的很想要那份情报。)"
+    anon f_confused @ -m_talk "(快点吧[saga.cast.tony]... 我真的很想要那份情报。)"
 
 # game/src/plot/ano15.rpy:319
 translate chinese ano15_shop1_lounge1_bca3ac64_2:
@@ -976,7 +976,7 @@ translate chinese ano15_shop1_lounge1_56f83a69:
 translate chinese ano15_shop1_lounge1_edfa864c:
 
     # tony a_side f_surprised "Oh, hey champ."
-    tony a_side f_surprised "哦，嘿，老弟。"
+    tony a_side f_surprised "哦，嘿，冠军。"
 
 # game/src/plot/ano15.rpy:333
 translate chinese ano15_shop1_lounge1_4bf00a3c:
@@ -1030,7 +1030,7 @@ translate chinese ano15_shop1_lounge1_2a79395c:
 translate chinese ano15_shop1_lounge1_a811e4eb:
 
     # maria "Tell whoever that is ta fuck off and get yer butt back in here!"
-    maria "让那家伙滚蛋，然后把你那屁股给我弄回来！"
+    maria "叫那家伙滚蛋，然后你赶紧给我滚回来！"
 
 # game/src/plot/ano15.rpy:351
 translate chinese ano15_shop1_lounge1_0f4ab2ed:
@@ -1054,7 +1054,7 @@ translate chinese ano15_shop1_lounge1_01c63a55:
 translate chinese ano15_shop1_lounge1_92f79089:
 
     # tony a_hips e_w f_confused "Is this somethin' that can wait, champ?"
-    tony a_hips e_w f_confused "这事儿能等等吗，伙计？"
+    tony a_hips e_w f_confused "这事儿能等等吗，冠军？"
 
 # game/src/plot/ano15.rpy:355
 translate chinese ano15_shop1_lounge1_eb02879a:
@@ -1078,7 +1078,7 @@ translate chinese ano15_shop1_lounge1_0f198608:
 translate chinese ano15_shop1_lounge1_bc54bd98:
 
     # tony f_happy "Ahh, no worries, champ!"
-    tony f_happy "啊哈，没事的，伙计！"
+    tony f_happy "啊哈，没事的，冠军！"
 
 # game/src/plot/ano15.rpy:361
 translate chinese ano15_shop1_lounge1_dff29544:
@@ -1090,7 +1090,7 @@ translate chinese ano15_shop1_lounge1_dff29544:
 translate chinese ano15_shop1_lounge1_8414d2fa:
 
     # tony "Now, who's-a ready for a mustache ride?!"
-    tony "现在，谁准备好来一场胡子之旅了？！"
+    tony "现在，谁准备好来一把胡须过山车了？！"
 
 # game/src/plot/ano15.rpy:367
 translate chinese ano15_shop1_lounge1_3a375e54:
@@ -1342,7 +1342,7 @@ translate chinese ano15_pause_tony_578f0d1e:
 translate chinese ano15_pause_tony_13e4133a:
 
     # anon a_finger f_confused "Do you need any help with setting-"
-    anon a_finger f_confused "你需要帮忙设置——"
+    anon a_finger f_confused "你需要帮忙布置——"
 
 # game/src/plot/ano15.rpy:475
 translate chinese ano15_pause_tony_2a2e153a:
@@ -1360,7 +1360,7 @@ translate chinese ano15_pause_tony_5256681e:
 translate chinese ano15_pause_tony_b5dfe41d:
 
     # tony "I got everything we need stashed away and ready to go."
-    tony "我要的东西都藏好了，随时准备出发。"
+    tony "我把我们要的东西都收好了，随时准备出发。"
 
 # game/src/plot/ano15.rpy:483
 translate chinese ano15_pause_tony_8a6d289a:
@@ -1390,7 +1390,7 @@ translate chinese ano15_pause_tony_714df088:
 translate chinese ano15_delay_fac1cd3a:
 
     # anon @ -m_talk "( [saga.cast.tony] and [saga.cast.maria] are expecting me at the pizzeria. )"
-    anon @ -m_talk "([saga.cast.tony] 和 [saga.cast.maria] 在披萨店等我。)"
+    anon @ -m_talk "([saga.cast.tony]和[saga.cast.maria]在披萨店等我。)"
 
 # game/src/plot/ano15.rpy:496
 translate chinese ano15_delay_ec66b771:
@@ -1492,7 +1492,7 @@ translate chinese ano15_delay_maria2a_564c3f8e:
 translate chinese ano15_delay_maria2a_d10a7e96:
 
     # anon "No, not at the moment."
-    anon "不，现在没有。"
+    anon "不，不是现在。"
 
 # game/src/plot/ano15.rpy:535
 translate chinese ano15_delay_maria2a_37da4dad:
@@ -1522,7 +1522,7 @@ translate chinese ano15_delay_maria2a_49fb1b94:
 translate chinese ano15_delay_maria2a_6cd5c62c:
 
     # maria f_shy "... I never really thought of you like that."
-    maria f_shy "……我从来没那样想过你。"
+    maria f_shy "……我从来没那样想过让你。"
 
 # game/src/plot/ano15.rpy:544
 translate chinese ano15_delay_maria2a_3df97625:
@@ -1546,7 +1546,7 @@ translate chinese ano15_delay_maria2a_9d30e66b:
 translate chinese ano15_delay_maria2a_158453fe:
 
     # maria f_shy "You're a good lookin' kid."
-    maria f_shy "你是个好看的小伙子。"
+    maria f_shy "你是个英俊的孩子。"
 
 # game/src/plot/ano15.rpy:551
 translate chinese ano15_delay_maria2a_255f1855:
@@ -1618,7 +1618,7 @@ translate chinese ano15_delay_maria2a_945a06c8:
 translate chinese ano15_delay_maria2a_2c2ab79d:
 
     # anon "So [saga.cast.tony] and you can have a child?"
-    anon "那么[saga.cast.tony]和你就可以生个孩子了？"
+    anon "那么[saga.cast.tony]和你就可以拥有个孩子了？"
 
 # game/src/plot/ano15.rpy:569
 translate chinese ano15_delay_maria2a_f4a31a26:
@@ -1792,7 +1792,7 @@ translate chinese ano15_delay_pantry1_6915dea6:
 translate chinese ano15_delay_pantry1_a6a92d61:
 
     # tony "I'm gettin' everything set up for tonight, champ."
-    tony "我在为今晚做一切准备，小子。"
+    tony "我在为今晚做一切准备，冠军。"
 
 # game/src/plot/ano15.rpy:632
 translate chinese ano15_delay_pantry1_88f066a0:
@@ -1870,7 +1870,7 @@ translate chinese ano15_delay_skip1_a020e274:
 translate chinese ano15_delay_skip1_4c74412b:
 
     # tony a_point_back "Gonna need you to clear out for a bit."
-    tony a_point_back "你得暂时清空一下。"
+    tony a_point_back "你得暂时离开一下。"
 
 # game/src/plot/ano15.rpy:675
 translate chinese ano15_delay_skip1_f79c204b:
@@ -2044,7 +2044,7 @@ translate chinese ano15_delay_tony_c2b1ed43:
 translate chinese ano15_delay_tony_a6eb9db1:
 
     # tony f_happy "Sure are, champ!"
-    tony f_happy "当然，小伙子！"
+    tony f_happy "当然，冠军！"
 
 # game/src/plot/ano15.rpy:760
 translate chinese ano15_delay_tony_da6541ac:
@@ -2134,7 +2134,7 @@ translate chinese ano15_kitchen_9d6ab8c8:
 translate chinese ano15_kitchen_00612416:
 
     # tony f_sceptical "How many times do I gotta tell ya, champ?!"
-    tony f_sceptical "我得跟你说多少次啊，伙计？！"
+    tony f_sceptical "我得跟你说多少次啊，冠军？！"
 
 # game/src/plot/ano15.rpy:810
 translate chinese ano15_kitchen_907517da:
@@ -2188,7 +2188,7 @@ translate chinese ano15_kitchen_65804523:
 translate chinese ano15_kitchen_22d989e8:
 
     # tony @ a_belly e_b f_happy m_laugh "My pleasure, champ!"
-    tony @ a_belly e_b f_happy m_laugh "不客气，伙计！"
+    tony @ a_belly e_b f_happy m_laugh "不客气，冠军！"
 
 # game/src/plot/ano15.rpy:827
 translate chinese ano15_kitchen_9262de04:
@@ -2296,7 +2296,7 @@ translate chinese ano15_kitchen_eb780b0f_1:
 translate chinese ano15_kitchen_53d1119d:
 
     # tony a_point f_sceptical "All you gotta do is go in there, fuck my wife nice and hard, and put a baby inside her."
-    tony a_point f_sceptical "你只要进去，好好操我老婆，让她怀上孩子。"
+    tony a_point f_sceptical "你只要进去，好好肏我老婆，让她怀上孩子。"
 
 # game/src/plot/ano15.rpy:860
 translate chinese ano15_kitchen_0934c27a:
@@ -2320,7 +2320,7 @@ translate chinese ano15_kitchen_baa49227:
 translate chinese ano15_kitchen_3738f032:
 
     # tony "When you do it, I want you to say, \"Boy, boy, boy... very tall boy.\""
-    tony "干的时候，我要你说：\"男孩，男孩，男孩……非常高大的男孩。\""
+    tony "肏的时候，我要你说：\"男孩，男孩，男孩……非常高大的男孩。\""
 
 # game/src/plot/ano15.rpy:870
 translate chinese ano15_kitchen_f79c204b:
@@ -2410,7 +2410,7 @@ translate chinese ano15_kitchen_bca9bb63:
 translate chinese ano15_kitchen_c1236585:
 
     # tony "You're gonna fuck her good, ain't ya?!"
-    tony "你打算好好干她，对吧？！"
+    tony "你打算好好肏她，对吧？！"
 
 # game/src/plot/ano15.rpy:895
 translate chinese ano15_kitchen_67cdda56:
@@ -2608,7 +2608,7 @@ translate chinese ano15_pantry_145a11f7:
 translate chinese ano15_pantry_f1565322:
 
     # tony @ e_b_e "Ain't we, champ?"
-    tony @ e_b_e "是吧，小冠军？"
+    tony @ e_b_e "是吧，冠军？"
 
 # game/src/plot/ano15.rpy:994
 translate chinese ano15_pantry_675a249d:
@@ -2818,7 +2818,7 @@ translate chinese ano15_pantry_e908877c:
 translate chinese ano15_pantry_d23e12e5:
 
     # tony "Whaddya say, champ?"
-    tony "你怎么说，伙计？"
+    tony "你怎么说，冠军？"
 
 # game/src/plot/ano15.rpy:1082
 translate chinese ano15_pantry_f9f2e68e:
@@ -2956,7 +2956,7 @@ translate chinese ano15_pantry_merge1_b98044df:
 translate chinese ano15_pantry_merge1_6325ddbd:
 
     # tony "Fuck her good, champ."
-    tony "好好操她，冠军。"
+    tony "好好肏她，冠军。"
 
 # game/src/plot/ano15.rpy:1162
 translate chinese ano15_pantry_merge1_3d4a7bc8:
@@ -3010,7 +3010,7 @@ translate chinese ano15_pantry_merge1_d7b5533e:
 translate chinese ano15_pantry_merge1_a555eba8:
 
     # tony "It's alright, champ."
-    tony "没事的，小冠军。"
+    tony "没事的，冠军。"
 
 # game/src/plot/ano15.rpy:1190
 translate chinese ano15_pantry_merge1_ad013b95:
@@ -3076,7 +3076,7 @@ translate chinese ano15_pantry_merge1_7d35e67a:
 translate chinese ano15_pantry_merge1_98ec0123:
 
     # tony "Ya ready to get fucked, darlin'?"
-    tony "准备好被操了吗，亲爱的？"
+    tony "准备好被肏了吗，亲爱的？"
 
 # game/src/plot/ano15.rpy:1205
 translate chinese ano15_pantry_merge1_d7b5533e_1:
@@ -3154,19 +3154,19 @@ translate chinese ano15_pantry_merge1_460583cf:
 translate chinese ano15_pantry_merge1_35f4815b:
 
     # tony "That's it, champ... All the way in."
-    tony "就是这样，宝贝...全进去了。"
+    tony "就是这样，冠军...全插进去。"
 
 # game/src/plot/ano15.rpy:1234
 translate chinese ano15_pantry_merge1_56235e60:
 
     # maria "Jesus, Mary, and Joseph!"
-    maria "耶稣，圣母玛利亚和约瑟夫！"
+    maria "我的天哪！"
 
 # game/src/plot/ano15.rpy:1235
 translate chinese ano15_pantry_merge1_23a9d607:
 
     # maria "That's a big dick!"
-    maria "那根鸡巴好大！"
+    maria "他的那根鸡巴好大！"
 
 # game/src/plot/ano15.rpy:1236
 translate chinese ano15_pantry_merge1_6fa67f23:
@@ -3256,7 +3256,7 @@ translate chinese ano15_pantry_merge1_bae6c05b:
 translate chinese ano15_pantry_merge1_a941c40f:
 
     # maria "Oh, fuck me!!"
-    maria "哦，干我！！"
+    maria "哦，肏我！！"
 
 # game/src/plot/ano15.rpy:1282
 translate chinese ano15_pantry_merge1_09311990:
@@ -3274,7 +3274,7 @@ translate chinese ano15_pantry_merge1_285c7c02:
 translate chinese ano15_pantry_merge1_9d887c86:
 
     # tony "Nice job, champ!"
-    tony "干得好，小子！"
+    tony "干得好，冠军！"
 
 # game/src/plot/ano15.rpy:1288
 translate chinese ano15_pantry_merge1_54dabd7f:
@@ -3286,7 +3286,7 @@ translate chinese ano15_pantry_merge1_54dabd7f:
 translate chinese ano15_pantry_merge1_d65159fa:
 
     # tony "Now keep goin'."
-    tony "现在继续干我。"
+    tony "现在继续肏我。"
 
 # game/src/plot/ano15.rpy:1294
 translate chinese ano15_pantry_merge1_8f9113b3:
@@ -3358,7 +3358,7 @@ translate chinese ano15_pantry_merge1_af6ed8ae:
 translate chinese ano15_pantry_merge1_9ba4ae63:
 
     # tony "That's it, champ!"
-    tony "就这样，好小子！"
+    tony "就这样，冠军！"
 
 # game/src/plot/ano15.rpy:1316
 translate chinese ano15_pantry_merge1_4119318b:
@@ -3934,7 +3934,7 @@ translate chinese ano15_pantry_merge3_e3b010a1:
 translate chinese ano15_pantry_merge3_a3c60376:
 
     # tony "You're gonna love it, champ!"
-    tony "你会爱上的，小子！"
+    tony "你会爱上的，冠军！"
 
 # game/src/plot/ano15.rpy:1519
 translate chinese ano15_pantry_merge3_e137577b:
@@ -4042,7 +4042,7 @@ translate chinese ano15_pantry_ogle1_cc751c8f:
 translate chinese ano15_pantry_ogle1_0e021c04:
 
     # tony f_calm "Thank you, champ!"
-    tony f_calm "谢谢你，好兄弟！"
+    tony f_calm "谢谢你，冠军！"
 
 # game/src/plot/ano15.rpy:1569
 translate chinese ano15_pantry_ogle1_8d78b1ef:
@@ -4078,7 +4078,7 @@ translate chinese ano15_pantry_ogle1_ed4e5818:
 translate chinese ano15_pantry_ogle1_cd6fda9f:
 
     # tony a_hips "You ready to go balls deep in my wife, champ?"
-    tony a_hips "准备好操进我老婆的嫩逼了吗，小子？"
+    tony a_hips "准备好肏进我老婆的嫩逼了吗，冠军？"
 
 # game/src/plot/ano15.rpy:1580
 translate chinese ano15_pantry_ogle1_f71405d4:
@@ -4114,7 +4114,7 @@ translate chinese ano15_pantry_ogle1_b2e46f96:
 translate chinese ano15_pantry_ogle1_a4a238be:
 
     # tony "You think you can stop oglin' the kid's package for a second and get in position for him to use it?"
-    tony "你能别盯着那家伙的鸡巴看了吗？快摆好姿势让他干你！"
+    tony "你能别盯着那家伙的鸡巴看了吗？快摆好姿势让他肏你！"
 
 # game/src/plot/ano15.rpy:1590
 translate chinese ano15_pantry_ogle1_4bd6e345:
@@ -4354,7 +4354,7 @@ translate chinese ano15_pantry_poly_aaa6e153:
 translate chinese ano15_pantry_poly_da322a6c:
 
     # tony "It's called a devil's three-way, champ."
-    tony "这叫魔鬼三人行，小伙子。"
+    tony "这叫魔鬼三人行，冠军。"
 
 # game/src/plot/ano15.rpy:1685
 translate chinese ano15_pantry_poly_40627d5d:
@@ -4498,7 +4498,7 @@ translate chinese ano15_retry_ccec7034:
 translate chinese ano15_retry_bce8d511:
 
     # tony "You'd better fuck her real nice, eh?"
-    tony "你最好把她干得爽爽的，嗯？"
+    tony "你最好把她肏得爽爽的，嗯？"
 
 # game/src/plot/ano15.rpy:1753
 translate chinese ano15_retry_d63e9434:

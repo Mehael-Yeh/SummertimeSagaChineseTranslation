@@ -154,7 +154,7 @@ translate chinese ton_baby_post_intro_27f580ff:
 translate chinese ton_baby_post_intro_60d53396:
 
     # tony e_w "Oh, heya, champ!"
-    tony e_w "哦，嘿呀，小伙子！"
+    tony e_w "哦，嘿呀，冠军！"
 
 # game/src/plot/ton_baby.rpy:64
 translate chinese ton_baby_post_misc1_25329aa9:
@@ -214,7 +214,7 @@ translate chinese ton_baby_post_misc1_9c7a212a:
 translate chinese ton_baby_post_misc1_33c17fe6:
 
     # tony "Spit it out, champ."
-    tony "有话直说，伙计。"
+    tony "有话直说，冠军。"
 
 # game/src/plot/ton_baby.rpy:81
 translate chinese ton_baby_post_misc1_573a3c5b:

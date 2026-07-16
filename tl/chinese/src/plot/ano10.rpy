@@ -136,7 +136,7 @@ translate chinese ano10_shop1_fd917fae:
 translate chinese ano10_shop1_85bc854c:
 
     # tony @ f_happy "It's just a little test, love."
-    tony @ f_happy "只是个小测试，亲爱的。"
+    tony @ f_happy "只是个小检查，亲爱的。"
 
 # game/src/plot/ano10.rpy:42
 translate chinese ano10_shop1_f7b1bc74:
@@ -244,7 +244,7 @@ translate chinese ano10_shop1_81960d8c:
 translate chinese ano10_shop1_1216f22e:
 
     # maria f_calm @ e_b f_happy m_laugh "Heh, your protégé, huh?"
-    maria f_calm @ e_b f_happy m_laugh "呵，你的徒弟，嗯？"
+    maria f_calm @ e_b f_happy m_laugh "呵，你的门徒，嗯？"
 
 # game/src/plot/ano10.rpy:78
 translate chinese ano10_shop1_64dc6b19:
@@ -364,7 +364,7 @@ translate chinese ano10_shop1_b7341497:
 translate chinese ano10_shop1_30d228de:
 
     # anon "Yes, sir."
-    anon "是，长官。"
+    anon "是，先生。"
 
 # game/src/plot/ano10.rpy:124
 translate chinese ano10_shop1_2c7c6c22:
@@ -430,13 +430,13 @@ translate chinese ano10_kitchen_1ded0e8c:
 translate chinese ano10_kitchen_cd4c7de4:
 
     # anon e_w f_worried_surprised "Yes, ma'am."
-    anon e_w f_worried_surprised "是，女士。"
+    anon e_w f_worried_surprised "是，夫人。"
 
 # game/src/plot/ano10.rpy:156
 translate chinese ano10_kitchen_61eb117e:
 
     # maria "In my kitchen we only serve hand-tossed dough."
-    maria "在我的厨房里，我们只卖手抛面团。"
+    maria "在我的厨房里，我们只卖手工面团。"
 
 # game/src/plot/ano10.rpy:158
 translate chinese ano10_kitchen_bf12db65:
@@ -496,7 +496,7 @@ translate chinese ano10_kitchen_321b8688:
 translate chinese ano10_kitchen_9f6560a2:
 
     # anon a_salute f_worried "Yes, ma'am."
-    anon a_salute f_worried "是的，女士。"
+    anon a_salute f_worried "是的，夫人。"
 
 # game/src/plot/ano10.rpy:171
 translate chinese ano10_kitchen_35661b15:
@@ -508,7 +508,7 @@ translate chinese ano10_kitchen_35661b15:
 translate chinese ano10_kitchen_0a22682b:
 
     # maria "Now, when you're done toppin', you gotta slide it into the oven and let it go for exactly seven minutes and thirty seconds."
-    maria "等你擀好面团后，必须把它滑进烤箱，烤整整七分三十秒。"
+    maria "等你擀好面团后，必须把它送进烤箱，烤整整七分三十秒。"
 
 # game/src/plot/ano10.rpy:174
 translate chinese ano10_kitchen_9737c0ab:
@@ -622,7 +622,7 @@ translate chinese ano10_kitchen_ccff3144:
 translate chinese ano10_kitchen_e99d3fde:
 
     # maria "We have a winner!"
-    maria "我们找到赢家了！"
+    maria "我们找到宝贝了！"
 
 # game/src/plot/ano10.rpy:196
 translate chinese ano10_kitchen_c3a4d0d3:
@@ -634,7 +634,7 @@ translate chinese ano10_kitchen_c3a4d0d3:
 translate chinese ano10_kitchen_17d3e4e3:
 
     # maria "Now, let's do a quick one together, yeah?"
-    maria "现在，我们一起快速做一次，好吗？"
+    maria "现在，我们一起快速做一个，好吗？"
 
 # game/src/plot/ano10.rpy:199
 translate chinese ano10_kitchen_aac469a5:
@@ -748,7 +748,7 @@ translate chinese ano10_kitchen_retry1_8b9ef7e8:
 translate chinese ano10_kitchen_retry1_5467060c:
 
     # maria a_point @ e_wsw "... You crank out a few more pies of this quality and might have to reward ya."
-    maria a_point @ e_wsw "...你要是再多烤几个这种质量的派，我就得奖励你了。"
+    maria a_point @ e_wsw "...你要是再多烤几个这种质量的披萨，我就得奖励你了。"
 
 # game/src/plot/ano10.rpy:238
 translate chinese ano10_kitchen_retry1_271082a3:
@@ -760,7 +760,7 @@ translate chinese ano10_kitchen_retry1_271082a3:
 translate chinese ano10_kitchen_retry1_dfb34285:
 
     # maria a_hips "Mm, somethin' special that I usually only do for [saga.cast.tony]."
-    maria a_hips "嗯，是些特别的东西，我通常只对[saga.cast.tony]做。"
+    maria a_hips "嗯，是些特别的东西，我通常只做给[saga.cast.tony]。"
 
 # game/src/plot/ano10.rpy:240
 translate chinese ano10_kitchen_retry1_ca2bcafb:
@@ -790,7 +790,7 @@ translate chinese ano10_kitchen_retry1_fc8e9098:
 translate chinese ano10_kitchen_retry2_2c0c8e70:
 
     # maria "How's it goin' back here?"
-    maria "后面情况怎么样？"
+    maria "后厨情况怎么样？"
 
 # game/src/plot/ano10.rpy:262
 translate chinese ano10_kitchen_retry2_e12e07b0:
@@ -802,7 +802,7 @@ translate chinese ano10_kitchen_retry2_e12e07b0:
 translate chinese ano10_kitchen_retry2_3730cf75:
 
     # anon "How's it goin' up there?"
-    anon "上面情况怎么样？"
+    anon "前台情况怎么样？"
 
 # game/src/plot/ano10.rpy:265
 translate chinese ano10_kitchen_retry2_a7b7317a:
@@ -1000,7 +1000,7 @@ translate chinese ano10_kitchen_retry2_7f7d0e3e:
 translate chinese ano10_kitchen_retry2_a10bac2d:
 
     # maria "I mean, he might be alright with you havin' one here or there, 'cause you're his protégé, or whatever..."
-    maria "我是说，他可能觉得你偶尔吃一两个没什么，因为你是他的得意门生，或者什么的……"
+    maria "我是说，他可能觉得你偶尔吃一两个没什么，因为你是他的门徒，或者什么的……"
 
 # game/src/plot/ano10.rpy:315
 translate chinese ano10_kitchen_retry2_8ecc37aa:
@@ -1060,13 +1060,13 @@ translate chinese ano10_kitchen_retry2_6f1a6101:
 translate chinese ano10_kitchen_retry2_9808be7b:
 
     # maria "In fact, I ain't seen him buddy up to someone like this since Luigi died."
-    maria "说实话，自从路易吉死后，我就没见他跟谁这么亲近过。"
+    maria "说实话，自从Luigi死后，我就没见他跟谁这么亲近过。"
 
 # game/src/plot/ano10.rpy:332
 translate chinese ano10_kitchen_retry2_707c8423:
 
     # anon f_confused "Luigi?"
-    anon f_confused "路易吉？"
+    anon f_confused "Luigi？"
 
 # game/src/plot/ano10.rpy:333
 translate chinese ano10_kitchen_retry2_e41601f6:
@@ -1084,7 +1084,7 @@ translate chinese ano10_kitchen_retry2_9245f657:
 translate chinese ano10_kitchen_retry2_2086c176:
 
     # maria "Luigi was like a brother to [saga.cast.tony]."
-    maria "路易吉对[saga.cast.tony]来说就像亲兄弟。"
+    maria "Luigi对[saga.cast.tony]来说就像亲兄弟。"
 
 # game/src/plot/ano10.rpy:337
 translate chinese ano10_kitchen_retry2_1d21027d:
@@ -1300,7 +1300,7 @@ translate chinese ano10_kitchen_retry2_b1c1f722:
 translate chinese ano10_kitchen_retry2_2033508f:
 
     # tony "My boys can't swim, [saga.cast.maria]."
-    tony "我的精子没法游泳了，[saga.cast.maria]。"
+    tony "我的精子没法游泳，[saga.cast.maria]。"
 
 # game/src/plot/ano10.rpy:394
 translate chinese ano10_kitchen_retry2_9e4ec807:
@@ -1378,7 +1378,7 @@ translate chinese ano10_kitchen_retry2_f1da14a5:
 translate chinese ano10_kitchen_retry2_7db4bb1f:
 
     # maria "You're the best man I've ever met and that's the end of it!"
-    maria "你是我见过最棒的男人，就这么定了！"
+    maria "你是我见过最棒的男人，永远！"
 
 # game/src/plot/ano10.rpy:414
 translate chinese ano10_kitchen_retry2_d5f17d2d:
@@ -1438,7 +1438,7 @@ translate chinese ano10_kitchen_retry2_536c2896:
 translate chinese ano10_kitchen_retry2_c9fdb650:
 
     # maria "[saga.cast.tony] and I got a lot of talkin' to do."
-    maria "[saga.cast.tony] 和我有很多话要谈。"
+    maria "[saga.cast.tony]和我有很多话要谈。"
 
 # game/src/plot/ano10.rpy:432
 translate chinese ano10_kitchen_retry2_a1f61959:
@@ -1588,7 +1588,7 @@ translate chinese ano10_wait_block_b8650920:
 translate chinese ano10_shop2_afa3deae:
 
     # tony @ a_fists_up "Hey there, champ."
-    tony @ a_fists_up "嘿，伙计。"
+    tony @ a_fists_up "嘿，冠军。"
 
 # game/src/plot/ano10.rpy:527
 translate chinese ano10_shop2_27f580ff:
@@ -1648,13 +1648,13 @@ translate chinese ano10_shop2_700869ab:
 translate chinese ano10_shop2_e650a075:
 
     # tony "... And I found out yesterday that our odds ain't exactly good."
-    tony "……结果昨天发现，我们的几率不太乐观。"
+    tony "……结果昨天发现，我们的成功率不太乐观。"
 
 # game/src/plot/ano10.rpy:541
 translate chinese ano10_shop2_a38439c3:
 
     # tony "... And I found out that our odds ain't exactly good."
-    tony "……我发现我们的几率不太乐观。"
+    tony "……我发现我们的成功率不太乐观。"
 
 # game/src/plot/ano10.rpy:543
 translate chinese ano10_shop2_951b2613:
@@ -1714,7 +1714,7 @@ translate chinese ano10_shop2_3dc80ad3:
 translate chinese ano10_shop2_7b4f93d5:
 
     # tony a_wtf e_r f_annoyed "Jesus, champ!"
-    tony a_wtf e_r f_annoyed "天哪，兄弟！"
+    tony a_wtf e_r f_annoyed "天哪，冠军！"
 
 # game/src/plot/ano10.rpy:553
 translate chinese ano10_shop2_5d7f7d18:
@@ -1744,7 +1744,7 @@ translate chinese ano10_shop2_b12e6018:
 translate chinese ano10_shop2_e55a0af7:
 
     # tony "Yeah, thanks, champ."
-    tony "是啊，谢了，老兄。"
+    tony "是啊，谢了，冠军。"
 
 # game/src/plot/ano10.rpy:562
 translate chinese ano10_shop2_1a780726:
@@ -1840,7 +1840,7 @@ translate chinese ano10_shop2_4809ac68:
 translate chinese ano10_shop2_20539c78:
 
     # tony e_w f_sceptical "Anyways, it ain't nothin' for you to worry about, champ."
-    tony e_w f_sceptical "总之，这不需要你操心，小子。"
+    tony e_w f_sceptical "总之，这不需要你操心，冠军。"
 
 # game/src/plot/ano10.rpy:585
 translate chinese ano10_shop2_8d48f4c1:
