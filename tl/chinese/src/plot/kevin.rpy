@@ -136,7 +136,7 @@ translate chinese kevin_school_cafe_outro_5844ad3e:
 translate chinese kevin_school_cafe_outro_049719eb:
 
     # kevin "I'd better see you at the gym tomorrow, bro!"
-    kevin "明天最好在健身房见到你，兄弟！"
+    kevin "明天最好在体育馆见到你，兄弟！"
 
 # game/src/plot/kevin.rpy:114
 translate chinese kevin_school_cafe_outro_0bb5f2b5:

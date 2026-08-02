@@ -94,16 +94,16 @@ translate chinese strings:
 
     # game/src/plot/tori.rpy:5
     old "Grades."
-    new "成绩。"
+    new "成绩"
 
     # game/src/plot/tori.rpy:14
     old "Belt."
-    new "腰带。"
+    new "腰带"
 
     # game/src/plot/tori.rpy:17
     old "Serum."
-    new "血清。"
+    new "血清"
 
     # game/src/plot/tori.rpy:105
     old "Invention."
-    new "发明。"
+    new "发明"

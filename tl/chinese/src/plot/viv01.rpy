@@ -1318,4 +1318,4 @@ translate chinese strings:
     new "太棒了！"
 
     old "Quel petit futé ce garçon."
-    new "这小子真机灵。"
+    new "这小子真机灵"

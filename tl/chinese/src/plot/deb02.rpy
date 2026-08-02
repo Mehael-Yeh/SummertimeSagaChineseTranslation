@@ -388,7 +388,7 @@ translate chinese deb02_debbie_fuzz_574a510f:
 translate chinese deb02_debbie_john_cf93b9ff:
 
     # anon @ e_nw "John?"
-    anon @ e_nw "约翰？"
+    anon @ e_nw "John？"
 
 # game/src/plot/deb02.rpy:157
 translate chinese deb02_debbie_john_c6ee6989:
@@ -406,7 +406,7 @@ translate chinese deb02_debbie_john_574a510f:
 translate chinese deb02_debbie_perp_383cec18:
 
     # anon e_nw "Perp?"
-    anon e_nw "佩普？"
+    anon e_nw "Perp？"
 
 # game/src/plot/deb02.rpy:165
 translate chinese deb02_debbie_perp_c6ee6989:
@@ -430,17 +430,17 @@ translate chinese strings:
 
     # game/src/plot/deb02.rpy:31
     old "Perp."
-    new "佩普。"
+    new "Perp"
 
     # game/src/plot/deb02.rpy:34
     # game/src/plot/deb02.rpy:37
     old "John."
-    new "约翰。"
+    new "John"
 
     # game/src/plot/deb02.rpy:40
     old "Fuzz."
-    new "绒毛。"
+    new "毛茸茸"
 
     # game/src/plot/deb02.rpy:33
     old "Dick."
-    new "鸡巴。"
+    new "鸡巴"

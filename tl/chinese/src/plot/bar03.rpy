@@ -328,7 +328,7 @@ translate chinese bar03_mags_kevin_510559f1:
 translate chinese bar03_mags_kevin_4f8b2f8d:
 
     # kevin "Oh, just some workout magazines I got from the gym."
-    kevin "哦，只是从健身房拿的一些健身杂志。"
+    kevin "哦，只是从体育馆拿的一些健身杂志。"
 
 # game/src/plot/bar03.rpy:155
 translate chinese bar03_mags_kevin_7cb87ca7:
@@ -520,7 +520,7 @@ translate chinese bar03_mags_melody_b8f75c9c:
 translate chinese bar03_mags_melody_5593d081:
 
     # melody "It's one of [saga.cast.barb.name]'s {i}special{/i} brownies."
-    melody "这是[saga.cast.barb.name]特制的{i}布朗尼{/i}。"
+    melody "这是[saga.cast.barb.name]{i}特制的{/i}布朗尼。"
 
 # game/src/plot/bar03.rpy:266
 translate chinese bar03_mags_melody_45b56c0b:
@@ -826,7 +826,7 @@ translate chinese bar03_delay_mia_aedc8adb:
 translate chinese bar03_delay_mia_bd554f48:
 
     # mia "Umm, I think it's pronounced \"collage\"."
-    mia "呃，我觉得那应该读作\"拼贴画\"。"
+    mia "呃，我觉得那应该读作「拼贴画」。"
 
 # game/src/plot/bar03.rpy:417
 translate chinese bar03_delay_mia_37aed4bb:
@@ -1252,7 +1252,7 @@ translate chinese bar03_take_barb_aaa6b895:
 translate chinese bar03_take_rails_e286820d:
 
     # anon @ -m_talk "( [saga.cast.barb] said she left the magazines we need upstairs in her office. )"
-    anon @ -m_talk "[saga.cast.barb] 说她把我们需要的杂志忘在楼上的办公室了。"
+    anon @ -m_talk "[saga.cast.barb]说她把我们需要的杂志忘在楼上的办公室了。"
 
 # game/src/plot/bar03.rpy:623
 translate chinese bar03_take_rails_8d60148d:
@@ -1570,7 +1570,7 @@ translate chinese bar03_art2_9d26c6da:
 translate chinese bar03_art2_105dfac4:
 
     # barb "How are you doing over there [saga.cast.mia]?"
-    barb "你在那边还好吗 [saga.cast.mia]？"
+    barb "你在那边还好吗[saga.cast.mia]？"
 
 # game/src/plot/bar03.rpy:781
 translate chinese bar03_art2_1c4200f2:
@@ -1648,7 +1648,7 @@ translate chinese bar03_art2_b9340804:
 translate chinese bar03_art2_1801df1d:
 
     # barb "Suit yourself, cutie pie."
-    barb "随你便，娃娃脸。"
+    barb "随你便，小可爱。"
 
 # game/src/plot/bar03.rpy:815
 translate chinese bar03_art2_35eb6038:

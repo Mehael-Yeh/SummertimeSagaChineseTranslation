@@ -1240,37 +1240,37 @@ translate chinese strings:
 
     # game/src/plot/debbie.rpy:22
     old "Bathroom."
-    new "洗手间。"
+    new "洗手间"
 
     # game/src/plot/debbie.rpy:25
     old "Chores."
-    new "家务。"
+    new "家务"
 
     # game/src/plot/debbie.rpy:31
     old "Dreams."
-    new "梦想。"
+    new "梦想"
 
     # game/src/plot/debbie.rpy:34
     old "Kissing."
-    new "接吻。"
+    new "接吻"
 
     # game/src/plot/debbie.rpy:37
     old "Car."
-    new "汽车。"
+    new "汽车"
 
     # game/src/plot/debbie.rpy:40
     old "Date."
-    new "约会。"
+    new "约会"
 
     # game/src/plot/debbie.rpy:136
     old "Vacuum."
-    new "吸尘。"
+    new "吸尘"
 
     # game/src/plot/debbie.rpy:139
     old "Take care."
-    new "保重。"
+    new "保重"
 
     # game/src/plot/debbie.rpy:390
     old "Swim."
-    new "游泳。"
+    new "游泳"
 

@@ -797,25 +797,25 @@ translate chinese strings:
     # game/src/plot/jen_sleep.rpy:17
     # game/src/plot/jen_sleep.rpy:20
     old "I'd better not."
-    new "还是算了。"
+    new "还是算了"
 
     # game/src/plot/jen_sleep.rpy:74
     # game/src/plot/jen_sleep.rpy:77
     old "Forget it."
-    new "算了吧。"
+    new "算了吧"
 
     # game/src/plot/jen_sleep.rpy:129
     old "Go further."
-    new "继续深入。"
+    new "继续深入"
 
     # game/src/plot/jen_sleep.rpy:132
     old "Yes, that {i}is{/i} enough."
-    new "是的，那{i}已经{/i}足够了。"
+    new "是的，那{i}已经{/i}足够了"
 
     # game/src/plot/jen_sleep.rpy:17
     old "Do it."
-    new "动手吧。"
+    new "动手吧"
 
     # game/src/plot/jen_sleep.rpy:74
     old "Okay."
-    new "好的。"
+    new "好的"

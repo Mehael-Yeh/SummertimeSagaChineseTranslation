@@ -394,7 +394,7 @@ translate chinese dia02_diane_merge_2def17dc:
 translate chinese dia02_diane_merge_4a13a085:
 
     # anon "I try going to the gym sometimes."
-    anon "我有时候也会去健身房。"
+    anon "我有时候也会去体育馆。"
 
 # game/src/plot/dia02.rpy:130
 translate chinese dia02_diane_merge_3fde89c0:

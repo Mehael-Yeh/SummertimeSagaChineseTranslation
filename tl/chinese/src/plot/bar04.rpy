@@ -52,7 +52,7 @@ translate chinese bar04_barb1_edd1f32c:
 translate chinese bar04_barb1_70e3c95b:
 
     # anon "... N-nude?"
-    anon "……裸、裸体？"
+    anon "……裸……裸体？"
 
 # game/src/plot/bar04.rpy:11
 translate chinese bar04_barb1_b0369501:
@@ -256,7 +256,7 @@ translate chinese bar04_planks_barb_c6834db5:
 translate chinese bar04_planks_barb_68e43496:
 
     # anon a_side f_calm "Yes, ma'am."
-    anon a_side f_calm "是的，夫人。"
+    anon a_side f_calm "是的，女士。"
 
 # game/src/plot/bar04.rpy:113
 translate chinese bar04_craft_31e68a42:
@@ -856,7 +856,7 @@ translate chinese bar04_art1_rails_0bae9676:
 translate chinese bar04_judith1_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在为一个 [saga.cast.barb] 项目工作，需要一位真人模特。"
+    anon "我正在为[saga.cast.barb]做一个项目，需要一位真人模特。"
 
 # game/src/plot/bar04.rpy:432
 translate chinese bar04_judith1_da329b42:
@@ -988,7 +988,7 @@ translate chinese bar04_judith1_barb_aa348d68:
 translate chinese bar04_judith1_barb_d9a4bfd5:
 
     # barb f_sad "No. What about you, any luck?"
-    barb f_sad "没有。你呢，有运气吗？"
+    barb f_sad "没有。你呢，有好消息吗？"
 
 # game/src/plot/bar04.rpy:486
 translate chinese bar04_judith1_barb_8f7b0884:
@@ -1048,19 +1048,19 @@ translate chinese bar04_judith1_dexter_40fc8f28:
 translate chinese bar04_judith1_dexter_cb2fdc6b:
 
     # anon "{i}*Sigh*{/i} Would.{w} You.{w} Be.{w} Willing..."
-    anon "{i}*叹气*{/i} 如果。{w} 你。{w} 愿意。{w} 的话……"
+    anon "{i}*叹气*{/i}如果{w}你{w}愿意{w}的话……"
 
 # game/src/plot/bar04.rpy:514
 translate chinese bar04_judith1_dexter_98f20d19:
 
     # anon "... To.{w} Stand.{w} Naked..."
-    anon "...脱。{w}站住。{w}赤裸..."
+    anon "……赤裸{w}着{w}身体……"
 
 # game/src/plot/bar04.rpy:515
 translate chinese bar04_judith1_dexter_db084ea3:
 
     # anon "... So.{w} Art.{w} Students.{w} Can.{w} Draw-"
-    anon "……所以。{w}艺术。{w}学生。{w}可以。{w}画——"
+    anon "……好让{w}艺术{w}学生{w}可以{w}画——"
 
 # game/src/plot/bar04.rpy:518
 translate chinese bar04_judith1_dexter_7ca4940c:
@@ -1312,7 +1312,7 @@ translate chinese bar04_judith1_june_3643a578:
 translate chinese bar04_judith1_kevin_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在做一个[saga.cast.barb]项目，需要一个真人模特。"
+    anon "我正在为[saga.cast.barb]做一个项目，需要一个真人模特。"
 
 # game/src/plot/bar04.rpy:634
 translate chinese bar04_judith1_kevin_da329b42:
@@ -1402,7 +1402,7 @@ translate chinese bar04_judith1_mia_1e6aa6df:
 translate chinese bar04_judith1_mia_ea1ab80f:
 
     # mia "No, not really..."
-    mia "不，其实不是..."
+    mia "不，其实还没有..."
 
 # game/src/plot/bar04.rpy:672
 translate chinese bar04_judith1_mia_fe1bcde7:
@@ -1522,7 +1522,7 @@ translate chinese bar04_judith1_rhonda_ad53fae2:
 translate chinese bar04_judith1_roxxy_1e07fb5b:
 
     # anon "I'm working on a project for [saga.cast.barb] and it requires a live model."
-    anon "我正在进行一个[saga.cast.barb]项目，需要一个真人模特。"
+    anon "我正在为[saga.cast.barb]做一个项目，需要一个真人模特。"
 
 # game/src/plot/bar04.rpy:722
 translate chinese bar04_judith1_roxxy_da329b42:
@@ -1840,7 +1840,7 @@ translate chinese bar04_delay2_mia_ea9fbac8:
 translate chinese bar04_delay2_mia_2a64025a:
 
     # mia "I hope everything works out okay with [saga.cast.judith]..."
-    mia "我希望 [saga.cast.judith] 一切顺利..."
+    mia "我希望[saga.cast.judith]一切顺利..."
 
 # game/src/plot/bar04.rpy:875
 translate chinese bar04_delay2_mia_b7baf9a2:
@@ -1852,7 +1852,7 @@ translate chinese bar04_delay2_mia_b7baf9a2:
 translate chinese bar04_delay2_mia_91e1fe2f:
 
     # anon "Oh, it'll be fine... I imagine [saga.cast.barb] has probably done this hundreds of times."
-    anon "哦，会好的... 我猜 [saga.cast.barb] 可能已经做过几百次了。"
+    anon "哦，会好的... 我猜[saga.cast.barb]可能已经做过几百次了。"
 
 # game/src/plot/bar04.rpy:881
 translate chinese bar04_delay2_mia_3787c14d:
@@ -1876,7 +1876,7 @@ translate chinese bar04_judith2_c7127168:
 translate chinese bar04_judith2_32a5be35:
 
     # judith "Oh, umm... hi [saga.cast.anon]."
-    judith "哦, 呃... 你好 [saga.cast.anon]。"
+    judith "哦, 呃... 你好[saga.cast.anon]。"
 
 # game/src/plot/bar04.rpy:893
 translate chinese bar04_judith2_46953e8f:
@@ -2026,7 +2026,7 @@ translate chinese bar04_art2_944edf7d:
 translate chinese bar04_art2_c021a3ba:
 
     # anon "[saga.cast.mia] isn't here yet?"
-    anon "[saga.cast.mia] 还没来吗？"
+    anon "[saga.cast.mia]还没来吗？"
 
 # game/src/plot/bar04.rpy:952
 translate chinese bar04_art2_5eb5db6f:
@@ -2104,7 +2104,7 @@ translate chinese bar04_art2_c4aeb3c1:
 translate chinese bar04_art2_5db57090:
 
     # judith "{i}*Gulp*{/i} Y-you mean it?"
-    judith "{i}*咕噜*{/i} 你、你是认真的吗？"
+    judith "{i}*咕噜*{/i} 你——你是认真的吗？"
 
 # game/src/plot/bar04.rpy:990
 translate chinese bar04_art2_1bc0e530:
@@ -2176,7 +2176,7 @@ translate chinese bar04_art2_c991c5c6:
 translate chinese bar04_art2_b80d19b1:
 
     # barb "... And here's our little cutie pie, just in time!"
-    barb "……我们的娃娃脸来得正是时候！"
+    barb "……我们的小可爱来得正是时候！"
 
 # game/src/plot/bar04.rpy:1036
 translate chinese bar04_art2_cd5d11cb:
@@ -2446,7 +2446,7 @@ translate chinese bar04_art2_5b356efd:
 translate chinese bar04_art2_0f35ee43:
 
     # barb "Yes, it sure is, cutie pie."
-    barb "是的，确实如此，娃娃脸。"
+    barb "是的，确实如此，小可爱。"
 
 # game/src/plot/bar04.rpy:1205
 translate chinese bar04_art2_e4b68279:
@@ -2566,7 +2566,7 @@ translate chinese bar04_art2_cb763849:
 translate chinese bar04_art2_c3037be3:
 
     # barb "Especially you, cutie pie!"
-    barb "特别是你，娃娃脸！"
+    barb "特别是你，小可爱！"
 
 # game/src/plot/bar04.rpy:1268
 translate chinese bar04_art2_d6669804:
@@ -2578,7 +2578,7 @@ translate chinese bar04_art2_d6669804:
 translate chinese bar04_art2_a811a12b:
 
     # barb "You didn't have to take off your bra, cutie pie!"
-    barb "你不用脱胸罩的，亲爱的！"
+    barb "你不用脱胸罩的，小可爱！"
 
 # game/src/plot/bar04.rpy:1285
 translate chinese bar04_art2_c7270a80:
@@ -2842,7 +2842,7 @@ translate chinese bar04_art2_1489c042:
 translate chinese bar04_art2_76d498d8:
 
     # mono "[saga.cast.barb] had definitely made [saga.cast.judith] more comfortable." with fade
-    mono "[saga.cast.barb] 确实让 [saga.cast.judith] 更加舒适了。" with fade
+    mono "[saga.cast.barb]确实让[saga.cast.judith]更加平静了。" with fade
 
 # game/src/plot/bar04.rpy:1423
 translate chinese bar04_art2_f40b4016:
@@ -2854,7 +2854,7 @@ translate chinese bar04_art2_f40b4016:
 translate chinese bar04_art2_1daeadfd:
 
     # mono "Though it was little hard to concentrate on my work with [saga.cast.barb] hovering over my shoulder..."
-    mono "虽然 [saga.cast.barb] 在我肩膀上徘徊让我有点难以集中精力……"
+    mono "虽然[saga.cast.barb]在我肩膀上徘徊让我有点难以集中精力……"
 
 # game/src/plot/bar04.rpy:1430
 translate chinese bar04_art2_0e18a801:
@@ -3226,7 +3226,7 @@ translate chinese bar04_art2_77305991:
 translate chinese bar04_art2_762e5129:
 
     # barb "[saga.cast.ursula.name]! I was just teaching the students some art techniques..."
-    barb "[saga.cast.ursula.name]！我只是在教学生们一些艺术技法……"
+    barb "[saga.cast.ursula.name]！我只是在教学生们一些艺术技巧……"
 
 # game/src/plot/bar04.rpy:1589
 translate chinese bar04_art2_8638dee2:

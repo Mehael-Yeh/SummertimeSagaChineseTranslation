@@ -58,32 +58,32 @@ translate chinese strings:
 
     # game/src/mech/shop.rpy:12
     old "Keep browsing."
-    new "继续浏览。"
+    new "继续浏览"
 
     # game/src/mech/shop.rpy:15
     old "Abandon [saga.gui.buy!lt] and continue."
-    new "放弃[saga.gui.buy!lt]并继续。"
+    new "放弃[saga.gui.buy!lt]并继续"
 
     # game/src/mech/shop.rpy:23
     old "Buy items for $[cash]."
-    new "购买物品花费$[cash]。"
+    new "购买物品花费$[cash]"
 
     # game/src/mech/shop.rpy:26
     old "Borrow [saga.gui.buy!lt]."
-    new "借入[saga.gui.buy!lt]。"
+    new "借入[saga.gui.buy!lt]"
 
     # game/src/mech/shop.rpy:32
     old "Abandon [saga.gui.buy!lt]."
-    new "放弃[saga.gui.buy!lt]。"
+    new "放弃[saga.gui.buy!lt]"
 
     # game/src/mech/shop.rpy:56
     old "Add to [what.cart!lt]."
-    new "添加到[what.cart!lt]。"
+    new "添加到[what.cart!lt]"
 
     # game/src/mech/shop.rpy:59
     old "Put it back."
-    new "放回去。"
+    new "放回去"
 
     # game/src/mech/shop.rpy:62
     old "Leave it."
-    new "不管它。"
+    new "不管它"

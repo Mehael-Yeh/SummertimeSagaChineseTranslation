@@ -244,9 +244,9 @@ translate chinese strings:
 
     # game/src/plot/deb15.rpy:33
     old "Go inside."
-    new "进去。"
+    new "进去"
 
     # game/src/plot/deb15.rpy:36
     old "Leave."
-    new "离开。"
+    new "离开"
 

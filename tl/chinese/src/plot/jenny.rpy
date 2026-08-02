@@ -898,11 +898,11 @@ translate chinese strings:
 
     # game/src/plot/jenny.rpy:5
     old "Deal."
-    new "成交。"
+    new "成交"
 
     # game/src/plot/jenny.rpy:11
     old "Cash."
-    new "现金。"
+    new "现金"
 
     # game/src/plot/jenny.rpy:14
     old "[saga.cast.cedric]."
@@ -910,11 +910,11 @@ translate chinese strings:
 
     # game/src/plot/jenny.rpy:17
     old "Mask."
-    new "面具。"
+    new "面具"
 
     # game/src/plot/jenny.rpy:35
     old "GFE."
-    new "女友体验。"
+    new "女友体验"
 
     # game/src/plot/jenny.rpy:38
     old "Day off?"
@@ -922,4 +922,4 @@ translate chinese strings:
 
     # game/src/plot/jenny.rpy:44
     old "Nah, I'm busy."
-    new "不，我很忙。"
+    new "不，我很忙"

@@ -917,8 +917,8 @@ translate chinese strings:
 
     # game/src/plot/deb_island.rpy:167
     old "Eat that pussy."
-    new "尝尝那个小穴。"
+    new "尝尝她的小穴"
 
     # game/src/plot/deb_island.rpy:170
     old "Pound that pussy."
-    new "猛干那个小穴。"
+    new "猛干她的小穴"

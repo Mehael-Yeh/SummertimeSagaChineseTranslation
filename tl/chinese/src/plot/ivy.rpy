@@ -94,9 +94,9 @@ translate chinese strings:
 
     # game/src/plot/ivy.rpy:5
     old "Toy."
-    new "玩具。"
+    new "玩具"
 
     # game/src/plot/ivy.rpy:8
     old "Just shopping."
-    new "只是逛逛。"
+    new "只是逛逛"
 

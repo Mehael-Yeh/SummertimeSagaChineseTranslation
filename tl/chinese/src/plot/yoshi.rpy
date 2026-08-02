@@ -76,8 +76,8 @@ translate chinese strings:
 
     # game/src/plot/yoshi.rpy:5
     old "Phone."
-    new "电话。"
+    new "电话"
 
     # game/src/plot/yoshi.rpy:8
     old "I'm good."
-    new "我很好。"
+    new "我很好"

@@ -4564,20 +4564,20 @@ translate chinese strings:
 
     # game/src/plot/deb_tv.rpy:89
     old "Watch [saga.cast.debbie]."
-    new "看 [saga.cast.debbie]。"
+    new "看 [saga.cast.debbie]"
 
     # game/src/plot/deb_tv.rpy:92
     old "Boobjob."
-    new "乳交。"
+    new "乳交"
 
     # game/src/plot/deb_tv.rpy:95
     old "Footjob."
-    new "足交。"
+    new "足交"
 
     # game/src/plot/deb_tv.rpy:883
     old "Keep watching."
-    new "继续看。"
+    new "继续看"
 
     # game/src/plot/deb_tv.rpy:886
     old "Ask for a hand."
-    new "求助。"
+    new "求助"

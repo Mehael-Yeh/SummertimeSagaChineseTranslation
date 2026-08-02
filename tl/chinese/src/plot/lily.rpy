@@ -136,11 +136,11 @@ translate chinese strings:
 
     # game/src/plot/lily.rpy:7
     old "Cyclone."
-    new "龙卷风。"
+    new "龙卷风"
 
     # game/src/plot/lily.rpy:13
     old "You seem familiar."
-    new "你看起来有点眼熟。"
+    new "你看起来有点眼熟"
 
     # game/src/plot/lily.rpy:16
     old "Any suggestions?"
@@ -148,4 +148,4 @@ translate chinese strings:
 
     # game/src/plot/lily.rpy:19
     old "I found what I need."
-    new "我找到我要的了。"
+    new "我找到我要的了"

@@ -359,7 +359,7 @@ translate chinese strings:
 
     # game/src/plot/titomi.rpy:10
     old "Ara Ara."
-    new "哎呀哎呀。"
+    new "哎呀哎呀"
 
     # game/src/plot/titomi.rpy:7
     old "Where are you from?"

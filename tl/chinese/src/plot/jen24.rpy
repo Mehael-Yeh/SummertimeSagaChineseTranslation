@@ -1978,11 +1978,11 @@ translate chinese strings:
 
     # game/src/plot/jen24.rpy:121
     old "Remain silent. {sub}"
-    new "保持沉默。{sub}"
+    new "保持沉默 {sub}"
 
     # game/src/plot/jen24.rpy:132
     old "Say something. {dom}"
-    new "说点什么。{dom}"
+    new "说点什么 {dom}"
 
     # game/src/plot/jen24.rpy:406
     old "Toggle costume"
@@ -1990,9 +1990,9 @@ translate chinese strings:
 
     # game/src/plot/jen24.rpy:450
     old "Break free."
-    new "挣脱束缚。"
+    new "挣脱束缚"
 
     # game/src/plot/jen24.rpy:453
     old "Let her have this."
-    new "让她拥有这个。"
+    new "让她拥有这个"
 

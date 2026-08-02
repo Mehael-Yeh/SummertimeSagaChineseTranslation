@@ -4,35 +4,35 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:9
  old "Apartment 102"
- new "102 公寓"
+ new "公寓102"
 
  # game/res/meta/sets.rpym:10
  old "Apartment 103"
- new "103 公寓"
+ new "公寓103"
 
  # game/res/meta/sets.rpym:11
  old "Apartment 104"
- new "104 公寓"
+ new "公寓104"
 
  # game/res/meta/sets.rpym:12
  old "Apartment 201"
- new "201 公寓"
+ new "公寓201"
 
  # game/res/meta/sets.rpym:13
  old "Apartment 202"
- new "202 公寓"
+ new "公寓202"
 
  # game/res/meta/sets.rpym:14
  old "Apartment 203"
- new "203 公寓"
+ new "公寓203"
 
  # game/res/meta/sets.rpym:15
  old "Apartment 303"
- new "303 公寓"
+ new "公寓303"
 
  # game/res/meta/sets.rpym:16
  old "Apartment 304"
- new "304 公寓"
+ new "公寓304"
 
  # game/res/meta/sets.rpym:17
  old "Vacant Apartment"
@@ -56,7 +56,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:22
  old "Lobby"
- new "大厅"
+ new "大堂"
 
  # game/res/meta/sets.rpym:23
  old "Beachside Apartments"
@@ -72,15 +72,15 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:26
  old "Arcade"
- new "游戏厅"
+ new "街机厅"
 
  # game/res/meta/sets.rpym:27
  old "Bowling Lanes"
- new "保龄球馆"
+ new "保龄球道"
 
  # game/res/meta/sets.rpym:29
  old "Retro Strike"
- new "复古突袭"
+ new "复古强击"
 
  # game/res/meta/sets.rpym:30
  old "Arena"
@@ -92,15 +92,15 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:32
  old "Cubicle"
- new "隔间"
+ new "小隔间"
 
  # game/res/meta/sets.rpym:33
  old "Hall"
- new "走廊"
+ new "大厅"
 
  # game/res/meta/sets.rpym:35
  old "Saga Financial"
- new "Saga 金融"
+ new "萨迦金融"
 
  # game/res/meta/sets.rpym:36
  old "Office"
@@ -120,7 +120,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:40
  old "Rusty Angus"
- new "锈角酒吧"
+ new "拉斯蒂安格斯"
 
  # game/res/meta/sets.rpym:41
  old "Bathroom"
@@ -144,7 +144,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:46
  old "Lifeguard Tower"
- new "救生员瞭望塔"
+ new "救生塔"
 
  # game/res/meta/sets.rpym:47
  old "Bedroom"
@@ -152,7 +152,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:48
  old "Lantern Room"
- new "灯室"
+ new "灯笼室"
 
  # game/res/meta/sets.rpym:50
  old "Lighthouse"
@@ -172,15 +172,15 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:56
  old "Break Room"
- new "茶水间"
+ new "休息室"
 
  # game/res/meta/sets.rpym:57
  old "Dealership"
- new "4S 店"
+ new "经销商"
 
  # game/res/meta/sets.rpym:59
  old "Showroom"
- new "展厅"
+ new "展示厅"
 
  # game/res/meta/sets.rpym:60
  old "Cavern"
@@ -200,7 +200,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:64
  old "Crypt"
- new "地窖"
+ new "地下墓穴"
 
  # game/res/meta/sets.rpym:65
  old "Church"
@@ -216,7 +216,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:68
  old "Tower"
- new "塔"
+ new "塔楼"
 
  # game/res/meta/sets.rpym:69
  old "Vestry"
@@ -234,23 +234,23 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:76
  old "Recovery Room #1"
- new "康复室 #1"
+ new "康复室1号"
 
  # game/res/meta/sets.rpym:77
  old "Recovery Room #2"
- new "康复室 #2"
+ new "康复室2号"
 
  # game/res/meta/sets.rpym:78
  old "Recovery Room #3"
- new "康复室 #3"
+ new "康复室3号"
 
  # game/res/meta/sets.rpym:79
  old "Recovery Room #4"
- new "康复室 #4"
+ new "康复室4号"
 
  # game/res/meta/sets.rpym:80
  old "Research Labs"
- new "研究室"
+ new "研究实验室"
 
  # game/res/meta/sets.rpym:81
  old "Reception"
@@ -258,7 +258,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:82
  old "Outpatient Care"
- new "门诊"
+ new "门诊部"
 
  # game/res/meta/sets.rpym:83
  old "Recovery Ward"
@@ -286,7 +286,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:92
  old "Cosmic Cumics"
- new "宇宙漫威"
+ new "宇宙漫画"
 
  # game/res/meta/sets.rpym:93
  old "Basketball Court"
@@ -298,7 +298,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:96
  old "Trailer"
- new "拖车房"
+ new "房车"
 
  # game/res/meta/sets.rpym:97
  old "Attic"
@@ -330,11 +330,11 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:117
  old "Shed"
- new "小棚"
+ new "棚屋"
 
  # game/res/meta/sets.rpym:119
  old "Glazies"
- new "冰面"
+ new "格拉齐斯"
 
  # game/res/meta/sets.rpym:121
  old "Bushes"
@@ -362,7 +362,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:129
  old "Storage"
- new "储物间"
+ new "仓库"
 
  # game/res/meta/sets.rpym:130
  old "Brook"
@@ -394,7 +394,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:138
  old "Stockroom"
- new "库房"
+ new "储藏室"
 
  # game/res/meta/sets.rpym:143
  old "Roof"
@@ -414,7 +414,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:147
  old "Planet Thiccness"
- new "丰腴星球"
+ new "丰满星球"
 
  # game/res/meta/sets.rpym:148
  old "Sauna"
@@ -430,15 +430,15 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:156
  old "[saga.cast.mia]'s House"
- new "[saga.cast.mia]的家"
+ new "[saga.cast.mia]的房子"
 
  # game/res/meta/sets.rpym:158
  old "Raven Hill"
- new "乌鸦山"
+ new "渡鸦山"
 
  # game/res/meta/sets.rpym:165
  old "[saga.cast.rhonda]'s House"
- new "[saga.cast.rhonda]的家"
+ new "[saga.cast.rhonda]的房子"
 
  # game/res/meta/sets.rpym:167
  old "Library"
@@ -458,7 +458,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:174
  old "Crèche"
- new "托儿所"
+ new "育幼院"
 
  # game/res/meta/sets.rpym:176
  old "[saga.cast.annie]'s House"
@@ -474,11 +474,11 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:180
  old "Hillside Mall"
- new "山边购物中心"
+ new "希尔赛德商场"
 
  # game/res/meta/sets.rpym:181
  old "Toilet Stall"
- new "厕所隔间"
+ new "卫生间隔间"
 
  # game/res/meta/sets.rpym:185
  old "Meadow"
@@ -518,11 +518,11 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:205
  old "Tony's Pizza"
- new "Tony 披萨店"
+ new "托尼披萨店"
 
  # game/res/meta/sets.rpym:206
  old "Pantry"
- new "储藏室"
+ new "食品储藏室"
 
  # game/res/meta/sets.rpym:207
  old "Pizzeria"
@@ -538,23 +538,23 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:212
  old "Community Pool"
- new "社区游泳池"
+ new "社区泳池"
 
  # game/res/meta/sets.rpym:213
  old "Medic Stall"
- new "医疗摊"
+ new "医疗摊位"
 
  # game/res/meta/sets.rpym:214
  old "Pump Room"
- new "水泵房"
+ new "泵房"
 
  # game/res/meta/sets.rpym:215
  old "Poolside"
- new "池边"
+ new "泳池边"
 
  # game/res/meta/sets.rpym:216
  old "Changing Stall"
- new "更衣隔间"
+ new "更衣间"
 
  # game/res/meta/sets.rpym:219
  old "Art Classroom"
@@ -590,7 +590,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:232
  old "Summerville College"
- new "夏默维尔学院"
+ new "夏日镇学院"
 
  # game/res/meta/sets.rpym:233
  old "Music Classroom"
@@ -646,7 +646,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:249
  old "Den"
- new "起居室"
+ new "巢穴"
 
  # game/res/meta/sets.rpym:251
  old "[saga.cast.erik]'s House"
@@ -654,7 +654,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:252
  old "Snug"
- new "舒适角"
+ new "舒适居"
 
  # game/res/meta/sets.rpym:254
  old "Alley"
@@ -662,7 +662,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:255
  old "Sugar Tats"
- new "甜心纹身"
+ new "甜蜜纹身"
 
  # game/res/meta/sets.rpym:260
  old "Pink"
@@ -679,7 +679,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:272
  old "[saga.cast.viv]'s House"
- new "[saga.cast.viv]的家"
+ new "[saga.cast.viv]的房子"
 
  # game/res/meta/sets.rpym:273
  old "Cabin"
@@ -711,7 +711,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:288
  old "Path"
- new "小径"
+ new "路径"
 
  # game/res/meta/sets.rpym:289
  old "Shop"

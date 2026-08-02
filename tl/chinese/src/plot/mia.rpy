@@ -58,4 +58,4 @@ translate chinese strings:
 
     # game/src/plot/mia.rpy:8
     old "Art partner."
-    new "艺术搭档。"
+    new "艺术搭档"

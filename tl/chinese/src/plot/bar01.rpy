@@ -124,7 +124,7 @@ translate chinese bar01_intro_3189275e:
 translate chinese bar01_intro_2a5d3954:
 
     # anon "Ugh. Yes, ma'am."
-    anon "呃。是的，夫人。"
+    anon "呃。是的，女士。"
 
 # game/src/plot/bar01.rpy:63
 translate chinese bar01_clay_25f2e253:
@@ -238,7 +238,7 @@ translate chinese bar01_clay_5efd1ca9:
 translate chinese bar01_clay_3b9cb69e:
 
     # ursula "Where are you, you quack?!"
-    ursula "你在哪，你个庸医？！"
+    ursula "你在哪，你个蠢货？！"
 
 # game/src/plot/bar01.rpy:115
 translate chinese bar01_clay_76e7fb21:
@@ -592,7 +592,7 @@ translate chinese bar01_clay_c5e090dd:
 translate chinese bar01_clay_d64c09df:
 
     # anon "Just for entering?"
-    anon "就只是进去？"
+    anon "就只是参加？"
 
 # game/src/plot/bar01.rpy:275
 translate chinese bar01_clay_d654c8fb:

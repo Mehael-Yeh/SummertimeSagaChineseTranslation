@@ -6,6 +6,22 @@ translate chinese strings:
     old "Wifi Settings"
     new "WiFi设置"
 
+    # game/src/gui/tel.rpy:264
+    old "tl t l c"
+    new "tl t l c"
+
+    # game/src/gui/tel.rpy:295
+    old "Age: [who.age]"
+    new "年龄：[who.age]"
+
+    # game/src/gui/tel.rpy:298
+    old "Bust: [who.size]"
+    new "胸部：[who.size]"
+
+    # game/src/gui/tel.rpy:300
+    old "Size: ???"
+    new "大小：???"
+
     # game/src/gui/tel.rpy:331
     old "Background"
     new "背景"
@@ -16,11 +32,19 @@ translate chinese strings:
 
     # game/src/gui/tel.rpy:430
     old "No messages."
-    new "暂无消息。"
+    new "暂无消息"
 
     # game/src/gui/tel.rpy:453
     old "Unread"
     new "未读"
+
+    # game/src/gui/tel.rpy:539
+    old "No hint."
+    new "无提示"
+
+    # game/src/gui/tel.rpy:537
+    old "Wait."
+    new "等待"
 
     # game/src/gui/tel.rpy:599
     old "Just now"
@@ -50,6 +74,10 @@ translate chinese strings:
     old "Story"
     new "剧情"
 
+    # game/src/gui/tel.rpy:627
+    old "TBD"
+    new "待定"
+
     # game/src/gui/tel.rpy:630
     old "Harem"
     new "后宫"
@@ -62,13 +90,3 @@ translate chinese strings:
     old "Sorority Date"
     new "姐妹会约会"
 
-translate chinese strings:
-
-    old "No hint."
-    new "无提示。"
-
-    old "Size: ???"
-    new "大小：???"
-
-    old "tl t l c"
-    new "tl t l c"

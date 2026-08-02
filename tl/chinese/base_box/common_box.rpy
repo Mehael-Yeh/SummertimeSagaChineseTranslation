@@ -50,7 +50,7 @@ translate chinese strings:
     old "Self-voicing support is limited when using a touch screen."
     new "在使用触摸屏时，自动语音功能会受限。"
     old "Off"
-    new "关闭"
+    new "关"
     old "Text-to-speech"
     new "文本转语音"
     old "Clipboard"

@@ -2698,27 +2698,27 @@ translate chinese strings:
 
     # game/src/plot/tor05.rpy:371
     old "Mushroom."
-    new "蘑菇。"
+    new "蘑菇"
 
     # game/src/plot/tor05.rpy:382
     old "Horny toad."
-    new "发情的蛤蟆。"
+    new "发情的蛤蟆"
 
     # game/src/plot/tor05.rpy:391
     old "Flower."
-    new "花。"
+    new "花"
 
     # game/src/plot/tor05.rpy:400
     old "Base liquid."
-    new "基础液。"
+    new "基础液"
 
     # game/src/plot/tor05.rpy:409
     old "[saga.cast.ursula]'s DNA."
-    new "[saga.cast.ursula]的DNA。"
+    new "[saga.cast.ursula]的DNA"
 
     # game/src/plot/tor05.rpy:421
     old "That's all."
-    new "就这些了。"
+    new "就这些了"
 
     # game/src/plot/tor05.rpy:840
     old "Could you repeat that?"

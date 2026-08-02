@@ -192,47 +192,21 @@ translate chinese strings:
 
 translate chinese strings:
 
-    old "playing on touch screen devices."
-    new "在触摸屏设备上播放。"
 
-    old "This will not impact your save data. Turning "
-    new "这不会影响您的存档数据。"
 
-    old "Adds outlines around buttons making them "
-    new "为按钮添加轮廓，使其"
 
     old "all mute"
     new "全部静音"
 
-    old "player to see the result of pregnancy attempts "
-    new "玩家可查看怀孕尝试结果"
 
-    old "Turn this off to have a more pleasant viewing "
-    new "关闭此选项以获得更舒适的观看体验"
 
-    old "dialogue window that can be useful to those "
-    new "对话窗口，对某些玩家可能有用"
 
-    old "Turn this off to learn about pregnancies at "
-    new "关闭此选项以了解更多关于怀孕的信息"
 
-    old "Adds various controls to the bottom of the "
-    new "在底部添加多种控制选项"
 
-    old "the same time as the characters."
-    new "与角色同步"
 
-    old "those scenes you have unlocked legitimately."
-    new "你已合法解锁的那些场景。"
 
-    old "easier to spot at the expense of visuals.\n\n"
-    new "以牺牲视觉效果为代价，更容易发现。\n\n"
 
-    old "Enables the wheel of conception, allowing the "
-    new "开启受孕之轮，允许"
 
-    old "this option off will revert to showing only "
-    new "关闭此选项将恢复仅显示"
 
     # game/src/menu/pref.rpy:11
 

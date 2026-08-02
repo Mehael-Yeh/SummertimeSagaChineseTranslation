@@ -227,7 +227,7 @@ translate chinese strings:
     # game/src/plot/jen_visit.rpy:32
     # game/src/plot/jen_visit.rpy:35
     old "Not tonight."
-    new "今晚不行。"
+    new "今晚不行"
 
     # game/src/plot/jen_visit.rpy:32
     old "Right now?"

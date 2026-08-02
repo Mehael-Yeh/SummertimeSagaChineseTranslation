@@ -112,12 +112,12 @@ translate chinese strings:
 
     # game/src/plot/judith.rpy:17
     old "Photos."
-    new "照片。"
+    new "照片"
 
     # game/src/plot/judith.rpy:20
     old "Specs."
-    new "规格。"
+    new "规格"
 
     # game/src/plot/judith.rpy:23
     old "Bathroom fun."
-    new "浴室趣事。"
+    new "浴室趣事"

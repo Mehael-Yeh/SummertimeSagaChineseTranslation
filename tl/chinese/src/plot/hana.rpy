@@ -352,10 +352,10 @@ translate chinese strings:
 
     # game/src/plot/hana.rpy:5
     old "Menu."
-    new "菜单。"
+    new "菜单"
 
     old "O-kaerinasai mase, [saga.cast.anon]-san."
-    new "欢迎回家，[saga.cast.anon]先生。"
+    new "欢迎回家，[saga.cast.anon]先生"
 
     old "Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!"
     new "非常感谢！期待您的再次光临！"

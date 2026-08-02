@@ -1029,13 +1029,13 @@ translate chinese jen08_toy_ef4e7ddc:
 # game/src/plot/jen08.rpy:350
 translate chinese jen08_toy_26651eda:
 
-    # anon "( ... She was looking for refund after all, so I think it will be fine. )"
+    # anon "( ... She was looking for refund after all... )"
     anon "( …… 她本来就是在找退款，所以我想应该没关系。)"
 
 # game/src/plot/jen08.rpy:354
 translate chinese jen08_toy_ab2eea2f:
 
-    # anon "All I have is this lollipop..."
+    # anon "( ... But all I have is this lollipop... )"
     anon "我只有这根棒棒糖……"
 
 # game/src/plot/jen08.rpy:356
@@ -1884,3 +1884,34 @@ translate chinese jen08_jenny_area_5b74bc74:
     # anon "Oh, right. Will do!"
     anon "哦，好的。没问题！"
 
+translate chinese jen08_toy_c8e3188c:
+    # anon @ -m_talk "( Hmm, it's not exactly what [saga.cast.jenny] wanted but it's pretty close. )"
+    anon @ -m_talk "( 嗯，虽然不完全是[saga.cast.jenny]想要的，但已经很接近了。 )"
+
+translate chinese jen08_toy_092222c6:
+    # anon @ -m_talk "( ... Maybe she won't notice the difference? )"
+    anon @ -m_talk "( ……也许她不会注意到差别？ )"
+
+translate chinese jen08_toy_173c21eb:
+    # anon o_right @ -m_talk "( I probably shouldn't just take this thing without leaving her some money... )"
+    anon o_right @ -m_talk "( 我可能不该就这么拿走东西，却不给她留点钱…… )"
+
+translate chinese jen08_toy_a95a3aee:
+    # anon a_cash_count @ -m_talk "( ... She was looking for refund after all... )"
+    anon a_cash_count @ -m_talk "( ……毕竟她本来就在找退款…… )"
+
+translate chinese jen08_toy_ac8a8229:
+    # anon a_cash_bills e_sw @ -m_talk "( ... So I think it will be fine. )"
+    anon a_cash_bills e_sw @ -m_talk "( ……所以我觉得应该没问题。 )"
+
+translate chinese jen08_toy_94b27fd5:
+    # anon a_lollipop e_sw @ -m_talk "( ... But all I have is this lollipop... )"
+    anon a_lollipop e_sw @ -m_talk "( ……但我只有这根棒棒糖…… )"
+
+translate chinese jen08_toy_72357421:
+    # anon a_lollipop_suck e_w f_smug v_lollipop @ -m_talk "( ... Slightly used. )"
+    anon a_lollipop_suck e_w f_smug v_lollipop @ -m_talk "( ……还有点用过了。 )"
+
+translate chinese jen08_toy_418a6663:
+    # anon a_pocket e_w f_happy o_left @ -m_talk "( Alright, now to get this thing home to [saga.cast.jenny] and claim my reward! )"
+    anon a_pocket e_w f_happy o_left @ -m_talk "( 好了，现在把这东西带回家给[saga.cast.jenny]，然后领取我的奖励！ )"

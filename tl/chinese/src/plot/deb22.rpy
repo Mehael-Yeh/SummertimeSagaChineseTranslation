@@ -730,9 +730,9 @@ translate chinese strings:
 
     # game/src/plot/deb22.rpy:148
     old "Go after her."
-    new "去追她。"
+    new "去追她"
 
     # game/src/plot/deb22.rpy:151
     old "Go back to bed."
-    new "回床上睡觉。"
+    new "回床上睡觉"
 

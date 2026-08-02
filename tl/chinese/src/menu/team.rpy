@@ -56,3 +56,5 @@ translate chinese strings:
     new "阿比格法特诺巴迪"
 
     # game/src/menu/team.rpy:69
+    # game/src/menu/team.rpy:70
+    # game/src/menu/team.rpy:70

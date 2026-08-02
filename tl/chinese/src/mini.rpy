@@ -14,7 +14,6 @@ translate chinese strings:
     old "Fail"
     new "失败"
 
-translate chinese strings:
-
+    # game/src/mini.rpy:209
     old "Minigame skipped due to easy difficulty."
     new "因难度设置为简单，迷你游戏已跳过。"

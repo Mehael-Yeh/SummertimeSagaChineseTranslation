@@ -64,8 +64,8 @@ translate chinese strings:
 
     # game/src/plot/june.rpy:8
     old "Faptic engine."
-    new "触觉引擎。"
+    new "触觉引擎"
 
     # game/src/plot/june.rpy:14
     old "Printer."
-    new "打印机。"
+    new "打印机"

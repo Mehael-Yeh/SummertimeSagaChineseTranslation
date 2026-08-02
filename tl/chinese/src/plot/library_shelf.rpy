@@ -231,8 +231,8 @@ translate chinese strings:
     # game/src/plot/library_shelf.rpy:28
     # game/src/plot/library_shelf.rpy:66
     old "Yes please."
-    new "好的，请。"
+    new "好的，请"
 
     # game/src/plot/library_shelf.rpy:28
     old "Not right now."
-    new "现在不行。"
+    new "现在不行"

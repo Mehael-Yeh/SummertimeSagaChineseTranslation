@@ -4574,7 +4574,7 @@ translate chinese strings:
 
     # game/src/plot/deb_baby.rpy:503
     old "Bye."
-    new "再见。"
+    new "再见"
 
     # game/src/plot/deb_baby.rpy:946
     # game/src/plot/deb_baby.rpy:1241

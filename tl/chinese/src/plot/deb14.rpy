@@ -1166,16 +1166,16 @@ translate chinese strings:
 
     # game/src/plot/deb14.rpy:112
     old "I know, I'm sorry."
-    new "我知道，对不起。"
+    new "我知道，对不起"
 
     # game/src/plot/deb14.rpy:153
     old "I'm trying."
-    new "我正在努力。"
+    new "我正在努力"
 
     # game/src/plot/deb14.rpy:156
     old "They're not you."
-    new "她们不是你。"
+    new "她们不是你"
 
     # game/src/plot/deb14.rpy:158
     old "Not really."
-    new "也不算啦。"
+    new "也不算啦"

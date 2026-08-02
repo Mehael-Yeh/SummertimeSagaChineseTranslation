@@ -70,9 +70,9 @@ translate chinese strings:
 
     # game/src/plot/kassy.rpy:5
     old "Dress."
-    new "穿衣服。"
+    new "穿衣服"
 
     # game/src/plot/kassy.rpy:8
     old "Just browsing."
-    new "随便看看。"
+    new "随便看看"
 

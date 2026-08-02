@@ -1306,7 +1306,7 @@ translate chinese ano09_tony_merge_316f73c6:
 translate chinese ano09_tony_merge_dd43edac:
 
     # anon @ e_b m_laugh "The Overcompensator!"
-    anon @ e_b m_laugh "矫枉过正者！"
+    anon @ e_b m_laugh "过度补偿者！"
 
 # game/src/plot/ano09.rpy:438
 translate chinese ano09_tony_merge_e169777d:
@@ -1582,7 +1582,7 @@ translate chinese ano09_tony_alt2_4d6c8210:
 translate chinese ano09_tony_alt2_a2f2f4a3:
 
     # anon a_hips @ e_b m_laugh "The Overcompensator!"
-    anon a_hips @ e_b m_laugh "矫枉过正者！"
+    anon a_hips @ e_b m_laugh "过度补偿者！"
 
 # game/src/plot/ano09.rpy:555
 translate chinese ano09_tony_alt2_49d3fbaf:
@@ -1594,7 +1594,7 @@ translate chinese ano09_tony_alt2_49d3fbaf:
 translate chinese ano09_tony_alt2_c4876276:
 
     # anon a_side f_worried "The Over-"
-    anon a_side f_worried "矫枉——"
+    anon a_side f_worried "过度——"
 
 # game/src/plot/ano09.rpy:558
 translate chinese ano09_tony_alt2_8fa2e151:

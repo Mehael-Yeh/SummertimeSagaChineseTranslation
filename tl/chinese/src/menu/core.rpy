@@ -28,4 +28,3 @@ translate chinese strings:
 
     # game/src/menu/core.rpy:25
 
-    # game/src/menu/core.rpy:28

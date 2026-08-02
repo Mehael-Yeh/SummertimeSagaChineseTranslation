@@ -50,7 +50,7 @@ translate chinese strings:
     old "Display"
     new "显示"
     old "Window"
-    new "窗口化"
+    new "窗户"
     old "Fullscreen"
     new "全屏"
     old "Unseen Text"
@@ -98,7 +98,7 @@ translate chinese strings:
     old "Navigate the interface."
     new "导航界面。"
     old "Escape"
-    new "Esc"
+    new "退出"
     old "Accesses the game menu."
     new "访问游戏菜单。"
     old "Ctrl"
@@ -158,7 +158,7 @@ translate chinese strings:
     old "Menu"
     new "主页"
     old "Prefs"
-    new "设置"
+    new "首选项"
     old "Start"
     new "开始"
     old "Preferences"
@@ -219,11 +219,11 @@ translate chinese strings:
 
     # game/screens.rpy:740
     old "Left"
-    new "屏幕左侧"
+    new "左"
 
     # game/screens.rpy:741
     old "Right"
-    new "屏幕右侧"
+    new "右"
     old "Dialogue Box Opacity"
     new "对话框不透明度"
     old "Audio"

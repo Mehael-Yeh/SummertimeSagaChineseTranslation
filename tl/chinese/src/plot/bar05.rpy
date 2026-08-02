@@ -58,13 +58,13 @@ translate chinese bar05_barb1_ab9fa24a:
 translate chinese bar05_pause1_barb_c79591c4:
 
     # anon f_confused "We're still meeting tomorrow afternoon, right?"
-    anon f_confused "我们明天下午还见面，对吧？"
+    anon f_confused "我们还是明天下午见面，对吧？"
 
 # game/src/plot/bar05.rpy:34
 translate chinese bar05_pause1_barb_191032d1:
 
     # anon f_confused "We're still meeting on [saga.time.dow + when] afternoon, right?"
-    anon f_confused "我们下午 [saga.time.dow + when] 还见面，对吧？"
+    anon f_confused "我们还是[saga.time.dow + when]下午见面，对吧？"
 
 # game/src/plot/bar05.rpy:36
 translate chinese bar05_pause1_barb_abdf9b43:
@@ -82,13 +82,13 @@ translate chinese bar05_pause1_barb_eb4c847d:
 translate chinese bar05_pause1_mia_35b69365:
 
     # anon "Did [saga.cast.barb] speak with you about tomorrow afternoon?"
-    anon "[saga.cast.barb] 跟你提过明天下午的事了吗？"
+    anon "[saga.cast.barb]跟你提过明天下午的事了吗？"
 
 # game/src/plot/bar05.rpy:47
 translate chinese bar05_pause1_mia_6ffac612:
 
     # anon "Did [saga.cast.barb] speak with you about [saga.time.dow + when] afternoon?"
-    anon "[saga.cast.barb] 跟你提过 [saga.time.dow + when] 下午的事了吗？"
+    anon "[saga.cast.barb]跟你提过[saga.time.dow + when]下午的事了吗？"
 
 # game/src/plot/bar05.rpy:51
 translate chinese bar05_pause1_mia_4c280ef1:
@@ -352,7 +352,7 @@ translate chinese bar05_art1_bd3abbb2:
 translate chinese bar05_art1_feb4b778:
 
     # barb "Hey, cutie pie."
-    barb "嘿，娃娃脸。"
+    barb "嘿，小可爱。"
 
 # game/src/plot/bar05.rpy:178
 translate chinese bar05_art1_40f75181:
@@ -394,7 +394,7 @@ translate chinese bar05_art1_b0bb135c:
 translate chinese bar05_art1_4af58de7:
 
     # mia "[saga.cast.anon]'s still gonna paint something for that, right?"
-    mia "[saga.cast.anon] 还是会为此画一幅画的，对吧？"
+    mia "[saga.cast.anon]还是会为此画一幅画的，对吧？"
 
 # game/src/plot/bar05.rpy:195
 translate chinese bar05_art1_547c9671:
@@ -424,7 +424,7 @@ translate chinese bar05_art1_5f8a4c55:
 translate chinese bar05_art1_bf6c9903:
 
     # barb "But Mrs. [saga.cast.ursula.clan] has gone and thrown a wrench into the whole thing."
-    barb "但 [saga.cast.ursula.clan] 太太却出来搅局，把事情全搞砸了。"
+    barb "但[saga.cast.ursula.clan]夫人却出来搅局，把事情全搞砸了。"
 
 # game/src/plot/bar05.rpy:207
 translate chinese bar05_art1_43a513e3:
@@ -436,7 +436,7 @@ translate chinese bar05_art1_43a513e3:
 translate chinese bar05_art1_64f99ae1:
 
     # barb "We'll just have to roll with the punches and hope that Mrs. [saga.cast.ursula.clan]'s painting will be good enough to win the contest."
-    barb "我们只能随机应变，希望 [saga.cast.ursula.clan] 太太的画能好到赢得比赛。"
+    barb "我们只能随机应变，希望[saga.cast.ursula.clan]夫人的画能好到赢得比赛。"
 
 # game/src/plot/bar05.rpy:213
 translate chinese bar05_art1_d54997ca:
@@ -466,7 +466,7 @@ translate chinese bar05_art1_b49e58fd:
 translate chinese bar05_art1_c41d5097:
 
     # barb "Unfortunately, cutie pie. You and I are gonna have to sit this one out."
-    barb "可惜了，娃娃脸。你和我得旁观这一局。"
+    barb "可惜了，小可爱。你和我得旁观这一局。"
 
 # game/src/plot/bar05.rpy:225
 translate chinese bar05_art1_cd74eb90:
@@ -640,7 +640,7 @@ translate chinese bar05_art1_1491424b:
 translate chinese bar05_art1_47378b28:
 
     # barb "[saga.cast.anon] can handle the linens."
-    barb "[saga.cast.anon] 可以处理床单。"
+    barb "[saga.cast.anon]可以处理床单。"
 
 # game/src/plot/bar05.rpy:296
 translate chinese bar05_art1_3524a0e1:
@@ -694,7 +694,7 @@ translate chinese bar05_art1_d08c5910:
 translate chinese bar05_art1_96da2ec6:
 
     # barb "For a cutie pie like you, it'll be a piece of cake!"
-    barb "像你这样的可爱宝贝，小菜一碟！"
+    barb "像你这样的小可爱，小菜一碟！"
 
 # game/src/plot/bar05.rpy:321
 translate chinese bar05_art1_a652c777_2:
@@ -766,13 +766,13 @@ translate chinese bar05_ang_bf540819:
 translate chinese bar05_ang_676381a4:
 
     # anon "My friend [saga.cast.mia] said you might be willing to spare some."
-    anon "我的朋友 [saga.cast.mia] 说你也许愿意施舍一些。"
+    anon "我的朋友[saga.cast.mia]说你也许愿意施舍一些。"
 
 # game/src/plot/bar05.rpy:366
 translate chinese bar05_ang_251fffe9:
 
     # ang "Hmm, [saga.cast.mia] sent you?"
-    ang "嗯，是 [saga.cast.mia] 派你来的？"
+    ang "嗯，是[saga.cast.mia]派你来的？"
 
 # game/src/plot/bar05.rpy:367
 translate chinese bar05_ang_b574c642:
@@ -1036,7 +1036,7 @@ translate chinese bar05_lily_70dcce45:
 translate chinese bar05_lily_e38ae4bf:
 
     # anon f_worried "Oh, umm... [saga.cast.barb] has me painting a portrait of her for her office."
-    anon f_worried "哦，嗯……[saga.cast.barb] 让我给她画一幅肖像，挂在她办公室里。"
+    anon f_worried "哦，嗯……[saga.cast.barb]让我给她画一幅肖像，挂在她办公室里。"
 
 # game/src/plot/bar05.rpy:464
 translate chinese bar05_lily_61818b7a:
@@ -1054,7 +1054,7 @@ translate chinese bar05_lily_430b8e87:
 translate chinese bar05_lily_c4bc432b:
 
     # lily f_horny "I guess that would make you her {i}special project{/i} this year, huh?"
-    lily f_horny "我猜那你就成了她今年{i}的特别项目{/i}了，是吧？"
+    lily f_horny "我猜那你就成了她今年的{i}特别项目{/i}了，是吧？"
 
 # game/src/plot/bar05.rpy:467
 translate chinese bar05_lily_aa7b1b5b:
@@ -1204,7 +1204,7 @@ translate chinese bar05_lily_08bdddad:
 translate chinese bar05_lily_b5a961af:
 
     # lily e_nw f_horny "Mhmm, Robbie [saga.cast.rhonda.clan]..."
-    lily e_nw f_horny "嗯，罗比 [saga.cast.rhonda.clan]……"
+    lily e_nw f_horny "嗯，Robbie [saga.cast.rhonda.clan]……"
 
 # game/src/plot/bar05.rpy:497
 translate chinese bar05_lily_7dc50190:
@@ -1228,7 +1228,7 @@ translate chinese bar05_lily_4698e34c:
 translate chinese bar05_lily_e429a4e9:
 
     # lily f_horny "... [saga.cast.barb] knows her stuff."
-    lily f_horny "……[saga.cast.barb] 可是很懂行的。"
+    lily f_horny "……[saga.cast.barb]可是很懂行的。"
 
 # game/src/plot/bar05.rpy:502
 translate chinese bar05_lily_c4f2d962:
@@ -1354,7 +1354,7 @@ translate chinese bar05_lily_barb_d06ce5b1:
 translate chinese bar05_lily_barb_cbd4951d:
 
     # barb "It's a place called Cosmic Cumics down at the mall."
-    barb "在商场里一家叫‘宇宙漫画’的地方。"
+    barb "在商场里一家叫宇宙漫画的地方。"
 
 # game/src/plot/bar05.rpy:562
 translate chinese bar05_lily_barb_6af522f2:
@@ -1768,7 +1768,7 @@ translate chinese bar05_art2_4f71515f:
 translate chinese bar05_art2_9b9c71d9:
 
     # barb "Oh, perfect timing cutie pie... let's see what you brought us!"
-    barb "哦，来得正好，娃娃脸……让我看看你带来了什么！"
+    barb "哦，来得正好，小可爱……让我看看你带来了什么！"
 
 # game/src/plot/bar05.rpy:760
 translate chinese bar05_art2_4e1808e7:
@@ -2152,7 +2152,7 @@ translate chinese bar05_art2_retry_0d65e5ec:
 translate chinese bar05_art2_retry_162f7214:
 
     # ursula "It's so hard to find good peasants these days."
-    ursula "如今想找个好农民可真难。"
+    ursula "如今想找个好贱民可真难。"
 
 # game/src/plot/bar05.rpy:966
 translate chinese bar05_art2_retry_c5d04ecf:
@@ -2686,7 +2686,7 @@ translate chinese bar05_art2_retry_c5fa00ff:
 translate chinese bar05_art2_retry_1d0f626d:
 
     # barb "I think you just saved my job, [saga.cast.anon]!"
-    barb "我觉得你刚刚救了我的工作，[saga.cast.anon]！"
+    barb "我觉得你刚刚挽救了我的工作，[saga.cast.anon]！"
 
 # game/src/plot/bar05.rpy:1249
 translate chinese bar05_art2_retry_02cadf1f:

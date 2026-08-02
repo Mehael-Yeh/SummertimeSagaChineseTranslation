@@ -45,4 +45,4 @@ translate chinese strings:
 
     # game/src/plot/ang.rpy:14
     old "I was just leaving."
-    new "我正要走。"
+    new "我正准备走"

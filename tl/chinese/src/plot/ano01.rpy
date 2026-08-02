@@ -321,7 +321,7 @@ translate chinese ano01_debbie_c6aaf323:
 # game/src/plot/ano01.rpy:118
 translate chinese ano01_debbie_e7f56498:
 
-    # debbie "She asked if you might be willing to help?"
+    # debbie "She asked if you might be willing?"
     debbie "她问你是否愿意去帮忙？"
 
 # game/src/plot/ano01.rpy:119

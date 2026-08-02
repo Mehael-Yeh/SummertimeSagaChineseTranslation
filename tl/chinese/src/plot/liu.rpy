@@ -94,7 +94,7 @@ translate chinese strings:
 
     # game/src/plot/liu.rpy:5
     old "My account."
-    new "我的账户。"
+    new "我的账户"
 
     # game/src/plot/liu.rpy:8
     old "[saga.cast.tina]."

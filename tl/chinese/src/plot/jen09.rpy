@@ -526,9 +526,9 @@ translate chinese strings:
 
     # game/src/plot/jen09.rpy:60
     old "Let it go. {sub}"
-    new "算了。{sub}"
+    new "算了 {sub}"
 
     # game/src/plot/jen09.rpy:63
     old "Confront her. {dom}"
-    new "质问{dom}。"
+    new "质问 {dom}"
 

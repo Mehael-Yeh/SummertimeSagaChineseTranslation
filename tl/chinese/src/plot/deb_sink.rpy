@@ -946,7 +946,7 @@ translate chinese deb_sink_deny1_d7811edd:
 translate chinese deb_sink_deny1_e6faae1b:
 
     # debbie f_curious of_none "Fool around?"
-    debbie f_curious of_none "胡闹一下？"
+    debbie f_curious of_none "亲热一下？"
 
 # game/src/plot/deb_sink.rpy:398
 translate chinese deb_sink_deny1_d8f50d3e:

@@ -34,8 +34,8 @@ translate chinese strings:
 
     # game/src/plot/dexter.rpy:8
     old "Overdue book."
-    new "逾期未还的书。"
+    new "逾期未还的书"
 
     # game/src/plot/dexter.rpy:11
     old "Talent show."
-    new "才艺表演。"
+    new "才艺表演"

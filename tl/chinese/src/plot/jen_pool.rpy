@@ -4,7 +4,7 @@
 translate chinese jen_pool_45f3866c:
 
     # anon f_shy "Wanna fool around?"
-    anon f_shy "想胡闹一下？"
+    anon f_shy "想亲热一下？"
 
 # game/src/plot/jen_pool.rpy:7
 translate chinese jen_pool_df4c4de7:

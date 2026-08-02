@@ -22,25 +22,25 @@ translate chinese strings:
 
     # game/src/plot/jane.rpy:5
     old "Membership."
-    new "会员。"
+    new "会员"
 
     # game/src/plot/jane.rpy:8
     old "French dictionary."
-    new "法语词典。"
+    new "法语词典"
 
     # game/src/plot/jane.rpy:11
     old "French food."
-    new "法国菜。"
+    new "法国菜"
 
     # game/src/plot/jane.rpy:14
     old "Overdue books."
-    new "逾期图书。"
+    new "逾期图书"
 
     # game/src/plot/jane.rpy:17
     old "French poetry."
-    new "法语诗歌。"
+    new "法语诗歌"
 
     # game/src/plot/jane.rpy:23
     old "Dairy operations."
-    new "乳制品业务。"
+    new "乳制品业务"
 

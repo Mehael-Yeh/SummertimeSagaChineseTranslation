@@ -3964,20 +3964,20 @@ translate chinese strings:
 
     # game/src/plot/deb23.rpy:1106
     old "No girlfriend."
-    new "没有女朋友。"
+    new "没有女朋友"
 
     # game/src/plot/deb23.rpy:1222
     old "Perfectly plump."
-    new "丰满得恰到好处。"
+    new "丰满得恰到好处"
 
     # game/src/plot/deb23.rpy:1225
     old "Thick and delicious."
-    new "又浓又美味。"
+    new "又浓又美味"
 
     # game/src/plot/deb23.rpy:1031
     old "Conservative."
-    new "保守。"
+    new "保守"
 
     # game/src/plot/deb23.rpy:1029
     old "Nice."
-    new "很好。"
+    new "很好"

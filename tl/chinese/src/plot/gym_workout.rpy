@@ -10,4 +10,4 @@ translate chinese gym_workout_dark_b783ece5:
 translate chinese gym_workout_skip_ff9eeb64:
 
     # anon @ -m_talk "( I can't wait around here, the gym will be closing soon. )"
-    anon @ -m_talk "(我不能在这儿干等，健身房快关门了。)"
+    anon @ -m_talk "(我不能在这儿干等，体育馆快关门了。)"

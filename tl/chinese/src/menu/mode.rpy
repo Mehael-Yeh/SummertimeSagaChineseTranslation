@@ -50,16 +50,4 @@ translate chinese strings:
     old "Play with boosted stats"
     new "使用强化属性进行游戏"
 
-translate chinese strings:
 
-    old "way to earn them yet. Extra money can be found in the "
-    new "获取它们的方法。额外金钱可以在"
-
-    old "Start with money and stats as there is no "
-    new "从金钱和属性开始，因为当前尚无"
-
-    old "future releases."
-    new "未来的发布版本。"
-
-    old "ATM in the bank. More content will be restored in "
-    new "银行里的ATM机。更多内容将会恢复。"

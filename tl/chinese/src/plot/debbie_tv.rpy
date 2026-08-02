@@ -250,9 +250,9 @@ translate chinese strings:
 
     # game/src/plot/debbie_tv.rpy:52
     old "Have some fun."
-    new "找点乐子。"
+    new "找点乐子"
 
     # game/src/plot/debbie_tv.rpy:55
     old "Maybe later."
-    new "也许以后再说。"
+    new "也许以后再说"
 

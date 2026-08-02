@@ -568,9 +568,9 @@ translate chinese strings:
 
     # game/src/plot/jen_finger.rpy:154
     old "Finish her!"
-    new "干掉她！"
+    new "让她高潮！"
 
     # game/src/plot/jen_finger.rpy:157
     old "Stop."
-    new "停下。"
+    new "停下"
 

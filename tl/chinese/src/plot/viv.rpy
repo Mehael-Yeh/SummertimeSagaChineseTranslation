@@ -142,16 +142,16 @@ translate chinese strings:
 
     # game/src/plot/viv.rpy:5
     old "Tutoring sessions."
-    new "辅导课。"
+    new "辅导课"
 
     # game/src/plot/viv.rpy:11
     old "Assignment."
-    new "作业。"
+    new "作业"
 
     # game/src/plot/viv.rpy:14
     old "Help."
-    new "帮助。"
+    new "帮助"
 
     # game/src/plot/viv.rpy:20
     old "Exam."
-    new "考试。"
+    new "考试"

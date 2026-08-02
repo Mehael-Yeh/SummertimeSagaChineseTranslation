@@ -3,6 +3,7 @@
 # game/src/plot/maria.rpy:27
 translate chinese maria_maria_lounge_intro_bd334944:
 
+
     # anon "Hey, [saga.cast.maria]."
     anon "嘿，[saga.cast.maria]。"
 
@@ -12,14 +13,9 @@ translate chinese maria_maria_lounge_intro_055bf959:
     # maria "Hey there, [saga.cast.anon]."
     maria "嘿，[saga.cast.anon]。"
 
-# game/src/plot/maria.rpy:32
-translate chinese maria_maria_lounge_intro_c9d66d37:
-
-    # maria f_horny "Hey there, handsome."
-    maria f_horny "嘿，帅哥。"
-
 # game/src/plot/maria.rpy:35
 translate chinese maria_maria_lounge_intro_a2105628:
+
 
     # maria "What can I do for ya?"
     maria "有什么可以帮你的吗？"
@@ -27,11 +23,13 @@ translate chinese maria_maria_lounge_intro_a2105628:
 # game/src/plot/maria.rpy:41
 translate chinese maria_maria_lounge_outro_66f706cb:
 
+
     # anon a_point_back "I should get going."
     anon a_point_back "我该走了。"
 
 # game/src/plot/maria.rpy:44
 translate chinese maria_maria_lounge_outro_8d2d30df:
+
 
     # maria "Alright, kid."
     maria "好的，小子。"
@@ -40,22 +38,11 @@ translate chinese maria_maria_lounge_outro_8d2d30df:
 translate chinese maria_maria_lounge_outro_67de5829:
 
     # maria "Alright, handsome."
-    maria "好的，帅哥。"
-
-# game/src/plot/maria.rpy:48
-translate chinese maria_maria_lounge_outro_fda83bce:
-
-    # anon a_wave "See you later."
-    anon a_wave "回头见。"
-
-# game/src/plot/maria.rpy:49
-translate chinese maria_maria_lounge_outro_e8e7aa5c:
-
-    # maria "You will."
-    maria "你会的。"
+    maria "好啊，帅哥。"
 
 # game/src/plot/maria.rpy:86
 translate chinese maria_pizza_kitchen_intro_bd334944:
+
 
     # anon "Hey, [saga.cast.maria]."
     anon "嘿，[saga.cast.maria]。"
@@ -63,11 +50,13 @@ translate chinese maria_pizza_kitchen_intro_bd334944:
 # game/src/plot/maria.rpy:88
 translate chinese maria_pizza_kitchen_intro_56f64389:
 
+
     # maria @ f_confused -m_talk "Hmm?"
     maria @ f_confused -m_talk "嗯？"
 
 # game/src/plot/maria.rpy:91
 translate chinese maria_pizza_kitchen_intro_33469a76:
+
 
     # maria "Oh, hey there, [saga.cast.anon]."
     maria "哦，嘿，[saga.cast.anon]。"
@@ -75,11 +64,13 @@ translate chinese maria_pizza_kitchen_intro_33469a76:
 # game/src/plot/maria.rpy:92
 translate chinese maria_pizza_kitchen_intro_a2105628:
 
+
     # maria "What can I do for ya?"
     maria "有什么需要帮忙的吗？"
 
 # game/src/plot/maria.rpy:95
 translate chinese maria_pizza_kitchen_intro_31d55066:
+
 
     # maria f_horny "Oh, hey there, handsome."
     maria f_horny "哦，嘿，帅哥。"
@@ -88,16 +79,11 @@ translate chinese maria_pizza_kitchen_intro_31d55066:
 translate chinese maria_pizza_kitchen_intro_685f43a0:
 
     # maria "You come back here lookin' for trouble?"
-    maria "你回来这里找麻烦的？"
-
-# game/src/plot/maria.rpy:103
-translate chinese maria_pizza_kitchen_outro_b3ea6cf8:
-
-    # anon "Just saying hi."
-    anon "只是打个招呼。"
+    maria "你回来这儿找麻烦吗？"
 
 # game/src/plot/maria.rpy:106
 translate chinese maria_pizza_kitchen_outro_8d2d30df:
+
 
     # maria "Alright, kid."
     maria "好吧，小子。"
@@ -105,11 +91,13 @@ translate chinese maria_pizza_kitchen_outro_8d2d30df:
 # game/src/plot/maria.rpy:109
 translate chinese maria_pizza_kitchen_outro_67de5829:
 
+
     # maria "Alright, handsome."
     maria "好吧，帅哥。"
 
 # game/src/plot/maria.rpy:117
 translate chinese maria_pizza_kitchen_outro_6c1d72cb:
+
 
     # maria "Be careful out there."
     maria "在外面小心点。"
@@ -117,11 +105,13 @@ translate chinese maria_pizza_kitchen_outro_6c1d72cb:
 # game/src/plot/maria.rpy:118
 translate chinese maria_pizza_kitchen_outro_626198f9:
 
+
     # anon a_wave "I will be."
     anon a_wave "我会的。"
 
 # game/src/plot/maria.rpy:150
 translate chinese maria_pizza_shop_intro_b1dd2f7b:
+
 
     # anon "Hi, [saga.cast.maria]."
     anon "嗨，[saga.cast.maria]。"
@@ -132,14 +122,9 @@ translate chinese maria_pizza_shop_intro_5c87c0ea:
     # maria "Hey, [saga.cast.anon]."
     maria "嘿，[saga.cast.anon]。"
 
-# game/src/plot/maria.rpy:153
-translate chinese maria_pizza_shop_intro_a2105628:
-
-    # maria "What can I do for ya?"
-    maria "有什么能帮你的？"
-
 # game/src/plot/maria.rpy:159
 translate chinese maria_pizza_shop_outro_661b32de:
+
 
     # anon f_calm "I'm going to head out."
     anon f_calm "我要出去了。"
@@ -147,11 +132,13 @@ translate chinese maria_pizza_shop_outro_661b32de:
 # game/src/plot/maria.rpy:160
 translate chinese maria_pizza_shop_outro_b586a964:
 
+
     # maria "Alright, see ya later, kid."
     maria "好的，回头见，小子。"
 
 # game/src/plot/maria.rpy:161
 translate chinese maria_pizza_shop_outro_cabaf4ec:
+
 
     # anon a_wave "Bye, [saga.cast.maria]."
     anon a_wave "拜，[saga.cast.maria]。"
@@ -159,11 +146,13 @@ translate chinese maria_pizza_shop_outro_cabaf4ec:
 # game/src/plot/maria.rpy:194
 translate chinese maria_pizza_pantry_intro_35eef5d2:
 
-    # maria "[saga.cast.anon]?"
+
+    # maria "Alright, see ya later, kid."
     maria "[saga.cast.anon]?"
 
 # game/src/plot/maria.rpy:198
 translate chinese maria_pizza_pantry_intro_80b8ab1b:
+
 
     # maria "Isn't it past your bedtime?"
     maria "是不是已经过了你的睡觉时间？"
@@ -171,11 +160,13 @@ translate chinese maria_pizza_pantry_intro_80b8ab1b:
 # game/src/plot/maria.rpy:200
 translate chinese maria_pizza_pantry_intro_cc966142:
 
+
     # anon "Very funny."
     anon "真有意思。"
 
 # game/src/plot/maria.rpy:203
 translate chinese maria_pizza_pantry_intro_4289f5e2:
+
 
     # maria f_horny "You lookin' for trouble?"
     maria f_horny "你是不是在找麻烦？"
@@ -183,17 +174,20 @@ translate chinese maria_pizza_pantry_intro_4289f5e2:
 # game/src/plot/maria.rpy:210
 translate chinese maria_pizza_pantry_outro_d8379764:
 
+
     # anon f_calm "Good night."
     anon f_calm "晚安"
 
 # game/src/plot/maria.rpy:213
 translate chinese maria_pizza_pantry_outro_e5e59c0b:
 
-    # maria "Good night, kid."
+
+    # maria "Good night."
     maria "晚安，小子。"
 
 # game/src/plot/maria.rpy:215
 translate chinese maria_pizza_pantry_outro_9f174016:
+
 
     # maria "Good night, handsome."
     maria "晚安，帅哥。"
@@ -201,16 +195,163 @@ translate chinese maria_pizza_pantry_outro_9f174016:
 # game/src/plot/maria.rpy:217
 translate chinese maria_pizza_pantry_outro_8151e1b5:
 
+
     # maria "Be careful going home, yeah?"
     maria "回家路上小心，好吗？"
 
 # game/src/plot/maria.rpy:218
 translate chinese maria_pizza_pantry_outro_a725a27a:
 
+
     # anon a_salute "I will be."
     anon a_salute "我会的。"
 
+translate chinese maria_maria_lounge_intro_c9d66d37:
+
+
+    # maria f_horny "Hey there, handsome."
+    maria f_horny "嘿，帅哥。"
+
+translate chinese maria_maria_lounge_outro_fda83bce:
+
+    # anon a_wave "See you later."
+    anon a_wave "回头见。"
+
+translate chinese maria_maria_lounge_outro_e8e7aa5c:
+
+
+    # maria "You will."
+    maria "你会的。"
+
+translate chinese maria_pizza_kitchen_outro_b3ea6cf8:
+
+
+    # anon "Just saying hi."
+    anon "只是打个招呼。"
+
+translate chinese maria_pizza_shop_intro_a2105628:
+
+
+    # maria "What can I do for ya?"
+    maria "有什么能帮你的？"
+
+translate chinese maria_maria_bed1_intro_bd334944:
+
+    # anon "Hey, [saga.cast.maria]."
+    anon "嘿，[saga.cast.maria]。"
+
+translate chinese maria_maria_bed1_intro_ec17325e:
+
+    # anon f_curious "Folding clothes?"
+    anon f_curious "在叠衣服吗？"
+
+translate chinese maria_maria_bed1_intro_295a4593:
+
+    # maria "Uh huh."
+    maria "嗯哼。"
+
+translate chinese maria_maria_bed1_intro_b5658879:
+
+    # maria "What's up, [saga.cast.anon]?"
+    maria "怎么了，[saga.cast.anon]？"
+
+translate chinese maria_maria_bed1_intro_bddab1e0:
+
+    # maria f_horny "What's up, handsome?"
+    maria f_horny "怎么了，帅哥？"
+
+translate chinese maria_pizza_pantry_intro1_50bd98a0:
+
+    # anon "You need help with that?"
+    anon "需要帮忙吗？"
+
+translate chinese maria_pizza_pantry_intro1_b288efed:
+
+    # maria "No, I got it."
+    maria "不用，我能搞定。"
+
+translate chinese maria_pizza_pantry_intro1_785c8a14:
+
+    # maria p_stand_away "There, ya see?"
+    maria p_stand_away "瞧，看到了吧？"
+
+translate chinese maria_pizza_pantry_intro1_ad4b54da:
+
+    # maria "Easy as pie."
+    maria "轻松得很。"
+
+translate chinese maria_pizza_pantry_intro1_fb4e1ee6:
+
+    # anon f_shy "Yeah, well done."
+    anon f_shy "嗯，干得好。"
+
+translate chinese maria_pizza_pantry_intro1_adb0d011:
+
+    # maria f_curious "Did you need somethin'?"
+    maria f_curious "你找我有事吗？"
+
+translate chinese maria_pizza_pantry_intro2_706855e5:
+
+    # maria "Urgh, I'm gonna make [saga.cast.tony] reorganize this shelf..."
+    maria "呃啊，我要让[saga.cast.tony]把这个架子重新整理一下……"
+
+translate chinese maria_pizza_pantry_intro2_82c092de:
+
+    # maria "... He's got way too much crap up top!"
+    maria "……他上面放了太多乱七八糟的东西了！"
+
+translate chinese maria_pizza_pantry_intro2_8b9e7f38:
+
+    # maria p_stand_away "{i}*Sigh*{/i}"
+    maria p_stand_away "{i}*叹气*{/i}"
+
+translate chinese maria_pizza_pantry_intro2_bcd99a0f:
+
+    # maria @ -m_talk "Hmm?"
+    maria @ -m_talk "嗯？"
+
+translate chinese maria_pizza_pantry_intro2_d827805c:
+
+    # maria "Tsk, what are ya doin'?"
+    maria "啧，你在干啥？"
+
+translate chinese maria_pizza_pantry_intro2_4317600b:
+
+    # anon e_w f_confused "Huh?"
+    anon e_w f_confused "哈？"
+
+translate chinese maria_pizza_pantry_intro2_18f0f265:
+
+    # anon a_uneasy f_shy "Oh, hey [saga.cast.maria]."
+    anon a_uneasy f_shy "哦，嘿，[saga.cast.maria]。"
+
+translate chinese maria_pizza_pantry_intro2_9e1cd046:
+
+    # maria f_curious "Ya just gonna stand there gawkin' or ya need somethin'?"
+    maria f_curious "你就站在那儿傻看着，还是有事儿？"
+
+translate chinese maria_pizza_pantry_outro_373f7378:
+
+    # anon f_calm "I'll leave you to it."
+    anon f_calm "那我就不打扰你了。"
+
+translate chinese maria_pizza_pantry_outro_a0dec0cc:
+
+    # maria "Alright, suit ya self."
+    maria "好吧，随你便。"
+
+translate chinese maria_pizza_pantry_outro_f09f570c:
+
+    # anon "Have a good night, [saga.cast.maria]."
+    anon "晚安，[saga.cast.maria]。"
+
+translate chinese maria_pizza_pantry_outro_40418da9:
+
+    # maria "Ya, you too."
+    maria "嗯，你也是。"
+
 translate chinese strings:
+
 
     # game/src/plot/maria.rpy:5
     old "Trip."
@@ -228,17 +369,16 @@ translate chinese strings:
     old "Tonight."
     new "今晚"
 
-    # game/src/plot/maria.rpy:74
-    # game/src/plot/maria.rpy:177
 translate chinese strings:
+
 
     old "Wages. ($[saga.prop.pizza_boxes.owed:,])"
     new "工资 ($[saga.prop.pizza_boxes.owed:,])"
 
     # game/src/plot/maria.rpy:176
     old "Good night."
-    new "晚安。"
+    new "晚安"
 
     # game/src/plot/maria.rpy:73
     old "Just saying hi."
-    new "只是打个招呼。"
+    new "只是打个招呼"

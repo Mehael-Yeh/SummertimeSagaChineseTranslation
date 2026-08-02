@@ -1822,41 +1822,41 @@ translate chinese strings:
 
     # game/src/plot/deb19.rpy:186
     old "Stop things here."
-    new "在这儿停下。"
+    new "在这儿停下"
 
     # game/src/plot/deb19.rpy:189
     old "Kiss lower."
-    new "亲下面一点。"
+    new "亲下面一点"
 
     # game/src/plot/deb19.rpy:207
     # game/src/plot/deb19.rpy:235
     old "Don't stop."
-    new "别停。"
+    new "别停"
 
     # game/src/plot/deb19.rpy:252
     old "Reach lower."
-    new "再往下点。"
+    new "再往下点"
 
     # game/src/plot/deb19.rpy:279
     old "Grind."
-    new "磨着她。"
+    new "摩擦"
 
     # game/src/plot/deb19.rpy:315
     old "Cum."
-    new "射吧。"
+    new "射精"
 
     # game/src/plot/deb19.rpy:318
     old "Push further."
-    new "再进去点。"
+    new "再进去点"
 
     # game/src/plot/deb19.rpy:389
     old "Stop things there."
-    new "就此打住。"
+    new "就此打住"
 
     # game/src/plot/deb19.rpy:392
     old "Sex."
-    new "做爱。"
+    new "做爱"
 
     # game/src/plot/deb19.rpy:206
     old "Keep going."
-    new "继续。"
+    new "继续"

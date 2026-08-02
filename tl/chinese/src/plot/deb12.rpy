@@ -790,12 +790,12 @@ translate chinese strings:
 
     # game/src/plot/deb12.rpy:26
     old "Weird dreams."
-    new "奇怪的梦。"
+    new "奇怪的梦"
 
     # game/src/plot/deb12.rpy:125
     old "I need help."
-    new "我需要帮助。"
+    new "我需要帮助"
 
     # game/src/plot/deb12.rpy:128
     old "I need experience."
-    new "我需要经验。"
+    new "我需要经验"

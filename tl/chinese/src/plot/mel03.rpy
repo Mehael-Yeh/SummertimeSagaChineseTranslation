@@ -3,11 +3,13 @@
 # game/src/plot/mel03.rpy:6
 translate chinese mel03_setup_melody_ad4b9a32:
 
+
     # "TODO"
     "待办"
 
 # game/src/plot/mel03.rpy:18
 translate chinese mel03_music_1b4eff44:
+
 
     # melody "Oh good, you're here, [saga.cast.anon]."
     melody "哦，太好了，你来了，[saga.cast.anon]。"
@@ -16,22 +18,18 @@ translate chinese mel03_music_1b4eff44:
 translate chinese mel03_music_1bcc2c98:
 
     # melody "I was just handing out the music sheets."
-    melody "我刚刚在发乐谱。"
-
-# game/src/plot/mel03.rpy:22
-translate chinese mel03_music_12c0f177:
-
-    # anon "Music sheets?"
-    anon "乐谱？"
+    melody "我刚在分发乐谱。"
 
 # game/src/plot/mel03.rpy:25
 translate chinese mel03_music_41aac191:
+
 
     # melody "For the finale, remember?"
     melody "为了终曲，记得吗？"
 
 # game/src/plot/mel03.rpy:28
 translate chinese mel03_music_08f3032e:
+
 
     # anon "Oh, right. Yeah, I remember."
     anon "哦，对。嗯，我记得。"
@@ -40,16 +38,11 @@ translate chinese mel03_music_08f3032e:
 translate chinese mel03_music_d2bfcfcd:
 
     # kevin "It's actually a pretty cool song!"
-    kevin "实际上这是一首很酷的歌！"
-
-# game/src/plot/mel03.rpy:37
-translate chinese mel03_music_3d13543d:
-
-    # melody "Heh, well of course it is!"
-    melody "嘿，那当然！"
+    kevin "其实这首歌超酷的！"
 
 # game/src/plot/mel03.rpy:39
 translate chinese mel03_music_eea2a369:
+
 
     # melody "Look at who you're working with here, mister!"
     melody "看看你现在跟谁一起工作，先生！"
@@ -57,17 +50,20 @@ translate chinese mel03_music_eea2a369:
 # game/src/plot/mel03.rpy:42
 translate chinese mel03_music_fe38c489:
 
+
     # anon "Shouldn't [saga.cast.eve] be here?"
     anon "[saga.cast.eve]不应该在这里吗？"
 
 # game/src/plot/mel03.rpy:45
 translate chinese mel03_music_4f4702ee:
 
+
     # kevin "She's here..."
     kevin "她来了……"
 
 # game/src/plot/mel03.rpy:46
 translate chinese mel03_music_80a34ccf:
+
 
     # kevin "... Or well, she was."
     kevin "……或者说，她刚还在。"
@@ -78,14 +74,9 @@ translate chinese mel03_music_5de6c886:
     # melody "She went to grab something from her locker."
     melody "她去储物柜拿东西了。"
 
-# game/src/plot/mel03.rpy:52
-translate chinese mel03_music_69fba038:
-
-    # anon "Did she like the song too?"
-    anon "她也喜欢那首歌吗？"
-
 # game/src/plot/mel03.rpy:55
 translate chinese mel03_music_ee3fc343:
+
 
     # melody "You better believe it!"
     melody "那还用说！"
@@ -93,11 +84,13 @@ translate chinese mel03_music_ee3fc343:
 # game/src/plot/mel03.rpy:58
 translate chinese mel03_music_143bcd93:
 
+
     # anon "Looks like everything is going to work out then, huh?"
     anon "看来一切都会顺利的，对吧？"
 
 # game/src/plot/mel03.rpy:61
 translate chinese mel03_music_0e7e4007:
+
 
     # melody "Yeah, all thanks to you, sugar!"
     melody "是啊，多亏了你，亲爱的！"
@@ -105,11 +98,13 @@ translate chinese mel03_music_0e7e4007:
 # game/src/plot/mel03.rpy:65
 translate chinese mel03_music_b0541b70:
 
+
     # kevin "I can't wait to get up there and start playing! The crowd is gonna love this!"
     kevin "我等不及要上台开演了！观众们肯定会喜欢的！"
 
 # game/src/plot/mel03.rpy:69
 translate chinese mel03_music_5b118c51:
+
 
     # eve "[saga.cast.melody]!"
     eve "[saga.cast.melody]!"
@@ -117,11 +112,13 @@ translate chinese mel03_music_5b118c51:
 # game/src/plot/mel03.rpy:72
 translate chinese mel03_music_7a2ac6d7:
 
+
     # eve "Guys, come quick! You're not going to believe this!"
     eve "兄弟们，快来看！你们绝对不敢相信！"
 
 # game/src/plot/mel03.rpy:74
 translate chinese mel03_music_4673f064:
+
 
     # melody "What's that matter, sweetie?"
     melody "怎么了，亲爱的？"
@@ -130,34 +127,17 @@ translate chinese mel03_music_4673f064:
 translate chinese mel03_music_4c3cc18f:
 
     # eve a_cover f_sad "Someone vandalized the auditorium!"
-    eve a_cover f_sad "有人破坏了大礼堂！"
-
-# game/src/plot/mel03.rpy:80
-translate chinese mel03_music_d644d3db:
-
-    # melody "What?!"
-    melody "什么？！"
-
-# game/src/plot/mel03.rpy:82
-translate chinese mel03_music_c418c430:
-
-    # eve "Yeah, there's graffiti everywhere!"
-    eve "是啊，到处都是涂鸦！"
+    eve a_cover f_sad "有人破坏了礼堂！"
 
 # game/src/plot/mel03.rpy:89
 translate chinese mel03_music_c58a7824:
 
     # eve a_calm_down f_surprised "C'mon guys!"
-    eve a_calm_down f_surprised "拜托，伙计们！"
-
-# game/src/plot/mel03.rpy:96
-translate chinese mel03_music_d1806a7d:
-
-    # mono "The state of the assembly hall was beyond my wildest imagination..." with fade
-    mono "礼堂的状况超出了我最疯狂的想象……" with fade
+    eve a_calm_down f_surprised "拜托，大伙儿！"
 
 # game/src/plot/mel03.rpy:104
 translate chinese mel03_music_c8a8ed88:
+
 
     # melody "This is unbelievable!"
     melody "这简直难以置信！"
@@ -165,11 +145,13 @@ translate chinese mel03_music_c8a8ed88:
 # game/src/plot/mel03.rpy:108
 translate chinese mel03_music_4f613b9f:
 
+
     # anon "Holy crap, what a mess..."
     anon "天哪，真是一团糟……"
 
 # game/src/plot/mel03.rpy:112
 translate chinese mel03_music_cb78724b:
+
 
     # melody "It's ruined! I just..."
     melody "全毁了！我只是……"
@@ -178,22 +160,18 @@ translate chinese mel03_music_cb78724b:
 translate chinese mel03_music_c8ff471e:
 
     # melody "I can't believe it!"
-    melody "我无法相信！"
-
-# game/src/plot/mel03.rpy:117
-translate chinese mel03_music_fd9edb03:
-
-    # kevin "Who would have done this?"
-    kevin "谁会这么做？"
+    melody "真不敢相信！"
 
 # game/src/plot/mel03.rpy:121
 translate chinese mel03_music_50306339:
+
 
     # melody "Mrs. [saga.cast.ursula.clan] that's who!"
     melody "[saga.cast.ursula.clan]夫人，就是她！"
 
 # game/src/plot/mel03.rpy:124
 translate chinese mel03_music_15347f03:
+
 
     # kevin "You think the principal snuck in here and spray painted a dick on the wall?"
     kevin "你觉得校长溜进来在墙上喷了个鸡巴？"
@@ -204,26 +182,16 @@ translate chinese mel03_music_30c829a4:
     # melody "No."
     melody "不。"
 
-# game/src/plot/mel03.rpy:128
-translate chinese mel03_music_7401eb9f:
-
-    # melody "... But I betcha that bitch is behind it somehow!"
-    melody "但我敢打赌，那贱人肯定在背后搞鬼！"
-
-# game/src/plot/mel03.rpy:129
-translate chinese mel03_music_f06a1342:
-
-    # melody "She'll do anything she can to get my show canceled!"
-    melody "她会想尽办法搞砸我的演出！"
-
 # game/src/plot/mel03.rpy:133
 translate chinese mel03_music_60d6b85f:
+
 
     # ursula "What in the world is going on in here?"
     ursula "这里到底发生了什么？"
 
 # game/src/plot/mel03.rpy:137
 translate chinese mel03_music_3683ee7e:
+
 
     # melody "Speak of the devil."
     melody "说曹操曹操到。"
@@ -232,28 +200,17 @@ translate chinese mel03_music_3683ee7e:
 translate chinese mel03_music_fc1472e9:
 
     # ursula "{i}*Gasp*{/i} Who is responsible for this mess?!"
-    ursula "{i}*倒吸一口气*{/i} 是谁搞的这烂摊子？！"
-
-# game/src/plot/mel03.rpy:142
-translate chinese mel03_music_6475703f:
-
-    # eve "We're not sure, ma'am. We just came in and found it this way."
-    eve "我们也不清楚，夫人。我们进来时就是这样了。"
+    ursula "{i}*倒吸一口气*{/i} 这一团糟是谁干的？！"
 
 # game/src/plot/mel03.rpy:144
 translate chinese mel03_music_dec1d917:
 
     # ursula "Tsk, I bet it was that one and her little band of hooligans!"
-    ursula "啧，我敢肯定就是那丫头和她那帮小混混干的！"
-
-# game/src/plot/mel03.rpy:146
-translate chinese mel03_music_29e42c72:
-
-    # eve f_angry @ f_surprised "What?! I didn't have anything to do with this!"
-    eve f_angry @ f_surprised "什么？！我可没参与这事！"
+    ursula "啧，我敢打赌就是那人和她那帮小流氓干的！"
 
 # game/src/plot/mel03.rpy:148
 translate chinese mel03_music_85f79225:
+
 
     # melody "Mmmhmm."
     melody "嗯嗯。"
@@ -262,25 +219,13 @@ translate chinese mel03_music_85f79225:
 translate chinese mel03_music_40190428:
 
     # melody "You think you're slick but I know you're behind this!"
-    melody "你觉得你很聪明，但我知道这事是你干的！"
-
-# game/src/plot/mel03.rpy:152
-translate chinese mel03_music_69652452:
-
-    # ursula "Why [saga.cast.melody.name], what an awful thing to say!"
-    ursula "[saga.cast.melody.name]，你怎么能说这么过分的话！"
+    melody "你以为你很狡猾，但我知道你就是幕后黑手！"
 
 # game/src/plot/mel03.rpy:153
 translate chinese mel03_music_c35b4fef:
 
     # ursula "You think I would vandalize my own school?"
-    ursula "你觉得我会破坏自己的学校？"
-
-# game/src/plot/mel03.rpy:157
-translate chinese mel03_music_d1329db7:
-
-    # melody "Hell yeah, you would!"
-    melody "没错，你肯定会！"
+    ursula "你觉得我会毁坏自己的学校吗？"
 
 # game/src/plot/mel03.rpy:160
 translate chinese mel03_music_d1e44b27:
@@ -288,26 +233,16 @@ translate chinese mel03_music_d1e44b27:
     # ursula "Oh, don't be so dramatic..."
     ursula "哦，别这么夸张……"
 
-# game/src/plot/mel03.rpy:161
-translate chinese mel03_music_e60c5c7a:
-
-    # ursula "I'll try and organize a cleaning crew."
-    ursula "我会试着组织一个清洁队。"
-
-# game/src/plot/mel03.rpy:162
-translate chinese mel03_music_34032cbd:
-
-    # ursula "Though, I'm afraid I won't be able to get one in time for your show."
-    ursula "不过，恐怕我没法在你演出前叫人过来。"
-
 # game/src/plot/mel03.rpy:163
 translate chinese mel03_music_1fb359a2:
+
 
     # ursula "Such a pity..."
     ursula "真可惜……"
 
 # game/src/plot/mel03.rpy:166
 translate chinese mel03_music_3412fe68:
+
 
     # melody "Grrr!!!"
     melody "哼！！！"
@@ -316,25 +251,13 @@ translate chinese mel03_music_3412fe68:
 translate chinese mel03_music_d96f647a:
 
     # ursula "Oh well, no use crying over spilled milk..."
-    ursula "唉，覆水难收啊..."
-
-# game/src/plot/mel03.rpy:170
-translate chinese mel03_music_8d8e977c:
-
-    # ursula "You all have a good day now."
-    ursula "祝你们今天过得愉快。"
+    ursula "唉，木已成舟，后悔也没用……"
 
 # game/src/plot/mel03.rpy:172
 translate chinese mel03_music_2abca818:
 
     # ursula "Hahahahaha!"
-    ursula "哈哈哈哈！"
-
-# game/src/plot/mel03.rpy:175
-translate chinese mel03_music_5d944ff2:
-
-    # melody "..."
-    melody "..."
+    ursula "哈哈哈哈哈哈！"
 
 # game/src/plot/mel03.rpy:176
 translate chinese mel03_music_c18147c6:
@@ -342,14 +265,9 @@ translate chinese mel03_music_c18147c6:
     # eve f_sad "I swear, I didn't do this, [saga.cast.melody]."
     eve f_sad "我发誓，这不是我干的，[saga.cast.melody]。"
 
-# game/src/plot/mel03.rpy:179
-translate chinese mel03_music_cfda96f9:
-
-    # melody "I know, sweetie."
-    melody "我知道，亲爱的。"
-
 # game/src/plot/mel03.rpy:183
 translate chinese mel03_music_ac2280c8:
+
 
     # melody "I just..."
     melody "我只是..."
@@ -358,46 +276,23 @@ translate chinese mel03_music_ac2280c8:
 translate chinese mel03_music_0d03f1b0:
 
     # melody "Excuse me, I need to go collect myself..."
-    melody "抱歉，我得去冷静一下..."
-
-# game/src/plot/mel03.rpy:188
-translate chinese mel03_music_f5bed517:
-
-    # eve @ -m_talk "..."
-    eve @ -m_talk "..."
+    melody "失陪一下，我得去平复一下心情……"
 
 # game/src/plot/mel03.rpy:193
 translate chinese mel03_music_505e6f25:
 
     # kevin "Aww, I feel so bad for her."
-    kevin "啊，我真为她难过。"
-
-# game/src/plot/mel03.rpy:195
-translate chinese mel03_music_0ef528ab:
-
-    # eve "Yeah, me too."
-    eve "是啊，我也是。"
-
-# game/src/plot/mel03.rpy:197
-translate chinese mel03_music_3031aca8:
-
-    # anon "You guys think Mrs. [saga.cast.ursula.clan] is behind this?"
-    anon "你们觉得[saga.cast.ursula.clan]夫人是幕后黑手吗？"
+    kevin "哎呀，我真为她难过。"
 
 # game/src/plot/mel03.rpy:201
 translate chinese mel03_music_fa99dd03:
 
     # kevin "Probably, but what can we do about it?"
-    kevin "也许是，但我们又能怎么办呢？"
-
-# game/src/plot/mel03.rpy:213
-translate chinese mel03_music_ca5d97c3:
-
-    # eve "No way..."
-    eve "不可能吧..."
+    kevin "大概吧，但我们又能做什么呢？"
 
 # game/src/plot/mel03.rpy:217
 translate chinese mel03_music_c81af4a5:
+
 
     # anon "What's up [saga.cast.eve]?"
     anon "怎么了[saga.cast.eve]？"
@@ -405,11 +300,13 @@ translate chinese mel03_music_c81af4a5:
 # game/src/plot/mel03.rpy:219
 translate chinese mel03_music_bc93f06d:
 
+
     # eve "Come up here!"
     eve "上来！"
 
 # game/src/plot/mel03.rpy:230
 translate chinese mel03_music_a26d3392:
+
 
     # eve a_point "This is water based paint!"
     eve a_point "这是水性漆！"
@@ -417,11 +314,13 @@ translate chinese mel03_music_a26d3392:
 # game/src/plot/mel03.rpy:232
 translate chinese mel03_music_e945c843:
 
+
     # anon "It is?"
     anon "是吗？"
 
 # game/src/plot/mel03.rpy:235
 translate chinese mel03_music_636fcadd:
+
 
     # kevin "What does that mean?"
     kevin "什么意思？"
@@ -429,11 +328,13 @@ translate chinese mel03_music_636fcadd:
 # game/src/plot/mel03.rpy:237
 translate chinese mel03_music_e379e7fd:
 
+
     # eve a_hips f_happy "It means, we can wash it off!"
     eve a_hips f_happy "就是说，我们可以把它洗掉！"
 
 # game/src/plot/mel03.rpy:239
 translate chinese mel03_music_e237c9ce:
+
 
     # kevin "Whoa, really?"
     kevin "哇，真的吗？"
@@ -441,11 +342,13 @@ translate chinese mel03_music_e237c9ce:
 # game/src/plot/mel03.rpy:241
 translate chinese mel03_music_3e7caba6:
 
+
     # eve @ e_b m_laugh "Yeah."
     eve @ e_b m_laugh "是啊。"
 
 # game/src/plot/mel03.rpy:243
 translate chinese mel03_music_259fe5ba:
+
 
     # anon "It'll take a lot of scrubbing though..."
     anon "不过得花不少功夫清洗..."
@@ -454,16 +357,11 @@ translate chinese mel03_music_259fe5ba:
 translate chinese mel03_music_3fe534aa:
 
     # eve "Which means, we'll need help."
-    eve "也就是说，我们需要帮手。"
-
-# game/src/plot/mel03.rpy:246
-translate chinese mel03_music_a70cc54f:
-
-    # eve "And I've got an idea!"
-    eve "我有个主意！"
+    eve "也就是说，我们需要帮助。"
 
 # game/src/plot/mel03.rpy:247
 translate chinese mel03_music_a52b544e:
+
 
     # eve "[saga.cast.anon], can you meet me at the park this evening?"
     eve "[saga.cast.anon]，你今晚能来公园见我吗？"
@@ -471,29 +369,26 @@ translate chinese mel03_music_a52b544e:
 # game/src/plot/mel03.rpy:249
 translate chinese mel03_music_20e2c552:
 
-    # anon "Yeah, I guess so but why?"
+
+    # anon "What's up [saga.cast.eve]?"
     anon "嗯，应该可以，但为什么？"
 
 # game/src/plot/mel03.rpy:251
 translate chinese mel03_music_04e9d76f:
 
     # eve "I think I know where we can get some help!"
-    eve "我想我知道从哪儿能搞到帮手了！"
-
-# game/src/plot/mel03.rpy:253
-translate chinese mel03_music_07dc7cf3:
-
-    # anon "O-okay?"
-    anon "好…好吧？"
+    eve "我想我知道去哪儿找帮手了！"
 
 # game/src/plot/mel03.rpy:255
 translate chinese mel03_music_83c6c53d:
+
 
     # eve "Cool, I'll catch you later then."
     eve "酷，那回头见。"
 
 # game/src/plot/mel03.rpy:259
 translate chinese mel03_music_b3adc7b5:
+
 
     # kevin "I wonder what she's up to?"
     kevin "不知道她在打什么主意？"
@@ -502,16 +397,11 @@ translate chinese mel03_music_b3adc7b5:
 translate chinese mel03_music_ecf108dd:
 
     # anon "No idea..."
-    anon "不知道..."
-
-# game/src/plot/mel03.rpy:266
-translate chinese mel03_music_6a81e56f:
-
-    # kevin "Hey, look at this!"
-    kevin "嘿，看这个！"
+    anon "不知道……"
 
 # game/src/plot/mel03.rpy:270
 translate chinese mel03_music_7606df34:
+
 
     # anon "What is it?"
     anon "这是什么？"
@@ -520,40 +410,18 @@ translate chinese mel03_music_7606df34:
 translate chinese mel03_music_c5c5506b:
 
     # kevin "Whoever did this was stupid enough to step in some paint before leaving."
-    kevin "干这事的家伙蠢到临走前踩到了油漆。"
-
-# game/src/plot/mel03.rpy:275
-translate chinese mel03_music_7481cfe6:
-
-    # kevin "Tch, there's a trail."
-    kevin "啧，有脚印。"
-
-# game/src/plot/mel03.rpy:279
-translate chinese mel03_music_b5cec33b:
-
-    # anon "You're right!"
-    anon "你说得对！"
-
-# game/src/plot/mel03.rpy:281
-translate chinese mel03_music_ae01c7d3:
-
-    # anon "Let's follow it and see where it goes!"
-    anon "我们跟着它看看通向哪里！"
-
-# game/src/plot/mel03.rpy:284
-translate chinese mel03_music_87985de7:
-
-    # kevin "Right behind you."
-    kevin "就在你后面。"
+    kevin "干这事的人太蠢了，离开前踩到了油漆。"
 
 # game/src/plot/mel03.rpy:294
 translate chinese mel03_music_gym_9adf7d86:
 
-    # anon @ -m_talk "( Weird, I've never seen the gym locked before... )"
+
+    # anon @ -m_talk "No idea..."
     anon @ -m_talk "(奇怪，我从来没见过体育馆锁门……)"
 
 # game/src/plot/mel03.rpy:295
 translate chinese mel03_music_gym_7a3e686e:
+
 
     # anon @ -m_talk "( ... Maybe it's related to the talent show, I should ask [saga.cast.melody]. )"
     anon @ -m_talk "(……也许和才艺秀有关，我应该问问[saga.cast.melody]。)"
@@ -561,11 +429,13 @@ translate chinese mel03_music_gym_7a3e686e:
 # game/src/plot/mel03.rpy:308
 translate chinese mel03_catch_rails_c914af49:
 
+
     # anon @ -m_talk "( I'm kinda curious about the gym being locked. )"
     anon @ -m_talk "(我有点好奇体育馆为什么锁着。)"
 
 # game/src/plot/mel03.rpy:309
 translate chinese mel03_catch_rails_efc1dbd9:
+
 
     # anon a_side e_w f_calm @ -m_talk "( [saga.cast.melody] will know if it's about the talent show... )"
     anon a_side e_w f_calm @ -m_talk "(如果是关于才艺表演的事，[saga.cast.melody]会知道的……)"
@@ -573,11 +443,13 @@ translate chinese mel03_catch_rails_efc1dbd9:
 # game/src/plot/mel03.rpy:310
 translate chinese mel03_catch_rails_e4ac621f:
 
+
     # anon @ -m_talk "( She'll almost certainly be in the music room right now. )"
     anon @ -m_talk "(她现在肯定在音乐教室里。)"
 
 # game/src/plot/mel03.rpy:320
 translate chinese mel03_office1_fcb3b187:
+
 
     # ursula "You should have seen their faces!"
     ursula "你真该看看他们脸上的表情！"
@@ -585,11 +457,13 @@ translate chinese mel03_office1_fcb3b187:
 # game/src/plot/mel03.rpy:321
 translate chinese mel03_office1_6c25a270:
 
+
     # ursula "Complete and utter devastation!"
     ursula "彻底完蛋了！"
 
 # game/src/plot/mel03.rpy:322
 translate chinese mel03_office1_33d8e88b:
+
 
     # ursula "Hahaha!"
     ursula "哈哈哈！"
@@ -597,11 +471,13 @@ translate chinese mel03_office1_33d8e88b:
 # game/src/plot/mel03.rpy:325
 translate chinese mel03_office1_4d2573e6:
 
+
     # annie "So, did they believe it was [saga.cast.tyrone] and his gang like you planned?"
     annie "那么，他们相信是[saga.cast.tyrone]和他的那帮人干的，就像你计划的那样？"
 
 # game/src/plot/mel03.rpy:328
 translate chinese mel03_office1_70586da8:
+
 
     # ursula "Nah, [saga.cast.melody.name] knows I had something to do with it, but she can't prove anything."
     ursula "不，[saga.cast.melody.name]知道这事跟我有关，但她拿不出证据。"
@@ -609,11 +485,13 @@ translate chinese mel03_office1_70586da8:
 # game/src/plot/mel03.rpy:331
 translate chinese mel03_office1_b2a12d68:
 
+
     # annie "I'm sorry, ma'am. I tried my best to make it look like a bunch of hooligans did it."
     annie "抱歉，夫人。我尽力让这看起来像是一群小混混干的。"
 
 # game/src/plot/mel03.rpy:334
 translate chinese mel03_office1_2187d7b1:
+
 
     # ursula "Yes, yes, I'm sure you did."
     ursula "是的，是的，我相信你做到了。"
@@ -621,11 +499,13 @@ translate chinese mel03_office1_2187d7b1:
 # game/src/plot/mel03.rpy:335
 translate chinese mel03_office1_bfe45355:
 
+
     # ursula "I just can't get that image out of my mind!"
     ursula "我脑子里就是挥之不去那个画面！"
 
 # game/src/plot/mel03.rpy:336
 translate chinese mel03_office1_a246ed3e:
+
 
     # ursula "Poor little [saga.cast.melody.name] on the verge of tears."
     ursula "可怜的小[saga.cast.melody.name]快要哭了。"
@@ -633,11 +513,13 @@ translate chinese mel03_office1_a246ed3e:
 # game/src/plot/mel03.rpy:337
 translate chinese mel03_office1_da2f0078:
 
+
     # ursula "Her silly talent show in shambles!"
     ursula "她那愚蠢的才艺表演一塌糊涂！"
 
 # game/src/plot/mel03.rpy:339
 translate chinese mel03_office1_a4e879ba:
+
 
     # ursula "Mmm..."
     ursula "嗯……"
@@ -648,38 +530,15 @@ translate chinese mel03_office1_2c3e2695:
     # ursula "It's actually getting me kinda worked up."
     ursula "这还真让我有点兴奋了。"
 
-# game/src/plot/mel03.rpy:342
-translate chinese mel03_office1_206c53db:
-
-    # ursula "Why don't you come over here and help me out."
-    ursula "你不过来帮我一把吗？"
-
-# game/src/plot/mel03.rpy:345
-translate chinese mel03_office1_a5945245:
-
-    # annie "Of course, ma'am."
-    annie "当然，女士。"
-
 # game/src/plot/mel03.rpy:353
 translate chinese mel03_office1_d0ea7673:
 
     # ursula "Ahh, that's it."
-    ursula "啊，就这样。"
-
-# game/src/plot/mel03.rpy:354
-translate chinese mel03_office1_022fbd16:
-
-    # ursula "Good girl..."
-    ursula "好女孩……"
-
-# game/src/plot/mel03.rpy:355
-translate chinese mel03_office1_8df7a1e4:
-
-    # ursula "Hehehehe, I can't wait to see the look on her face when I tell her the board has pulled her funding!"
-    ursula "呵呵呵，我迫不及待想看到她得知董事会撤资时的表情了！"
+    ursula "啊，就是那样。"
 
 # game/src/plot/mel03.rpy:361
 translate chinese mel03_office1_eaf5ae3f:
+
 
     # kevin "Bro, Mrs. [saga.cast.ursula.clan] {i}was{/i} behind it!"
     kevin "哥们，[saga.cast.ursula.clan]夫人 {i}就是{/i}幕后黑手！"
@@ -690,29 +549,11 @@ translate chinese mel03_office1_d91a992e:
     # anon "..."
     anon "..."
 
-# game/src/plot/mel03.rpy:365
-translate chinese mel03_office1_d968406a:
-
-    # kevin "What a mega bitch!"
-    kevin "真是个超级婊子！"
-
 # game/src/plot/mel03.rpy:366
 translate chinese mel03_office1_d3917cfb:
 
     # kevin "We have to say something!"
     kevin "我们得说点什么！"
-
-# game/src/plot/mel03.rpy:368
-translate chinese mel03_office1_d91a992e_1:
-
-    # anon "..."
-    anon "..."
-
-# game/src/plot/mel03.rpy:370
-translate chinese mel03_office1_688063ce:
-
-    # kevin "[saga.cast.anon]?"
-    kevin "[saga.cast.anon]?"
 
 # game/src/plot/mel03.rpy:371
 translate chinese mel03_office1_cf78423e:
@@ -720,20 +561,16 @@ translate chinese mel03_office1_cf78423e:
     # kevin "[saga.cast.anon]?!"
     kevin "[saga.cast.anon]?!"
 
-# game/src/plot/mel03.rpy:375
-translate chinese mel03_office1_b93f7c13:
-
-    # kevin "Bro!"
-    kevin "哥们！"
-
 # game/src/plot/mel03.rpy:379
 translate chinese mel03_office1_799c1f9e:
+
 
     # anon "Hey! Chill out, man!"
     anon "嘿！冷静点，老兄！"
 
 # game/src/plot/mel03.rpy:382
 translate chinese mel03_office1_3047196c:
+
 
     # kevin "I'm trying to talk to you!"
     kevin "我在试着跟你说话！"
@@ -742,16 +579,11 @@ translate chinese mel03_office1_3047196c:
 translate chinese mel03_office1_6c96269f:
 
     # anon "Well, I'm sorry but did you see what they're doing in there right now?!"
-    anon "好吧，抱歉，但你看到他们现在在里面干什么了吗？！"
-
-# game/src/plot/mel03.rpy:388
-translate chinese mel03_office1_5f47796f:
-
-    # kevin "Uh, yeah and it's super gross!"
-    kevin "呃，看到了，超级恶心！"
+    anon "呃，抱歉，但你看到他们现在在里面干什么了吗？！"
 
 # game/src/plot/mel03.rpy:389
 translate chinese mel03_office1_22f6967a:
+
 
     # kevin "Mrs. [saga.cast.ursula.clan] is the devil man, I bet her coochie smells like brimstone and sulfur!"
     kevin "[saga.cast.ursula.clan]夫人就是恶魔，我打赌她的骚逼闻起来像硫磺和硝石！"
@@ -760,28 +592,17 @@ translate chinese mel03_office1_22f6967a:
 translate chinese mel03_office1_356f2ab5:
 
     # anon "[saga.cast.annie] doesn't seem to mind..."
-    anon "[saga.cast.annie]似乎并不介意……"
-
-# game/src/plot/mel03.rpy:395
-translate chinese mel03_office1_bc074fd4:
-
-    # kevin "C'mon, it's getting late and you're supposed to meet [saga.cast.eve] in the park, remember?!"
-    kevin "快点，已经很晚了，你还要去公园见[saga.cast.eve]，记得吗？！"
+    anon "[saga.cast.annie]好像不介意……"
 
 # game/src/plot/mel03.rpy:397
 translate chinese mel03_office1_cf354f9a:
 
     # anon "Uh huh, just five more minutes..."
-    anon "嗯哼，再睡五分钟……"
-
-# game/src/plot/mel03.rpy:399
-translate chinese mel03_office1_187a552f:
-
-    # kevin "Let's go, before we get caught, ya perv!"
-    kevin "快走吧，趁我们还没被抓住，你这色鬼！"
+    anon "嗯哼，再五分钟……"
 
 # game/src/plot/mel03.rpy:409
 translate chinese mel03_office1_rails_02528c14:
+
 
     # anon @ -m_talk "( The trail doesn't lead that way. )"
     anon @ -m_talk "(小路不是往那边走的。)"
@@ -789,11 +610,13 @@ translate chinese mel03_office1_rails_02528c14:
 # game/src/plot/mel03.rpy:419
 translate chinese mel03_outro_5df98f53:
 
+
     # anon "[saga.cast.melody], you in here?"
     anon "[saga.cast.melody]，你在里面吗？"
 
 # game/src/plot/mel03.rpy:423
 translate chinese mel03_outro_abe62ee6:
+
 
     # melody "Yeah, I'm right here, sugar."
     melody "嗯，我在这儿呢，亲爱的。"
@@ -801,17 +624,20 @@ translate chinese mel03_outro_abe62ee6:
 # game/src/plot/mel03.rpy:426
 translate chinese mel03_outro_b9e1c4c3:
 
+
     # anon "You alright?"
     anon "你还好吗？"
 
 # game/src/plot/mel03.rpy:429
 translate chinese mel03_outro_444d4056:
 
-    # melody "Oh, I'll be okay. I'm just a little down in the dumps at the moment."
+
+    # melody "Uh huh, just five more minutes..."
     melody "哦，我没事。只是现在有点情绪低落。"
 
 # game/src/plot/mel03.rpy:433
 translate chinese mel03_outro_2d1ecfc2:
+
 
     # anon "( Hmm, I guess I should give her some space for the time being. )"
     anon "(嗯，我想我现在应该给她一些空间。)"
@@ -819,11 +645,13 @@ translate chinese mel03_outro_2d1ecfc2:
 # game/src/plot/mel03.rpy:443
 translate chinese mel03_outro_office1_a7dd679f:
 
+
     # ursula "You're getting pretty good at this, my little pet."
     ursula "你越来越擅长这个了，我的小宠物。"
 
 # game/src/plot/mel03.rpy:444
 translate chinese mel03_outro_office1_43d2d419:
+
 
     # ursula "Mmm, right there!"
     ursula "嗯，就是那儿！"
@@ -831,11 +659,13 @@ translate chinese mel03_outro_office1_43d2d419:
 # game/src/plot/mel03.rpy:445
 translate chinese mel03_outro_office1_720ba3e8:
 
+
     # ursula "Ahh!"
     ursula "啊！"
 
 # game/src/plot/mel03.rpy:452
 translate chinese mel03_outro_rails_9e84314a:
+
 
     # anon @ -m_talk "( I should check on [saga.cast.melody]. )"
     anon @ -m_talk "(我应该去看看[saga.cast.melody]怎么样了。)"
@@ -843,6 +673,366 @@ translate chinese mel03_outro_rails_9e84314a:
 # game/src/plot/mel03.rpy:465
 translate chinese mel03_post_block_64d479cf:
 
-    # anon @ -m_talk "( I'm sure [saga.cast.melody] will bounce back, she just needs a little time. )"
+
+    # anon @ -m_talk "( Hmm, I guess I should give her some space for the time being. )"
     anon @ -m_talk "(我相信[saga.cast.melody]会振作起来的，她只需要一点时间。)"
 
+translate chinese mel03_music_12c0f177:
+
+
+    # anon "Music sheets?"
+    anon "乐谱？"
+
+translate chinese mel03_music_3d13543d:
+
+
+    # melody "Heh, well of course it is!"
+    melody "嘿，那当然！"
+
+translate chinese mel03_music_69fba038:
+
+
+    # anon "Did she like the song too?"
+    anon "她也喜欢那首歌吗？"
+
+translate chinese mel03_music_d644d3db:
+
+    # melody "What?!"
+    melody "什么？！"
+
+translate chinese mel03_music_c418c430:
+
+
+    # eve "Yeah, there's graffiti everywhere!"
+    eve "是啊，到处都是涂鸦！"
+
+translate chinese mel03_music_d1806a7d:
+
+
+    # mono "I can't wait to get up there and start playing! The crowd is gonna love this!" with fade
+    mono "礼堂的状况超出了我最疯狂的想象……" with fade
+
+translate chinese mel03_music_fd9edb03:
+
+
+    # kevin "Who would have done this?"
+    kevin "谁会这么做？"
+
+translate chinese mel03_music_7401eb9f:
+
+    # melody "... But I betcha that bitch is behind it somehow!"
+    melody "……不过我敢打赌肯定是那个贱人搞的鬼！"
+
+translate chinese mel03_music_f06a1342:
+
+
+    # melody "She'll do anything she can to get my show canceled!"
+    melody "她会想尽办法搞砸我的演出！"
+
+translate chinese mel03_music_6475703f:
+
+
+    # eve "We're not sure, ma'am. We just came in and found it this way."
+    eve "我们也不清楚，夫人。我们进来时就是这样了。"
+
+translate chinese mel03_music_29e42c72:
+
+
+    # eve f_angry @ f_surprised "What?! I didn't have anything to do with this!"
+    eve f_angry @ f_surprised "什么？！我可没参与这事！"
+
+translate chinese mel03_music_69652452:
+
+
+    # ursula "Why [saga.cast.melody.name], what an awful thing to say!"
+    ursula "[saga.cast.melody.name]，你怎么能说这么过分的话！"
+
+translate chinese mel03_music_d1329db7:
+
+
+    # melody "Hell yeah, you would!"
+    melody "没错，你肯定会！"
+
+translate chinese mel03_music_e60c5c7a:
+
+    # ursula "I'll try and organize a cleaning crew."
+    ursula "我会设法组织一个清洁队。"
+
+translate chinese mel03_music_34032cbd:
+
+
+    # ursula "Though, I'm afraid I won't be able to get one in time for your show."
+    ursula "不过，恐怕我没法在你演出前叫人过来。"
+
+translate chinese mel03_music_8d8e977c:
+
+
+    # ursula "You all have a good day now."
+    ursula "祝你们今天过得愉快。"
+
+translate chinese mel03_music_5d944ff2:
+
+
+    # melody "..."
+    melody "..."
+
+translate chinese mel03_music_cfda96f9:
+
+
+    # melody "I know, sweetie."
+    melody "我知道，亲爱的。"
+
+translate chinese mel03_music_f5bed517:
+
+
+    # eve @ -m_talk "..."
+    eve @ -m_talk "..."
+
+translate chinese mel03_music_0ef528ab:
+
+    # eve "Yeah, me too."
+    eve "是啊，我也一样。"
+
+translate chinese mel03_music_3031aca8:
+
+
+    # anon "You guys think Mrs. [saga.cast.ursula.clan] is behind this?"
+    anon "你们觉得[saga.cast.ursula.clan]夫人是幕后黑手吗？"
+
+translate chinese mel03_music_ca5d97c3:
+
+
+    # eve "No way..."
+    eve "不可能吧..."
+
+translate chinese mel03_music_a70cc54f:
+
+
+    # eve "And I've got an idea!"
+    eve "我有个主意！"
+
+translate chinese mel03_music_07dc7cf3:
+
+
+    # anon "O-okay?"
+    anon "好…好吧？"
+
+translate chinese mel03_music_6a81e56f:
+
+
+    # kevin "Hey, look at this!"
+    kevin "嘿，看这个！"
+
+translate chinese mel03_music_7481cfe6:
+
+    # kevin "Tch, there's a trail."
+    kevin "啧，有痕迹。"
+
+translate chinese mel03_music_b5cec33b:
+
+    # anon "You're right!"
+    anon "没错！"
+
+translate chinese mel03_music_ae01c7d3:
+
+    # anon "Let's follow it and see where it goes!"
+    anon "我们跟着它，看看它去哪儿！"
+
+translate chinese mel03_music_87985de7:
+
+
+    # kevin "Right behind you."
+    kevin "就在你后面。"
+
+translate chinese mel03_office1_206c53db:
+
+    # ursula "Why don't you come over here and help me out."
+    ursula "你不如过来帮我一下。"
+
+translate chinese mel03_office1_a5945245:
+
+
+    # annie "Of course, ma'am."
+    annie "当然，女士。"
+
+translate chinese mel03_office1_022fbd16:
+
+    # ursula "Good girl..."
+    ursula "好女孩……"
+
+translate chinese mel03_office1_8df7a1e4:
+
+
+    # ursula "Hehehehe, I can't wait to see the look on her face when I tell her the board has pulled her funding!"
+    ursula "呵呵呵，我迫不及待想看到她得知董事会撤资时的表情了！"
+
+translate chinese mel03_office1_d968406a:
+
+
+    # kevin "What a mega bitch!"
+    kevin "真是个超级婊子！"
+
+translate chinese mel03_office1_d91a992e_1:
+
+    # anon "..."
+    anon "..."
+
+translate chinese mel03_office1_688063ce:
+
+
+    # kevin "[saga.cast.anon]?"
+    kevin "[saga.cast.anon]?"
+
+translate chinese mel03_office1_b93f7c13:
+
+
+    # kevin "Bro!"
+    kevin "哥们！"
+
+translate chinese mel03_office1_5f47796f:
+
+
+    # kevin "Uh, yeah and it's super gross!"
+    kevin "呃，看到了，超级恶心！"
+
+translate chinese mel03_office1_bc074fd4:
+
+
+    # kevin "..."
+    kevin "快点，已经很晚了，你还要去公园见[saga.cast.eve]，记得吗？！"
+
+translate chinese mel03_office1_187a552f:
+
+
+    # kevin "Let's go, before we get caught, ya perv!"
+    kevin "快走吧，趁我们还没被抓住，你这色鬼！"
+
+translate chinese mel03_setup_melody_c98e24f0:
+
+    # anon "What else do we need to do for the talent show?"
+    anon "我们还需要为才艺表演做些什么？"
+
+translate chinese mel03_setup_melody_83abbd9d:
+
+    # melody "Just make sure you guys rehearse together."
+    melody "只要确保你们一起排练就行了。"
+
+translate chinese mel03_setup_melody_58d9f8c6:
+
+    # melody "When [saga.cast.eve] and [saga.cast.kevin] are here, I'll help the three of you get started with some sheet music."
+    melody "等[saga.cast.eve]和[saga.cast.kevin]来了，我会帮你们三个开始看谱子。"
+
+translate chinese mel03_setup_melody_8352905d:
+
+    # melody "Come to class and I'll help you get started with some sheet music."
+    melody "来上课，我会帮你开始看一些乐谱。"
+
+translate chinese mel03_setup_melody_79c86629:
+
+    # anon "Cool, thanks [saga.cast.melody]."
+    anon "好的，谢谢[saga.cast.melody]。"
+
+translate chinese mel03_music_09b4ba17:
+
+    # eve "Hey, [saga.cast.anon]."
+    eve "嘿，[saga.cast.anon]。"
+
+translate chinese mel03_music_d40c2af1:
+
+    # eve f_calm "I'll be right back, [saga.cast.kevin] and [saga.cast.melody] are already inside."
+    eve f_calm "我马上回来，[saga.cast.kevin]和[saga.cast.melody]已经在里面了。"
+
+translate chinese mel03_music_eb780b0f:
+
+    # anon @ -m_talk "..."
+    anon @ -m_talk "..."
+
+translate chinese mel03_music_bd4421ec:
+
+    # anon "Shouldn't we wait for [saga.cast.eve]?"
+    anon "我们难道不需要等[saga.cast.eve]吗？"
+
+translate chinese mel03_music_9066a513:
+
+    # mono "The state of the assembly hall was well beyond my wildest imagination..." with fade
+    mono "礼堂的状况远远超出了我最疯狂的想象……" with fade
+
+translate chinese mel03_music_47204148:
+
+    # more "... A neon day-glo poop an exclamation point on the chaos."
+    more "……一个霓虹荧光色的便便，给这场混乱画上了惊叹号。"
+
+translate chinese mel03_music_e28681b8:
+
+    # melody "Mrs. [saga.cast.ursula.clan], that's who!"
+    melody "[saga.cast.ursula.clan]夫人，就是她！"
+
+translate chinese mel03_music_aa8cb514:
+
+    # eve "[saga.cast.anon], can you meet me at the fountain in the park this evening?"
+    eve "[saga.cast.anon]，今晚你能在公园的喷泉那儿等我吗？"
+
+translate chinese mel03_music_c1b4c360:
+
+    # anon "Yeah, I guess so, but why?"
+    anon "嗯，应该可以，但为什么？"
+
+translate chinese mel03_music_hall1e_9adf7d86:
+
+    # anon @ -m_talk "( Weird, I've never seen the gym locked before... )"
+    anon @ -m_talk "(奇怪，我从没见过体育馆锁门……)"
+
+translate chinese mel03_music_hall1e_7a3e686e:
+
+    # anon @ -m_talk "( ... Maybe it's related to the talent show, I should ask [saga.cast.melody]. )"
+    anon @ -m_talk "(……也许和才艺表演有关，我应该问问[saga.cast.melody]。)"
+
+translate chinese mel03_office1_0c31ee13:
+
+    # kevin "C'mon, it's too risky, you're supposed to meet [saga.cast.eve] in the park later, remember?!"
+    kevin "拜托，太冒险了，你晚点还要在公园和[saga.cast.eve]见面，记得吗？！"
+
+translate chinese mel03_office4_5df98f53:
+
+    # anon "[saga.cast.melody], you in here?"
+    anon "[saga.cast.melody]，你在里面吗？"
+
+translate chinese mel03_office4_abe62ee6:
+
+    # melody "Yeah, I'm right here, sugar."
+    melody "是啊，我就在这儿，甜心。"
+
+translate chinese mel03_office4_b9e1c4c3:
+
+    # anon "You alright?"
+    anon "你还好吗？"
+
+translate chinese mel03_office4_444d4056:
+
+    # melody "Oh, I'll be okay. I'm just a little down in the dumps at the moment."
+    melody "哦，我会没事的。我只是现在有点情绪低落。"
+
+translate chinese mel03_office4_2d1ecfc2:
+
+    # anon "( Hmm, I guess I should give her some space for the time being. )"
+    anon "(嗯，我想我现在应该给她一些空间。)"
+
+translate chinese mel03_office4_office1_a7dd679f:
+
+    # ursula "You're getting pretty good at this, my little pet."
+    ursula "你在这方面做得越来越好了，我的小宠物。"
+
+translate chinese mel03_office4_office1_43d2d419:
+
+    # ursula "Mmm, right there!"
+    ursula "嗯，就是那里！"
+
+translate chinese mel03_office4_office1_720ba3e8:
+
+    # ursula "Ahh!"
+    ursula "啊！"
+
+translate chinese mel03_office4_rails_9e84314a:
+
+    # anon @ -m_talk "( I should check on [saga.cast.melody]. )"
+    anon @ -m_talk "(我应该去看看[saga.cast.melody]。)"

@@ -268,8 +268,8 @@ translate chinese strings:
 
     # game/src/plot/roxxy.rpy:8
     old "French exam."
-    new "法语考试。"
+    new "法语考试"
 
     # game/src/plot/roxxy.rpy:11
     old "Pom-poms."
-    new "绒球花。"
+    new "绒球花"

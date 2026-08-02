@@ -33,4 +33,4 @@ translate chinese strings:
 
     # game/src/plot/micoe.rpy:7
     old "Thanks."
-    new "谢谢。"
+    new "谢谢"

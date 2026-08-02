@@ -52,28 +52,28 @@ translate chinese strings:
 
     # game/src/plot/erik.rpy:8
     old "Flute."
-    new "长笛。"
+    new "长笛"
 
     # game/src/plot/erik.rpy:14
     old "Karaoke."
-    new "卡拉OK。"
+    new "卡拉OK"
 
     # game/src/plot/erik.rpy:17
     old "Guitar."
-    new "吉他。"
+    new "吉他"
 
     # game/src/plot/erik.rpy:20
     old "Beer."
-    new "啤酒。"
+    new "啤酒"
 
     # game/src/plot/erik.rpy:23
     old "Lenses."
-    new "镜片。"
+    new "镜片"
 
     # game/src/plot/erik.rpy:26
     old "Master Blaster."
-    new "爆破大师。"
+    new "爆破大师"
 
     # game/src/plot/erik.rpy:32
     old "Not much."
-    new "不太多。"
+    new "不太多"

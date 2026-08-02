@@ -94,8 +94,8 @@ translate chinese strings:
 
     # game/src/plot/josie.rpy:5
     old "[saga.cast.debbie]'s car."
-    new "[saga.cast.debbie]的车。"
+    new "[saga.cast.debbie]的车"
 
     # game/src/plot/josie.rpy:8
     old "Buy a vehicle."
-    new "购买一辆车。"
+    new "购买一辆车"

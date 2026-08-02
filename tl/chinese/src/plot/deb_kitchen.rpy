@@ -1228,5 +1228,5 @@ translate chinese strings:
 
     # game/src/plot/deb_kitchen.rpy:12
     old "Just talk."
-    new "只是聊聊。"
+    new "只是聊聊"
 

@@ -256,8 +256,8 @@ translate chinese strings:
 
     # game/src/plot/deb_sleep.rpy:8
     old "Join her."
-    new "加入她。"
+    new "加入她"
 
     # game/src/plot/deb_sleep.rpy:11
     old "Leave her be."
-    new "别管她。"
+    new "别管她"

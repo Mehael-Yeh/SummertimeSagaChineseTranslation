@@ -9,3 +9,5 @@ translate chinese strings:
     # game/src/gui/hud.rpy:59
     old "Pause Menu"
     new "暂停菜单"
+    # game/src/gui/hud.rpy:18
+    # game/src/gui/hud.rpy:18

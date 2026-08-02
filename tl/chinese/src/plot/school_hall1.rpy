@@ -28,9 +28,9 @@ translate chinese strings:
 
     # game/src/plot/school_hall1.rpy:29
     old "End the school day and exit the building."
-    new "结束学校日并离开大楼。"
+    new "结束学校日并离开大楼"
     # game/src/plot/school_hall1.rpy:32
 
     # game/src/plot/school_hall1.rpy:31
     old "Not yet."
-    new "还没呢。"
+    new "还没呢"

@@ -634,9 +634,9 @@ translate chinese strings:
 
     # game/src/plot/jen06.rpy:135
     old "Fine. {sub}"
-    new "好吧。{sub}"
+    new "好吧 {sub}"
 
     # game/src/plot/jen06.rpy:138
     old "Screw you. {dom}"
-    new "去你的。{dom}"
+    new "去你的 {dom}"
 

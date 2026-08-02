@@ -52,13 +52,13 @@ translate chinese strings:
 
     # game/src/plot/diane.rpy:5
     old "Shovel."
-    new "铲子。"
+    new "铲子"
 
     # game/src/plot/diane.rpy:8
     old "Compost."
-    new "堆肥。"
+    new "堆肥"
 
     # game/src/plot/diane.rpy:11
     # game/src/plot/diane.rpy:14
     old "Wages. ($[saga.prop.diane_plot.owed:,])"
-    new "工钱。($[saga.prop.diane_plot.owed:,])"
+    new "工钱 ($[saga.prop.diane_plot.owed:,])"

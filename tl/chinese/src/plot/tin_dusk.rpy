@@ -996,3 +996,6 @@ translate chinese tin_dusk_lounge_rails_ebbb42c0:
     # anon e_b m_teeth @ -m_talk "( Double-oh-six-seven, license to drill! )"
     anon e_b m_teeth @ -m_talk "零零六七，持牌干炮！"
 
+translate chinese tin_dusk_lounge_fe3fcf19:
+    # tina c_lingerie_bottom p_pickup_away "I'm so wet for you right now..."
+    tina c_lingerie_bottom p_pickup_away "我现在已经为你湿透了……"

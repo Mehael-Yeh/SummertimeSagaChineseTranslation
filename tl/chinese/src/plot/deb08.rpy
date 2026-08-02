@@ -2256,16 +2256,16 @@ translate chinese strings:
     # game/src/plot/deb08.rpy:383
     # game/src/plot/deb08.rpy:525
     old "Peek."
-    new "偷看。"
+    new "偷看"
 
     # game/src/plot/deb08.rpy:528
     old "Keep it respectful."
-    new "保持尊重。"
+    new "保持尊重"
 
     # game/src/plot/deb08.rpy:589
     # game/src/plot/deb08.rpy:592
     old "I got this."
-    new "我来处理。"
+    new "我来处理"
 
     # game/src/plot/deb08.rpy:376
     # game/src/plot/deb08.rpy:383

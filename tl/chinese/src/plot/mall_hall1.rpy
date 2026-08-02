@@ -10,8 +10,8 @@ translate chinese strings:
 
     # game/src/plot/mall_hall1.rpy:18
     old "Advance time and exit the mall."
-    new "推进时间，离开商场。"
+    new "推进时间，离开商场"
 
     # game/src/plot/mall_hall1.rpy:21
     old "Take it slow and stick around."
-    new "放慢脚步，留下来逛逛。"
+    new "放慢脚步，留下来逛逛"

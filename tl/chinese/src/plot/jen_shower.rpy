@@ -1954,9 +1954,9 @@ translate chinese strings:
 
     # game/src/plot/jen_shower.rpy:25
     old "Enter."
-    new "进入。"
+    new "进入"
 
     # game/src/plot/jen_shower.rpy:28
     old "Not now."
-    new "现在不行。"
+    new "现在不行"
 

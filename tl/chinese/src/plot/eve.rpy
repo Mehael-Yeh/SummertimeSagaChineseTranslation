@@ -262,13 +262,13 @@ translate chinese strings:
 
     # game/src/plot/eve.rpy:5
     old "Tutor."
-    new "导师。"
+    new "导师"
 
     # game/src/plot/eve.rpy:8
     old "Bag."
-    new "包。"
+    new "包"
 
     # game/src/plot/eve.rpy:20
     old "Adhesive."
-    new "胶粘剂。"
+    new "胶粘剂"
 

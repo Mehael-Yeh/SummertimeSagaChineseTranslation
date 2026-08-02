@@ -3312,32 +3312,32 @@ translate chinese strings:
     # game/src/plot/deb_mall.rpy:61
     # game/src/plot/deb_mall.rpy:166
     old "Kiss."
-    new "亲吻。"
+    new "亲吻"
 
     # game/src/plot/deb_mall.rpy:187
     old "Be agreeable."
-    new "表现得友善些。"
+    new "表现得友善些"
 
     # game/src/plot/deb_mall.rpy:198
     old "Convince her."
-    new "说服她。"
+    new "说服她"
 
     # game/src/plot/deb_mall.rpy:220
     old "Look around."
-    new "环顾四周。"
+    new "环顾四周"
 
     # game/src/plot/deb_mall.rpy:318
     old "Handjob."
-    new "手交。"
+    new "手交"
 
     # game/src/plot/deb_mall.rpy:321
     old "Blowjob."
-    new "口交。"
+    new "口交"
 
     # game/src/plot/deb_mall.rpy:58
     old "Let's go!"
-    new "走吧！"
+    new "来吧！"
 
     # game/src/plot/deb_mall.rpy:61
     old "Maybe next time."
-    new "下次吧。"
+    new "下次吧"

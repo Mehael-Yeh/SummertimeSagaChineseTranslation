@@ -274,13 +274,13 @@ translate chinese strings:
 
     # game/src/plot/barb.rpy:38
     old "Fool around."
-    new "鬼混"
+    new "亲热"
 
     # game/src/plot/barb.rpy:41
     # game/src/plot/barb.rpy:153
     old "Nothing right now."
-    new "现在没什么。"
+    new "现在没什么"
 
     # game/src/plot/barb.rpy:41
     old "I should go."
-    new "我得走了。"
+    new "我得走了"

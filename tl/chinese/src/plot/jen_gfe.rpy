@@ -1750,7 +1750,7 @@ translate chinese jen_gfe_jenny_merge2_032d333c:
 translate chinese jen_gfe_jenny_merge2_d07362c3:
 
     # jenny f_happy "Yet, every time we fool around, I spray like a fucking firehose!"
-    jenny f_happy "但每次我们鬼混，我都他妈喷得像消防水管一样！"
+    jenny f_happy "但每次我们亲热，我都他妈喷得像消防水管一样！"
 
 # game/src/plot/jen_gfe.rpy:624
 translate chinese jen_gfe_jenny_merge2_de56309c:
@@ -2188,9 +2188,9 @@ translate chinese strings:
 
     # game/src/plot/jen_gfe.rpy:12
     old "Yes. ($500)"
-    new "是的。(500美元)"
+    new "是的 (500美元)"
 
     # game/src/plot/jen_gfe.rpy:40
     old "Stay in."
-    new "待在家里。"
+    new "待在家里"
 

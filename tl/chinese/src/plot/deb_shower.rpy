@@ -3154,9 +3154,9 @@ translate chinese strings:
 
     # game/src/plot/deb_shower.rpy:84
     old "Foreplay."
-    new "前戏。"
+    new "前戏"
 
     # game/src/plot/deb_shower.rpy:760
     old "Analingus."
-    new "舔肛。"
+    new "舔肛"
 

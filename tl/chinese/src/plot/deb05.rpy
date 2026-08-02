@@ -1138,17 +1138,17 @@ translate chinese strings:
 
     # game/src/plot/deb05.rpy:48
     old "Let me help."
-    new "我来帮你吧。"
+    new "我来帮你吧"
 
     # game/src/plot/deb05.rpy:51
     # game/src/plot/deb05.rpy:102
     old "Take a break."
-    new "休息一下吧。"
+    new "休息一下吧"
 
     # game/src/plot/deb05.rpy:167
     old "You're busy."
-    new "你太忙了。"
+    new "你太忙了"
 
     # game/src/plot/deb05.rpy:51
     old "Never mind."
-    new "没什么。"
+    new "没什么"

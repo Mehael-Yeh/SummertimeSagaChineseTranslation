@@ -2920,7 +2920,7 @@ translate chinese strings:
 
     # game/src/plot/deb13.rpy:604
     old "Transfer funds. [[{usd=$8,000}]"
-    new "转账。[[{usd=$8,000}]"
+    new "转账 [[{usd=$8,000}]"
 
     # game/src/plot/deb13.rpy:607
     # game/src/plot/deb13.rpy:618

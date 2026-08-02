@@ -2122,7 +2122,7 @@ translate chinese viv03_outro_office1_980c8dd5:
 translate chinese strings:
 
     old "{i}*Sigh*{/i} C'est ridicule."
-    new "{i}*叹气*{/i} 真是荒谬。"
+    new "{i}*叹气*{/i} 真是荒谬"
 
     old "Connasse!"
     new "贱货！"

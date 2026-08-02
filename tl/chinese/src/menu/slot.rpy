@@ -54,16 +54,13 @@ translate chinese strings:
     old "Enter a note to help recognise this save:"
     new "输入备注以帮助识别此存档："
 
-translate chinese strings:
-
-    old "usable in this version."
-    new "在此版本中可用。"
-
-    old "{saga.cast.anon} - Day {saga.time.date}"
-    new "{saga.cast.anon} - 第 {saga.time.date} 天"
-
     # game/src/menu/slot.rpy:47
     old "{#date_fmt}%B %d, %H:%M"
     new "{#date_fmt}%m月%d日, %H:%M"
 
+    # game/src/menu/slot.rpy:157
+    # game/src/menu/slot.rpy:126
+    old "[saga.cast.anon] - Day [saga.time.date]"
+    new "[saga.cast.anon] - 第 [saga.time.date] 天"
+    # game/src/menu/slot.rpy:157
     # game/src/menu/slot.rpy:157

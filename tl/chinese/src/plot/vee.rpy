@@ -154,5 +154,8 @@ translate chinese strings:
 
     # game/src/plot/vee.rpy:5
     old "Vegetable stock."
-    new "蔬菜高汤。"
+    new "蔬菜高汤"
     # game/src/plot/vee.rpy:8
+    # game/src/plot/vee.rpy:8
+    old "What do you sell here?"
+    new "你这里卖什么？"
