@@ -15,22 +15,17 @@ HEADER_SIZE = 34
 KEY = 0x53534354  # "SSCT"
 
 
-def source_files(root: Path, compiled: bool = False) -> list[tuple[str, Path]]:
+def source_files(root: Path) -> list[tuple[str, Path]]:
     files = [
         (path.relative_to(root).as_posix(), path)
-        for path in (root / "tl" / "chinese").rglob("*")
+        for path in (root / "tl").rglob("*")
         if path.is_file()
-        and (
-            path.suffix.lower() not in {".rpy", ".rpym", ".rpyb", ".rpyc", ".rpymc"}
-            or (compiled and path.suffix.lower() in {".rpyc", ".rpymc"})
-            or (not compiled and path.suffix.lower() in {".rpy", ".rpym"})
-        )
     ]
     return sorted(files)
 
 
-def build(root: Path, output: Path, compiled: bool = False) -> dict[str, str]:
-    files = source_files(root, compiled)
+def build(root: Path, output: Path) -> dict[str, str]:
+    files = source_files(root)
     index: dict[str, list[tuple[int, int]]] = {}
     hashes: dict[str, str] = {}
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -66,8 +61,8 @@ def read_index(archive_path: Path) -> tuple[int, dict[str, list[tuple[int, int]]
     return key, index
 
 
-def verify(root: Path, archive_path: Path, compiled: bool = False) -> None:
-    expected = {name: path for name, path in source_files(root, compiled)}
+def verify(root: Path, archive_path: Path) -> None:
+    expected = {name: path for name, path in source_files(root)}
     key, index = read_index(archive_path)
     if set(index) != set(expected):
         missing = sorted(set(expected) - set(index))
@@ -92,16 +87,15 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--output", type=Path, default=Path("dist/chinese.rpa"))
-    parser.add_argument("--compiled", action="store_true", help="Pack compiled .rpyc scripts")
     parser.add_argument("--verify-only", action="store_true")
     args = parser.parse_args()
 
     root = args.root.resolve()
     output = args.output.resolve()
     if not args.verify_only:
-        hashes = build(root, output, args.compiled)
+        hashes = build(root, output)
         print(f"Packed {len(hashes)} files into {output}")
-    verify(root, output, args.compiled)
+    verify(root, output)
 
 
 if __name__ == "__main__":
