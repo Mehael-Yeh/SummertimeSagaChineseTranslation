@@ -23,7 +23,6 @@
 
 init -1 python:
     import re as _rb_re
-    import os as _rb_os
     import renpy.substitutions as _rb_sub
 
     _rb_escape_re = _rb_re.compile(r'\\(.)')
@@ -104,61 +103,13 @@ init -1 python:
     renpy.store._rb_sms_map = {}
     renpy.store._rb_sms_prev_replace = None
 
-    # 调试标记：确认 init python 已执行、gamedir 路径正确（确认后删除）
-    try:
-        with open(
-            _rb_os.path.join(
-                renpy.config.gamedir, 'tl', 'chinese', '_sms_fix_debug_init.txt'
-            ),
-            'w',
-            encoding='utf-8',
-        ) as _init_dbg:
-            _init_dbg.write('gamedir=%s\n' % renpy.config.gamedir)
-        # 重要：立即删除文件句柄，避免它作为 store 全局变量进入存档序列化，
-        # 否则保存时会报 cannot pickle 'TextIOWrapper' instances。
-        try:
-            del _init_dbg
-        except Exception:
-            pass
-    except Exception:
-        pass
-
 
 translate chinese python:
-    import traceback as _rb_tb
-
     # 语言激活时注册/重建（重复激活不会无限叠加包装器）
     try:
         if renpy.config.replace_text is not _rb_sms_replace:
             _rb_sms_prev_replace = renpy.config.replace_text
             renpy.config.replace_text = _rb_sms_replace
         _rb_rebuild_sms_map()
-        _rb_info = 'OK map_size=%d' % len(_rb_sms_map)
-    except Exception:
-        _rb_info = 'ERR ' + _rb_tb.format_exc()
-
-    # 调试输出：验证映射是否建立（确认后删除）
-    try:
-        with open(
-            _rb_os.path.join(
-                renpy.config.gamedir, 'tl', 'chinese', '_sms_fix_debug.txt'
-            ),
-            'w',
-            encoding='utf-8',
-        ) as _dbg:
-            _dbg.write(_rb_info + '\n')
-            _dbg.write(
-                'HAS_ALL_GOOD: %s\n'
-                % ('All good, dude. Got a raid scheduled, but you can always start without me.' in _rb_sms_map)
-            )
-            _dbg.write('HAS_MY_ROOM: %s\n' % ('My room, NOW!' in _rb_sms_map))
-            for _k, _v in list(_rb_sms_map.items())[:5]:
-                _dbg.write('KEY: %s\nVAL: %s\n---\n' % (_k, _v))
-        # 重要：立即删除文件句柄，避免它作为 store 全局变量进入存档序列化，
-        # 否则保存时会报 cannot pickle 'TextIOWrapper' instances。
-        try:
-            del _dbg
-        except Exception:
-            pass
     except Exception:
         pass
