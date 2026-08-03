@@ -2,6 +2,11 @@ name: Build Chinese RPA
 
 on:
   workflow_dispatch:
+    inputs:
+      version:
+        description: "发行版版本号（将作为标签），例如 v21.0.0-wip.7944"
+        required: true
+        type: string
   release:
     types:
       - published
@@ -54,7 +59,7 @@ jobs:
           retention-days: 30
 
   publish-release:
-    if: github.event_name == 'release'
+    if: github.event_name == 'release' || github.event_name == 'workflow_dispatch'
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -68,12 +73,41 @@ jobs:
           name: summertime-saga-chinese-rpa-${{ github.sha }}
           path: dist
 
-      - name: Attach files to GitHub Release
+      - name: Publish chinese.rpa to GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          gh release upload "${{ github.event.release.tag_name }}" \
-            dist/chinese.rpa \
-            --clobber \
-            --repo "${{ github.repository }}"
+          set -euo pipefail
+          REPO="${{ github.repository }}"
+
+          if [[ "${{ github.event_name }}" == "release" ]]; then
+            VERSION="${{ github.event.release.tag_name }}"
+          else
+            VERSION="${{ inputs.version }}"
+            # 去掉首尾空白
+            VERSION="${VERSION#"${VERSION%%[![:space:]]*}"}"
+            VERSION="${VERSION%"${VERSION##*[![:space:]]}"}"
+          fi
+
+          if [[ -z "$VERSION" ]]; then
+            echo "::error::版本号不能为空"
+            exit 1
+          fi
+
+          echo "Release 标签: $VERSION"
+          echo "Release 名称: $VERSION Chinese Translation"
+
+          if gh release view "$VERSION" --repo "$REPO" >/dev/null 2>&1; then
+            echo "Release $VERSION 已存在，仅更新附件"
+            gh release upload "$VERSION" dist/chinese.rpa \
+              --clobber \
+              --repo "$REPO"
+          else
+            echo "创建 Release $VERSION"
+            gh release create "$VERSION" dist/chinese.rpa \
+              --title "$VERSION Chinese Translation" \
+              --target "${{ github.sha }}" \
+              --generate-notes \
+              --repo "$REPO"
+          fi
