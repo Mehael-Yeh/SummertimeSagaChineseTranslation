@@ -12,13 +12,16 @@
 │  ├── chinese.rpa
 ```
 #### 2.可以手动调整文本
-将解压缩后将tl文件夹放置在游戏/game目录下，其他rpy文件直接放置在游戏/game目录下，最终游戏目录结构如下：
+将解压缩后将tl文件夹放置在游戏/game目录下，最终游戏目录结构如下：
 ```
 游戏根目录/
 ├── game/
 │  ├── tl/
 │     ├── chinese/
+│        ├──renpybox_sms_fix.rpy
+│        ├──renpybox_bytecode_strings.rpy
+│        ├──set_default_language_at_startup.rpy
+│        ├──hook_add_change_language_entrance.rpy
 │        ├── ...
-├── set_default_language_at_startup.rpy
-├── hook_add_change_language_entrance.rpy
+
 ```
