@@ -13,16 +13,10 @@ from pathlib import Path, PurePosixPath
 
 HEADER_SIZE = 34
 KEY = 0x53534354  # "SSCT"
-ROOT_FILES = (
-    "set_default_language_at_startup.rpy",
-    "hook_add_change_language_entrance.rpy",
-)
 
 
 def source_files(root: Path, compiled: bool = False) -> list[tuple[str, Path]]:
-    root_names = tuple(f"{name}c" for name in ROOT_FILES) if compiled else ROOT_FILES
-    files = [(name, root / name) for name in root_names]
-    files.extend(
+    files = [
         (path.relative_to(root).as_posix(), path)
         for path in (root / "tl" / "chinese").rglob("*")
         if path.is_file()
@@ -31,10 +25,7 @@ def source_files(root: Path, compiled: bool = False) -> list[tuple[str, Path]]:
             or (compiled and path.suffix.lower() in {".rpyc", ".rpymc"})
             or (not compiled and path.suffix.lower() in {".rpy", ".rpym"})
         )
-    )
-    missing = [name for name, path in files if not path.is_file()]
-    if missing:
-        raise FileNotFoundError(f"Missing required input: {', '.join(missing)}")
+    ]
     return sorted(files)
 
 

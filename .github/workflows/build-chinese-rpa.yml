@@ -37,7 +37,6 @@ jobs:
         run: |
           mkdir -p build/game
           cp -R tl build/game/tl
-          cp set_default_language_at_startup.rpy hook_add_change_language_entrance.rpy build/game/
           ./renpy-8.5.3-sdk/renpy.sh build compile
 
       - name: Build and verify chinese.rpa
