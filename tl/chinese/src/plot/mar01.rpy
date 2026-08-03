@@ -460,14 +460,14 @@ translate chinese mar01_maria_aab4fa19:
 
 
     # anon p_insert "Man, just look at that beautiful pussy!"
-    anon p_insert "天哪，看看这漂亮的小穴！"
+    anon p_insert "天哪，看看这漂亮的骚屄！"
 
 # game/src/plot/mar01.rpy:152
 translate chinese mar01_maria_bb6150bf:
 
 
     # maria b_anon p_sex_06 "It's all yers-"
-    maria b_anon p_sex_06 "全是你的了——"
+    maria b_anon p_sex_06 "现在它全是你的——"
 
 # game/src/plot/mar01.rpy:154
 translate chinese mar01_maria_reuse_6c6af1e5:
@@ -516,7 +516,7 @@ translate chinese mar01_maria_reuse_6775a9c6:
 
 
     # maria "All at once!!"
-    maria "全都进来！！"
+    maria "整根都塞进来了！！"
 
 # game/src/plot/mar01.rpy:162
 translate chinese mar01_maria_reuse_d8f50d3e:
@@ -579,7 +579,7 @@ translate chinese mar01_maria_reuse_3afaab7b:
 
 
     # anon "Tell me."
-    anon "告诉我。"
+    anon "大声说出来"
 
 # game/src/plot/mar01.rpy:173
 translate chinese mar01_maria_reuse_52ddf692:

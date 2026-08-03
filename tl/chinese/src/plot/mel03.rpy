@@ -586,7 +586,7 @@ translate chinese mel03_office1_22f6967a:
 
 
     # kevin "Mrs. [saga.cast.ursula.clan] is the devil man, I bet her coochie smells like brimstone and sulfur!"
-    kevin "[saga.cast.ursula.clan]夫人就是恶魔，我打赌她的骚逼闻起来像硫磺和硝石！"
+    kevin "[saga.cast.ursula.clan]夫人就是恶魔，我打赌她的骚屄闻起来像硫磺和硝石！"
 
 # game/src/plot/mel03.rpy:393
 translate chinese mel03_office1_356f2ab5:

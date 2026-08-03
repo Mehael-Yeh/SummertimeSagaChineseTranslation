@@ -2140,7 +2140,7 @@ translate chinese jen26_outro_reuse_9aa636ef:
 translate chinese jen26_outro_reuse_613b0060:
 
     # jenny "Ahh, fuck me!!"
-    jenny "啊哈，干我！！"
+    jenny "啊哈，肏我！！"
 
 # game/src/plot/jen26.rpy:769
 translate chinese jen26_outro_reuse_2172baf7:

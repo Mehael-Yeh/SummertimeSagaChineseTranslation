@@ -100,7 +100,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:35
  old "Saga Financial"
- new "传说金融银行"
+ new "传说金融"
 
  # game/res/meta/sets.rpym:36
  old "Office"

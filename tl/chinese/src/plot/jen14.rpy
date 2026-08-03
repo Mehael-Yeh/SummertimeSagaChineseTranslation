@@ -752,7 +752,7 @@ translate chinese jen14_dining_alt_123b13cb:
 translate chinese jen14_dining_alt_1c870f15:
 
     # anon a_side f_calm "Did you just cum?"
-    anon a_side f_calm "你刚刚是不是射了？"
+    anon a_side f_calm "你刚刚是不是高潮了？"
 
 # game/src/plot/jen14.rpy:274
 translate chinese jen14_dining_alt_58e5e0fc:

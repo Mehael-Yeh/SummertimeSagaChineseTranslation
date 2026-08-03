@@ -355,7 +355,7 @@ translate chinese deb26_diane_5ee9b3d6:
 
 
     # diane f_horny "Fucked?"
-    diane f_horny "操了？"
+    diane f_horny "肏了？"
 
 # game/src/plot/deb26.rpy:91
 translate chinese deb26_diane_4545defa:
@@ -852,7 +852,7 @@ translate chinese deb26_diane_ff21ecc7:
 
 
     # diane "... Make sure you do her {i}real{/i} good!"
-    diane "... 确保你把她 {i}真的{/i} 干舒服了！"
+    diane "... 确保你把她 {i}真的{/i} 肏舒服了！"
 
 # game/src/plot/deb26.rpy:180
 translate chinese deb26_diane_691490e1:

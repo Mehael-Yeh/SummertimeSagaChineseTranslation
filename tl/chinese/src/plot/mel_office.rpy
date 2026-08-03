@@ -72,7 +72,7 @@ translate chinese mel_office_merge_4cb8ed15:
 
 translate chinese mel_office_merge_0f6b785e:
     # melody "Pound me, sugar!"
-    melody "干我，亲爱的！"
+    melody "肏我，亲爱的！"
 
 translate chinese mel_office_merge_5b691c86:
     # melody "Give me everything you've got, [saga.cast.anon]!"
@@ -128,7 +128,7 @@ translate chinese mel_office_merge_f45fb5fa:
 
 translate chinese mel_office_merge_57a6c537:
     # melody "I'm gonna cum all over those balls!"
-    melody "我要射在你那对蛋蛋上了！"
+    melody "我要喷在你那对蛋蛋上了！"
 
 translate chinese mel_office_merge_0cf4d269:
     # anon "HNNGGG!!!" with flash

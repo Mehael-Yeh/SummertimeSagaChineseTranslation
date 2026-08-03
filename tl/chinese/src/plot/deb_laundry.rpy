@@ -262,13 +262,13 @@ translate chinese deb_laundry_reuse_1cee7a41:
 translate chinese deb_laundry_reuse_a95f6410:
 
     # anon a_wtf f_calm "Big."
-    anon a_wtf f_calm "好大。"
+    anon a_wtf f_calm "好大"
 
 # game/src/plot/deb_laundry.rpy:104
 translate chinese deb_laundry_reuse_e9ee4d49:
 
     # anon a_fists f_happy "Load."
-    anon a_fists f_happy "一泡。"
+    anon a_fists f_happy "一炮。"
 
 # game/src/plot/deb_laundry.rpy:105
 translate chinese deb_laundry_reuse_135006bf:
@@ -310,7 +310,7 @@ translate chinese deb_laundry_reuse_204a05ad:
 translate chinese deb_laundry_reuse_0d310321:
 
     # anon d_hard "I was just thinking, maybe... you could take care of another load for me?"
-    anon d_hard "我刚在想，也许……你能再帮我解决一泡？"
+    anon d_hard "我刚在想，也许……你能再帮我解决一炮？"
 
 # game/src/plot/deb_laundry.rpy:126
 translate chinese deb_laundry_reuse_35845c12:
@@ -1270,7 +1270,7 @@ translate chinese deb_laundry_reuse_2add17a6_4:
 translate chinese deb_laundry_reuse_1ee4a277:
 
     # debbie e_s "... {size=*.65}Fuck me.{/size}"
-    debbie e_s "... {size=*.65}干我。{/size}"
+    debbie e_s "... {size=*.65}肏我。{/size}"
 
 # game/src/plot/deb_laundry.rpy:462
 translate chinese deb_laundry_reuse_c45bde19:
@@ -1294,7 +1294,7 @@ translate chinese deb_laundry_reuse_30ad2413:
 translate chinese deb_laundry_reuse_13b9419f:
 
     # debbie e_sse "Fuck me, sweetie... please!"
-    debbie e_sse "干我，亲爱的...求你了！"
+    debbie e_sse "肏我，亲爱的...求你了！"
 
 # game/src/plot/deb_laundry.rpy:466
 translate chinese deb_laundry_reuse_6fa70093:

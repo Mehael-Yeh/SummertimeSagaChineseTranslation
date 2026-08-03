@@ -424,13 +424,13 @@ translate chinese tin_dusk_lounge_c6223d68:
 translate chinese tin_dusk_lounge_f02a1ec7:
 
     # tina "Yeah, pound it!"
-    tina "对，干它！"
+    tina "对，肏它！"
 
 # game/src/plot/tin_dusk.rpy:207
 translate chinese tin_dusk_lounge_2f51d8bc:
 
     # tina "Pound that pussy!"
-    tina "操烂那个骚穴！"
+    tina "肏烂我的骚屄！"
 
 # game/src/plot/tin_dusk.rpy:208
 translate chinese tin_dusk_lounge_aa166949:
@@ -454,7 +454,7 @@ translate chinese tin_dusk_lounge_8ddefb33:
 translate chinese tin_dusk_lounge_edfcdbb6:
 
     # anon "Are you getting close?"
-    anon "你快到了吗？"
+    anon "你快高潮了吗？"
 
 # game/src/plot/tin_dusk.rpy:214
 translate chinese tin_dusk_lounge_b499183c:
@@ -568,7 +568,7 @@ translate chinese tin_dusk_lounge_586392e4:
 translate chinese tin_dusk_lounge_a254e0c0:
 
     # tina "Not too thick, I hope."
-    tina "希望不要太厚。"
+    tina "希望不是太肥了。"
 
 # game/src/plot/tin_dusk.rpy:237
 translate chinese tin_dusk_lounge_d1abd50a:
@@ -586,7 +586,7 @@ translate chinese tin_dusk_lounge_5b70d4c2:
 translate chinese tin_dusk_lounge_1ec249cb:
 
     # tina "... Fuck me hard!"
-    tina "……用力操我！"
+    tina "……用力肏我！"
 
 # game/src/plot/tin_dusk.rpy:242
 translate chinese tin_dusk_lounge_db3a0dec:
@@ -658,7 +658,7 @@ translate chinese tin_dusk_lounge_13992a17:
 translate chinese tin_dusk_lounge_b6855223:
 
     # tina "Here, let me take over."
-    tina "来，让我接手。"
+    tina "来，让我主导。"
 
 # game/src/plot/tin_dusk.rpy:255
 translate chinese tin_dusk_lounge_b82c2e64:
@@ -838,7 +838,7 @@ translate chinese tin_dusk_lounge_4eeff7ef:
 translate chinese tin_dusk_lounge_c8c7dc91:
 
     # tina "I'm gonna cum!"
-    tina "我要射了！"
+    tina "我要高潮了！"
 
 # game/src/plot/tin_dusk.rpy:315
 translate chinese tin_dusk_lounge_b34ee4bd:
@@ -850,7 +850,7 @@ translate chinese tin_dusk_lounge_b34ee4bd:
 translate chinese tin_dusk_lounge_d417dea9:
 
     # tina "Let's do it together!"
-    tina "一起干吧！"
+    tina "一起高潮吧！"
 
 # game/src/plot/tin_dusk.rpy:317
 translate chinese tin_dusk_lounge_3ad99157:
@@ -874,7 +874,7 @@ translate chinese tin_dusk_lounge_bd3d15ca:
 translate chinese tin_dusk_lounge_4c600ce7:
 
     # tina "There!!"
-    tina "就那儿！！"
+    tina "来吧！！"
 
 # game/src/plot/tin_dusk.rpy:331
 translate chinese tin_dusk_lounge_0cf4d269:
@@ -998,4 +998,4 @@ translate chinese tin_dusk_lounge_rails_ebbb42c0:
 
 translate chinese tin_dusk_lounge_fe3fcf19:
     # tina c_lingerie_bottom p_pickup_away "I'm so wet for you right now..."
-    tina c_lingerie_bottom p_pickup_away "我现在已经为你湿透了……"
+    tina c_lingerie_bottom p_pickup_away "为了你，我现在已经浑身湿透了……"

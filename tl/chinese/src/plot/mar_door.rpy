@@ -368,7 +368,7 @@ translate chinese mar_door_maria_merge1_47a7e46b:
 
 translate chinese mar_door_maria_merge1_b91966fd:
     # maria "Oh gawd... I'm gonna cum!!"
-    maria "哦老天……我要去了！！"
+    maria "哦老天……我要高潮了！！"
 
 translate chinese mar_door_maria_merge1_d7cb5706:
     # anon "Already?"

@@ -562,7 +562,7 @@ translate chinese tin_vault_vault_merge1_69220132:
 translate chinese tin_vault_vault_merge1_ad6e7bb6:
 
     # tina "... Mmm, pound that pussy!!"
-    tina "……嗯，干烂那个小穴！！"
+    tina "……嗯，肏烂我的骚屄！！"
 
 # game/src/plot/tin_vault.rpy:229
 translate chinese tin_vault_vault_merge1_f1bd15b3:
@@ -592,7 +592,7 @@ translate chinese tin_vault_vault_merge1_cbe5167c:
 translate chinese tin_vault_vault_merge1_04e82214:
 
     # tina "I want you to really fuck me!"
-    tina "我要你狠狠操我！"
+    tina "我要你狠狠肏我！"
 
 # game/src/plot/tin_vault.rpy:236
 translate chinese tin_vault_vault_merge1_58aacc96:

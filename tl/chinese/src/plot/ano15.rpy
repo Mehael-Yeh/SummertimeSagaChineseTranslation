@@ -1209,7 +1209,7 @@ translate chinese ano15_shop1_lounge1_0f4ab2ed:
 
 
     # maria "This pussy ain't gonna lick itself!"
-    maria "这骚逼可不会自己舔！"
+    maria "这骚屄可不会自己舔！"
 
 # game/src/plot/ano15.rpy:352
 translate chinese ano15_shop1_lounge1_d9736346:
@@ -3099,7 +3099,7 @@ translate chinese ano15_pantry_c8de7edc:
 
 
     # tony "Show us that beautiful pussy of yers."
-    tony "给我们看看你那漂亮的小穴。"
+    tony "给我们看看你那漂亮的嫩屄。"
 
 # game/src/plot/ano15.rpy:1020
 translate chinese ano15_pantry_9398b866:
@@ -3568,7 +3568,7 @@ translate chinese ano15_pantry_merge1_cac94b0b:
 
 
     # tony "Look at that pussy, champ..."
-    tony "看看这小穴，冠军……"
+    tony "看看这骚屄，冠军……"
 
 # game/src/plot/ano15.rpy:1200
 translate chinese ano15_pantry_merge1_d0f1ee7a:
@@ -3806,7 +3806,7 @@ translate chinese ano15_pantry_merge1_09311990:
 
 
     # maria "I'm gonna cum!!"
-    maria "我要去了！！"
+    maria "我要高潮了！！"
 
 # game/src/plot/ano15.rpy:1284
 translate chinese ano15_pantry_merge1_285c7c02:
@@ -4079,7 +4079,7 @@ translate chinese ano15_pantry_merge2_eb31d22c:
 
 
     # maria ob_cum "I feel like I just got split in two!"
-    maria ob_cum "我感觉我都要被劈成两半了！"
+    maria ob_cum "感觉……下面要被你顶穿了！"
 
 # game/src/plot/ano15.rpy:1372
 translate chinese ano15_pantry_merge2_f8d4e622:

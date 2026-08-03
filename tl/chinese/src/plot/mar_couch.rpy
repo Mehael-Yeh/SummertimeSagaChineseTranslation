@@ -5,14 +5,14 @@ translate chinese mar_couch_creampie1_c84ef7d3:
 
 
     # maria "Do it!!"
-    maria "干它！！"
+    maria "肏它！！"
 
 # game/src/plot/mar_couch.rpy:10
 translate chinese mar_couch_creampie1_1198f25d:
 
 
     # maria "Doo iittt!!"
-    maria "干它！！"
+    maria "肏它！！"
 
 # game/src/plot/mar_couch.rpy:13
 translate chinese mar_couch_creampie1_0cf4d269:
@@ -1563,7 +1563,7 @@ translate chinese mar_couch_noon1_489c8b6e:
 translate chinese mar_couch_noon1_ccd19f05:
 
     # tony @ e_iw f_calm "Ya see that primed pussy, champ?"
-    tony @ e_iw f_calm "看到那个准备好的小穴了吗，冠军？"
+    tony @ e_iw f_calm "看到那个的已经鲜嫩欲滴的骚屄了吗，冠军？"
 
 translate chinese mar_couch_noon1_66da9cf0:
 
@@ -1578,12 +1578,12 @@ translate chinese mar_couch_noon1_fbb8e95c:
 translate chinese mar_couch_noon1_4bf2e289:
 
     # anon e_e f_confused "Wait, what now?"
-    anon e_e f_confused "等等，什么？"
+    anon e_e f_confused "等等，那是什么？"
 
 translate chinese mar_couch_noon1_53fbc94a:
 
     # tony "Oh, it's a sandwich from the old country."
-    tony "哦，是老家的三明治。"
+    tony "哦，是我老家的三明治。"
 
 translate chinese mar_couch_noon1_8d6cc9d0:
 
@@ -1778,7 +1778,7 @@ translate chinese mar_couch_noon1_bf5aadc3:
 translate chinese mar_couch_noon1_8d41bdc1:
 
     # tony e_iw "Damn, how's that pussy feel, champ?"
-    tony e_iw "天啊，那感觉怎么样，冠军？"
+    tony e_iw "天啊，那骚屄感觉怎么样，冠军？"
 
 translate chinese mar_couch_noon1_c45dc18b:
 
@@ -1788,7 +1788,7 @@ translate chinese mar_couch_noon1_c45dc18b:
 translate chinese mar_couch_noon1_890a5e78:
 
     # tony f_happy "Heh, I'll bet."
-    tony f_happy "嘿，我打赌。"
+    tony f_happy "嘿，我打赌你会喜欢的。"
 
 translate chinese mar_couch_noon1_248ccf8b:
 
@@ -2723,7 +2723,7 @@ translate chinese mar_couch_noon2_e0e06e08:
 translate chinese mar_couch_noon2_4d2d63b1:
 
     # tony "{i}*Whistles*{/i} Just look at that soppin' wet pussy..."
-    tony "{i}*吹口哨*{/i} 看看这湿漉漉的小穴……"
+    tony "{i}*吹口哨*{/i} 看看这鲜嫩欲滴的骚屄……"
 
 translate chinese mar_couch_noon2_e39dbdf0:
 
@@ -2738,7 +2738,7 @@ translate chinese mar_couch_noon2_b398d45d:
 translate chinese mar_couch_noon2_5b90f230:
 
     # tony "I mean, so long as you're happy I-"
-    tony "我是说，只要你开心我就——"
+    tony "我是说，只要你开心我都——"
 
 translate chinese mar_couch_noon2_415739cb:
 
@@ -2748,7 +2748,7 @@ translate chinese mar_couch_noon2_415739cb:
 translate chinese mar_couch_noon2_dd357546:
 
     # tony f_shy "Oh, right... of course you were."
-    tony f_shy "哦，对……当然你是。"
+    tony f_shy "哦，对……当然你是在跟他说。"
 
 translate chinese mar_couch_noon2_6c845631:
 
@@ -2763,7 +2763,7 @@ translate chinese mar_couch_noon2_1e03c342:
 translate chinese mar_couch_noon2_f9d396bb:
 
     # tony "Yeah, they don't make 'em like my [saga.cast.maria] no more."
-    tony "是啊，他们再也造不出像我的[saga.cast.maria]这样的了。"
+    tony "是啊，上帝再也造不出像我的[saga.cast.maria]这样的了。"
 
 translate chinese mar_couch_noon2_56353864:
 

@@ -2448,7 +2448,7 @@ translate chinese jen_baby_wake_0d8f77f6:
 
 
     # jenny "We're having sex on camera for money this afternoon and you're gonna like it!"
-    jenny "今天下午我们就要在镜头前干，为了钱，你会喜欢的！"
+    jenny "今天下午我们就要在镜头前肏，为了钱，你会喜欢的！"
 
 # game/src/plot/jen_baby.rpy:907
 translate chinese jen_baby_wake_aaaf9d7d:
@@ -3225,7 +3225,7 @@ translate chinese jen_baby_food_293d0fcc:
 
 
     # jenny e_wsw f_horny p_table_rise "Alright, now I'm ready for that deep dicking."
-    jenny e_wsw f_horny p_table_rise "好了，现在我准备好被猛干了。"
+    jenny e_wsw f_horny p_table_rise "好了，现在我准备好被猛肏了。"
 
 # game/src/plot/jen_baby.rpy:1223
 translate chinese jen_baby_food_8f934a36:
@@ -3259,7 +3259,7 @@ translate chinese jen_baby_food_9bd53cce:
 translate chinese jen_baby_food_563436bc:
 
     # jenny "Good, because we might start with you eating my pussy."
-    jenny "很好，因为我们可以从你舔我的阴部开始。"
+    jenny "很好，因为我们可以从你舔我的小穴开始。"
 
 # game/src/plot/jen_baby.rpy:1256
 translate chinese jen_baby_food_3c654d29:
@@ -5266,7 +5266,7 @@ translate chinese jen_baby_food_901125e7:
 translate chinese jen_baby_food_9d49a75a:
 
     # jenny "... So if you wanna see your pregnant sex goddess get fucked, then pay up!"
-    jenny "……所以，如果你想看到你那怀孕的性爱女神被操，那就付钱吧！"
+    jenny "……所以，如果你想看到你那怀孕的性爱女神被肏，那就付钱吧！"
 
 translate chinese jen_baby_food_3fcd4a8a:
 

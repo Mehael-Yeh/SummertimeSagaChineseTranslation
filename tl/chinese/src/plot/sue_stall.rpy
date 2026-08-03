@@ -16,7 +16,7 @@ translate chinese sue_stall_a63d0c4e:
 
 translate chinese sue_stall_4f34e2df:
     # anon e_w "... Where I parked my car."
-    anon e_w "... 我停车的地方。"
+    anon e_w "... 我该进的地方。"
 
 translate chinese sue_stall_d19edc2e:
     # sue @ -m_talk "..."

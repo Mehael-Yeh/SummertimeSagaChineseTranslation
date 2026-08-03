@@ -334,7 +334,7 @@ translate chinese jen_table_856dc3a4:
 translate chinese jen_table_a851b86e:
 
     # jenny c_casual_pants_down e_w p_table_bend_lewd "Just shut up and fuck me, [saga.cast.anon]!"
-    jenny c_casual_pants_down e_w p_table_bend_lewd "别废话了，快操我，[saga.cast.anon]！"
+    jenny c_casual_pants_down e_w p_table_bend_lewd "别废话了，快肏我，[saga.cast.anon]！"
 
 # game/src/plot/jen_table.rpy:134
 translate chinese jen_table_e53cb91f:

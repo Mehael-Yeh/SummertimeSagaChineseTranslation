@@ -448,7 +448,7 @@ translate chinese tin_baby_wait_once_0866ab5d:
 translate chinese tin_baby_wait_once_7c3415c4:
 
     # tina f_horny "Well, I wouldn't say no to another tumble in the sack but unfortunately, that's not the reason for my call..."
-    tina f_horny "嗯，我倒是不介意再来一次床上翻滚，但可惜，这不是我打电话的原因……"
+    tina f_horny "嗯，我倒是不介意再来一次滚床单，但可惜，这不是我打电话的原因……"
 
 translate chinese tin_baby_wait_once_f4c0268e:
 
@@ -643,7 +643,7 @@ translate chinese tin_baby_late_misc1_efa127ab:
 translate chinese tin_baby_late_misc1_8b62eb7a:
 
     # tina f_calm "I haven't had a man to dote on me since Luigi died."
-    tina f_calm "自从路易吉去世后，我还没有男人这样疼过我呢。"
+    tina f_calm "自从Luigi去世后，我还没有男人这样疼过我呢。"
 
 translate chinese tin_baby_late_misc1_98950380:
 
@@ -708,7 +708,7 @@ translate chinese tin_baby_late_outro_7a6103d8:
 translate chinese tin_baby_late_outro_212d6707:
 
     # anon "Feel free to call me, night or day, okay?"
-    anon "随时给我打电话，白天黑夜都行，好吗？"
+    anon "随时给我打电话，早晚都行，好吗？"
 
 translate chinese tin_baby_late_outro_d01af0ed:
 
@@ -1068,7 +1068,7 @@ translate chinese tin_baby_warm_69650a55:
 translate chinese tin_baby_warm_f5759927:
 
     # anon "Feel free to call me, night or day..."
-    anon "随时给我打电话，无论昼夜……"
+    anon "随时给我打电话，早晚都行……"
 
 translate chinese tin_baby_warm_c321216c:
 

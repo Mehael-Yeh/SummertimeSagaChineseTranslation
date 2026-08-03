@@ -1096,7 +1096,7 @@ translate chinese jen08_stock_once_ce30539f:
 translate chinese jen08_stock_once_98d5934f:
 
     # anon "( And [saga.cast.jane] is fingering [saga.cast.ivy]!! )"
-    anon "(而且 [saga.cast.jane] 正在用手指玩弄 [saga.cast.ivy]！！)"
+    anon "(而且 [saga.cast.jane]正在用手指玩弄[saga.cast.ivy]！！)"
 
 # game/src/plot/jen08.rpy:392
 translate chinese jen08_stock_once_3acf821b:
@@ -1114,7 +1114,7 @@ translate chinese jen08_stock_once_2a87c6e8:
 translate chinese jen08_stock_once_d39cb2da:
 
     # jane "How do you keep your pussy so tight in your line of work anyway?"
-    jane "话说你干这行，怎么下面还能这么紧？"
+    jane "话说你干这行，怎么骚屄还能这么紧？"
 
 # game/src/plot/jen08.rpy:396
 translate chinese jen08_stock_once_fb9e5a9d:

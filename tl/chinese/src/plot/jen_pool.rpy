@@ -10,7 +10,7 @@ translate chinese jen_pool_45f3866c:
 translate chinese jen_pool_df4c4de7:
 
     # jenny a_fold f_snide "You wanna fuck me in the pool again?"
-    jenny a_fold f_snide "你又想在泳池里操我？"
+    jenny a_fold f_snide "你又想在泳池里肏我？"
 
 # game/src/plot/jen_pool.rpy:8
 translate chinese jen_pool_76deba35:
@@ -220,7 +220,7 @@ translate chinese jen_pool_merge1_f32fc904:
 translate chinese jen_pool_merge1_2dbe4325:
 
     # jenny "C'mon, fuck me faster, [saga.cast.anon]!"
-    jenny "快点，操我操得更快些，[saga.cast.anon]！"
+    jenny "快点，肏我肏得更快些，[saga.cast.anon]！"
 
 # game/src/plot/jen_pool.rpy:82
 translate chinese jen_pool_merge1_69211db2:
@@ -238,7 +238,7 @@ translate chinese jen_pool_merge1_6bb271d8:
 translate chinese jen_pool_merge1_1d7e71a2:
 
     # jenny "I'm going to cum!"
-    jenny "我要射了！"
+    jenny "我要高潮了！"
 
 # game/src/plot/jen_pool.rpy:85
 translate chinese jen_pool_merge1_b4bf905f:
@@ -622,7 +622,7 @@ translate chinese jen_pool_once_2e498979:
 translate chinese jen_pool_once_e318c885:
 
     # jenny "Don't be a pussy, she's busy cleaning the house!"
-    jenny "别当怂包，她正忙着打扫房子呢！"
+    jenny "别怂，她正忙着打扫房子呢！"
 
 # game/src/plot/jen_pool.rpy:223
 translate chinese jen_pool_once_69e86c24:
@@ -766,7 +766,7 @@ translate chinese jen_pool_once_1b7f59ec:
 translate chinese jen_pool_once_a91d0149:
 
     # jenny "Well, I was going to fuck you but after that cannonball, I'm having second thoughts..."
-    jenny "嗯，我本来想操你的，但你那记炸弹入水之后，我得再想想了……"
+    jenny "嗯，我本来想肏你的，但你那记炸弹入水之后，我得再想想了……"
 
 # game/src/plot/jen_pool.rpy:277
 translate chinese jen_pool_once_e51fd78f:

@@ -5,7 +5,7 @@ translate chinese ton_baby_post_intro_d7d054c1:
 
 
     # tony "So then, Luigi says, \"You're still dangerous\"..."
-    tony "于是路易吉说，「你还是挺危险的」……"
+    tony "于是Luigi说，「你还是挺危险的」……"
 
 # game/src/plot/ton_baby.rpy:10
 translate chinese ton_baby_post_intro_5a5c35df:

@@ -262,7 +262,7 @@ translate chinese debbie_rug_play_f1ca7deb:
 translate chinese debbie_rug_play_52cd3f16:
 
     # jenny "Shut up and eat my pussy!"
-    jenny "闭嘴，好好舔我的骚屄！"
+    jenny "闭嘴，好好舔我的小穴！"
 
 # game/src/plot/debbie_rug.rpy:130
 translate chinese debbie_rug_play_c91cf195:
@@ -274,7 +274,7 @@ translate chinese debbie_rug_play_c91cf195:
 translate chinese debbie_rug_play_49a864e4:
 
     # jenny "Oh, I bet you wanna fuck me, don't you?"
-    jenny "哦，我敢打赌你想干我，是不是？"
+    jenny "哦，我敢打赌你想肏我，是不是？"
 
 # game/src/plot/debbie_rug.rpy:132
 translate chinese debbie_rug_play_952d8814:

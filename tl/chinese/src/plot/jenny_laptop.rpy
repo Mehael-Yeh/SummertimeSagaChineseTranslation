@@ -166,7 +166,7 @@ translate chinese jenny_laptop_vid1_521b0ce0:
 translate chinese jenny_laptop_vid1_129ae306:
 
     # jenny "My pussy's absolutely aching for some attention..."
-    jenny "我的小穴渴望着关注……"
+    jenny "我的骚屄渴望着关注……"
 
 # game/src/plot/jenny_laptop.rpy:97
 translate chinese jenny_laptop_vid1_7200b580:
@@ -316,7 +316,7 @@ translate chinese jenny_laptop_vid2_76797a28:
 translate chinese jenny_laptop_vid2_59c65bd1:
 
     # jenny a_back "No, sam9... It's not going in my butt."
-    jenny a_back "不，sam9... 别塞我屁股里。"
+    jenny a_back "不，sam9... 不可能塞进我的屁股里。"
 
 # game/src/plot/jenny_laptop.rpy:153
 translate chinese jenny_laptop_vid2_db5cec2a:
@@ -364,7 +364,7 @@ translate chinese jenny_laptop_vid2_a20cefa7:
 translate chinese jenny_laptop_vid2_b0b22e2d:
 
     # jenny a_vibrate "Don't you wanna see me cum all over this toy?"
-    jenny a_vibrate "你不想看我全射在这玩具上吗？"
+    jenny a_vibrate "你不想看我把这玩具全塞进去吗？"
 
 # game/src/plot/jenny_laptop.rpy:162
 translate chinese jenny_laptop_vid2_73e78117:
@@ -388,7 +388,7 @@ translate chinese jenny_laptop_vid2_3965778a:
 translate chinese jenny_laptop_vid2_6863b12a:
 
     # jenny p_debbie_bed2_cam_vibrate_pre "Hehe, I don't know if it will fit inside my tight little pussy..."
-    jenny p_debbie_bed2_cam_vibrate_pre "嘿嘿，我不知道它能不能塞进我紧窄的小穴里……"
+    jenny p_debbie_bed2_cam_vibrate_pre "嘿嘿，我不知道它能不能塞进我紧窄的骚屄里……"
 
 # game/src/plot/jenny_laptop.rpy:169
 translate chinese jenny_laptop_vid2_40f03e50:
@@ -406,7 +406,7 @@ translate chinese jenny_laptop_vid2_cbc62b0c:
 translate chinese jenny_laptop_vid2_6f5719fe:
 
     # jenny "Mmm, c'mon boys, show me the money!"
-    jenny "嗯，来吧兄弟们，让我看看钱！"
+    jenny "嗯，来吧兄弟们，让我看到你们的打赏！"
 
 # game/src/plot/jenny_laptop.rpy:176
 translate chinese jenny_laptop_vid2_73e78117_1:
@@ -430,7 +430,7 @@ translate chinese jenny_laptop_vid2_f500f242:
 translate chinese jenny_laptop_vid2_4963d7a2:
 
     # jenny s_8 "I'm getting close!!"
-    jenny s_8 "我快到了！！"
+    jenny s_8 "我快高潮了！！"
 
 # game/src/plot/jenny_laptop.rpy:180
 translate chinese jenny_laptop_vid2_07a9ff66:
@@ -514,7 +514,7 @@ translate chinese jenny_laptop_vid2_7f6dd9b3:
 translate chinese jenny_laptop_vid2_e2382157:
 
     # jenny "Hah, sam9 wants to see me with a real penis, in my ass... Big surprise."
-    jenny "哈，sam9想看我的真鸡巴插进我屁眼里...真意外啊。"
+    jenny "哈，sam9想看真鸡巴插进我屁眼里...真意外啊。"
 
 # game/src/plot/jenny_laptop.rpy:207
 translate chinese jenny_laptop_vid2_80316305:
@@ -676,7 +676,7 @@ translate chinese jenny_laptop_vid3_f9943060:
 translate chinese jenny_laptop_vid3_36975469:
 
     # jenny "Alright, enough with the anal stuff..."
-    jenny "好了，肛门的事到此为止……"
+    jenny "好了，屁眼的事到此为止……"
 
 # game/src/plot/jenny_laptop.rpy:262
 translate chinese jenny_laptop_vid3_af3f212a:
@@ -796,7 +796,7 @@ translate chinese jenny_laptop_vid3_9c1c3581:
 translate chinese jenny_laptop_vid3_a32bc59c:
 
     # jenny s_8 "I'm gonna cum!!"
-    jenny s_8 "我要射了！！"
+    jenny s_8 "我要高潮了！！"
 
 # game/src/plot/jenny_laptop.rpy:293
 translate chinese jenny_laptop_vid3_94017e53:

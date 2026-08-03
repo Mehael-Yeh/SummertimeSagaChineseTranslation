@@ -96,7 +96,7 @@ translate chinese mar_pantry_merge1_861b71ae:
 
 translate chinese mar_pantry_merge1_39f4c3e6:
     # maria "I'm gonna cum!"
-    maria "我要射了！"
+    maria "我要高潮了！"
 
 translate chinese mar_pantry_merge1_17a22ab2:
     # anon "Me too!"

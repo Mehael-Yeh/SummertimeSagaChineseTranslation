@@ -88,7 +88,7 @@ translate chinese deb_kitchen_41ea19ee:
 translate chinese deb_kitchen_d0a21720:
 
     # anon "Fucked?"
-    anon "操？"
+    anon "肏？"
 
 # game/src/plot/deb_kitchen.rpy:40
 translate chinese deb_kitchen_4d52056f:
@@ -268,7 +268,7 @@ translate chinese deb_kitchen_acc559eb:
 translate chinese deb_kitchen_fac49084:
 
     # debbie b_anon p_sex_08 "Oh fuck me!!"
-    debbie b_anon p_sex_08 "操，干死我！！"
+    debbie b_anon p_sex_08 "操，肏死我！！"
 
 # game/src/plot/deb_kitchen.rpy:107
 translate chinese deb_kitchen_e8ba5c61:
@@ -544,7 +544,7 @@ translate chinese deb_kitchen_6739d123:
 translate chinese deb_kitchen_fe7e8dfc:
 
     # debbie "[saga.cast.jenny] language!!"
-    debbie "[saga.cast.jenny] 说话注意点！！"
+    debbie "[saga.cast.jenny]说话注意点！！"
 
 # game/src/plot/deb_kitchen.rpy:175
 translate chinese deb_kitchen_e38e4e67:

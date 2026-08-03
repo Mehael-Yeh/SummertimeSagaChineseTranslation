@@ -526,7 +526,7 @@ translate chinese viv05_office5_reuse_205b794f:
 translate chinese viv05_office5_reuse_569c3d3c:
 
     # viv "No Frenchman ever fucked me like this!"
-    viv "从没有法国佬这样干过我！"
+    viv "从没有法国佬这样肏过我！"
 
 # game/src/plot/viv05.rpy:305
 translate chinese viv05_office5_reuse_b764e938:
@@ -538,13 +538,13 @@ translate chinese viv05_office5_reuse_b764e938:
 translate chinese viv05_office5_reuse_17048ab6:
 
     # viv "Harder! Fuck me harder!"
-    viv "再用力点！操我操得更狠些！"
+    viv "再用力点！肏我肏得更狠些！"
 
 # game/src/plot/viv05.rpy:317
 translate chinese viv05_office5_reuse_0f100236:
 
     # viv "You like doing me on the table, yes?"
-    viv "你喜欢在桌子上干我，对吧？"
+    viv "你喜欢在桌子上肏我，对吧？"
 
 # game/src/plot/viv05.rpy:318
 translate chinese viv05_office5_reuse_a24f0080:
@@ -574,7 +574,7 @@ translate chinese viv05_office5_merge_7b141aff:
 translate chinese viv05_office5_merge_af418479:
 
     # viv "I'm going to cum, [saga.cast.anon]!"
-    viv "我要去了，[saga.cast.anon]！"
+    viv "我要高潮了，[saga.cast.anon]！"
 
 # game/src/plot/viv05.rpy:326
 translate chinese viv05_office5_merge_17a22ab2:

@@ -220,7 +220,7 @@ translate chinese tor_office_00fe5f96:
 translate chinese tor_office_231b9f6d:
 
     # tori "Fuck me!"
-    tori "干我！"
+    tori "肏我！"
 
 # game/src/plot/tor_office.rpy:108
 translate chinese tor_office_8470e043:
@@ -232,7 +232,7 @@ translate chinese tor_office_8470e043:
 translate chinese tor_office_b87300b4:
 
     # tori "Fuck me harder!"
-    tori "用力操我！"
+    tori "用力肏我！"
 
 # game/src/plot/tor_office.rpy:117
 translate chinese tor_office_34edbd7c:
@@ -268,7 +268,7 @@ translate chinese tor_office_area_4c523875:
 translate chinese tor_office_area_c23281cc:
 
     # tori "Like, you'll sweep everything off one of these lab benches, throw me down, and have your way with me?!"
-    tori "就像你会把实验室台子上的东西扫干净，把我按在上面，然后尽情干我？！"
+    tori "就像你会把实验室台子上的东西扫干净，把我按在上面，然后尽情肏我？！"
 
 # game/src/plot/tor_office.rpy:134
 translate chinese tor_office_area_2f29fe07:

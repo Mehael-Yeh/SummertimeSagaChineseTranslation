@@ -1168,13 +1168,13 @@ translate chinese deb_visit_baby_02f4a6b6:
 translate chinese deb_visit_baby_da3768c7:
 
     # debbie "My pussy... aches for you..."
-    debbie "我的小穴……为你而痛……"
+    debbie "我的小穴……好想你……"
 
 # game/src/plot/deb_visit.rpy:486
 translate chinese deb_visit_baby_276abfa6:
 
     # debbie "... When you're not... inside me!"
-    debbie "……当你不在……我里面的时候！"
+    debbie "……当你没……塞进我里面的时候！"
 
 # game/src/plot/deb_visit.rpy:487
 translate chinese deb_visit_baby_5502af91:
@@ -1204,7 +1204,7 @@ translate chinese deb_visit_baby_0ad78b94:
 translate chinese deb_visit_baby_11d0544f:
 
     # debbie s_12 "Just fuck me, sweetie!"
-    debbie s_12 "直接干我吧，亲爱的！"
+    debbie s_12 "直接肏我吧，亲爱的！"
 
 # game/src/plot/deb_visit.rpy:493
 translate chinese deb_visit_baby_60d1658a:

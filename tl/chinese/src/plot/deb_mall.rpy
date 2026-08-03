@@ -1612,7 +1612,7 @@ translate chinese deb_mall_debbie_creampie_0bea765b:
 translate chinese deb_mall_debbie_creampie_4ba696bf:
 
     # anon a_point_down "Heh, you're getting cum all over your seat."
-    anon a_point_down "嘿，你精液溅得到处都是。"
+    anon a_point_down "嘿，我的精液溅得到处都是。"
 
 # game/src/plot/deb_mall.rpy:676
 translate chinese deb_mall_debbie_creampie_3a066094:

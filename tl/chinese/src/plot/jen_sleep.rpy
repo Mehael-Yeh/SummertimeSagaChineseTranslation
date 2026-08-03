@@ -130,7 +130,7 @@ translate chinese jen_sleep_9181676c:
 translate chinese jen_sleep_d1d6e137:
 
     # jenny "So, if you're going to fuck me then hurry up and do it already. Otherwise, get the fuck out!"
-    jenny "所以，你要是想干我，就他妈的快点。不然就滚出去！"
+    jenny "所以，你要是想肏我，就他妈的快点。不然就滚出去！"
 
 # game/src/plot/jen_sleep.rpy:82
 translate chinese jen_sleep_358e8a8c:
@@ -292,7 +292,7 @@ translate chinese jen_sleep_7cdddfb3:
 translate chinese jen_sleep_a6329659:
 
     # anon "I'm going to cum!"
-    anon "我要去了！"
+    anon "我要射了！"
 
 # game/src/plot/jen_sleep.rpy:170
 translate chinese jen_sleep_4b3ef6d4:

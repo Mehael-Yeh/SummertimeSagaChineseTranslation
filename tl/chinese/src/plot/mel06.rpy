@@ -1180,7 +1180,7 @@ translate chinese mel06_office4_dcac1e03_1:
 
 translate chinese mel06_office4_50ccb436:
     # melody "Pound that pussy, sugar!"
-    melody "猛干那个小穴，亲爱的！"
+    melody "猛肏我的骚屄，亲爱的！"
 
 translate chinese mel06_office4_83eafc87:
     # melody "Give it to me, [saga.cast.anon]!"
@@ -1208,7 +1208,7 @@ translate chinese mel06_office4_5cb88ab1:
 
 translate chinese mel06_office4_a2237138:
     # melody "That's it, baby! I'm gonna cum all over that big dick!"
-    melody "就是这样，宝贝！我要在那根大鸡巴上射满！"
+    melody "就是这样，宝贝！我要用你的那根大鸡巴塞满！"
 
 translate chinese mel06_office4_62c45a4f:
     # melody "Mmmm!!"
@@ -1224,7 +1224,7 @@ translate chinese mel06_office4_3db45437:
 
 translate chinese mel06_office4_18a11c3e:
     # melody "Fuuuuuu!!!"
-    melody "去去去去去！！！"
+    melody "操操操操操操！！！"
 
 translate chinese mel06_office4_2b20c268:
     # anon "[saga.cast.melody.name], I'm gonna..."
@@ -1232,7 +1232,7 @@ translate chinese mel06_office4_2b20c268:
 
 translate chinese mel06_office4_e4005b4d:
     # anon "I'm gonna!!"
-    anon "我要来了！！"
+    anon "我要射了！！"
 
 translate chinese mel06_office4_329c96ea:
     # melody "Do it, baby!"
@@ -1280,7 +1280,7 @@ translate chinese mel06_office4_4b574788:
 
 translate chinese mel06_office4_a2582b52:
     # melody "You gotta come back and do that again!"
-    melody "你得再回来一次！"
+    melody "你得记得再回来做一次！"
 
 translate chinese mel06_office4_503fd3fd:
     # anon "For real?!"

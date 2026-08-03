@@ -4144,13 +4144,13 @@ translate chinese deb_tv_play3_0fad5c9d:
 translate chinese deb_tv_play3_f76c3a00:
 
     # hym "I've fucked your pussy."
-    hym "我操了你的小穴。"
+    hym "我肏过你的骚屄。"
 
 # game/src/plot/deb_tv.rpy:1489
 translate chinese deb_tv_play3_393d272c:
 
     # hym "I've fucked your ass."
-    hym "我操过你的屁眼了。"
+    hym "我肏过你的屁眼了。"
 
 # game/src/plot/deb_tv.rpy:1491
 translate chinese deb_tv_play3_d3948d81:
@@ -4174,7 +4174,7 @@ translate chinese deb_tv_play3_3a156e06:
 translate chinese deb_tv_play3_f98929a2:
 
     # lsd "Maybe you should try cumming inside me?"
-    lsd "也许你应该试试射在我里面？"
+    lsd "也许你应该试试射在我的里面？"
 
 # game/src/plot/deb_tv.rpy:1498
 translate chinese deb_tv_play3_f13dc194:

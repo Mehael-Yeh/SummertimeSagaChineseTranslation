@@ -2609,7 +2609,7 @@ translate chinese ano13_lounge_merge_98e5e07f:
 
 
     # missy e_e "Dude, I think [saga.cast.anon] is boning your mom."
-    missy e_e "哥们，我觉得[saga.cast.anon]在干你妈。"
+    missy e_e "哥们，我觉得[saga.cast.anon]在肏你妈。"
 
 # game/src/plot/ano13.rpy:797
 translate chinese ano13_lounge_merge_1252ce95:
@@ -3246,7 +3246,7 @@ translate chinese ano13_shop2_c3584c46:
 
 
     # tony "You must have really rung her bell good!"
-    tony "你肯定把她干得很爽！"
+    tony "你肯定把她肏得很爽！"
 
 # game/src/plot/ano13.rpy:1049
 translate chinese ano13_shop2_c987bc7b:

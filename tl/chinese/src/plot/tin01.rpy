@@ -94,7 +94,7 @@ translate chinese tin01_lounge_06492f9d:
 translate chinese tin01_lounge_5084d2c3:
 
     # tina f_calm "I'm the manager down at Saga Financial."
-    tina f_calm "我是萨加金融的经理。"
+    tina f_calm "我是传说金融的经理。"
 
 # game/src/plot/tin01.rpy:45
 translate chinese tin01_lounge_19c723d6:

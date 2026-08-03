@@ -310,13 +310,13 @@ translate chinese deb_shower_merge3_54ee26e7:
 translate chinese deb_shower_merge3_e618a009:
 
     # debbie "You're gonna make me cum, baby!!"
-    debbie "你要让我射了，宝贝！！"
+    debbie "你要让我高潮了，宝贝！！"
 
 # game/src/plot/deb_shower.rpy:166
 translate chinese deb_shower_merge3_7e24b8bb:
 
     # anon "Do it!"
-    anon "干吧！"
+    anon "来吧！"
 
 # game/src/plot/deb_shower.rpy:168
 translate chinese deb_shower_merge3_52345b38:
@@ -1714,7 +1714,7 @@ translate chinese deb_shower_foreplay_b2f98406:
 translate chinese deb_shower_foreplay_18fc583e:
 
     # debbie "... Going!"
-    debbie "……走啦！"
+    debbie "……高潮啦！"
 
 # game/src/plot/deb_shower.rpy:705
 translate chinese deb_shower_foreplay_477fa505:
@@ -1732,7 +1732,7 @@ translate chinese deb_shower_foreplay_5abc61c3:
 translate chinese deb_shower_foreplay_81d58c98:
 
     # anon "Bend over for me."
-    anon "为我弯腰。"
+    anon "把屁股撅起来。"
 
 # game/src/plot/deb_shower.rpy:717
 translate chinese deb_shower_foreplay_c3d76857:
@@ -1744,7 +1744,7 @@ translate chinese deb_shower_foreplay_c3d76857:
 translate chinese deb_shower_foreplay_6d929bf3:
 
     # anon e_wnw "[saga.cast.debbie] your pussy is dripping wet!"
-    anon e_wnw "[saga.cast.debbie] 你的小穴湿透了！"
+    anon e_wnw "[saga.cast.debbie]你的小穴湿透了！"
 
 # game/src/plot/deb_shower.rpy:723
 translate chinese deb_shower_foreplay_5f9be8e7:
@@ -2362,13 +2362,13 @@ translate chinese deb_shower_handjob2_a517be7a:
 translate chinese deb_shower_handjob2_8dc7831b:
 
     # debbie e_sw "I want you to cum for me."
-    debbie e_sw "我想让你为我高潮。"
+    debbie e_sw "我想让你射给我。"
 
 # game/src/plot/deb_shower.rpy:943
 translate chinese deb_shower_handjob2_cdc74ab1:
 
     # debbie "Cum for me now."
-    debbie "现在就为我高潮吧。"
+    debbie "现在就射给我吧。"
 
 # game/src/plot/deb_shower.rpy:944
 translate chinese deb_shower_handjob2_a4fb183f:

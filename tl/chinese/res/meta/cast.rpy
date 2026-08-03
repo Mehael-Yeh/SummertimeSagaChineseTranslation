@@ -85,10 +85,10 @@ translate chinese strings:
     new "灵质"
     # game/res/meta/cast.rpym:401
     old "As art teacher of Summerville College, Miss [saga.cast.barb.clan] strives to expose her students to alternative perspectives of the world they inhabit. Her minimalist lifestyle, strange philosophies, and outlandish views on the human experience make her a popular confidant for those who consider themselves outcasts or misfits.\n\nRenowned for her homemade baked goods and handcrafted jewelry, her expertise in the unusual is sought by many."
-    new "作为夏日镇学院的艺术老师，[saga.cast.barb.clan]小姐努力让学生们接触他们所处世界的另类视角。她的极简生活方式、奇特哲学以及对人类体验的离奇看法，使她成为那些自认为是异类或格格不入者的受欢迎的知己。\n\n她以自制烘焙点心和手工珠宝而闻名，在不寻常事物方面的专长备受许多人追捧。"
+    new "作为夏日学院的艺术老师，[saga.cast.barb.clan]小姐努力让学生们接触他们所处世界的另类视角。她的极简生活方式、奇特哲学以及对人类体验的离奇看法，使她成为那些自认为是异类或格格不入者的受欢迎的知己。\n\n她以自制烘焙点心和手工珠宝而闻名，在不寻常事物方面的专长备受许多人追捧。"
     # game/res/meta/cast.rpym:411
     old "Calling Summerville College's athletics director a hardliner would be massively understating it. In the span of a year, she has not only massively improved the overall wellbeing of the student body but also taken over coaching responsibilities for the championship cheer squad and notoriously pathetic basketball team.\n\nHer origins prior to joining the faculty remain shrouded in mystery but one thing is certain: this woman is a hurricane!"
-    new "称夏日镇学院的体育部主任为强硬派，那都是大大低估了她。在一年内，她不仅极大提升了全体学生的整体健康水平，还接手了冠军啦啦队和臭名昭著的孱弱篮球队的教练职责。\n\n她加入教职前的来历仍是个谜，但有一点是确定的：这个女人就是一场飓风！"
+    new "称夏日学院的体育部主任为强硬派，那都是大大低估了她。在一年内，她不仅极大提升了全体学生的整体健康水平，还接手了冠军啦啦队和臭名昭著的孱弱篮球队的教练职责。\n\n她加入教职前的来历仍是个谜，但有一点是确定的：这个女人就是一场飓风！"
     # game/res/meta/cast.rpym:421
     old "The more loud-spoken of the Latina duo, [saga.cast.camila] is quite the intimidating lady. She is constantly finding herself in trouble with authority figures and seems to go out of her way to antagonize those around her. In fact, the only person she seems capable of getting along with is her best friend, [saga.cast.val].\n\nThe only thing that's certain is they're rarely ever seperated."
     new "这位拉丁裔二人组中更直言不讳的一位，[saga.cast.camila]是位相当令人生畏的女士。她经常与权威人物发生冲突，并且似乎故意与周围的人作对。事实上，她唯一能和睦相处的人似乎是她最好的朋友，[saga.cast.val]。\n\n唯一确定的是她们很少分开。"
@@ -109,13 +109,13 @@ translate chinese strings:
     new "[saga.cast.anon]已故的父亲，也是[saga.cast.debbie]的前任情人，[saga.cast.frank]是一个温暖的人。他充满关怀，总是把所爱之人的幸福放在首位。他以机智和对金钱的一丝不苟而闻名，曾在附近的夏日镇银行谋得一份工作，并一直在那里工作，直到不幸去世。\n\n据说，他年轻时可是个风流人物，有过无数的情场征服。"
     # game/res/meta/cast.rpym:487
     old "Daughter of [saga.cast.debbie] and unwilling housemate of [saga.cast.anon]. She was extremely close with [saga.cast.frank] [saga.cast.frank.clan], who loved and spoiled her as if she were the product of his own loins. Recent college drop out, former prom queen, national cheer champion, and self-proclaimed princess. She's grown quite used to getting her way over the years and doesn't take rejection well, like at all.\n\nPut bluntly, [saga.cast.jenny] is an arrogant pain in the ass with a notoriously short temper and massive superiority complex."
-    new "[saga.cast.debbie]的女儿，也是[saga.cast.anon]的不情愿的室友。她与[saga.cast.frank]和[saga.cast.frank.clan]极其亲近，他们爱她、宠她，仿佛她是他亲生的骨肉。最近刚从大学辍学，曾是毕业舞会皇后、全国啦啦队冠军，自封的公主。这些年来，她早已习惯了随心所欲，完全受不了被拒绝，一点都受不了。\n\n说得难听点，[saga.cast.jenny]就是个自大的讨厌鬼，出了名的脾气暴躁，而且有着严重的优越感。"
+    new "[saga.cast.debbie]的女儿，也是[saga.cast.anon]的不情愿的室友。她与[saga.cast.frank] [saga.cast.frank.clan]极其亲近，他们爱她、宠她，仿佛她是他亲生的骨肉。最近刚从大学辍学，曾是毕业舞会皇后、全国啦啦队冠军，自封的公主。这些年来，她早已习惯了随心所欲，完全受不了被拒绝，一点都受不了。\n\n说得难听点，[saga.cast.jenny]就是个自大的讨厌鬼，出了名的脾气暴躁，而且有着严重的优越感。"
     # game/res/meta/cast.rpym:499
     old "Shy, soft-spoken, and a bit of a sad sack, [saga.cast.judith] spends most of her time hiding away from the rest of the world. Suffering from an inferiority complex and an undeniable lack of fashion sense, she often serves as the butt of the joke for her fellow classmates.\n\nGetting to know her can prove difficult given her flighty nature but those that make the effort will find her a sweet young girl, endlessly giving, and with a deep yearning for acceptance."
     new "害羞、轻声细语，还带点自怨自艾，[saga.cast.judith]大部分时间都躲着世界。因自卑情结和毫无争议的糟糕时尚品味，她常沦为同学们的笑柄。\n\n由于她怯生生的天性，想要了解她并非易事，但那些愿意努力的人会发现她是个甜美的少女，无私奉献，深深渴望被接纳。"
     # game/res/meta/cast.rpym:509
     old "Contagiously optimistic and endlessly cheerful, Miss [saga.cast.melody.clan] is a beacon of light within Summerville College. Inspiring her students through song and dance, and promoting a sense of community through teamwork. Her beautiful voice and curvaceous form bedazzle the senses and stupefy on-lookers with an astounding regularity.\n\nShe can often be found jamming out in her office after class."
-    new "具有感染力的乐观和无穷的欢乐，[saga.cast.melody.clan]小姐是夏日镇学院里的一盏明灯。她通过歌舞激励学生，通过团队合作提升社区意识。她美妙的嗓音和婀娜的身姿，以惊人的规律性让感官陶醉，让旁观者目瞪口呆。\n\n下课后，经常能看到她在办公室里纵情玩音乐。"
+    new "具有感染力的乐观和无穷的欢乐，[saga.cast.melody.clan]小姐是夏日学院里的一盏明灯。她通过歌舞激励学生，通过团队合作提升社区意识。她美妙的嗓音和婀娜的身姿，以惊人的规律性让感官陶醉，让旁观者目瞪口呆。\n\n下课后，经常能看到她在办公室里纵情玩音乐。"
     # game/res/meta/cast.rpym:519
     old "The adorable next door neighbor girl, [saga.cast.mia] has been a friendly presence in [saga.cast.anon]'s life since his first day of pre-school. However, due to her strict upbringing, he has thus far been unable to form a closer bond with her. Outwardly cheerful, deliciously innocent, abundantly polite, and cute as a button. Her beautiful smile is often all it takes to melt one's heart and flummox the mind.\n\nHer bedroom window is conveniently positioned within easy eyesight."
     new "可爱的邻家女孩[saga.cast.mia]，自[saga.cast.anon]上幼儿园的第一天起，就一直是友善的存在。然而，由于她家教严格，他至今未能与她建立更亲密的关系。她外表开朗，天真无邪得惹人怜爱，彬彬有礼，可爱至极。她那美丽的笑容常常足以融化人心，令人不知所措。\n\n她的卧室窗户位置便利，抬眼便能望见。"

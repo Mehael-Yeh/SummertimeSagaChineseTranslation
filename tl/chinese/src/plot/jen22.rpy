@@ -64,7 +64,7 @@ translate chinese jen22_jenny_abff7fe3:
 translate chinese jen22_jenny_4fad8d43:
 
     # anon f_horny "... Eating your pussy?"
-    anon f_horny "……舔你的小穴？"
+    anon f_horny "……舔你的骚屄？"
 
 # game/src/plot/jen22.rpy:40
 translate chinese jen22_jenny_2ebe0bb0:

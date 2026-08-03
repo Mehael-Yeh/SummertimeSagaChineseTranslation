@@ -394,7 +394,7 @@ translate chinese jen_tv_535e9007:
 translate chinese jen_tv_5c87b3a6:
 
     # jenny "Let's fuck!"
-    jenny "我们干吧！"
+    jenny "我们开干吧！"
 
 # game/src/plot/jen_tv.rpy:136
 translate chinese jen_tv_0938cf4b:
@@ -496,7 +496,7 @@ translate chinese jen_tv_f358f274:
 translate chinese jen_tv_21a09414:
 
     # jenny a_side oa_pants_tease p_couch_side_sit "Get over here and fuck me."
-    jenny a_side oa_pants_tease p_couch_side_sit "过来干我。"
+    jenny a_side oa_pants_tease p_couch_side_sit "过来肏我。"
 
 # game/src/plot/jen_tv.rpy:169
 translate chinese jen_tv_8ac90aff:
@@ -610,7 +610,7 @@ translate chinese jen_tv_4f86e9f3:
 translate chinese jen_tv_e4eb4c69:
 
     # jenny "Fuck me harder!"
-    jenny "用力操我！"
+    jenny "用力肏我！"
 
 # game/src/plot/jen_tv.rpy:207
 translate chinese jen_tv_d327858c:

@@ -52,7 +52,7 @@ init -1 python:
     def _rb_rebuild_sms_map():
         renpy.store._rb_sms_map = {}
         try:
-            _rb_f = renpy.loader.load('tl/chinese/zz_renpybox_bytecode_strings.rpy')
+            _rb_f = renpy.loader.load('tl/chinese/renpybox_bytecode_strings.rpy')
             try:
                 _rb_raw = _rb_f.read()
             finally:
@@ -114,6 +114,12 @@ init -1 python:
             encoding='utf-8',
         ) as _init_dbg:
             _init_dbg.write('gamedir=%s\n' % renpy.config.gamedir)
+        # 重要：立即删除文件句柄，避免它作为 store 全局变量进入存档序列化，
+        # 否则保存时会报 cannot pickle 'TextIOWrapper' instances。
+        try:
+            del _init_dbg
+        except Exception:
+            pass
     except Exception:
         pass
 
@@ -148,5 +154,11 @@ translate chinese python:
             _dbg.write('HAS_MY_ROOM: %s\n' % ('My room, NOW!' in _rb_sms_map))
             for _k, _v in list(_rb_sms_map.items())[:5]:
                 _dbg.write('KEY: %s\nVAL: %s\n---\n' % (_k, _v))
+        # 重要：立即删除文件句柄，避免它作为 store 全局变量进入存档序列化，
+        # 否则保存时会报 cannot pickle 'TextIOWrapper' instances。
+        try:
+            del _dbg
+        except Exception:
+            pass
     except Exception:
         pass

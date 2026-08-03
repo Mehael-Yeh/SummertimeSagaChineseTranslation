@@ -10,7 +10,7 @@ translate chinese jen_gfe_ready_289a45f5:
 translate chinese jen_gfe_ready_934024dd:
 
     # jenny f_snide "Oh, you want the girlfriend experience tonight, huh?"
-    jenny f_snide "哦，今晚想要女朋友体验，是吧？"
+    jenny f_snide "哦，今晚想要女友体验，是吧？"
 
 # game/src/plot/jen_gfe.rpy:6
 translate chinese jen_gfe_ready_f9e38b03:
@@ -1078,7 +1078,7 @@ translate chinese jen_gfe_jenny_fb23d6bd:
 translate chinese jen_gfe_jenny_31e5cfad:
 
     # jenny "... That was a lot of fucking cum!"
-    jenny "……那操出来的精液真多！"
+    jenny "……射出来的精液真多！"
 
 # game/src/plot/jen_gfe.rpy:409
 translate chinese jen_gfe_jenny_c2808c5b:
@@ -1492,7 +1492,7 @@ translate chinese jen_gfe_jenny_alt_e0a0c86a:
 translate chinese jen_gfe_jenny_alt_7ea801a1:
 
     # jenny "Fuck me!"
-    jenny "干我！"
+    jenny "肏我！"
 
 # game/src/plot/jen_gfe.rpy:549
 translate chinese jen_gfe_jenny_alt_04a6729e:
@@ -1516,7 +1516,7 @@ translate chinese jen_gfe_jenny_alt_d85df986:
 translate chinese jen_gfe_jenny_alt_a7b52203:
 
     # jenny s_22 "Cum for your girlfriend!"
-    jenny s_22 "射给你女朋友！"
+    jenny s_22 "射给你女友！"
 
 # game/src/plot/jen_gfe.rpy:555
 translate chinese jen_gfe_jenny_alt_0cf4d269:
@@ -1834,7 +1834,7 @@ translate chinese jen_gfe_jenny_creampie1_d165fd93:
 translate chinese jen_gfe_jenny_creampie1_9de298bd:
 
     # jenny "Fuck me... that was good!"
-    jenny "操……太爽了！"
+    jenny "肏我……肏得太爽了！"
 
 # game/src/plot/jen_gfe.rpy:669
 translate chinese jen_gfe_jenny_creampie1_04a7ce8f:

@@ -4,7 +4,7 @@
 translate chinese liu_bank_lobby_intro1_a30822c5:
 
     # liu "Hello there and welcome to Saga Financial."
-    liu "你好，欢迎来到Saga金融。"
+    liu "你好，欢迎来到传说金融。"
 
 # game/src/plot/liu.rpy:29
 translate chinese liu_bank_lobby_intro1_2f201ac9:
@@ -22,7 +22,7 @@ translate chinese liu_bank_lobby_intro1_e670893f:
 translate chinese liu_bank_lobby_intro2_ca587d47:
 
     # liu "Welcome to Saga Financial."
-    liu "欢迎来到Saga金融。"
+    liu "欢迎来到传说金融。"
 
 # game/src/plot/liu.rpy:39
 translate chinese liu_bank_lobby_intro2_a005df29:

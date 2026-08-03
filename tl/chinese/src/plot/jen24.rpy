@@ -682,7 +682,7 @@ translate chinese jen24_jenny_merge1_f238aad7:
 translate chinese jen24_jenny_merge1_b54f6b4e:
 
     # jenny "You wanna see me get fucked?"
-    jenny "想看我被干吗？"
+    jenny "想看我被肏吗？"
 
 # game/src/plot/jen24.rpy:316
 translate chinese jen24_jenny_merge1_fc59b8ab:
@@ -796,13 +796,13 @@ translate chinese jen24_jenny_reuse_368a59de:
 translate chinese jen24_jenny_reuse_cc338b5d:
 
     # jenny "Sheesh, I don't know what you're complaining about..."
-    jenny "哎呀，我不知道你在抱怨什么……"
+    jenny "哎呀，我不知道你们在抱怨什么……"
 
 # game/src/plot/jen24.rpy:352
 translate chinese jen24_jenny_reuse_466594bd:
 
     # jenny "Here I am, offering to fuck your brains out, and you're whining about stupid handcuffs!"
-    jenny "我在这儿，要操得你欲仙欲死，你却在抱怨那破手铐！"
+    jenny "我在这儿，要肏得你欲仙欲死，你却在抱怨那破手铐！"
 
 # game/src/plot/jen24.rpy:353
 translate chinese jen24_jenny_reuse_56ad5840:
@@ -1012,13 +1012,13 @@ translate chinese jen24_jenny_reuse_5ce155b6:
 translate chinese jen24_jenny_reuse_f6a7c304:
 
     # jenny "Tell me you love my pussy!"
-    jenny "告诉我你爱我的小穴！"
+    jenny "大声告诉我你爱我的骚屄！"
 
 # game/src/plot/jen24.rpy:437
 translate chinese jen24_jenny_reuse_da92e152:
 
     # anon "Ahh, I love it!"
-    anon "啊，我喜欢！"
+    anon "啊，我喜欢你的骚屄！"
 
 # game/src/plot/jen24.rpy:438
 translate chinese jen24_jenny_reuse_f040a0f2:
@@ -1042,7 +1042,7 @@ translate chinese jen24_jenny_reuse_1367ee71:
 translate chinese jen24_jenny_reuse_b3291e2c:
 
     # jenny "I'm gonna squirt all over that big dick!"
-    jenny "我要射满那根大鸡巴！"
+    jenny "我要用你那根大鸡巴塞满！"
 
 # game/src/plot/jen24.rpy:456
 translate chinese jen24_jenny_reuse_9aa636ef:
@@ -1054,13 +1054,13 @@ translate chinese jen24_jenny_reuse_9aa636ef:
 translate chinese jen24_jenny_reuse_374d98a6:
 
     # jenny s_12 "Fuck me!"
-    jenny s_12 "干我！"
+    jenny s_12 "肏我！"
 
 # game/src/plot/jen24.rpy:460
 translate chinese jen24_jenny_reuse_630e8cc6:
 
     # jenny s_18 "FUCK ME!!"
-    jenny s_18 "干我！！"
+    jenny s_18 "肏我！！"
 
 # game/src/plot/jen24.rpy:463
 translate chinese jen24_jenny_reuse_b20dd566:
@@ -1102,7 +1102,7 @@ translate chinese jen24_jenny_reuse_2c73f882:
 translate chinese jen24_jenny_reuse_67d3c245:
 
     # anon "W-what?! It doesn't work like that!"
-    anon "什、什么？！不是那样的！"
+    anon "什、什么？！我没办法忍着！"
 
 # game/src/plot/jen24.rpy:480
 translate chinese jen24_jenny_reuse_04a6729e:
@@ -1222,7 +1222,7 @@ translate chinese jen24_jenny_merge2_03c55f9f:
 translate chinese jen24_jenny_merge2_dd2b672f:
 
     # anon @ -m_talk "( I just had sex with [saga.cast.jenny]... )"
-    anon @ -m_talk "(我刚和[saga.cast.jenny]做了……)"
+    anon @ -m_talk "(我刚和[saga.cast.jenny]做了爱……)"
 
 # game/src/plot/jen24.rpy:528
 translate chinese jen24_jenny_merge2_2b37dc03:
@@ -1288,7 +1288,7 @@ translate chinese jen24_jenny_alt_c07d47db:
 translate chinese jen24_jenny_alt_6919e8bb:
 
     # jenny "FUUUUCK MEEEE!!!"
-    jenny "操操操我！！！"
+    jenny "操操操！！！肏我！"
 
 # game/src/plot/jen24.rpy:552
 translate chinese jen24_jenny_alt_8b76296b:
@@ -1306,13 +1306,13 @@ translate chinese jen24_jenny_alt_1e8a4409:
 translate chinese jen24_jenny_alt_9731beec:
 
     # jenny "FUCK ME!{w} FUCK ME!"
-    jenny "干我！{w} 干我！"
+    jenny "肏我！{w} 肏我！"
 
 # game/src/plot/jen24.rpy:557
 translate chinese jen24_jenny_alt_6919e8bb_1:
 
     # jenny "FUUUUCK MEEEE!!!"
-    jenny "操操操我！！！"
+    jenny "操操操！！！肏我！"
 
 # game/src/plot/jen24.rpy:558
 translate chinese jen24_jenny_alt_d8b7c1d9:
@@ -1426,7 +1426,7 @@ translate chinese jen24_jenny_alt_8b0d0221:
 translate chinese jen24_jenny_alt_f0e63fe5:
 
     # jenny "JUST SHUT UP AND FUCK MEEE!!"
-    jenny "闭嘴快操我！！"
+    jenny "闭嘴！快肏我！！"
 
 # game/src/plot/jen24.rpy:587
 translate chinese jen24_jenny_alt_c323dba7_1:
@@ -1612,7 +1612,7 @@ translate chinese jen24_jenny_creampie1_f923637b:
 translate chinese jen24_jenny_creampie2_afaf8fde:
 
     # anon "I'm getting close!"
-    anon "我快要到了！"
+    anon "我快要射了！"
 
 # game/src/plot/jen24.rpy:664
 translate chinese jen24_jenny_creampie2_7cdddfb3:

@@ -1566,7 +1566,7 @@ translate chinese mar_dark_maria_trio1_d0f405f0:
 
 
     # tony "Then you can work the pussy while I work the ass, capiche?"
-    tony "然后你可以肏逼，而我肏屁眼，明白吗？"
+    tony "然后你可以肏屄，而我肏屁眼，明白吗？"
 
 # game/src/plot/mar_dark.rpy:771
 translate chinese mar_dark_maria_trio1_ae320bbb:
@@ -2532,7 +2532,7 @@ translate chinese mar_dark_maria_trio2_fe9825bf:
 
 
     # tony "... Fuck her nice and deep now!"
-    tony "……现在干她，又深又狠！"
+    tony "……现在肏她，又深又狠！"
 
 # game/src/plot/mar_dark.rpy:1016
 translate chinese mar_dark_maria_trio2_69211db2:
@@ -2546,7 +2546,7 @@ translate chinese mar_dark_maria_trio2_44aaabab:
 
 
     # tony "Is he doin' good, darlin'?"
-    tony "他干得好吗，亲爱的？"
+    tony "他肏得好吗，亲爱的？"
 
 # game/src/plot/mar_dark.rpy:1019
 translate chinese mar_dark_maria_trio2_50c396d9:

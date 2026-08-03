@@ -202,7 +202,7 @@ translate chinese jen_shower_9af7a8df:
 translate chinese jen_shower_96b5c93b:
 
     # jenny "I mean, you're going to fuck me."
-    jenny "我的意思是，你要干我。"
+    jenny "我的意思是，你要肏我。"
 
 # game/src/plot/jen_shower.rpy:113
 translate chinese jen_shower_69224819:
@@ -1690,7 +1690,7 @@ translate chinese jen_shower_sex_067b3349:
 translate chinese jen_shower_sex_ed5f6d0c:
 
     # jenny "Oh, fuck me!"
-    jenny "哦，操我！"
+    jenny "哦，肏我！"
 
 # game/src/plot/jen_shower.rpy:676
 translate chinese jen_shower_sex_bec326ef:

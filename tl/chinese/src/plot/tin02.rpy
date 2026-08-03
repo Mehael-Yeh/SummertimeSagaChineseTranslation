@@ -406,7 +406,7 @@ translate chinese tin02_cubicle_reuse_136256cb:
 
 
     # tina "Oh, fuck me!"
-    tina "哦，操我！"
+    tina "哦，肏我！"
 
 # game/src/plot/tin02.rpy:227
 translate chinese tin02_cubicle_reuse_7d48ee7e:
@@ -427,7 +427,7 @@ translate chinese tin02_cubicle_reuse_6ee416b9:
 
 
     # tina "Oh, get it babyface!!"
-    tina "哦，干吧，娃娃脸！！"
+    tina "哦，把它肏爽，娃娃脸！！"
 
 # game/src/plot/tin02.rpy:233
 translate chinese tin02_cubicle_reuse_b0ab1905:
@@ -441,7 +441,7 @@ translate chinese tin02_cubicle_reuse_67e233c2:
 
 
     # anon "Am I still hitting the right spot?"
-    anon "我还是插到正确的地方了吗？"
+    anon "我顶到你的敏感点了吗？"
 
 # game/src/plot/tin02.rpy:236
 translate chinese tin02_cubicle_reuse_63666fe0_1:
@@ -475,7 +475,7 @@ translate chinese tin02_cubicle_reuse_815e375d:
 translate chinese tin02_cubicle_reuse_0fd6ea10:
 
     # anon "Cum on it, [saga.cast.tina]."
-    anon "射在上面，[saga.cast.tina]。"
+    anon "喷在上面，[saga.cast.tina]。"
 
 # game/src/plot/tin02.rpy:245
 translate chinese tin02_cubicle_reuse_b20c5756:
@@ -578,7 +578,7 @@ translate chinese tin02_cubicle_creampie_15e7903e:
 translate chinese tin02_cubicle_creampie_6c8971fc:
 
     # tina "Murder that pussy!!!"
-    tina "操烂那个骚逼！！！"
+    tina "操烂我的骚屄！！！"
 
 # game/src/plot/tin02.rpy:332
 translate chinese tin02_cubicle_creampie_0cf4d269:
@@ -598,7 +598,7 @@ translate chinese tin02_cubicle_creampie_c7c63722:
 
 
     # tina "Vigorous?"
-    tina "激烈？"
+    tina "激烈吗？"
 
 # game/src/plot/tin02.rpy:343
 translate chinese tin02_cubicle_creampie_c2808c5b:
@@ -619,13 +619,13 @@ translate chinese tin02_cubicle_creampie_4619136e:
 
 
     # tina "Mmm, I can feel you leaking out of me..."
-    tina "嗯，我能感觉到你流出来了..."
+    tina "嗯，我能感觉到你的精液从我的屄里流出来了..."
 
 # game/src/plot/tin02.rpy:347
 translate chinese tin02_cubicle_creampie_52e250c8:
 
     # anon "Yeah, I probably should have pulled out, huh?"
-    anon "是啊，我可能应该早点退出的，对吧？"
+    anon "是啊，我可能应该早点拔出来的，对吧？"
 
 # game/src/plot/tin02.rpy:367
 translate chinese tin02_cubicle_liu_544f5747:

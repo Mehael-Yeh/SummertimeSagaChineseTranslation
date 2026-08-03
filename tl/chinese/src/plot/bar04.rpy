@@ -2476,7 +2476,7 @@ translate chinese bar04_art2_42314916:
 translate chinese bar04_art2_7b2134f8:
 
     # judith "... Pussy?"
-    judith "...骚穴？"
+    judith "...骚屄？"
 
 # game/src/plot/bar04.rpy:1216
 translate chinese bar04_art2_35137f0b:
@@ -2488,7 +2488,7 @@ translate chinese bar04_art2_35137f0b:
 translate chinese bar04_art2_45a40455:
 
     # mia "Puuuusssy! HahahaaH!"
-    mia "骚～～穴！哈哈哈哈哈！"
+    mia "骚～～屄！哈哈哈哈哈！"
 
 # game/src/plot/bar04.rpy:1221
 translate chinese bar04_art2_4ef3b7f8:

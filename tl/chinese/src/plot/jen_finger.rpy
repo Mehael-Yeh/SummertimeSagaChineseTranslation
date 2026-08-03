@@ -400,7 +400,7 @@ translate chinese jen_finger_alt_8757f95e:
 translate chinese jen_finger_alt_f9ed6e8c:
 
     # anon f_snide "Are you gonna cum for me?"
-    anon f_snide "你要为我射吗？"
+    anon f_snide "你要为我高潮吗？"
 
 # game/src/plot/jen_finger.rpy:221
 translate chinese jen_finger_alt_f3b9106e:
@@ -412,7 +412,7 @@ translate chinese jen_finger_alt_f3b9106e:
 translate chinese jen_finger_alt_d7f4d46f:
 
     # anon f_smug "Tell me you're gonna cum for me!"
-    anon f_smug "告诉我，你要为我射了！"
+    anon f_smug "告诉我，你要为我高潮了！"
 
 # game/src/plot/jen_finger.rpy:223
 translate chinese jen_finger_alt_61e09552:
@@ -448,13 +448,13 @@ translate chinese jen_finger_alt_3c0f4c06:
 translate chinese jen_finger_alt_ca5c8110:
 
     # jenny "I'm gonna cum..."
-    jenny "我要射了..."
+    jenny "我要高潮了..."
 
 # game/src/plot/jen_finger.rpy:229
 translate chinese jen_finger_alt_e2de6593:
 
     # jenny e_w @ f_sad "... For you!"
-    jenny e_w @ f_sad "...为你而射！"
+    jenny e_w @ f_sad "...因为你！"
 
 # game/src/plot/jen_finger.rpy:232
 translate chinese jen_finger_alt_e76c812d:

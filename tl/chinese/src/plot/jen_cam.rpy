@@ -424,7 +424,7 @@ translate chinese jen_cam_belly_1845c21d:
 translate chinese jen_cam_belly_319f8134:
 
     # jenny "So you boys wanna see me get fucked?"
-    jenny "所以你们想看我被操？"
+    jenny "所以你们想看我被肏？"
 
 # game/src/plot/jen_cam.rpy:236
 translate chinese jen_cam_belly_dbe22a31:
@@ -436,7 +436,7 @@ translate chinese jen_cam_belly_dbe22a31:
 translate chinese jen_cam_belly_34fd8519:
 
     # jenny "I can't hear you!"
-    jenny "我听不见你说什么！"
+    jenny "我听不见你们说什么！"
 
 # game/src/plot/jen_cam.rpy:238
 translate chinese jen_cam_belly_2616966d:
@@ -466,13 +466,13 @@ translate chinese jen_cam_belly_e6028a24:
 translate chinese jen_cam_belly_ba448556:
 
     # jenny "Try nnt ew cum ew 'ast!"
-    jenny "试试新精液，呃啊！"
+    jenny "可别太快就缴枪了！"
 
 # game/src/plot/jen_cam.rpy:250
 translate chinese jen_cam_belly_52ef79fd:
 
     # anon "Yeah, speak for yourself..."
-    anon "呃，你自己说吧……"
+    anon "呃，你自己编的吧……"
 
 # game/src/plot/jen_cam.rpy:258
 translate chinese jen_cam_blowjob_8572e1d8:
