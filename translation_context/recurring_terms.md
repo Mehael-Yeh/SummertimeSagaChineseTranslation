@@ -44,6 +44,8 @@
 | `capicola` | 食品术语 | 卡皮科拉火腿 | `ano15.rpy` | Tony 的意大利式熟食比喻，已复核 |
 | `Boy, boy, boy... very tall boy.` | 暗号/重复句 | 男孩，男孩，男孩……长得高高的男孩。 | `ano15.rpy` | 保留 Tony 的拙劣暗号和重复节奏 |
 | `godfather` | 关系身份/黑帮笑点 | 教父 | 8 处 / 2 个文件 | `ano16.rpy` 2 处已复核；`mar_baby.rpy` 6 处待随完整剧情复核；不改成“干爹” |
+| `pump another baby in me` / `put another baby in me` | 生育与性交双关 | 再让我怀上一个孩子 | `mar01.rpy` | 保留 Maria 主动要求受孕的成人含义，不弱化为普通“再要个孩子”。 |
+| `rang my bell` | Maria 的成人双关 | 把我弄得够爽 | `mar01.rpy` | 结合高潮后的语境处理，不译成“刮目相看”等普通赞美。 |
 | `workplace seminar` / `the seminar` | 连续笑点 | 职场性骚扰培训／培训 | 2 处 / 1 个文件 | `ano15.rpy` 已结合员工场景复核；不是 Tony/Maria 性行为暗语 |
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 
