@@ -23,6 +23,7 @@
 | `tl/chinese/src/plot/mar_door.rpy` | Maria线；久未造访后的卧室性交、央求、拔出/内射与续战分支 | Maria、Anon、Tony（被提及） | 完成 | 精修后期关系中的主动邀约、央求与 Anon 掌控节奏；明确区分内射期待和拔出后的保密要求；统一连续拆句、女性高潮和动作义“肏” | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_kitchen.rpy` | Maria线；披萨店后厨的试探、速战速决与食物式成人双关 | Maria、Anon | 完成 | 精修 38 个翻译块；保留 Maria 经营者的警觉和后期直接欲望；统一 `au jus`→“肉汁”、`Yes, ma’am.`→“是，老板娘”及未完成连续句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_pantry.rpy` | Maria线；储藏室工作压力、性邀约、内射/拔出与事后交接 | Maria、Anon、Tony（被提及） | 完成 | 精修 90 个翻译块；恢复“休息”双关、再次怀孕诉求和拔出分支差异；统一女性高潮、`Cum in me`、`Gimme another baby` 及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/deb01.rpy` | Debbie线开端；陌生索款威胁、父亲债务疑云及 Diane 园艺工作分支 | Debbie、Anon、Diane（被提及） | 完成 | 通读 77 个翻译块；理顺电话冲突、Debbie 强装镇定、Anon 主动分担和菜园分支；统一 `sweetie`→“亲爱的”、中文省略号、内心独白括号与父亲称谓 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -139,7 +140,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件已全部完成；下一批按正常支线顺序进入 Debbie 线，从 `deb01.rpy` 开始完整通读并精修。
+1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 已完成；下一批继续完整通读并精修 `deb02.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

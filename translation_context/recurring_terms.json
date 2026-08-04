@@ -41,6 +41,20 @@
       "note": "老派亲昵称呼，不是人物姓名；跨文件保持“美人儿”。"
     },
     {
+      "id": "debbie_sweetie",
+      "source_regex": "\\bsweetie\\b",
+      "target_regexes": [
+        "亲爱的",
+        "宝贝"
+      ],
+      "category": "character_address",
+      "speaker": "Debbie（主要）",
+      "addressee": "Anon",
+      "translation": "亲爱的；歌曲/明确母性语境可译“宝贝”",
+      "first_seen": "tl/chinese/src/plot/deb01.rpy",
+      "note": "Debbie 的高频照顾型称呼；普通对话保持“亲爱的”，不用“亲亲”“甜心”等漂移译法。关系阶段差异应通过整句语气体现。"
+    },
+    {
       "id": "vehicle_blue_falcon",
       "source_regex": "\\b(?:The\\s+)?Blue Falcon\\b",
       "target_regexes": [
