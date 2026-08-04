@@ -28,7 +28,7 @@ translate chinese deb_sleep_629bbe41:
 translate chinese deb_sleep_a3273cd4:
 
     # anon f_shy_curious "I was just thinking, maybe I'd sleep here tonight."
-    anon f_shy_curious "我只是想，也许今晚我睡在这儿。"
+    anon f_shy_curious "我在想，要不今晚睡这儿？"
 
 # game/src/plot/deb_sleep.rpy:28
 translate chinese deb_sleep_409e9474:
@@ -88,7 +88,7 @@ translate chinese deb_sleep_0cf2bb33:
 translate chinese deb_sleep_8c2eda87:
 
     # debbie "Aww, you're such a wonderful boy..."
-    debbie "啊，你真是个贴心的男孩……"
+    debbie "哎呀，你真是个贴心的好男孩……"
 
 # game/src/plot/deb_sleep.rpy:58
 translate chinese deb_sleep_bail_2dd328b8:
@@ -160,25 +160,25 @@ translate chinese deb_sleep_wake1_a3df1f9d:
 translate chinese deb_sleep_wake1_6b1dfcd7:
 
     # debbie "Well, continue to sleep here and you'll never wake up disappointed."
-    debbie "好吧，继续在这里睡，你永远不会失望地醒来。"
+    debbie "那你以后就继续睡这儿，保证每天醒来都不会失望。"
 
 # game/src/plot/deb_sleep.rpy:98
 translate chinese deb_sleep_wake1_5ff60564:
 
     # anon "Oh, I like the sound of that!"
-    anon "哦，我喜欢这说法！"
+    anon "哦，听起来不错！"
 
 # game/src/plot/deb_sleep.rpy:102
 translate chinese deb_sleep_wake1_4e53acde:
 
     # debbie @ f_curious "You're not stuck to the bed, are you?"
-    debbie @ f_curious "你不是粘在床上起不来了吧？"
+    debbie @ f_curious "你该不会粘在床上，起不来了吧？"
 
 # game/src/plot/deb_sleep.rpy:103
 translate chinese deb_sleep_wake1_3eafe76d:
 
     # anon @ f_pouty "Har har, very funny."
-    anon @ f_pouty "哈哈，真有趣。"
+    anon @ f_pouty "哈哈，真好笑。"
 
 # game/src/plot/deb_sleep.rpy:105
 translate chinese deb_sleep_wake1_10f48dd7:
@@ -190,19 +190,19 @@ translate chinese deb_sleep_wake1_10f48dd7:
 translate chinese deb_sleep_wake1_c5cdac2c:
 
     # anon "[saga.cast.jenny] will be getting up soon."
-    anon "[saga.cast.jenny] 马上要起床了。"
+    anon "[saga.cast.jenny]马上就要起床了。"
 
 # game/src/plot/deb_sleep.rpy:111
 translate chinese deb_sleep_wake1_55252e89:
 
     # anon "We should probably get up, huh?"
-    anon "我们该起床了吧？"
+    anon "我们也该起床了吧？"
 
 # game/src/plot/deb_sleep.rpy:113
 translate chinese deb_sleep_wake1_7d2c8340:
 
     # debbie f_calm "You go on upstairs and get yourself cleaned up."
-    debbie f_calm "你上楼去把自己收拾干净吧。"
+    debbie f_calm "你先上楼收拾干净吧。"
 
 # game/src/plot/deb_sleep.rpy:114
 translate chinese deb_sleep_wake1_1d2b2ff8:
@@ -214,7 +214,7 @@ translate chinese deb_sleep_wake1_1d2b2ff8:
 translate chinese deb_sleep_wake1_c3793835:
 
     # debbie "Heh, that's my good boy."
-    debbie "嘿，这才是我乖孩子。"
+    debbie "嘿，这才是我的好男孩。"
 
 # game/src/plot/deb_sleep.rpy:126
 translate chinese deb_sleep_wake1_31ef741b:
@@ -244,20 +244,20 @@ translate chinese deb_sleep_wake2_f0ca07ff:
 translate chinese deb_sleep_wake2_4e3b5fc6:
 
     # anon a_think e_nw f_pensive p_stand @ -m_talk "Hmm..."
-    anon a_think e_nw f_pensive p_stand @ -m_talk "嗯......"
+    anon a_think e_nw f_pensive p_stand @ -m_talk "嗯……"
 
 # game/src/plot/deb_sleep.rpy:154
 translate chinese deb_sleep_wake2_33d49aaf:
 
     # anon a_side e_w f_worried_surprised @ -m_talk "( I should probably sneak out of here before [saga.cast.jenny] sees me. )"
-    anon a_side e_w f_worried_surprised @ -m_talk "(我或许该在[saga.cast.jenny]看到我之前溜出去。)"
+    anon a_side e_w f_worried_surprised @ -m_talk "(我最好趁[saga.cast.jenny]没发现之前溜出去。)"
 
 translate chinese strings:
 
     # game/src/plot/deb_sleep.rpy:8
     old "Join her."
-    new "加入她"
+    new "陪她一起睡"
 
     # game/src/plot/deb_sleep.rpy:11
     old "Leave her be."
-    new "别管她"
+    new "让她自己休息"
