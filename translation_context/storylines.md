@@ -267,6 +267,12 @@
 - **分支与连续性**：修理结果在双人在场、仅 Debbie 在场、仅 Jenny 在场及独自完成四类分支中保持一致；“我看你该把这个……”与“……拿到楼下替我洗了”必须连读为 Jenny 让 Anon 清洗湿T恤。
 - **专名与任务**：商店名 `Consum-R` 保持英文；取得扳手前后的内心独白与任务目标保持一致。
 
+### `deb05.rpy`：家务分担、按摩试探与 Debbie 的边界意识
+
+- **场景链**：Anon 主动承担洗碗、吸尘和洗衣等家务，Debbie 因背痛和压力接受帮助；卧室送衣、乳液气味和私人物品引出 Anon 的分心，腿部按摩进一步形成暧昧试探，Debbie 察觉越界后叫停。
+- **关系阶段**：这是 Debbie 线早期从家庭照顾与责任分担转向明确身体吸引的过渡场景。Debbie 已意识到 Anon 的成年男性魅力，但仍以成熟照顾者身份控制边界；Anon 开始把照顾 Debbie 与自身欲望联系起来，却不能提前翻成后期露骨关系。
+- **连续性与语气**：`That's sweet, but really... you don't have-`、`I know I don't have to help, [saga.cast.debbie]...`、`... I want to help!` 等拆句须跨行连读；Debbie 的 `sweetie` 延续“亲爱的”，她的暧昧保持温柔、羞赧和克制，Anon 的独白保留紧张与自我辩解。
+
 ## mar_couch.rpy
 
 - 承接 `mar_cook.rpy`、`mar01.rpy`和 `mar02.rpy`，场景围绕 Tony 熟睡、半醒或看棒球时，Maria 与 Anon 在沙发上发生性行为展开。
