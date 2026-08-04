@@ -1,70 +1,70 @@
 translate chinese mar_pantry_47e25e78:
     # anon "You sound tense again."
-    anon "你听起来又紧张了。"
+    anon "听你这语气，又绷得挺紧啊。"
 
 translate chinese mar_pantry_583825e4:
     # maria f_sad "Yeah, no shit!"
-    maria f_sad "是啊，还用你说！"
+    maria f_sad "废话！"
 
 translate chinese mar_pantry_96af2aa1:
     # anon f_horny "We should do something about that."
-    anon f_horny "我们得做点什么。"
+    anon f_horny "那咱们得想办法让你放松放松。"
 
 translate chinese mar_pantry_08db034a:
     # maria a_fold_whatever o_right "This place is a fricken' pigsty and every-"
-    maria a_fold_whatever o_right "这地方简直跟猪圈似的，而且每——"
+    maria a_fold_whatever o_right "这鬼地方乱得跟猪圈似的，到处都——"
 
 translate chinese mar_pantry_16ce93d9:
     # maria a_hips e_w f_confused o_left "Wait, are you sayin' what I think yer sayin'?"
-    maria a_hips e_w f_confused o_left "等等，你的意思是我想的那样？"
+    maria a_hips e_w f_confused o_left "等等，你说的该不会是我想的那种吧？"
 
 translate chinese mar_pantry_41079eb3:
     # anon a_point "Let's get that dress out of the way."
-    anon a_point "先把那条裙子弄开。"
+    anon a_point "那就先把裙子脱了。"
 
 translate chinese mar_pantry_156a3856:
     # maria @ e_b f_happy m_laugh "Heh!"
-    maria @ e_b f_happy m_laugh "嘿！"
+    maria @ e_b f_happy m_laugh "呵！"
 
 translate chinese mar_pantry_bfbb3215:
     # maria e_w f_curious "Is [saga.cast.tony] mindin' the counter?"
-    maria e_w f_curious "[saga.cast.tony]在看柜台吗？"
+    maria e_w f_curious "[saga.cast.tony]在前面看柜台吧？"
 
 translate chinese mar_pantry_d9b5b0da:
     # anon "Yeah, I think so."
-    anon "嗯，我想是的。"
+    anon "嗯，应该是。"
 
 translate chinese mar_pantry_merge1_5b0a5dd2:
     # maria f_horny m_lip @ -m_talk "Mm."
-    maria f_horny m_lip @ -m_talk "嗯。"
+    maria f_horny m_lip @ -m_talk "嗯哼……"
 
 translate chinese mar_pantry_merge1_7c604ae8:
     # maria a_side "Alright, but let's make it quick."
-    maria a_side "好吧，不过快点。"
+    maria a_side "行，不过咱们得快点。"
 
 translate chinese mar_pantry_merge1_0e91aae8:
     # anon "Quick, yeah..."
-    anon "快点，是啊……"
+    anon "快点，对……"
 
 translate chinese mar_pantry_merge1_df811d24:
     # anon a_pants_off_01 e_sw f_horny_smug "... Absolutely!"
-    anon a_pants_off_01 e_sw f_horny_smug "……当然！"
+    anon a_pants_off_01 e_sw f_horny_smug "……当然没问题！"
 
 translate chinese mar_pantry_merge1_312e3370:
     # maria @ e_wnw f_sad "If this place wasn't so cluttered, we could just-"
-    maria @ e_wnw f_sad "如果这地方没那么乱，我们就能——"
+    maria @ e_wnw f_sad "要不是这儿堆得这么乱，咱们直接就能——"
 
 translate chinese mar_pantry_merge1_374e4a3c:
     # maria @ f_surprised "Whoa!!"
-    maria @ f_surprised "哇！！"
+    maria @ f_surprised "哇啊！！"
 
 translate chinese mar_pantry_merge1_d02f12ea:
     # maria d_hard p_insert "Someone's real eager today, huh?"
-    maria d_hard p_insert "有人今天真急啊，哈？"
+    maria d_hard p_insert "今天这么猴急啊？"
 
 translate chinese mar_pantry_merge1_9107a4d5:
     # maria p_sex_01 "Ahh, fuck!!!"
-    maria p_sex_01 "啊啊啊，操！！！"
+    maria p_sex_01 "啊啊，操！！！"
 
 translate chinese mar_pantry_merge1_583ae7de:
     # maria p_sex s_10 "OH, GAWD!"
@@ -72,11 +72,11 @@ translate chinese mar_pantry_merge1_583ae7de:
 
 translate chinese mar_pantry_merge1_ba5e2f2e:
     # maria "OH, MY GAWD!!"
-    maria "哦，我的天啊！！"
+    maria "天啊！！"
 
 translate chinese mar_pantry_merge1_1547e067:
     # maria "YES!!!"
-    maria "太棒了！！！"
+    maria "对，就是这样！！！"
 
 translate chinese mar_pantry_merge1_61e7882b:
     # maria "HAAAAH!!"
@@ -84,7 +84,7 @@ translate chinese mar_pantry_merge1_61e7882b:
 
 translate chinese mar_pantry_merge1_f5eb4224:
     # maria "Your cawk is so big!!"
-    maria "你的鸡巴好大！！"
+    maria "你这根鸡巴也太大了！！"
 
 translate chinese mar_pantry_merge1_d8f50d3e:
     # anon "Yeah."
@@ -92,7 +92,7 @@ translate chinese mar_pantry_merge1_d8f50d3e:
 
 translate chinese mar_pantry_merge1_861b71ae:
     # maria "FUUUUUUUUUUUCCCKKKK!!!"
-    maria "操操操操操操操操！！！"
+    maria "操啊啊啊啊！！！"
 
 translate chinese mar_pantry_merge1_39f4c3e6:
     # maria "I'm gonna cum!"
@@ -100,35 +100,35 @@ translate chinese mar_pantry_merge1_39f4c3e6:
 
 translate chinese mar_pantry_merge1_17a22ab2:
     # anon "Me too!"
-    anon "我也要！"
+    anon "我也快了！"
 
 translate chinese mar_pantry_merge1_81465894:
     # maria "Cum in me, [saga.cast.anon]!"
-    maria "射在里面，[saga.cast.anon]！"
+    maria "射进我里面，[saga.cast.anon]！"
 
 translate chinese mar_pantry_merge1_beaee113:
     # maria "Gimme another baby!!"
-    maria "再给我一个宝宝！！"
+    maria "再让我怀一个！！"
 
 translate chinese mar_pantry_merge1_106336e6:
     # maria "NGGHHH!!!"
-    maria "嗯啊！！！"
+    maria "嗯啊啊啊！！！"
 
 translate chinese mar_pantry_merge1_ecdf25b7:
     # maria "Oof!" with vpunch
-    maria "哎哟！" with vpunch
+    maria "呃啊！" with vpunch
 
 translate chinese mar_pantry_merge1_ac9e064f:
     # maria "Whaah... why did-"
-    maria "哇啊... 为什么-"
+    maria "啊……你怎么——"
 
 translate chinese mar_pantry_merge1_283cecf9:
     # anon od_cumshot_01 "Ngh-"
-    anon od_cumshot_01 "呃-"
+    anon od_cumshot_01 "呃——"
 
 translate chinese mar_pantry_merge1_7743a51c:
     # anon od_cumshot "HNNGGG!!!" with flash
-    anon od_cumshot "嗯嗯嗯！！！" with flash
+    anon od_cumshot "嗯啊啊啊！！！" with flash
 
 translate chinese mar_pantry_merge1_c5823467:
     # maria e_s f_surprised -m_tongue "What the-"
@@ -140,19 +140,19 @@ translate chinese mar_pantry_merge1_d165fd93:
 
 translate chinese mar_pantry_merge1_c5679845:
     # maria "Jesus."
-    maria "老天。"
+    maria "老天啊。"
 
 translate chinese mar_pantry_merge1_dfdde919:
     # anon a_side d_firm e_sw f_happy -m_drink "Yeah."
-    anon a_side d_firm e_sw f_happy -m_drink "是啊。"
+    anon a_side d_firm e_sw f_happy -m_drink "嗯。"
 
 translate chinese mar_pantry_merge1_53d217ef:
     # maria "Look at the mess you made of me."
-    maria "看看你把我弄成什么样了。"
+    maria "看看你射得我满身都是。"
 
 translate chinese mar_pantry_merge1_d8f50d3e_1:
     # anon "Yeah."
-    anon "是啊。"
+    anon "嗯……"
 
 translate chinese mar_pantry_merge1_993170a7:
     # maria e_nw f_horny "Heh."
@@ -164,19 +164,19 @@ translate chinese mar_pantry_merge1_87c93fa9:
 
 translate chinese mar_pantry_merge1_da1746e6:
     # maria "No, it's okay."
-    maria "不，没关系。"
+    maria "没事。"
 
 translate chinese mar_pantry_merge1_dc3f1dae:
     # maria "I'd prefer you cum inside me but..."
-    maria "我其实更喜欢你射在我里面，但是……"
+    maria "我当然更想让你射进我里面，不过……"
 
 translate chinese mar_pantry_merge1_e63a8f4f:
     # maria e_s f_shy "... This is..."
-    maria e_s f_shy "……这是……"
+    maria e_s f_shy "……这样也……"
 
 translate chinese mar_pantry_merge1_66cd290c:
     # maria "... Jesus."
-    maria "……天啊。"
+    maria "……老天啊。"
 
 translate chinese mar_pantry_merge1_d8f50d3e_2:
     # anon "Yeah."
@@ -184,11 +184,11 @@ translate chinese mar_pantry_merge1_d8f50d3e_2:
 
 translate chinese mar_pantry_merge2_409b3595:
     # maria e_b @ f_happy m_laugh "Hehehehe!"
-    maria e_b @ f_happy m_laugh "嘿嘿嘿嘿！"
+    maria e_b @ f_happy m_laugh "哈哈哈哈！"
 
 translate chinese mar_pantry_merge2_81a72015:
     # maria e_w "I don't think I'm gonna accomplish much else today."
-    maria e_w "我觉得我今天应该干不成别的事了。"
+    maria e_w "我今天怕是干不了别的活了。"
 
 translate chinese mar_pantry_merge2_2240d9de:
     # anon a_pants_off_01 c_casual od_none p_stand @ e_b m_laugh "Heh."
@@ -196,19 +196,19 @@ translate chinese mar_pantry_merge2_2240d9de:
 
 translate chinese mar_pantry_merge2_7b66e207:
     # maria "Do me a favor and send [saga.cast.tony] back here on your way out."
-    maria "帮我个忙，出去的时候把[saga.cast.tony]叫回来。"
+    maria "帮我个忙，出去时顺便把[saga.cast.tony]叫到后面来。"
 
 translate chinese mar_pantry_merge2_8c443cb8:
     # maria "He can finish stockin'."
-    maria "他可以把货上完。"
+    maria "让他把剩下的货理完。"
 
 translate chinese mar_pantry_merge2_ba12e6d4:
     # maria "I gotta lie down."
-    maria "我得躺一会儿。"
+    maria "我得躺下缓缓。"
 
 translate chinese mar_pantry_merge2_44ac0797:
     # anon "Yeah, sure."
-    anon "好，没问题。"
+    anon "嗯，没问题。"
 
 translate chinese mar_pantry_merge2_8995d0eb:
     # maria e_b "Thanks, [saga.cast.anon]."
@@ -216,7 +216,7 @@ translate chinese mar_pantry_merge2_8995d0eb:
 
 translate chinese mar_pantry_merge2_23f447fa:
     # anon "You're welcome."
-    anon "不客气。"
+    anon "不用谢。"
 
 translate chinese mar_pantry_merge2_039f7e1d:
     # anon a_wave "See ya later, [saga.cast.maria]."
@@ -228,59 +228,59 @@ translate chinese mar_pantry_merge2_f0e6fadd:
 
 translate chinese mar_pantry_alt_7fa065eb:
     # anon a_point f_calm "Actually, I was thinking you could use a break."
-    anon a_point f_calm "其实，我觉得你可以休息一下。"
+    anon a_point f_calm "其实，我是想说，你该歇会儿了。"
 
 translate chinese mar_pantry_alt_12f4e59b:
     # maria "Psh, yeah... right."
-    maria "切，是啊……得了吧。"
+    maria "切，说得倒轻巧……"
 
 translate chinese mar_pantry_alt_aa73bff9:
     # anon a_palm f_shy "No, I'm serious!"
-    anon a_palm f_shy "不，我是认真的！"
+    anon a_palm f_shy "不，我说真的！"
 
 translate chinese mar_pantry_alt_1008a557:
     # anon "You seem tense."
-    anon "你看起来很紧张。"
+    anon "你整个人都绷得太紧了。"
 
 translate chinese mar_pantry_alt_09049814:
     # maria e_s f_sad "Well, of course I'm tense, I've been cookin' all day..."
-    maria e_s f_sad "嗯，我当然紧张，我做了一整天的饭……"
+    maria e_s f_sad "我都做了一整天饭了，能不绷着吗……"
 
 translate chinese mar_pantry_alt_72e61685:
     # maria "... And just look at this place!"
-    maria "……再看看这个地方！"
+    maria "……再看看这鬼地方！"
 
 translate chinese mar_pantry_alt_336718c7:
     # anon a_rub e_se @ -m_talk "..."
-    anon a_rub e_se @ -m_talk "..."
+    anon a_rub e_se @ -m_talk "……"
 
 translate chinese mar_pantry_alt_475219d3:
     # anon e_w f_shy "Eh, it really doesn't seem that bad."
-    anon e_w f_shy "呃，看起来真没那么糟。"
+    anon e_w f_shy "呃，我觉得也没那么糟吧。"
 
 translate chinese mar_pantry_alt_fbd6f470:
     # maria e_w f_annoyed o_left "It's a disaster zone."
-    maria e_w f_annoyed o_left "这简直是个灾区。"
+    maria e_w f_annoyed o_left "这儿简直跟遭了灾一样。"
 
 translate chinese mar_pantry_alt_1d80fbab:
     # anon f_shy_surprised -m_teeth "Let's take a break."
-    anon f_shy_surprised -m_teeth "我们休息会儿吧。"
+    anon f_shy_surprised -m_teeth "咱们歇一会儿吧。"
 
 translate chinese mar_pantry_alt_f66d35de:
     # anon "C'mon."
-    anon "来吧。"
+    anon "来嘛。"
 
 translate chinese mar_pantry_alt_17329e62:
     # maria a_hips @ e_b f_happy m_laugh "Heh."
-    maria a_hips @ e_b f_happy m_laugh "嘿。"
+    maria a_hips @ e_b f_happy m_laugh "呵。"
 
 translate chinese mar_pantry_alt_3500f4db:
     # maria f_calm "I suppose a break would do me some good."
-    maria f_calm "我想休息一下也好。"
+    maria f_calm "歇一会儿可能也好。"
 
 translate chinese mar_pantry_alt_b489b484:
     # anon a_cheer f_happy "Yes!!"
-    anon a_cheer f_happy "太棒了！！"
+    anon a_cheer f_happy "太好了！！"
 
 translate chinese mar_pantry_alt_7214ba32:
     # anon "That's what I'm talking about!"
@@ -288,31 +288,31 @@ translate chinese mar_pantry_alt_7214ba32:
 
 translate chinese mar_pantry_alt_3682a926:
     # anon a_finger f_horny @ e_sw "Now let's get that dress off."
-    anon a_finger f_horny @ e_sw "现在把那裙子脱下来吧。"
+    anon a_finger f_horny @ e_sw "那就先把裙子脱了。"
 
 translate chinese mar_pantry_alt_156a3856:
     # maria @ e_b f_happy m_laugh "Heh!"
-    maria @ e_b f_happy m_laugh "嘿！"
+    maria @ e_b f_happy m_laugh "呵！"
 
 translate chinese mar_pantry_alt_0d05afe7:
     # maria a_fold f_horny "What the heck kinda break are you envisioning here?"
-    maria a_fold f_horny "你想着的是什么样的休息啊？"
+    maria a_fold f_horny "你说的“休息”到底是哪种休息？"
 
 translate chinese mar_pantry_alt_06f7a283:
     # anon a_hips @ f_horny_smug "I think you know."
-    anon a_hips @ f_horny_smug "你心里清楚得很。"
+    anon a_hips @ f_horny_smug "你明明知道。"
 
 translate chinese mar_pantry_alt_ca019d2d:
     # maria @ a_fold_whatever "Yer so bad!"
-    maria @ a_fold_whatever "你真坏！"
+    maria @ a_fold_whatever "你可真坏！"
 
 translate chinese mar_pantry_alt_3e2dbbf3:
     # maria f_curious "What's [saga.cast.tony] doin'?"
-    maria f_curious "[saga.cast.tony]在干嘛？"
+    maria f_curious "[saga.cast.tony]在干什么？"
 
 translate chinese mar_pantry_alt_e58ab82f:
     # anon "I dunno... probably minding the counter."
-    anon "不知道……可能在看柜台吧。"
+    anon "不知道……大概在前面看柜台吧。"
 
 translate chinese mar_pantry_creampie_c0d8e172:
     # maria "AHH!!"
@@ -320,15 +320,15 @@ translate chinese mar_pantry_creampie_c0d8e172:
 
 translate chinese mar_pantry_creampie_8f18638c:
     # maria "[saga.cast.anon!u]!!!"
-    maria "[saga.cast.anon!u]!!!"
+    maria "[saga.cast.anon!u]！！！"
 
 translate chinese mar_pantry_creampie_0cf4d269:
     # anon "HNNGGG!!!" with flash
-    anon "哼嗯嗯！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 translate chinese mar_pantry_creampie_bf348d30:
     # maria p_cum_02 "NGGHHH!!!"
-    maria p_cum_02 "呃啊啊啊！！！"
+    maria p_cum_02 "嗯啊啊啊！！！"
 
 translate chinese mar_pantry_creampie_d165fd93:
     # anon "Haah... haah..."
@@ -340,20 +340,20 @@ translate chinese mar_pantry_creampie_d5b0aa20:
 
 translate chinese mar_pantry_creampie_b12cf85c:
     # maria "That was a..."
-    maria "刚才真是……"
+    maria "刚才真是一次……"
 
 translate chinese mar_pantry_creampie_0b2edfca:
     # extend " good..."
-    extend "不错……"
+    extend "痛快的……"
 
 translate chinese mar_pantry_creampie_68938e9d:
     # extend " break."
-    extend "的休息。"
+    extend "休息。"
 
 translate chinese mar_pantry_creampie_52b3c814:
     # anon d_soft "Yeah?"
-    anon d_soft "对吧？"
+    anon d_soft "是吧？"
 
 translate chinese mar_pantry_creampie_1acf04fa:
     # anon @ f_curious "You feel reinvigorated?"
-    anon @ f_curious "你感觉重新焕发活力了？"
+    anon @ f_curious "现在有精神了吧？"
