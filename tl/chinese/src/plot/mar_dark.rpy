@@ -1335,7 +1335,7 @@ translate chinese mar_dark_maria_ogle1_da845a1d:
 
 
     # tony "Let's-a go!"
-    tony "出发喽！"
+    tony "当然，咱们一起上！"
 
 # game/src/plot/mar_dark.rpy:616
 translate chinese mar_dark_maria_merge4_98bf6469:

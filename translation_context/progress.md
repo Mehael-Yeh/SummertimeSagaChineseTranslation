@@ -17,9 +17,12 @@
 | `tl/chinese/src/plot/mar_baby.rpy` | Maria线；怀孕确认、单胎/双胎生产、医院探访、产后恢复与返回披萨店 | Maria、Tony、Anon、新生儿 | 完成 | 通读单胎与双胎全部分支；精修怀孕生产、教父关系、产后关怀和成人双关；修复“听醒”“娃娃脸”等误译；统一 `champ`、`cannoli`、单复数代词及英文姓名 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_cook.rpy` | Maria线；Maria在厨房为Anon准备食物并推进亲密关系 | Maria、Anon | 完成 | 通读完整场景并精修 40 个翻译块；统一 cannoli 等意大利食物术语；修复厨房动作、暧昧双关、成人语气和 Maria 对 Anon 的称呼；保留英文姓名、变量与 Ren’Py 结构 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/maria.rpy` | Maria 线；公寓与披萨店的通用入口、出口、菜单及储藏室短互动 | Maria、Anon、Tony（被提及） | 完成 | 精修 58 个对话块和 4 个菜单文本；按关系阶段区分“小子”与“帅哥”，将后期 `lookin’ for trouble` 处理为性邀约式“找刺激”；修复菜单主题、工钱占位符外围中文及储藏室连续互动 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
-| `tl/chinese/src/plot/maria_lounge.rpy` | Maria 线；公寓客厅夜间访问、无人应门及 Tony 休息日拦截 | Maria、Tony、Anon | 完成 | 精修 13 个翻译块；纠正整文件多处译文错位和截断，恢复两段夜间内心独白、敲门声、Maria 邀请进门、无人应门及让 Tony 休息的完整逻辑 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/maria_lounge.rpy` | Maria 线；公寓客厅夜间访问、无人应门及 Tony 休息日拦截 | Maria、Tony、Anon | 完成 | 精修 13 个翻译块；纠正整文件多处译文错位和截断，恢复夜间内心独白、敲门声、Maria 邀请进门、无人应门及让 Tony 休息的完整逻辑；按实际生效方式保留 TODO 块中的中文拦截文本 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_dark.rpy` | Maria线；夜间造人、内射/拔出分支、骑乘、“恶魔三人行”及双重插入 | Maria、Tony、Anon | 完成 | 通读 369 组英文—中文对应；精修 Tony 的造人指导和粗俗起哄、Maria 后期主动口吻、Anon 的迟疑与参与；统一 `champ`、`capisce/capiche`、`Devil's Threeway`、`The Kidney Shifter`、`cannoli` 及成人动作强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_couch.rpy` | Maria线；Tony熟睡、半醒或看球时，Maria与Anon在沙发上发生性行为，并以棒球双关贯穿多条场景 | Maria、Tony、Anon、Carmella | 完成 | 通读 640 个翻译块；精修射精、内射、上垒、满垒、界外球和“横着做披萨”等双关；统一 Tony 的 `champ`→“冠军”、The Falsettos→《假声》以及 Carmella 英文姓名；恢复露骨性行为和 Maria 主动语气，全文消除活动译文中的 ASCII 省略号和直角引号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar_door.rpy` | Maria线；久未造访后的卧室性交、央求、拔出/内射与续战分支 | Maria、Anon、Tony（被提及） | 完成 | 精修后期关系中的主动邀约、央求与 Anon 掌控节奏；明确区分内射期待和拔出后的保密要求；统一连续拆句、女性高潮和动作义“肏” | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar_kitchen.rpy` | Maria线；披萨店后厨的试探、速战速决与食物式成人双关 | Maria、Anon | 完成 | 精修 38 个翻译块；保留 Maria 经营者的警觉和后期直接欲望；统一 `au jus`→“肉汁”、`Yes, ma’am.`→“是，老板娘”及未完成连续句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar_pantry.rpy` | Maria线；储藏室工作压力、性邀约、内射/拔出与事后交接 | Maria、Anon、Tony（被提及） | 完成 | 精修 90 个翻译块；恢复“休息”双关、再次怀孕诉求和拔出分支差异；统一女性高潮、`Cum in me`、`Gimme another baby` 及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -140,78 +143,3 @@
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
-
-
-### Maria 线：`mar_baby.rpy`（2026-08-04）
-
-- 状态：已完成完整场景精修和三轮校对。
-- 范围：Tony 宣布 Maria 怀孕；单胎与双胎出生分支；医院探访；产后恢复；返回披萨店；孕期嗅觉变化及成人双关。
-- 角色一致性：Maria 保持强势、直率而粗粝的口吻；Tony 保持温和、老派的语气；`champ` 统一译为“冠军”；Anon 的反应保持犹豫但亲近。
-- 术语：统一处理教父、教子、教女、教子女、怀孕生产术语、意式奶油甜馅卷以及单胎/双胎的数量和代词。
-- 格式：活动译文统一使用中文省略号和中文双引号；英文原文注释、姓名、变量、文本标签及 Ren’Py 结构保持不变。
-- 校验：翻译格式检查、重复术语审计、`git diff --check` 及 RPA 构建均通过。
-
-### Maria 线：`mar_couch.rpy`（2026-08-04）
-
-- 状态：已完成完整场景精修和三轮校对。
-- 范围：Tony 熟睡、半醒或观看棒球时，Maria 与 Anon 在沙发上继续发展成人关系；棒球解说始终作为连续性双关处理。
-- 角色一致性：Maria 在关系后期保持主动、放得开且露骨的表达；Tony 使用专属称呼 `champ`“冠军”；Anon 保持紧张、喘息和犹豫，但不被改写成完全被动。
-- 术语：`Fill me up` 统一译为“把我填满”；`CUM IN ME` 译为“射进我里面”；`horizontal pizzica` 译为“横着做披萨”；`The Falsettos` 译为《假声》；`Carmella` 保持英文。
-- 格式：活动译文统一使用中文省略号和中文双引号；变量、标签、姓名、说话人标识及 Ren’Py 结构保持不变。
-- 校验：翻译格式检查、重复术语审计、`git diff --check` 及 RPA 构建均通过。
-
-### Maria 线：`mar_dark.rpy`（2026-08-04）
-
-- 状态：已完成完整场景精修和三轮校对。
-- 范围：Tony 与 Anon 约定再次造人；Tony 旁观、指导并参与 Maria 与 Anon 的性交；普通性交、骑乘、内射/拔出分支、“恶魔三人行”、肛交和双重插入。
-- 角色一致性：Maria 在后期关系中对 Anon 主动、直白而露骨，同时仍会训斥 Tony 过分粗俗的称呼；Tony 保持老派、热情且粗俗的意大利裔口吻；Anon 从犹豫推进到主动参与，但保留紧张和不确定。
-- 术语：`Devil's Threeway` 统一译为“恶魔三人行”；`The Kidney Shifter` 译为“移肾术”；`capisce/capiche` 作为 Tony 同一口癖处理；食物与造人双关统一为“面糊”“小家伙们”“意式奶油甜馅卷”。
-- 格式：活动译文统一使用中文省略号和中文双引号；英文姓名、变量、标签、说话人标识、分支与 Ren’Py 结构保持不变。
-- 校验：翻译格式检查、重复术语审计、`git diff --check` 及 RPA 构建均通过。
-
-
-### Maria 线：`mar_door.rpy`（2026-08-04）
-
-- 状态：已完成完整场景精修和三轮校对。
-- 范围：Anon 久未造访 Tony 与 Maria 的公寓；Maria 从疲惫烦躁转为亲近主动；Tony 在店期间的卧室性交；拔出射精、内射和再次继续的分支；离开场景的条件提示。
-- 角色一致性：Maria 在关系后期会直接要求 Anon 满足她，并接受被要求开口央求；Anon 已能主动调情和掌控节奏，但仍保留面对 Maria 时的惊讶与喘息；Tony 虽未在场，三人的既有约定及拔出后的保密要求仍得到区分。
-- 连续拆句：统一处理“为什么让我……等这么……久”“再坚持……两秒”及“要……射了”等跨行语义，未合并或移动 Ren’Py 对话块。
-- 成人表达：明确保留 Maria 的性需求、性交动作、高潮、内射期待和拔出分支；女性高潮使用“高潮了”，动作义使用“肏”，未将成人信息弱化为含糊暗示。
-- 格式：活动译文统一使用中文省略号；英文姓名、变量、标签、说话人标识、分支与 Ren’Py 结构保持不变。
-
-
-### Maria 线：`mar_kitchen.rpy`（2026-08-04）
-
-- 状态：已完成当前文件全部 38 个翻译块的完整场景精修和三轮校对。
-- 范围：披萨店生意清闲时，Maria 在后厨以调侃试探 Anon，随后主动要求速战速决；场景包含脱衣、身体赞美、食物式性双关和性交开始前的连续对话。
-- 角色一致性：Maria 先故意训斥 Anon 满脑子只有性，再承认自己也有欲望；她在后厨仍顾及顾客可能闯入，但对 Anon 的命令直接而露骨。Anon 会先误以为她在开玩笑，确认后则主动欣赏和调情。
-- 术语与成人表达：`au jus` 按 Maria 的食物式性比喻译为“肉汁”；`Yes, ma’am.` 按雇佣关系译为“是，老板娘”；明确保留 `pussy`、`cock` 和插入动作的表达强度。
-- 连续拆句：文件结尾原文本身停在“[saga.cast.anon]，老天作证，你再不——”，译文保留未完成句，不依据缺失内容擅自补写后续。
-- 格式：活动译文统一使用中文省略号；英文姓名、变量、斜体标签、说话人标识、动作属性与 Ren’Py 结构保持不变。
-
-
-### Maria 线：`mar_pantry.rpy`（2026-08-04）
-
-- 状态：已完成当前文件全部 90 个翻译块的完整场景精修和三轮校对。
-- 范围：Maria 在披萨店储藏室因理货和烹饪工作烦躁；Anon 以“休息、放松”为双关提出性交；场景包含快速性交、内射与拔出分支、事后整理和让 Tony 接手理货。
-- 角色一致性：Maria 对工作环境强势而急躁，确认 Tony 在前台后立即接受 Anon 的提议；性交中会直接要求内射和再次怀孕，拔出分支则明确表达更偏好内射，但不把结果误写成拒绝或事故。
-- 连续拆句：完整处理“快点，对……当然没问题”“要不是这里太乱……”“啊……你怎么——”以及“刚才真是一次……痛快的……休息”等跨块语义。
-- 成人表达：女性高潮统一译为“高潮了”；`Cum in me` 译为“射进我里面”；`Gimme another baby` 译为“再让我怀一个”；拔出射精后明确保留 Maria 满身精液的场景信息。
-- 格式：活动译文统一使用中文省略号和中文双引号；英文姓名、变量、动作属性、`extend` 结构、`with vpunch/flash` 及 Ren’Py 块数量保持不变。
-
-### Maria 线：`maria.rpy`（2026-08-04）
-
-- 状态：已完成当前文件 58 个对话块和 2 组菜单字符串的完整精修与三轮校对。
-- 范围：Maria 公寓客厅、卧室及披萨店店面、后厨、储藏室的通用入口与出口；菜单涉及旅行、宝宝、工作、今晚、工钱及普通问候。
-- 关系阶段：早期 Maria 仍称 Anon 为“小子”，后期改称“帅哥”；后厨和储藏室中的 `lookin’ for trouble` 在后期关系里是带性暗示的邀约，统一按“找刺激”处理。
-- 场景衔接：储藏室高架互动保留 Maria 强势能干、发现 Anon 盯着自己看后直接质问的节奏；没有把她写成羞怯或被动。
-- 映射备注：`maria_pizza_pantry_intro_35eef5d2` 的英文注释与标签、相邻台词及原有活动译文明显错配；本批仅按项目内上下文将活动译文处理为“你来了？”，未改动英文注释、标签或程序结构。
-- 格式：英文姓名、变量、标签、角色标识、动作属性和菜单占位符均保持不变；活动译文无 ASCII 省略号、问号占位或直角引号。
-
-### Maria 线：`maria_lounge.rpy`（2026-08-04）
-
-- 状态：已完成当前文件全部 13 个翻译块的完整精修和三轮校对；Maria 线现有文件至此全部完成。
-- 范围：深夜访问公寓的时间拦截、敲门后 Maria 邀请进门、无人应门、室内逗留限制，以及 Tony 独自经营披萨店后的休息日晚间拦截。
-- 主要修复：原译存在连续多块整体错位，导致“他们为我做了这么多”被挪到上一句、内心独白变成敲门声、`Come on in.` 变成敲门声、无人应门台词覆盖敲门块，另有一句译文截断。本批逐块按英文注释和完整场景恢复对应关系。
-- 占位块：`TODO "maria_lounge.becca"` 是项目内场景键，与 `tina_lounge.becca` 用法一致，保持原字符串，不把相邻台词错填进去。
-- 格式：活动译文统一使用中文省略号和全角内心独白括号；英文姓名、变量、角色标识、动作属性、标签和 Ren’Py 结构均未改动。

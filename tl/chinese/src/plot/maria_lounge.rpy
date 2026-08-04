@@ -4,7 +4,7 @@
 translate chinese maria_lounge_becca_11b03188:
 
     # TODO "maria_lounge.becca"
-    TODO "maria_lounge.becca"
+    TODO "（有点晚了，我不该打扰他们。）"
 
 # game/src/plot/maria_lounge.rpy:14
 translate chinese maria_lounge_dark_9f25bbc1:

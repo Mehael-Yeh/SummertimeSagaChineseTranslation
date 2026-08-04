@@ -29,7 +29,7 @@
 | `The Overcompensator` | 车辆专名/笑点 | 过度补偿者 | 4 处 / 2 个文件 | `ano09.rpy`、`jos_trade.rpy` 当前核心译名一致 |
 | Tony 的 `capisce` | 人物口癖 | 懂了没？／明白吗？ | 25 处 / 10 个文件 | 允许按威胁、催促、确认语气微调，但必须保留 Tony 的固定语用功能 |
 | Tony 对 Anon 的 `protégé` | 关系定位 | 徒弟 | 5 处 / 3 个文件 | `ano10.rpy`、`ano11.rpy` 已统一；只剩 `tin_vault.rpy` 待随完整场景复核 |
-| `cannoli`（食品） | 食品术语 | 意式奶油甜馅卷 | 4 处食品用法 / 4 个文件 | `ano10.rpy`、`mar_cook.rpy` 已复核；`mar_baby.rpy`、`mar_dark.rpy` 后续完整场景复核；`Holy cannoli` 感叹语排除 |
+| `cannoli`（食品） | 食品术语 | 意式奶油甜馅卷 | 4 处食品用法 / 4 个文件 | `ano10.rpy`、`mar_cook.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已复核；`Holy cannoli` 感叹语排除 |
 | `mustache ride` | 成人双关 | 骑胡子 | 4 处 / 2 个文件 | `ano10.rpy`、`ano15.rpy` 已全部复核并统一，保留早期 Anon 不懂含义的笑点 |
 | Tony 的 `The Plumber` | 人物旧绰号 | 保持 `The Plumber` | 1 处 / 1 个文件 | `ano11.rpy` 已确认是旧黑帮专名，不翻译、不音译 |
 | `Eddie Four-Fingers` / `Four-Fingers` | 人物姓名/绰号 | 保持英文原形 | 3 处 / 2 个文件 | `ano11.rpy`、`ano13.rpy` 已统一，中文音译/混合写法已清除 |
@@ -43,10 +43,20 @@
 | `hydration is key` | 固定口号 | 补水最重要 | 2 处 / 2 个文件 | `ano13.rpy`、`ano15.rpy` 已统一 |
 | `capicola` | 食品术语 | 卡皮科拉火腿 | `ano15.rpy` | Tony 的意大利式熟食比喻，已复核 |
 | `Boy, boy, boy... very tall boy.` | 暗号/重复句 | 男孩，男孩，男孩……长得高高的男孩。 | `ano15.rpy` | 保留 Tony 的拙劣暗号和重复节奏 |
-| `godfather` | 关系身份/黑帮笑点 | 教父 | 8 处 / 2 个文件 | `ano16.rpy` 2 处已复核；`mar_baby.rpy` 6 处待随完整剧情复核；不改成“干爹” |
+| `godfather` | 关系身份/黑帮笑点 | 教父 | 8 处 / 2 个文件 | `ano16.rpy` 与 `mar_baby.rpy` 已复核；保留《教父》笑点，不改成“干爹” |
 | `pump another baby in me` / `put another baby in me` | 生育与性交双关 | 再让我怀上一个孩子 | `mar01.rpy` | 保留 Maria 主动要求受孕的成人含义，不弱化为普通“再要个孩子”。 |
 | `rang my bell` | Maria 的成人双关 | 把我弄得够爽 | `mar01.rpy` | 结合高潮后的语境处理，不译成“刮目相看”等普通赞美。 |
 | `workplace seminar` / `the seminar` | 连续笑点 | 职场性骚扰培训／培训 | 2 处 / 1 个文件 | `ano15.rpy` 已结合员工场景复核；不是 Tony/Maria 性行为暗语 |
+| `The Falsettos` | 电视节目名 | 《假声》 | `mar_couch.rpy` | 保持节目标题格式，不按普通复数名词直译 |
+| `horizontal pizzica` | 成人双关 | 横着做披萨 | `mar_couch.rpy` | 保留披萨店人物的性行为双关 |
+| `lampredotto` | 意大利食品 | 灯笼牛肚 | `mar_couch.rpy` | Tony 的食物比喻，保持食品指代 |
+| `primed pussy` | 成人起哄 | 水润润、正等着开干的骚屄 | `mar_couch.rpy` | 保留 Tony 粗俗起哄；不得误写为“骚屌” |
+| `tap that` | 性行为动作 | 肏她一顿 | `mar_couch.rpy` | 明确动作含义，不弱化成普通“碰她” |
+| `work that big cock` | 成人起哄 | 好好使唤那根大鸡巴 | `mar_couch.rpy` | 保留 Tony 粗俗、鼓动式口吻 |
+| `strike` / `bases loaded` / `hit` / `knuckleball` | 棒球与性行为连续双关 | 按击球、满垒、安打、蝴蝶球语境连贯处理 | `mar_couch.rpy` | 必须把电视球赛解说与沙发性交作为连续双关整体复核 |
+| `Devil's Threeway` | 三人性行为招式名 | 恶魔三人行 | `mar_dark.rpy` | 保留 Tony 夸张粗俗的命名方式 |
+| `The Kidney Shifter` | 性行为招式名 | 移肾术 | `mar_dark.rpy` | 保留 Tony 夸张粗俗的命名方式 |
+| `batter` / `little guys` / `cannoli` | 造人与食物连续双关 | 面糊／小家伙们／意式奶油甜馅卷 | `mar_dark.rpy` | 三组表达共同服务受孕与食物双关，需整体理解 |
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 
 ## 当前跨文件复查队列
@@ -74,20 +84,3 @@ python -X utf8 tools/audit_recurring_terms.py --query "Blue Falcon"
 # 每批必须运行：只检查本批修改过的 Ren'Py 文件，并在不一致时返回失败
 python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 ```
-
-
-## mar_couch.rpy 复查项
-
-- `The Falsettos` →《假声》
-- `horizontal pizzica` →“横着做披萨”
-- `lampredotto` →“灯笼牛肚”
-- `primed pussy`、`tap that`、`work that big cock`需在后续 Maria 线中复查。
-- `strike`、`bases loaded`、`hit`、`knuckleball` 需与棒球双关一致。
-
-
-## mar_dark.rpy 复查项
-
-- `Devil's Threeway` →“恶魔三人行”，作为 Tony 提出的三人性交招式名。
-- `The Kidney Shifter` →“移肾术”，保留 Tony 夸张粗俗的命名方式。
-- `batter`、`little guys`、`cannoli` 共同构成造人和食物双关，分别按“面糊”“小家伙们”“意式奶油甜馅卷”处理。
-- `capisce`／`capiche` 均视为 Tony 的同一口癖，按场景译“懂吗？”“明白吗？”等确认语气。
