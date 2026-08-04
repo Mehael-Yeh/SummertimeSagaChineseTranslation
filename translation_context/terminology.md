@@ -65,6 +65,7 @@
 | `masturbation` / `masturbate` | 自慰 | 直接、中性地表达行为，不净化为“解决需求”等含糊说法 |
 | `panties` / `underwear` | 内裤 | 按单复数和指代自然组织中文；`mom panties` 可译“妈妈穿的内裤”，不使用生硬的“妈妈内裤” |
 | `ma’am`（Anon 对 Debbie） | 夫人 | 体现房东与房客之间带亲近感的礼貌；不得在“夫人”“女士”“长官”之间漂移 |
+| `landlady`（色情片房东房客设定） | 房东太太 | `deb16.rpy` 色情片及其现实映照中的固定称呼；不同于 Anon 对 Debbie 的 `ma’am`“夫人” |
 
 ## Debbie 线商场专名与调侃
 
