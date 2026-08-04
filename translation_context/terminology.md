@@ -78,6 +78,7 @@
 |---|---|---|
 | Cupid | Cupid | 商场女装精品店名称，保持英文 |
 | Raven Hill | 渡鸦山 | 俯瞰小镇的偏僻山丘；Debbie 与 Anon 私下谈话地点 |
+| Sugar Basin | 糖谷 | Debbie 与 Diane 青春期共同度过夏天、裸泳并发生亲密互动的地点 |
 | FunBiz Pizzeria Pub | FunBiz披萨酒吧 | Debbie 十六岁时第一份工作的地点；`FunBiz` 保持英文 |
 | Billy-bear | Billy-bear | FunBiz 舞台吉祥物名称，保持英文拼写和连字符 |
 | Rock-a-Billy Pants Explosion | Rock-a-Billy Pants Explosion | FunBiz 的拟人动物乐队名称，保持英文原名 |
