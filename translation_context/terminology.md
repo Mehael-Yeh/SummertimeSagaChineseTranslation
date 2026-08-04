@@ -81,6 +81,9 @@
 | Sugar Basin | 糖谷 | Debbie 与 Diane 青春期共同度过夏天、裸泳并发生亲密互动的地点 |
 | FunBiz Pizzeria Pub | FunBiz披萨酒吧 | Debbie 十六岁时第一份工作的地点；`FunBiz` 保持英文 |
 | Billy-bear | Billy-bear | FunBiz 舞台吉祥物名称，保持英文拼写和连字符 |
+| Ara Ara | Ara Ara | 日式餐厅名称及店员招呼；保持英文原拼写，不译成“啊啦啊啦”或“哎呀哎呀” |
+| `stud`（Diane 称呼 Anon） | 帅哥 | Diane 的大胆调侃称呼，不保留英文，也不机械套用于普通“种马”含义 |
+| `nyotaimori` / body sushi | 女体盛／人体寿司 | 菜名用“女体盛”，解释其形式时用“人体寿司”；承载食物的人可按演出称“托盘” |
 | Rock-a-Billy Pants Explosion | Rock-a-Billy Pants Explosion | FunBiz 的拟人动物乐队名称，保持英文原名 |
 | Casanova（Kassy 调侃 Anon） | 情圣 | 泛称式调侃，不使用中文音译“卡萨诺瓦” |
 

@@ -62,6 +62,9 @@
 | `bowl cut` / `bowl-` | Josie 对 Anon 的固定挖苦称呼 | 锅盖头／锅盖—— | `deb13.rpy`、Josie 相关文件 | 已确认多文件重复；`jos_trade.rpy` 的旧译“西瓜头”留待通读完整文件时统一，不做脱离上下文的全局替换 |
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 
+| Diane 对 Anon 的 `stud` | 人物调侃称呼 | 帅哥 | Diane 相关文件 | `deb26.rpy` 两处已统一；只在 Diane 直接称呼 Anon 时采用，普通名词含义按场景处理 |
+| `Ara Ara` | 餐厅专名／店员招呼 | 保持 `Ara Ara` | `deb26.rpy` 及相关地点文件 | 店名和店员固定招呼均保留英文拼写，不译成“啊啦啊啦”“哎呀哎呀” |
+
 ## 当前跨文件复查队列
 
 - `champ`：`ano15.rpy`、`ano16.rpy`、`mar02.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已统一；`pizza_boxes.rpy`、`ton_baby.rpy` 仍待随完整剧情复核。
