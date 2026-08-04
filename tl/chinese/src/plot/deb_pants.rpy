@@ -4,19 +4,19 @@
 translate chinese deb_pants_33af2dd3:
 
     # debbie a_clasp e_w "Heh, are you okay?"
-    debbie a_clasp e_w "嘿嘿，你还好吗？"
+    debbie a_clasp e_w "呵，你还好吧？"
 
 # game/src/plot/deb_pants.rpy:8
 translate chinese deb_pants_cbe7ae72:
 
     # anon "Y-yeah, I think so."
-    anon "还、还好，应该没事。"
+    anon "还、还好，我想应该没事。"
 
 # game/src/plot/deb_pants.rpy:9
 translate chinese deb_pants_6e7993b0:
 
     # debbie a_hips f_curious "How come you're in here by yourself?"
-    debbie a_hips f_curious "你怎么一个人在这里？"
+    debbie a_hips f_curious "你怎么一个人在这儿？"
 
 # game/src/plot/deb_pants.rpy:10
 translate chinese deb_pants_4317600b:
@@ -28,7 +28,7 @@ translate chinese deb_pants_4317600b:
 translate chinese deb_pants_8d130d79:
 
     # debbie f_shy "I wanna have fun too!"
-    debbie f_shy "我也想玩！"
+    debbie f_shy "我也想来点乐子嘛！"
 
 # game/src/plot/deb_pants.rpy:12
 translate chinese deb_pants_1f20663c:
@@ -64,7 +64,7 @@ translate chinese deb_pants_d1f2ca17:
 translate chinese deb_pants_merge_d56b317a:
 
     # debbie "It's important that you finish up what you were doing..."
-    debbie "你最好把手头的事情干完……"
+    debbie "你最好把手头的事做完……"
 
 # game/src/plot/deb_pants.rpy:44
 translate chinese deb_pants_merge_c5d0b2f6:
@@ -76,7 +76,7 @@ translate chinese deb_pants_merge_c5d0b2f6:
 translate chinese deb_pants_merge_de1f7961:
 
     # debbie "... You know, for your health."
-    debbie "……为了你的健康着想。"
+    debbie "……你知道的，这是为了你的身体健康。"
 
 # game/src/plot/deb_pants.rpy:46
 translate chinese deb_pants_merge_d1d771a7:
@@ -88,13 +88,13 @@ translate chinese deb_pants_merge_d1d771a7:
 translate chinese deb_pants_merge_cb8a5613:
 
     # debbie "Just do it... It's okay."
-    debbie "别犹豫了……没关系的。"
+    debbie "放心做吧……没事的。"
 
 # game/src/plot/deb_pants.rpy:50
 translate chinese deb_pants_merge_dfb11b15:
 
     # debbie "I can't believe you were going to do this without me."
-    debbie "我真不敢相信你居然想背着我做这个。"
+    debbie "真不敢相信，你居然打算不叫上我就自己来。"
 
 # game/src/plot/deb_pants.rpy:51
 translate chinese deb_pants_merge_9ac806c2:
@@ -106,37 +106,37 @@ translate chinese deb_pants_merge_9ac806c2:
 translate chinese deb_pants_merge_23a50ff3:
 
     # anon "I just figured you were busy."
-    anon "我以为你太忙了。"
+    anon "我只是以为你在忙。"
 
 # game/src/plot/deb_pants.rpy:53
 translate chinese deb_pants_merge_2c2beecf:
 
     # debbie "Mm, I'm never too busy for this, sweetie!"
-    debbie "嗯，为了这个我永远不忙，亲爱的！"
+    debbie "嗯，我可不会忙到没时间陪你这个，亲爱的！"
 
 # game/src/plot/deb_pants.rpy:54
 translate chinese deb_pants_merge_0b12a02b:
 
     # anon "Heh, you really enjoy watching me?"
-    anon "呵，你就这么喜欢看着我？"
+    anon "呵，你就这么喜欢看我？"
 
 # game/src/plot/deb_pants.rpy:55
 translate chinese deb_pants_merge_9693737f:
 
     # debbie "Yeah, I do."
-    debbie "是的，我确实。"
+    debbie "是啊，当然喜欢。"
 
 # game/src/plot/deb_pants.rpy:56
 translate chinese deb_pants_merge_bfd2c97d:
 
     # debbie e_ossw f_horny "I really, {i}really{/i} do!"
-    debbie e_ossw f_horny "我真的，{i}真的{/i}这么想！"
+    debbie e_ossw f_horny "我真的，{i}真的{/i}很喜欢！"
 
 # game/src/plot/deb_pants.rpy:57
 translate chinese deb_pants_merge_13b60336:
 
     # debbie "Your eyes... on me... while you stroke your... big..."
-    debbie "你的眼睛……看着我……一边抚摸你的……大……"
+    debbie "你的眼睛……盯着我……同时抚摸你那根……大……"
 
 # game/src/plot/deb_pants.rpy:58
 translate chinese deb_pants_merge_00e98700:
@@ -148,13 +148,13 @@ translate chinese deb_pants_merge_00e98700:
 translate chinese deb_pants_merge_e11541d9:
 
     # anon "God, this is hot!"
-    anon "天哪，这太性感了！"
+    anon "天哪，真刺激！"
 
 # game/src/plot/deb_pants.rpy:64
 translate chinese deb_pants_merge_b93a3671:
 
     # anon "[saga.cast.debbie]..."
-    anon "[saga.cast.debbie]..."
+    anon "[saga.cast.debbie]……"
 
 # game/src/plot/deb_pants.rpy:65
 translate chinese deb_pants_merge_d55e751c:
@@ -172,19 +172,19 @@ translate chinese deb_pants_merge_54549bf5:
 translate chinese deb_pants_merge_202e112d:
 
     # debbie e_s "Oh, right..."
-    debbie e_s "哦，对……"
+    debbie e_s "哦，对了……"
 
 # game/src/plot/deb_pants.rpy:69
 translate chinese deb_pants_merge_77d0c440:
 
     # debbie e_e f_shy "... I guess, I was kinda hoping something like this would happen today."
-    debbie e_e f_shy "……我想，我大概有点期待今天会发生这种事情。"
+    debbie e_e f_shy "……我想，我其实有点希望今天会发生这种事。"
 
 # game/src/plot/deb_pants.rpy:70
 translate chinese deb_pants_merge_35a5c760:
 
     # anon "Holy crap, really?"
-    anon "我靠，真的吗？"
+    anon "我靠，真的？"
 
 # game/src/plot/deb_pants.rpy:71
 translate chinese deb_pants_merge_777ddda5:
@@ -202,7 +202,7 @@ translate chinese deb_pants_merge_0a71ca10:
 translate chinese deb_pants_merge_b3c65e35:
 
     # anon "Oh, yeah... definitely!"
-    anon "哦，没错……当然！"
+    anon "哦，当然……特别喜欢！"
 
 # game/src/plot/deb_pants.rpy:89
 translate chinese deb_pants_merge_5695d58a:
@@ -214,19 +214,19 @@ translate chinese deb_pants_merge_5695d58a:
 translate chinese deb_pants_merge_d0958ff3:
 
     # debbie "... Get all that pent up anxiety out."
-    debbie "……把那些压抑的焦虑都释放出来。"
+    debbie "……把积压的焦虑全都释放出来。"
 
 # game/src/plot/deb_pants.rpy:94
 translate chinese deb_pants_merge_03dca831:
 
     # debbie f_horny "... Jerk it for me."
-    debbie f_horny "……撸给我看。"
+    debbie f_horny "……给我撸。"
 
 # game/src/plot/deb_pants.rpy:97
 translate chinese deb_pants_merge_a8737c68:
 
     # anon e_wnw "Do you... like, watching me do this?"
-    anon e_wnw "你……你喜欢看着我这样做吗？"
+    anon e_wnw "你……喜欢看我这样做吗？"
 
 # game/src/plot/deb_pants.rpy:100
 translate chinese deb_pants_merge_51a5f0b7:
@@ -244,25 +244,25 @@ translate chinese deb_pants_merge_aa9c7e2e:
 translate chinese deb_pants_merge_7cc9647f:
 
     # debbie e_se of_blush "I don't know what to say."
-    debbie e_se of_blush "我不知道该说什么。"
+    debbie e_se of_blush "我都不知道该说什么了。"
 
 # game/src/plot/deb_pants.rpy:105
 translate chinese deb_pants_merge_c3a21edc:
 
     # debbie e_wsw "Mmm, you know I do, sweetie!"
-    debbie e_wsw "嗯，你知道的，亲爱的！"
+    debbie e_wsw "嗯，你知道我喜欢，亲爱的！"
 
 # game/src/plot/deb_pants.rpy:108
 translate chinese deb_pants_merge_b57f8606:
 
     # anon e_b "Ngh, [saga.cast.debbie]..."
-    anon e_b "唔，[saga.cast.debbie]……"
+    anon e_b "嗯……[saga.cast.debbie]……"
 
 # game/src/plot/deb_pants.rpy:109
 translate chinese deb_pants_merge_96759a8c:
 
     # anon "... this feels so wonderful!"
-    anon "……这感觉太棒了！"
+    anon "……这种感觉太棒了！"
 
 # game/src/plot/deb_pants.rpy:110
 translate chinese deb_pants_merge_eae45d71:
@@ -274,7 +274,7 @@ translate chinese deb_pants_merge_eae45d71:
 translate chinese deb_pants_merge_90babfd3:
 
     # anon "Having you here makes this feel so much better!"
-    anon "有你在这里，感觉好多了！"
+    anon "有你在这儿，感觉好多了！"
 
 # game/src/plot/deb_pants.rpy:117
 translate chinese deb_pants_merge_2d716e85:
@@ -286,13 +286,13 @@ translate chinese deb_pants_merge_2d716e85:
 translate chinese deb_pants_merge_2be88870:
 
     # debbie "{i}*Gulp*{/i} T-that's nice."
-    debbie "{i}*咕噜*{/i} 真、真好。"
+    debbie "{i}*咽了口唾沫*{/i} 真、真不错。"
 
 # game/src/plot/deb_pants.rpy:122
 translate chinese deb_pants_merge_05ec2bdb:
 
     # debbie "Mmm, I love watching you do this!"
-    debbie "嗯，我喜欢看你这样做！"
+    debbie "嗯，我就喜欢看你这样！"
 
 # game/src/plot/deb_pants.rpy:125
 translate chinese deb_pants_merge_3a04c9e2:
@@ -310,19 +310,19 @@ translate chinese deb_pants_merge_81d7040e:
 translate chinese deb_pants_merge_de1a9001:
 
     # debbie "Let it all out."
-    debbie "全都射出来吧。"
+    debbie "全都释放出来。"
 
 # game/src/plot/deb_pants.rpy:131
 translate chinese deb_pants_merge_143a3066:
 
     # debbie "Cum for me."
-    debbie "为我高潮。"
+    debbie "为我射出来。"
 
 # game/src/plot/deb_pants.rpy:134
 translate chinese deb_pants_merge_7e8e8a59:
 
     # anon "Oh, [saga.cast.debbie]... I-"
-    anon "哦，[saga.cast.debbie]…… 我——"
+    anon "哦，[saga.cast.debbie]……我——"
 
 # game/src/plot/deb_pants.rpy:136
 translate chinese deb_pants_merge_b49203f2:
@@ -340,7 +340,7 @@ translate chinese deb_pants_merge_f2c4b216:
 translate chinese deb_pants_merge_811619ff:
 
     # debbie -m_talk "{i}*Gasp*{/i}"
-    debbie -m_talk "{i}*喘息*{/i}"
+    debbie -m_talk "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/deb_pants.rpy:145
 translate chinese deb_pants_merge_28785400:
@@ -352,13 +352,13 @@ translate chinese deb_pants_merge_28785400:
 translate chinese deb_pants_merge_13011e6c:
 
     # debbie "So much again!"
-    debbie "又这么多！"
+    debbie "这次也射了这么多！"
 
 # game/src/plot/deb_pants.rpy:151
 translate chinese deb_pants_merge_17c6d64a:
 
     # debbie e_wsw f_curious "Is it always like this?"
-    debbie e_wsw f_curious "每次都这样吗？"
+    debbie e_wsw f_curious "每次都这么多吗？"
 
 # game/src/plot/deb_pants.rpy:152
 translate chinese deb_pants_merge_f67dd189:
@@ -370,13 +370,13 @@ translate chinese deb_pants_merge_f67dd189:
 translate chinese deb_pants_merge_50717a40:
 
     # debbie "Oh, sweetie... Yes!!"
-    debbie "哦，亲爱的…… 是的！！"
+    debbie "哦，亲爱的……对！！"
 
 # game/src/plot/deb_pants.rpy:157
 translate chinese deb_pants_merge_53dd8fc0:
 
     # debbie f_horny "I just love how you cover me!"
-    debbie f_horny "我就是喜欢你弄得我满身都是！"
+    debbie f_horny "我就喜欢你射得我满身都是！"
 
 # game/src/plot/deb_pants.rpy:160
 translate chinese deb_pants_merge_c625f2bc:
@@ -388,25 +388,25 @@ translate chinese deb_pants_merge_c625f2bc:
 translate chinese deb_pants_merge_3f01b50f:
 
     # anon f_calm "Yes, much better... Thank you."
-    anon f_calm "嗯，好多了…… 谢谢你。"
+    anon f_calm "嗯，好多了……谢谢你。"
 
 # game/src/plot/deb_pants.rpy:169
 translate chinese deb_pants_merge_ff081d7e:
 
     # debbie a_open_02 e_s "Heh, you're welcome!"
-    debbie a_open_02 e_s "嘿嘿，不客气！"
+    debbie a_open_02 e_s "呵，不客气！"
 
 # game/src/plot/deb_pants.rpy:177
 translate chinese deb_pants_merge_8b8d83cf:
 
     # debbie a_gimme oa_hand -m_lip "Now c'mere."
-    debbie a_gimme oa_hand -m_lip "过来。"
+    debbie a_gimme oa_hand -m_lip "来，过来。"
 
 # game/src/plot/deb_pants.rpy:181
 translate chinese deb_pants_merge_a9ecfd71:
 
     # debbie "You're such a wonderful boy."
-    debbie "你真是个棒小伙子。"
+    debbie "你真是个好孩子。"
 
 # game/src/plot/deb_pants.rpy:182
 translate chinese deb_pants_merge_95b6be15:
@@ -424,13 +424,13 @@ translate chinese deb_pants_merge_08007854:
 translate chinese deb_pants_merge_22171a4e:
 
     # debbie a_nervous e_w oa_none ob_cum p_stand -b_anon "Right, I'm going to jump in the shower..."
-    debbie a_nervous e_w oa_none ob_cum p_stand -b_anon "好了，我要去冲个澡了……"
+    debbie a_nervous e_w oa_none ob_cum p_stand -b_anon "好了，我去冲个澡……"
 
 # game/src/plot/deb_pants.rpy:189
 translate chinese deb_pants_merge_83b492dd:
 
     # debbie "... And you ought clean yourself up too."
-    debbie "……你也该把自己弄干净。"
+    debbie "……你也该把自己收拾干净。"
 
 # game/src/plot/deb_pants.rpy:190
 translate chinese deb_pants_merge_e12a506d:
@@ -442,7 +442,7 @@ translate chinese deb_pants_merge_e12a506d:
 translate chinese deb_pants_merge_48d02a91:
 
     # debbie f_horny "... And will {i}definitely{/i} be extra-specially careful to shut the door this time."
-    debbie f_horny "……而且我这次{i}绝对{/i}会特别小心地关好门。"
+    debbie f_horny "……而且这次我{i}一定{/i}会特别小心，把门关好。"
 
 # game/src/plot/deb_pants.rpy:194
 translate chinese deb_pants_merge_272007ba:
@@ -454,13 +454,13 @@ translate chinese deb_pants_merge_272007ba:
 translate chinese deb_pants_alt_78ed1092:
 
     # anon e_w f_worried_surprised "I know, I'm sorry..."
-    anon e_w f_worried_surprised "我知道，对不起……"
+    anon e_w f_worried_surprised "我知道，抱歉……"
 
 # game/src/plot/deb_pants.rpy:206
 translate chinese deb_pants_alt_dba8042a:
 
     # anon a_cover_face e_b f_distressed o_left "... Things are just so... backed up, and I didn't wanna be a bother so-"
-    anon a_cover_face e_b f_distressed o_left "……事情实在是……积压太多了，我又不想给你添麻烦，所以——"
+    anon a_cover_face e_b f_distressed o_left "……事情憋得太久了……我又不想麻烦你，所以——"
 
 # game/src/plot/deb_pants.rpy:217
 translate chinese deb_pants_alt_e5bd9067:
@@ -472,7 +472,7 @@ translate chinese deb_pants_alt_e5bd9067:
 translate chinese deb_pants_alt_9a8d1485:
 
     # debbie "Oh, that doesn't sound good..."
-    debbie "哦，听起来不太妙……"
+    debbie "哦，那听起来可不太妙……"
 
 # game/src/plot/deb_pants.rpy:221
 translate chinese deb_pants_alt_82857322:
@@ -484,7 +484,7 @@ translate chinese deb_pants_alt_82857322:
 translate chinese deb_pants_alt_0f900b2a:
 
     # debbie e_sw f_shy "M-maybe we {i}should{/i} deal with this."
-    debbie e_sw f_shy "或、或许我们{i}应该{/i}处理一下这个。"
+    debbie e_sw f_shy "或、或者我们{i}确实该{/i}处理一下。"
 
 # game/src/plot/deb_pants.rpy:226
 translate chinese deb_pants_alt_82fad419:
@@ -508,13 +508,13 @@ translate chinese deb_pants_late_052643c5:
 translate chinese deb_pants_late_7cdca243:
 
     # anon "( Wouldn't want [saga.cast.debbie] catching me. )"
-    anon "(可不想被[saga.cast.debbie]抓住。)"
+    anon "(可不能让[saga.cast.debbie]撞见我。)"
 
 # game/src/plot/deb_pants.rpy:238
 translate chinese deb_pants_late_9e14593b:
 
     # anon e_sw @ -m_talk "( I'll put these back... for now. )"
-    anon e_sw @ -m_talk "(我把这些放回去……暂时先这样。)"
+    anon e_sw @ -m_talk "(我先把这些放回去……暂时先这样。)"
 
 # game/src/plot/deb_pants.rpy:246
 translate chinese deb_pants_wait_3fbe8a74:
