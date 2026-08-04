@@ -29,7 +29,7 @@
 | `The Overcompensator` | 车辆专名/笑点 | 过度补偿者 | 4 处 / 2 个文件 | `ano09.rpy`、`jos_trade.rpy` 当前核心译名一致 |
 | Tony 的 `capisce` | 人物口癖 | 懂了没？／明白吗？ | 25 处 / 10 个文件 | 允许按威胁、催促、确认语气微调，但必须保留 Tony 的固定语用功能 |
 | Tony 对 Anon 的 `protégé` | 关系定位 | 徒弟 | 5 处 / 3 个文件 | `ano10.rpy`、`ano11.rpy` 已统一；只剩 `tin_vault.rpy` 待随完整场景复核 |
-| `cannoli`（食品） | 食品术语 | 意式奶油甜馅卷 | 4 处食品用法 / 4 个文件 | `ano10.rpy` 已定译；`mar_baby.rpy`、`mar_cook.rpy`、`mar_dark.rpy` 旧译待复核；`Holy cannoli` 感叹语排除 |
+| `cannoli`（食品） | 食品术语 | 意式奶油甜馅卷 | 4 处食品用法 / 4 个文件 | `ano10.rpy`、`mar_cook.rpy` 已复核；`mar_baby.rpy`、`mar_dark.rpy` 后续完整场景复核；`Holy cannoli` 感叹语排除 |
 | `mustache ride` | 成人双关 | 骑胡子 | 4 处 / 2 个文件 | `ano10.rpy`、`ano15.rpy` 已全部复核并统一，保留早期 Anon 不懂含义的笑点 |
 | Tony 的 `The Plumber` | 人物旧绰号 | 保持 `The Plumber` | 1 处 / 1 个文件 | `ano11.rpy` 已确认是旧黑帮专名，不翻译、不音译 |
 | `Eddie Four-Fingers` / `Four-Fingers` | 人物姓名/绰号 | 保持英文原形 | 3 处 / 2 个文件 | `ano11.rpy`、`ano13.rpy` 已统一，中文音译/混合写法已清除 |
@@ -54,7 +54,7 @@
 - `champ`：`ano15.rpy`、`ano16.rpy` 已统一；`mar02.rpy`、`mar_baby.rpy`、`mar_dark.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 仍待随完整剧情复核。
 - `babyface`：已处理的 `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 统一为“小帅哥”；其余 Tina 剧情文件中的“娃娃脸/小可爱/小宝贝”待逐文件复核。
 - `protégé`：`ano11.rpy` 已统一为“徒弟”；`tin_vault.rpy` 仍有 1 处旧译待复核。
-- `cannoli`：`mar_baby.rpy`、`mar_cook.rpy`、`mar_dark.rpy` 的食品名称旧译不一致；`Holy cannoli` 属感叹语，不机械替换。
+- `cannoli`：`ano10.rpy`、`mar_cook.rpy` 已统一为“意式奶油甜馅卷”；`mar_baby.rpy`、`mar_dark.rpy` 待完整场景复核；`Holy cannoli` 属感叹语，不机械替换。
 - `little bunny`：`deb18.rpy` 3 处待在完整剧情中复核，核心译法保持“小兔子”。
 - `godfather`：`ano16.rpy` 2 处已统一为“教父”；`mar_baby.rpy` 6 处待随完整剧情复核，并保留与 Tony 黑帮背景相关的《教父》笑点。
 - 上述条目只登记，不在未通读完整文件前批量替换；进入对应文件时结合关系阶段完成统一。
