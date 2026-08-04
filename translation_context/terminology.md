@@ -82,6 +82,8 @@
 | FunBiz Pizzeria Pub | FunBiz披萨酒吧 | Debbie 十六岁时第一份工作的地点；`FunBiz` 保持英文 |
 | Billy-bear | Billy-bear | FunBiz 舞台吉祥物名称，保持英文拼写和连字符 |
 | Ara Ara | Ara Ara | 日式餐厅名称及店员招呼；保持英文原拼写，不译成“啊啦啊啦”或“哎呀哎呀” |
+| `Cowabunga` | 卡瓦邦嘎 | Anon 裸体跳入泳池时引用忍者神龟口号；Debbie 随后复述时必须保持同一译法 |
+| `Heroes in a half-shell` | 身披半壳的英雄 | 承接 `Cowabunga` 的忍者神龟主题歌词笑点 |
 | `stud`（Diane 称呼 Anon） | 帅哥 | Diane 的大胆调侃称呼，不保留英文，也不机械套用于普通“种马”含义 |
 | `nyotaimori` / body sushi | 女体盛／人体寿司 | 菜名用“女体盛”，解释其形式时用“人体寿司”；承载食物的人可按演出称“托盘” |
 | Rock-a-Billy Pants Explosion | Rock-a-Billy Pants Explosion | FunBiz 的拟人动物乐队名称，保持英文原名 |

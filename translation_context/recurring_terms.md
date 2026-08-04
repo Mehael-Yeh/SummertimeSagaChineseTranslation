@@ -64,6 +64,7 @@
 
 | Diane 对 Anon 的 `stud` | 人物调侃称呼 | 帅哥 | Diane 相关文件 | `deb26.rpy` 两处已统一；只在 Diane 直接称呼 Anon 时采用，普通名词含义按场景处理 |
 | `Ara Ara` | 餐厅专名／店员招呼 | 保持 `Ara Ara` | `deb26.rpy` 及相关地点文件 | 店名和店员固定招呼均保留英文拼写，不译成“啊啦啊啦”“哎呀哎呀” |
+| `Cowabunga` / `Heroes in a half-shell` | 连续文化笑点 | 卡瓦邦嘎／身披半壳的英雄 | `deb27.rpy` | 前者的喊叫与 Debbie 复述必须一致，后者承接忍者神龟笑点 |
 
 ## 当前跨文件复查队列
 
