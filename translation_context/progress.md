@@ -170,7 +170,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线 `deb01.rpy` 至 `deb27.rpy` 及支线 `deb_baby.rpy`、`deb_island.rpy`、`deb_kitchen.rpy`、`deb_laundry.rpy` 已完成；下一批完整通读并精修 `deb_lobby.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线 `deb01.rpy` 至 `deb27.rpy` 及支线 `deb_baby.rpy`、`deb_island.rpy`、`deb_kitchen.rpy`、`deb_laundry.rpy`、`deb_lobby.rpy` 已完成；下一批完整通读并精修 `deb_pantry.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

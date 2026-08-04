@@ -5,14 +5,14 @@ translate chinese deb_lobby_2b0d7834:
 
 
     # debbie a_vacuum_wipe e_b f_sad "Ugh."
-    debbie a_vacuum_wipe e_b f_sad "呃。"
+    debbie a_vacuum_wipe e_b f_sad "唉。"
 
 # game/src/plot/deb_lobby.rpy:7
 translate chinese deb_lobby_38a4a9ea:
 
 
     # debbie a_vacuum e_ssw f_shy "Just this last bit and then I can finally get started on dinner."
-    debbie a_vacuum e_ssw f_shy "就剩最后一点了，然后我就能开始做晚饭了。"
+    debbie a_vacuum e_ssw f_shy "就剩最后一点了，然后我就能开始准备晚饭了。"
 
 # game/src/plot/deb_lobby.rpy:10
 translate chinese deb_lobby_15f312d2:
@@ -26,7 +26,7 @@ translate chinese deb_lobby_ae57914c:
 
 
     # anon f_worried @ -m_talk "( Poor [saga.cast.debbie]... wrecking her back doing all this housework just so us kids have somewhere nice to live. )"
-    anon f_worried @ -m_talk "(可怜的[saga.cast.debbie]...为了让我们这些孩子有个舒适的家，做这些家务把背都累坏了。)"
+    anon f_worried @ -m_talk "(可怜的[saga.cast.debbie]……为了让我们这些孩子有个像样的家，天天做这么多家务，腰都累坏了。)"
 
 # game/src/plot/deb_lobby.rpy:14
 translate chinese deb_lobby_4359c341:
@@ -40,35 +40,35 @@ translate chinese deb_lobby_2e69d3d4:
 
 
     # anon @ -m_talk "( Oh, dang. )"
-    anon @ -m_talk "(哦，糟了。)"
+    anon @ -m_talk "(哎，糟了。)"
 
 # game/src/plot/deb_lobby.rpy:19
 translate chinese deb_lobby_4de9c80f:
 
 
     # anon a_think f_pensive @ -m_talk "( You know, I should really show her some appreciation! )"
-    anon a_think f_pensive @ -m_talk "(你知道吗，我真该好好感谢她！)"
+    anon a_think f_pensive @ -m_talk "(我真该好好表示一下感谢！)"
 
 # game/src/plot/deb_lobby.rpy:35
 translate chinese deb_lobby_5ba1a947:
 
 
     # anon "{i}*Muah*{/i}"
-    anon "{i}*滋啧*{/i}"
+    anon "{i}*啵*{/i}"
 
 # game/src/plot/deb_lobby.rpy:36
 translate chinese deb_lobby_e655f5b6:
 
 
     # debbie e_e f_shy p_stand "Oh my gosh!!"
-    debbie e_e f_shy p_stand "哦天哪！！"
+    debbie e_e f_shy p_stand "哦，天哪！！"
 
 # game/src/plot/deb_lobby.rpy:37
 translate chinese deb_lobby_bcc7ad6d:
 
 
     # debbie "Heh, sweetie... you startled me!"
-    debbie "嘿，亲爱的...你吓我一跳！"
+    debbie "呵，亲爱的……你吓我一跳！"
 
 # game/src/plot/deb_lobby.rpy:39
 translate chinese deb_lobby_653d269e:
@@ -89,28 +89,28 @@ translate chinese deb_lobby_23e33135:
 
 
     # debbie @ e_e f_horny "Oh, wow!"
-    debbie @ e_e f_horny "哦，哇！"
+    debbie @ e_e f_horny "哦，天哪！"
 
 # game/src/plot/deb_lobby.rpy:48
 translate chinese deb_lobby_ec2b0462:
 
 
     # debbie e_e "Where's [saga.cast.jenny]?"
-    debbie e_e "[saga.cast.jenny]在哪里？"
+    debbie e_e "[saga.cast.jenny]呢？"
 
 # game/src/plot/deb_lobby.rpy:53
 translate chinese deb_lobby_40114ed8:
 
 
     # anon "We'll be quick."
-    anon "我们会很快的。"
+    anon "很快就好。"
 
 # game/src/plot/deb_lobby.rpy:55
 translate chinese deb_lobby_0cb898f9:
 
 
     # debbie a_vacuum_anon_robe_up_01 e_s "Hmm, I dunno... Maybe we should-"
-    debbie a_vacuum_anon_robe_up_01 e_s "嗯，我不知道……也许我们应该——"
+    debbie a_vacuum_anon_robe_up_01 e_s "嗯……我也不知道……也许我们该——"
 
 # game/src/plot/deb_lobby.rpy:58
 translate chinese deb_lobby_80e62d32:
@@ -124,7 +124,7 @@ translate chinese deb_lobby_3ba767fc:
 
 
     # debbie "You're sure?"
-    debbie "你确定吗？"
+    debbie "你确定？"
 
 # game/src/plot/deb_lobby.rpy:70
 translate chinese deb_lobby_1d99971f:
@@ -145,14 +145,14 @@ translate chinese deb_lobby_6e8ccc04:
 
 
     # debbie f_happy "Heh, what's gotten into you?"
-    debbie f_happy "嘿，你这是怎么了？"
+    debbie f_happy "呵，你这是怎么了？"
 
 # game/src/plot/deb_lobby.rpy:82
 translate chinese deb_lobby_4b694bf3:
 
 
     # anon "I dunno, you just look... really sexy working that vacuum."
-    anon "不知道，只是你吸尘的样子……太性感了。"
+    anon "我也不知道，你拿着吸尘器干活的样子……真性感。"
 
 # game/src/plot/deb_lobby.rpy:83
 translate chinese deb_lobby_8003545d:
@@ -173,14 +173,14 @@ translate chinese deb_lobby_5455d022:
 
 
     # debbie "Well, it's just my normal routine... there's nothing special about-"
-    debbie "这只是我的日常……没什么特别的——"
+    debbie "这就是我平时的日常……没什么特别的——"
 
 # game/src/plot/deb_lobby.rpy:95
 translate chinese deb_lobby_1fcc1733:
 
 
     # debbie "OOHHH, SWEETIE!!"
-    debbie "噢噢，亲爱的！！"
+    debbie "哦——亲爱的！！"
 
 # game/src/plot/deb_lobby.rpy:98
 translate chinese deb_lobby_bbfe2889:
@@ -201,13 +201,13 @@ translate chinese deb_lobby_f077040d:
 
 
     # debbie "OOHH!!!"
-    debbie "噢噢！！！"
+    debbie "哦——！！！"
 
 # game/src/plot/deb_lobby.rpy:104
 translate chinese deb_lobby_bf84d450:
 
     # debbie "You're so..."
-    debbie "你真是太……"
+    debbie "你真是……"
 
 # game/src/plot/deb_lobby.rpy:107
 translate chinese deb_lobby_ac08d772:
@@ -220,14 +220,14 @@ translate chinese deb_lobby_ac08d772:
 translate chinese deb_lobby_5ef2e806:
 
     # anon "Am I being too rough?"
-    anon "我是不是太粗暴了？"
+    anon "我是不是太用力了？"
 
 # game/src/plot/deb_lobby.rpy:113
 translate chinese deb_lobby_5ee6e6b4:
 
 
     # debbie s_22 "Give it to me!!"
-    debbie s_22 "给我！！"
+    debbie s_22 "肏我！！"
 
 # game/src/plot/deb_lobby.rpy:116
 translate chinese deb_lobby_d2f874df:
@@ -246,7 +246,7 @@ translate chinese deb_lobby_b90390e4:
 
 
     # anon "O-kay."
-    anon "好……吧。"
+    anon "好、好吧。"
 
 # game/src/plot/deb_lobby.rpy:132
 translate chinese deb_lobby_3a61bdc8:
@@ -271,13 +271,13 @@ translate chinese deb_lobby_1710fb22:
 translate chinese deb_lobby_df33fd4a:
 
     # anon "Are you close?"
-    anon "你快要到了吗？"
+    anon "你快高潮了吗？"
 
 # game/src/plot/deb_lobby.rpy:147
 translate chinese deb_lobby_81b8169c:
 
     # debbie "I'm gonna-"
-    debbie "我要——"
+    debbie "我、我要——"
 
 # game/src/plot/deb_lobby.rpy:158
 translate chinese deb_lobby_87c69c69:
@@ -291,14 +291,14 @@ translate chinese deb_lobby_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！！" with flash
+    anon "呃啊啊啊！！！" with flash
 
 # game/src/plot/deb_lobby.rpy:168
 translate chinese deb_lobby_d165fd93:
 
 
     # anon "Haah... haah..."
-    anon "哈啊... 哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_lobby.rpy:170
 translate chinese deb_lobby_d5b0aa20:
@@ -311,20 +311,20 @@ translate chinese deb_lobby_merge_0a8d4907:
 
 
     # anon "So, you're sure I can't help you out?"
-    anon "那么，你确定我帮不上忙吗？"
+    anon "所以，你确定不用我帮忙？"
 
 # game/src/plot/deb_lobby.rpy:191
 translate chinese deb_lobby_merge_30d4c072:
 
 
     # debbie p_bend "Yes, I'm sure!"
-    debbie p_bend "是的，我确定！"
+    debbie p_bend "当然，我确定！"
 
 # game/src/plot/deb_lobby.rpy:195
 translate chinese deb_lobby_merge_170ea401:
 
     # debbie a_open_01 c_robe "This is a landlady's work and I enjoy caring for my tenants!"
-    debbie a_open_01 c_robe "这是房东太太的工作，我喜欢照顾我的房客们！"
+    debbie a_open_01 c_robe "这是房东太太的工作，我就喜欢照顾房客！"
 
 # game/src/plot/deb_lobby.rpy:201
 translate chinese deb_lobby_merge_653d269e:
@@ -337,7 +337,7 @@ translate chinese deb_lobby_merge_653d269e:
 translate chinese deb_lobby_merge_21b99468:
 
     # debbie "But thanks for offering, sweetie."
-    debbie "不过谢谢你主动提出，甜心。"
+    debbie "不过还是谢谢你的好意，亲爱的。"
 
 # game/src/plot/deb_lobby.rpy:213
 translate chinese deb_lobby_merge_22f96ff9:
@@ -364,7 +364,7 @@ translate chinese deb_lobby_busy_6af92b30:
 translate chinese deb_lobby_busy_b1760feb:
 
     # anon "Hehe, hey, [saga.cast.debbie]."
-    anon "嘿嘿，嘿，[saga.cast.debbie]。"
+    anon "嘿嘿，嗨，[saga.cast.debbie]。"
 
 # game/src/plot/deb_lobby.rpy:235
 translate chinese deb_lobby_busy_a07260a1:
@@ -377,28 +377,28 @@ translate chinese deb_lobby_busy_b6c70883:
 
 
     # debbie "How did I get so lucky?"
-    debbie "我怎么这么幸运？"
+    debbie "我怎么这么有福气？"
 
 # game/src/plot/deb_lobby.rpy:244
 translate chinese deb_lobby_busy_a9ecfd71:
 
 
     # debbie "You're such a wonderful boy."
-    debbie "你真是个了不起的男孩。"
+    debbie "你真是个贴心的好小伙。"
 
 # game/src/plot/deb_lobby.rpy:249
 translate chinese deb_lobby_creampie_87c69c69:
 
 
     # debbie "NGGHHH!!!"
-    debbie "嗯啊啊！！！"
+    debbie "唔呃呃呃！！！"
 
 # game/src/plot/deb_lobby.rpy:252
 translate chinese deb_lobby_creampie_0cf4d269:
 
 
     # anon "HNNGGG!!!" with flash
-    anon "哼嗯嗯！！！" with flash
+    anon "呃啊啊啊！！！" with flash
 
 # game/src/plot/deb_lobby.rpy:256
 translate chinese deb_lobby_creampie_d165fd93:
@@ -418,13 +418,13 @@ translate chinese deb_lobby_creampie_42585c48:
 translate chinese deb_lobby_creampie_651f53ec:
 
     # anon "I needed that."
-    anon "我很需要这个。"
+    anon "我正需要这个。"
 
 translate chinese deb_lobby_5ad95b3d:
 
 
     # debbie "... B-big!"
-    debbie "...好大！"
+    debbie "……好、好大！"
 
 translate chinese deb_lobby_9b9e77d0:
 
@@ -435,7 +435,7 @@ translate chinese deb_lobby_9b9e77d0:
 translate chinese deb_lobby_0e230840:
 
     # anon "[saga.cast.jenny] might hear you."
-    anon "[saga.cast.jenny] 可能会听到你。"
+    anon "[saga.cast.jenny]可能会听见你。"
 
 translate chinese deb_lobby_2a0b3ff4:
 
@@ -446,45 +446,45 @@ translate chinese deb_lobby_2a0b3ff4:
 translate chinese deb_lobby_cbe5167c:
 
     # anon "Harder?!"
-    anon "用力点？！"
+    anon "还要更用力？！"
 
 translate chinese deb_lobby_661a5c63:
 
     # anon "You're gonna tip over if I go harder."
-    anon "再用力你就要翻倒了。"
+    anon "再用力你就要摔倒了。"
 
 translate chinese deb_lobby_7df9454c:
 
 
     # debbie "N-no, I won't!"
-    debbie "不……不会的！"
+    debbie "不、不会的！"
 
 translate chinese deb_lobby_94b4bc24:
 
     # debbie "Yes, baby!"
-    debbie "是的，宝贝！"
+    debbie "对，宝贝！"
 
 translate chinese deb_lobby_91c0dacf:
 
 
     # debbie s_22 "Give it to me!"
-    debbie s_22 "给我吧！"
+    debbie s_22 "肏我！"
 
 translate chinese deb_lobby_b3fe01ea:
 
     # debbie "I love you..."
-    debbie "我爱你..."
+    debbie "我爱你……"
 
 translate chinese deb_lobby_d4d589eb:
 
     # debbie "... Too..."
-    debbie "...也爱你..."
+    debbie "……我也爱你……"
 
 translate chinese deb_lobby_d17e4b3a:
 
 
     # debbie "... S-sweetie!"
-    debbie "...亲、亲爱的！"
+    debbie "……亲、亲爱的！"
 
 translate chinese deb_lobby_98b95890:
 
@@ -495,12 +495,12 @@ translate chinese deb_lobby_341c4ce9:
 
 
     # anon "Good, cause I'm not gonna last much longer."
-    anon "很好，因为我也快撑不住了。"
+    anon "好，因为我也快撑不住了。"
 
 translate chinese deb_lobby_0a2d4621:
 
     # debbie "Oooh, sweetie... I'm cumming!!"
-    debbie "哦，亲爱的……我要去了！！"
+    debbie "哦，亲爱的……我要高潮了！！"
 
 translate chinese deb_lobby_2ab0bebd:
 
@@ -521,27 +521,27 @@ translate chinese deb_lobby_f574035c:
 translate chinese deb_lobby_671070f5:
 
     # anon "Heh, what?"
-    anon "嘿，什么？"
+    anon "呵，什么？"
 
 translate chinese deb_lobby_2706f3b8:
 
     # debbie "You made..."
-    debbie "你弄了……"
+    debbie "你弄得……"
 
 translate chinese deb_lobby_ae843516:
 
     # debbie "... Another mess..."
-    debbie "……又一片狼藉……"
+    debbie "……又是一片狼藉……"
 
 translate chinese deb_lobby_97c8ac59:
 
     # debbie e_on "... For me to clean!"
-    debbie e_on "……让我来清理！"
+    debbie e_on "……还得我来收拾！"
 
 translate chinese deb_lobby_8b6dd3f2:
 
     # anon "Oh, ehh... yeah, I guess I did."
-    anon "噢，呃……是啊，我想我是那样说了。"
+    anon "哦，呃……是啊，看来确实是我弄的。"
 
 translate chinese deb_lobby_863ba297:
 
@@ -551,19 +551,19 @@ translate chinese deb_lobby_863ba297:
 translate chinese deb_lobby_00a68c42:
 
     # debbie e_b f_happy "Heh, it's fine."
-    debbie e_b f_happy "嘿，没事的。"
+    debbie e_b f_happy "呵，没事。"
 
 translate chinese deb_lobby_e55e022c:
 
 
     # debbie "Totally worth it."
-    debbie "完全值得。"
+    debbie "太值了。"
 
 translate chinese deb_lobby_merge_02280fed:
 
 
     # debbie a_front e_w f_horny o_right "Especially my big, wonderful boy!"
-    debbie a_front e_w f_horny o_right "尤其是我的大男孩！"
+    debbie a_front e_w f_horny o_right "尤其是我家又高大又棒的宝贝！"
 
 translate chinese deb_lobby_merge_9d809a31:
 
@@ -573,12 +573,12 @@ translate chinese deb_lobby_merge_9d809a31:
 translate chinese deb_lobby_merge_30f3670d:
 
     # debbie "Heh, now go on and give me some peace..."
-    debbie "嘿，现在走吧，让我清静会儿……"
+    debbie "呵，现在走吧，让我清静一会儿……"
 
 translate chinese deb_lobby_merge_770f7cc5:
 
     # debbie f_calm "... I've gotta get dinner started."
-    debbie f_calm "我得开始做晚饭了。"
+    debbie f_calm "……我得开始准备晚饭了。"
 
 translate chinese deb_lobby_merge_0ee61256:
 
@@ -601,22 +601,22 @@ translate chinese deb_lobby_busy_bdac4302:
 
 
     # debbie f_happy "Awww!"
-    debbie f_happy "哦——！"
+    debbie f_happy "哎呀！"
 
 translate chinese deb_lobby_creampie_f574035c:
 
     # debbie "{i}*Unintelligible muttering*{/i}"
-    debbie "{i}*含糊不清的嘀咕*{/i}"
+    debbie "{i}*含糊不清的嘟囔*{/i}"
 
 translate chinese deb_lobby_creampie_671070f5:
 
     # anon "Heh, what?"
-    anon "嘿，什么？"
+    anon "呵，什么？"
 
 translate chinese deb_lobby_creampie_42413ce6:
 
     # debbie "That was..."
-    debbie "那真是……"
+    debbie "刚才真是……"
 
 translate chinese deb_lobby_creampie_f3c11293:
 
@@ -626,23 +626,23 @@ translate chinese deb_lobby_creampie_f3c11293:
 translate chinese deb_lobby_creampie_604521e4:
 
     # anon "You're amazing."
-    anon "你太棒了。"
+    anon "你真厉害。"
 
 translate chinese deb_lobby_creampie_dd7b0313:
 
     # debbie e_b f_happy "Heh, such a..."
-    debbie e_b f_happy "呵，真是……"
+    debbie e_b f_happy "呵，真是个……"
 
 translate chinese deb_lobby_creampie_6fafe3de:
 
 
     # debbie "... Charmer."
-    debbie "……亲爱的。"
+    debbie "……会撩人的家伙。"
 
 translate chinese deb_lobby_66773ff1:
 
     # debbie p_sex s_10 "OOHH!!!"
-    debbie p_sex s_10 "哦哦!!!"
+    debbie p_sex s_10 "哦哦！！！"
 
 translate chinese strings:
 
@@ -653,4 +653,4 @@ translate chinese strings:
 
     # game/src/plot/deb_lobby.rpy:28
     old "Appreciate [saga.cast.debbie]... vigorously."
-    new "我会好好……用力地珍惜[saga.cast.debbie]"
+    new "好好“感谢”[saga.cast.debbie]一番"
