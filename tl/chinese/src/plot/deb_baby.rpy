@@ -16,19 +16,19 @@ translate chinese deb_baby_wait_a1f0b75a:
 translate chinese deb_baby_wait_e624d4f0:
 
     # anon f_surprised @ -m_talk "( I've got a text from [saga.cast.debbie]! )"
-    anon f_surprised @ -m_talk "(我收到了[saga.cast.debbie]的一条短信！)"
+    anon f_surprised @ -m_talk "（[saga.cast.debbie]给我发短信了！）"
 
 # game/src/plot/deb_baby.rpy:16
 translate chinese deb_baby_wait_alt_41f46822:
 
     # debbie "[saga.cast.anon]? Please can you come down to the basement?"
-    debbie "[saga.cast.anon]？请问你能下来地下室吗？"
+    debbie "[saga.cast.anon]？你能来地下室一下吗？"
 
 # game/src/plot/deb_baby.rpy:20
 translate chinese deb_baby_wait_alt_48de67ac:
 
     # debbie "[saga.cast.anon]? Please can you come to the kitchen?"
-    debbie "[saga.cast.anon]？请问你能来厨房一下吗？"
+    debbie "[saga.cast.anon]？你能来厨房一下吗？"
 
 # game/src/plot/deb_baby.rpy:24
 translate chinese deb_baby_wait_alt_0938cf4b:
@@ -40,31 +40,31 @@ translate chinese deb_baby_wait_alt_0938cf4b:
 translate chinese deb_baby_wait_alt_cd363fd1:
 
     # anon f_confused @ -m_talk "( I wonder what [saga.cast.debbie] wants? )"
-    anon f_confused @ -m_talk "(我想知道[saga.cast.debbie]想要什么？)"
+    anon f_confused @ -m_talk "（[saga.cast.debbie]找我干什么？）"
 
 # game/src/plot/deb_baby.rpy:32
 translate chinese deb_baby_wait_alt_fc3d41e2:
 
     # anon a_whisper f_worried "Sure, [saga.cast.debbie], I'll be right there!"
-    anon a_whisper f_worried "当然，[saga.cast.debbie]，我马上就到！"
+    anon a_whisper f_worried "好，[saga.cast.debbie]，我马上过去！"
 
 # game/src/plot/deb_baby.rpy:40
 translate chinese deb_baby_read1_6a530927:
 
     # anon "( Hmm, she must need to speak to me about something serious. )"
-    anon "(嗯，她肯定有要事跟我谈。)"
+    anon "（嗯，她肯定有要事跟我谈。）"
 
 # game/src/plot/deb_baby.rpy:41
 translate chinese deb_baby_read1_2b6178b7:
 
     # anon "( I should go and see what's the matter. )"
-    anon "(我应该去看看是怎么回事。)"
+    anon "（我得去看看怎么回事。）"
 
 # game/src/plot/deb_baby.rpy:48
 translate chinese deb_baby_read1_rails_5bc22a08:
 
     # anon "( I should have a look at that text and see what [saga.cast.debbie] needs. )"
-    anon "(我应该看看那篇文字，看看[saga.cast.debbie]需要什么。)"
+    anon "（我得先看看短信，瞧瞧[saga.cast.debbie]找我有什么事。）"
 
 # game/src/plot/deb_baby.rpy:57
 translate chinese deb_baby_tell_88ead236:
@@ -94,7 +94,7 @@ translate chinese deb_baby_tell_7635f418:
 translate chinese deb_baby_tell_0b6d7aa6:
 
     # anon "[saga.cast.debbie]?"
-    anon "[saga.cast.debbie]?"
+    anon "[saga.cast.debbie]？"
 
 # game/src/plot/deb_baby.rpy:67
 translate chinese deb_baby_tell_c64b114d:
@@ -124,13 +124,13 @@ translate chinese deb_baby_tell_f68a5f40:
 translate chinese deb_baby_tell_701d8ca6:
 
     # debbie e_e f_sad o_right "Well, sorta..."
-    debbie e_e f_sad o_right "嗯，算是吧……"
+    debbie e_e f_sad o_right "嗯……也算吧。"
 
 # game/src/plot/deb_baby.rpy:87
 translate chinese deb_baby_tell_46863181:
 
     # debbie e_w "... You see, I uhh..."
-    debbie e_w "……你看，我呃……"
+    debbie e_w "……就是，我，呃……"
 
 # game/src/plot/deb_baby.rpy:89
 translate chinese deb_baby_tell_694b2072:
@@ -154,7 +154,7 @@ translate chinese deb_baby_tell_merge1_dc2cd8ca:
 translate chinese deb_baby_tell_merge1_bb8295fd:
 
     # anon "C'mon, you can tell me anything."
-    anon "哎呀，你什么都能跟我说。"
+    anon "别紧张，有什么都可以跟我说。"
 
 # game/src/plot/deb_baby.rpy:95
 translate chinese deb_baby_tell_merge1_4b75da85:
@@ -184,7 +184,7 @@ translate chinese deb_baby_tell_merge1_b505dced:
 translate chinese deb_baby_tell_merge1_92b13218:
 
     # anon "Sorry, it's just..."
-    anon "抱歉，只是……"
+    anon "抱歉，我只是……"
 
 # game/src/plot/deb_baby.rpy:107
 translate chinese deb_baby_tell_merge1_04120a8d:
@@ -196,7 +196,7 @@ translate chinese deb_baby_tell_merge1_04120a8d:
 translate chinese deb_baby_tell_merge1_ee915b5c:
 
     # debbie "Uhh... no."
-    debbie "呃……不。"
+    debbie "呃……不是。"
 
 # game/src/plot/deb_baby.rpy:113
 translate chinese deb_baby_tell_merge1_fd99c793:
@@ -214,13 +214,13 @@ translate chinese deb_baby_tell_merge1_90b1838b:
 translate chinese deb_baby_tell_merge1_3350aa4c:
 
     # anon a_up f_surprised "Ahh, geez... you're right!"
-    anon a_up f_surprised "啊，天哪……你说得对！"
+    anon a_up f_surprised "啊……对哦！"
 
 # game/src/plot/deb_baby.rpy:117
 translate chinese deb_baby_tell_merge1_b9402dfc:
 
     # anon e_sw f_worried_surprised "This is... I mean, I uhh-"
-    anon e_sw f_worried_surprised "这……我是说，我呃——"
+    anon e_sw f_worried_surprised "这……我是说，我……"
 
 # game/src/plot/deb_baby.rpy:119
 translate chinese deb_baby_tell_merge1_12d2bfae:
@@ -238,13 +238,13 @@ translate chinese deb_baby_tell_merge1_997c9499:
 translate chinese deb_baby_tell_merge1_4c37f820:
 
     # anon a_side e_w f_shy "S-so, how are you feeling about this?"
-    anon a_side e_w f_shy "那……你对这事怎么看？"
+    anon a_side e_w f_shy "那、那你……心里是怎么想的？"
 
 # game/src/plot/deb_baby.rpy:122
 translate chinese deb_baby_tell_merge1_a5e9578a:
 
     # debbie f_sad "Honestly, sweetie... I don't know how to feel about it."
-    debbie f_sad "说实话，亲爱的……我也不知道该有什么感觉。"
+    debbie f_sad "说实话，亲爱的……我也不知道该怎么想。"
 
 # game/src/plot/deb_baby.rpy:123
 translate chinese deb_baby_tell_merge1_1bb5fcb2:
@@ -280,7 +280,7 @@ translate chinese deb_baby_tell_merge1_d85002ae:
 translate chinese deb_baby_tell_merge1_37f0884a:
 
     # debbie "How crazy is that?"
-    debbie "这有多疯狂啊？"
+    debbie "是不是很离谱？"
 
 # game/src/plot/deb_baby.rpy:132
 translate chinese deb_baby_tell_merge1_9af7a8df:
@@ -304,13 +304,13 @@ translate chinese deb_baby_tell_merge1_b3fcf2d2:
 translate chinese deb_baby_tell_merge1_dd654b88:
 
     # anon a_think "Uh huh?"
-    anon a_think "嗯哼？"
+    anon a_think "嗯？"
 
 # game/src/plot/deb_baby.rpy:136
 translate chinese deb_baby_tell_merge1_2d5a3253:
 
     # debbie f_sad "This is not normal!"
-    debbie f_sad "这不对劲！"
+    debbie f_sad "这太不正常了！"
 
 # game/src/plot/deb_baby.rpy:137
 translate chinese deb_baby_tell_merge1_67071bda:
@@ -328,19 +328,19 @@ translate chinese deb_baby_tell_merge1_7f4745ff:
 translate chinese deb_baby_tell_merge1_569d5545:
 
     # debbie f_worried_surprised "No, I know!"
-    debbie f_worried_surprised "不，我知道！"
+    debbie f_worried_surprised "不，我明白！"
 
 # game/src/plot/deb_baby.rpy:143
 translate chinese deb_baby_tell_merge1_ba09783f:
 
     # debbie a_embarrassed f_sad "That's what I'm saying, I should feel terrible about this but I don't..."
-    debbie a_embarrassed f_sad "这就是我说的，我应该为此感到糟糕，但我没有……"
+    debbie a_embarrassed f_sad "这正是我纠结的地方，我明明应该觉得很糟糕，可我却没有……"
 
 # game/src/plot/deb_baby.rpy:144
 translate chinese deb_baby_tell_merge1_b78ade12:
 
     # debbie f_shy "... In fact, I feel... happy."
-    debbie f_shy "……事实上，我觉得……很开心。"
+    debbie f_shy "……其实，我觉得……很开心。"
 
 # game/src/plot/deb_baby.rpy:146
 translate chinese deb_baby_tell_merge1_65ad4cd1:
@@ -352,7 +352,7 @@ translate chinese deb_baby_tell_merge1_65ad4cd1:
 translate chinese deb_baby_tell_merge1_be10b779:
 
     # debbie a_shock f_happy "Oh my goodness, we're going to have a baby, [saga.cast.anon]!"
-    debbie a_shock f_happy "哦，天哪，我们要有宝宝了，[saga.cast.anon]！"
+    debbie a_shock f_happy "天哪，我们要有孩子了，[saga.cast.anon]！"
 
 # game/src/plot/deb_baby.rpy:150
 translate chinese deb_baby_tell_merge1_a845c67b:
@@ -364,7 +364,7 @@ translate chinese deb_baby_tell_merge1_a845c67b:
 translate chinese deb_baby_tell_merge1_426dd56a:
 
     # anon f_smug "Oh, I doubt that."
-    anon f_smug "哦，我表示怀疑。"
+    anon f_smug "我可不这么认为。"
 
 # game/src/plot/deb_baby.rpy:154
 translate chinese deb_baby_tell_merge1_158b234b:
@@ -376,7 +376,7 @@ translate chinese deb_baby_tell_merge1_158b234b:
 translate chinese deb_baby_tell_merge1_74b0f45d:
 
     # anon a_point e_sw f_horny "I'm gonna keep that particular {i}inn{/i} booked up for, oh, I don't know... the next thirty years?"
-    anon a_point e_sw f_horny "我打算把那个特别的{i}旅馆{/i}一直订下去，嗯，大概……未来三十年吧？"
+    anon a_point e_sw f_horny "我打算把这家特别的{i}旅店{/i}长期包下来……未来三十年怎么样？"
 
 # game/src/plot/deb_baby.rpy:157
 translate chinese deb_baby_tell_merge1_4155cc3b:
@@ -412,25 +412,25 @@ translate chinese deb_baby_tell_merge1_8652790f:
 translate chinese deb_baby_tell_merge1_04de9ae5:
 
     # anon a_hips f_smug "I'll maintain a standing reservation with her too!"
-    anon a_hips f_smug "我也会跟她保持长期预订的！"
+    anon a_hips f_smug "我也会在她那儿长期包房！"
 
 # game/src/plot/deb_baby.rpy:166
 translate chinese deb_baby_tell_merge1_0d236a8d:
 
     # debbie f_shy "Sweetie, focus!!"
-    debbie f_shy "亲爱的，集中注意力！！"
+    debbie f_shy "亲爱的，说正事！！"
 
 # game/src/plot/deb_baby.rpy:167
 translate chinese deb_baby_tell_merge1_8afac90c:
 
     # anon "I wonder if I could get a \"no vacancy\" sign made up?"
-    anon "我在想，能不能做个‘客满’的牌子？"
+    anon "我在想，要不要做块“客满”的牌子？"
 
 # game/src/plot/deb_baby.rpy:172
 translate chinese deb_baby_tell_merge1_ee86a513:
 
     # debbie e_w "You're really okay with this?"
-    debbie e_w "你真的不介意这个吗？"
+    debbie e_w "你真的能接受吗？"
 
 # game/src/plot/deb_baby.rpy:174
 translate chinese deb_baby_tell_merge1_51024082:
@@ -442,43 +442,43 @@ translate chinese deb_baby_tell_merge1_51024082:
 translate chinese deb_baby_tell_merge1_c1034f05:
 
     # anon "I just want you to be happy, [saga.cast.debbie]."
-    anon "我只想让你幸福，[saga.cast.debbie]。"
+    anon "我只希望你开心，[saga.cast.debbie]。"
 
 # game/src/plot/deb_baby.rpy:177
 translate chinese deb_baby_tell_merge1_16dd4b96:
 
     # debbie a_gimme f_shy oa_hand of_none "Aww, sweetie."
-    debbie a_gimme f_shy oa_hand of_none "噢，亲爱的。"
+    debbie a_gimme f_shy oa_hand of_none "哎呀，亲爱的。"
 
 # game/src/plot/deb_baby.rpy:185
 translate chinese deb_baby_tell_merge1_e0e5446b:
 
     # debbie "I just can't believe how wonderful you are!"
-    debbie "我简直不敢相信你有多棒！"
+    debbie "你怎么能这么好！"
 
 # game/src/plot/deb_baby.rpy:186
 translate chinese deb_baby_tell_merge1_028e46cf:
 
     # anon "You're the one who's wonderful."
-    anon "你才是那个很棒的人。"
+    anon "你才是最好的。"
 
 # game/src/plot/deb_baby.rpy:187
 translate chinese deb_baby_tell_merge1_03369bc2:
 
     # anon "That's gonna be the luckiest baby in the entire world."
-    anon "那将是全世界最幸运的孩子。"
+    anon "这孩子一定会是全世界最幸运的。"
 
 # game/src/plot/deb_baby.rpy:196
 translate chinese deb_baby_tell_merge1_aa43b579:
 
     # anon "So, happy?"
-    anon "所以，开心吗？"
+    anon "那你开心吗？"
 
 # game/src/plot/deb_baby.rpy:197
 translate chinese deb_baby_tell_merge1_b8b425d8:
 
     # debbie a_side e_w of_none "{i}*Sniff*{/i} Yes!"
-    debbie a_side e_w of_none "{i}*抽泣*{/i} 是的！"
+    debbie a_side e_w of_none "{i}*吸鼻子*{/i} 嗯！"
 
 # game/src/plot/deb_baby.rpy:198
 translate chinese deb_baby_tell_merge1_36eaef88:
@@ -496,13 +496,13 @@ translate chinese deb_baby_tell_merge1_64c30954:
 translate chinese deb_baby_tell_merge1_0c196c0f:
 
     # debbie f_calm "Oh, and we'll need a crib!"
-    debbie f_calm "哦对了，我们还得准备个婴儿床！"
+    debbie f_calm "哦对了，我们还得准备一张婴儿床！"
 
 # game/src/plot/deb_baby.rpy:201
 translate chinese deb_baby_tell_merge1_6f029f44:
 
     # debbie f_happy "And a rocking chair."
-    debbie f_happy "再来把摇椅。"
+    debbie f_happy "还有一把摇椅。"
 
 # game/src/plot/deb_baby.rpy:202
 translate chinese deb_baby_tell_merge1_69f5bd8b:
@@ -514,13 +514,13 @@ translate chinese deb_baby_tell_merge1_69f5bd8b:
 translate chinese deb_baby_tell_merge1_bbd1354b:
 
     # anon "There's plenty of time for all that."
-    anon "这些有的是时间准备。"
+    anon "这些东西以后慢慢准备也不迟。"
 
 # game/src/plot/deb_baby.rpy:205
 translate chinese deb_baby_tell_merge1_f0c5e271:
 
     # anon "Why don't you call [saga.cast.diane] and tell her the good news?"
-    anon "不如你打电话给[saga.cast.diane]告诉她这个好消息？"
+    anon "不如给[saga.cast.diane]打个电话，把这个好消息告诉她？"
 
 # game/src/plot/deb_baby.rpy:207
 translate chinese deb_baby_tell_merge1_48463dce:
@@ -538,7 +538,7 @@ translate chinese deb_baby_tell_merge1_7f903297:
 translate chinese deb_baby_tell_merge1_31038116:
 
     # debbie f_happy "Oh, she's gonna be so excited!"
-    debbie f_happy "哦，她一定会兴奋得不行！"
+    debbie f_happy "她肯定会高兴坏的！"
 
 # game/src/plot/deb_baby.rpy:231
 translate chinese deb_baby_tell_merge2_7456df1c:
@@ -550,49 +550,49 @@ translate chinese deb_baby_tell_merge2_7456df1c:
 translate chinese deb_baby_tell_merge2_da399cdf:
 
     # anon @ -m_talk "( It's heartwarming seeing her so full of life again. )"
-    anon @ -m_talk "看到她再次充满活力，真让人暖心。"
+    anon @ -m_talk "（看到她又恢复了活力，真让人开心。）"
 
 # game/src/plot/deb_baby.rpy:247
 translate chinese deb_baby_tell_merge2_6b97c262:
 
     # anon a_think e_nw f_pensive @ -m_talk "( And to think, I'm gonna be a father. )"
-    anon a_think e_nw f_pensive @ -m_talk "想想看，我就要当爸爸了。"
+    anon a_think e_nw f_pensive @ -m_talk "（真没想到，我就要当爸爸了。）"
 
 # game/src/plot/deb_baby.rpy:248
 translate chinese deb_baby_tell_merge2_a75ca384:
 
     # anon @ -m_talk "( Our child. )"
-    anon @ -m_talk "我们的孩子。"
+    anon @ -m_talk "（我们的孩子……）"
 
 # game/src/plot/deb_baby.rpy:250
 translate chinese deb_baby_tell_merge2_8825a654:
 
     # anon a_uneasy e_b f_happy m_teeth @ -m_talk "( Man, life is good. )"
-    anon a_uneasy e_b f_happy m_teeth @ -m_talk "天啊，生活真美好。"
+    anon a_uneasy e_b f_happy m_teeth @ -m_talk "（人生真美好。）"
 
 # game/src/plot/deb_baby.rpy:253
 translate chinese deb_baby_tell_merge2_deebf8d9:
 
     # anon @ -m_talk "( Wow, another baby. )"
-    anon @ -m_talk "哇，又一个宝宝。"
+    anon @ -m_talk "（哇，又一个宝宝。）"
 
 # game/src/plot/deb_baby.rpy:254
 translate chinese deb_baby_tell_merge2_4a595b33:
 
     # anon @ -m_talk "( We are truly blessed. )"
-    anon @ -m_talk "我们真是有福气。"
+    anon @ -m_talk "（我们真是有福气。）"
 
 # game/src/plot/deb_baby.rpy:269
 translate chinese deb_baby_tell_alt_0b6d7aa6:
 
     # anon "[saga.cast.debbie]?"
-    anon "[saga.cast.debbie]?"
+    anon "[saga.cast.debbie]？"
 
 # game/src/plot/deb_baby.rpy:270
 translate chinese deb_baby_tell_alt_f23cfa9c:
 
     # debbie a_nervous f_calm o_left "Oh, hey, sweetie!"
-    debbie a_nervous f_calm o_left "哦，嘿，亲爱的！"
+    debbie a_nervous f_calm o_left "哦，亲爱的，你来了！"
 
 # game/src/plot/deb_baby.rpy:271
 translate chinese deb_baby_tell_alt_561d7079:
@@ -604,7 +604,7 @@ translate chinese deb_baby_tell_alt_561d7079:
 translate chinese deb_baby_tell_alt_bd3218f7:
 
     # debbie a_embarrassed e_se f_shy of_blush "Oh, dear... it's, well... You see-"
-    debbie a_embarrassed e_se f_shy of_blush "哦，亲爱的……是这样的，你看——"
+    debbie a_embarrassed e_se f_shy of_blush "唉……就是，我……"
 
 # game/src/plot/deb_baby.rpy:273
 translate chinese deb_baby_tell_alt_a6c55fd7:
@@ -616,19 +616,19 @@ translate chinese deb_baby_tell_alt_a6c55fd7:
 translate chinese deb_baby_tell_rails_51b3462d:
 
     # anon "Hmm, I wonder what's going on?"
-    anon "嗯，我在想发生了什么事？"
+    anon "嗯，不知道出什么事了？"
 
 # game/src/plot/deb_baby.rpy:287
 translate chinese deb_baby_tell_rails_a7ab0ad2:
 
     # anon "I'd best go see her in the [saga.cast.debbie.where!l], this sounds important."
-    anon "我最好去[saga.cast.debbie.where!l]看看她，这听起来很重要。"
+    anon "我最好去[saga.cast.debbie.where!l]找她，这事听着挺重要的。"
 
 # game/src/plot/deb_baby.rpy:289
 translate chinese deb_baby_tell_rails_791e5333:
 
     # anon "I'd best hurry home, this sounds important."
-    anon "我最好赶紧回家，这听起来很重要。"
+    anon "我最好赶紧回家，这事听着挺重要的。"
 
 # game/src/plot/deb_baby.rpy:300
 translate chinese deb_baby_tell_redo_5a71573d:
@@ -652,7 +652,7 @@ translate chinese deb_baby_tell_redo_dee14878:
 translate chinese deb_baby_tell_redo_97a1ae6b:
 
     # debbie a_gimme oa_hand "Yes!!"
-    debbie a_gimme oa_hand "是的！！"
+    debbie a_gimme oa_hand "真的！！"
 
 # game/src/plot/deb_baby.rpy:313
 translate chinese deb_baby_tell_redo_b14d8a3e:
@@ -694,19 +694,19 @@ translate chinese deb_baby_tell_redo_3111b7fa:
 translate chinese deb_baby_tell_redo_5fc74620:
 
     # debbie f_calm "Yeah, I guess so."
-    debbie f_calm "嗯，我想是的。"
+    debbie f_calm "嗯，看来是了。"
 
 # game/src/plot/deb_baby.rpy:331
 translate chinese deb_baby_tell_redo_473420a0:
 
     # anon e_nw f_pensive @ -m_talk "..."
-    anon e_nw f_pensive @ -m_talk "..."
+    anon e_nw f_pensive @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:333
 translate chinese deb_baby_tell_redo_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:335
 translate chinese deb_baby_tell_redo_a2a19ba3:
@@ -730,7 +730,7 @@ translate chinese deb_baby_tell_redo_0e3aae06:
 translate chinese deb_baby_tell_redo_6669ec23:
 
     # anon "This is exciting!"
-    anon "太令人兴奋了！"
+    anon "太让人激动了！"
 
 # game/src/plot/deb_baby.rpy:340
 translate chinese deb_baby_tell_redo_9d327141:
@@ -742,37 +742,37 @@ translate chinese deb_baby_tell_redo_9d327141:
 translate chinese deb_baby_tell_redo_fecc5db7:
 
     # anon "Well, go on..."
-    anon "好了，继续吧……"
+    anon "那还等什么……"
 
 # game/src/plot/deb_baby.rpy:358
 translate chinese deb_baby_tell_redo_7498c449:
 
     # anon "... Call her."
-    anon "……打给她。"
+    anon "……给她打电话吧。"
 
 # game/src/plot/deb_baby.rpy:359
 translate chinese deb_baby_tell_redo_131bc928:
 
     # debbie f_happy "Heh, okay!"
-    debbie f_happy "嘿，好吧！"
+    debbie f_happy "呵，好！"
 
 # game/src/plot/deb_baby.rpy:388
 translate chinese deb_baby_late_help_8febfc22:
 
     # anon f_confused "Want help with breakfast?"
-    anon f_confused "需要帮忙做早饭吗？"
+    anon f_confused "要我帮你做早餐吗？"
 
 # game/src/plot/deb_baby.rpy:389
 translate chinese deb_baby_late_help_0bac632b:
 
     # debbie f_calm "No, that's alright."
-    debbie f_calm "不用了，没事。"
+    debbie f_calm "不用，没关系。"
 
 # game/src/plot/deb_baby.rpy:391
 translate chinese deb_baby_late_help_457be4a2:
 
     # debbie "I enjoy cooking for you."
-    debbie "我喜欢为你做饭。"
+    debbie "我喜欢给你做早餐。"
 
 # game/src/plot/deb_baby.rpy:392
 translate chinese deb_baby_late_help_65784a9b:
@@ -790,7 +790,7 @@ translate chinese deb_baby_late_help_d169cc6d:
 translate chinese deb_baby_late_help_09d77e66:
 
     # debbie f_calm "No, that's alright..."
-    debbie f_calm "不用了，没事……"
+    debbie f_calm "不用……"
 
 # game/src/plot/deb_baby.rpy:397
 translate chinese deb_baby_late_help_fffa94fd:
@@ -814,13 +814,13 @@ translate chinese deb_baby_late_help_7d98dede:
 translate chinese deb_baby_late_help_65e8a95c:
 
     # anon a_rub f_shy "It's just, with the baby I thought-"
-    anon a_rub f_shy "只是，有了宝宝我以为——"
+    anon a_rub f_shy "只是你现在怀着孩子，我还以为——"
 
 # game/src/plot/deb_baby.rpy:402
 translate chinese deb_baby_late_help_70bb5d25:
 
     # debbie "Relax, sweetie."
-    debbie "放松点，亲爱的。"
+    debbie "别紧张，亲爱的。"
 
 # game/src/plot/deb_baby.rpy:403
 translate chinese deb_baby_late_help_b9b2a22c:
@@ -832,13 +832,13 @@ translate chinese deb_baby_late_help_b9b2a22c:
 translate chinese deb_baby_late_help_460270a0:
 
     # debbie a_hips e_w "... And I feel great!"
-    debbie a_hips e_w "……我感觉棒极了！"
+    debbie a_hips e_w "……而且我感觉好极了！"
 
 # game/src/plot/deb_baby.rpy:405
 translate chinese deb_baby_late_help_48f1f545:
 
     # anon a_side f_calm "Y-yeah, okay."
-    anon a_side f_calm "嗯…好吧。"
+    anon a_side f_calm "嗯……好吧。"
 
 # game/src/plot/deb_baby.rpy:412
 translate chinese deb_baby_late_intro_1136102f:
@@ -862,13 +862,13 @@ translate chinese deb_baby_late_intro_69ea6692:
 translate chinese deb_baby_late_intro_8325178a:
 
     # debbie "Oh, hey, sweetie!"
-    debbie "哦，嘿，亲爱的！"
+    debbie "哦，亲爱的！"
 
 # game/src/plot/deb_baby.rpy:436
 translate chinese deb_baby_late_mood_eb780b0f:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:443
 translate chinese deb_baby_late_mood_61027ed4:
@@ -886,7 +886,7 @@ translate chinese deb_baby_late_mood_28c51851:
 translate chinese deb_baby_late_mood_dbf4e260:
 
     # anon "Heh, nice!"
-    anon "嘿，不错嘛！"
+    anon "呵，真不错！"
 
 # game/src/plot/deb_baby.rpy:450
 translate chinese deb_baby_late_mood_c5d3da1a:
@@ -898,7 +898,7 @@ translate chinese deb_baby_late_mood_c5d3da1a:
 translate chinese deb_baby_late_mood_8bbc6b2b:
 
     # debbie a_wtf f_happy "And why shouldn't I be?"
-    debbie a_wtf f_happy "我为什么不该心情好？"
+    debbie a_wtf f_happy "我为什么不该开心？"
 
 # game/src/plot/deb_baby.rpy:452
 translate chinese deb_baby_late_mood_71e44587:
@@ -916,37 +916,37 @@ translate chinese deb_baby_late_mood_e5d8f516:
 translate chinese deb_baby_late_mood_58304321:
 
     # debbie "I'm in love with a wonderful man..."
-    debbie "我爱上了一个很棒的男人……"
+    debbie "我爱着一个很棒的男人……"
 
 # game/src/plot/deb_baby.rpy:458
 translate chinese deb_baby_late_mood_6c1b064d:
 
     # debbie "... Who just so happens to be my tenant."
-    debbie "……他刚好是我的房客。"
+    debbie "……而他碰巧还是我的房客。"
 
 # game/src/plot/deb_baby.rpy:462
 translate chinese deb_baby_late_mood_52952fbf:
 
     # debbie "And I'm carrying his beautiful baby inside me."
-    debbie "而且我肚子里正怀着他美丽的宝宝。"
+    debbie "我的肚子里还怀着他的孩子。"
 
 # game/src/plot/deb_baby.rpy:463
 translate chinese deb_baby_late_mood_e21224af:
 
     # anon "Well, when you put it like that..."
-    anon "嗯，既然你这么说..."
+    anon "你这么一说……"
 
 # game/src/plot/deb_baby.rpy:465
 translate chinese deb_baby_late_mood_2e3f3dbe:
 
     # debbie e_w "Life is good!"
-    debbie e_w "生活真美好！"
+    debbie e_w "人生真美好！"
 
 # game/src/plot/deb_baby.rpy:470
 translate chinese deb_baby_late_outro_6106b17d:
 
     # anon f_calm "Remember, I'm here if you need anything."
-    anon f_calm "记住，如果你需要什么，我就在这里。"
+    anon f_calm "需要什么就叫我。"
 
 # game/src/plot/deb_baby.rpy:472
 translate chinese deb_baby_late_outro_ce9b1278:
@@ -982,7 +982,7 @@ translate chinese deb_baby_late_pool_d15aca99:
 translate chinese deb_baby_late_pool_bd6cc7dc:
 
     # debbie "Yeah, I was entertaining the idea."
-    debbie "是啊，我在考虑这个想法。"
+    debbie "是啊，正想着要不要游呢。"
 
 # game/src/plot/deb_baby.rpy:486
 translate chinese deb_baby_late_pool_c352c3dd:
@@ -1000,7 +1000,7 @@ translate chinese deb_baby_late_pool_158b234b:
 translate chinese deb_baby_late_pool_cae32f1a:
 
     # anon "For the baby, I mean."
-    anon "我是说，为了宝宝。"
+    anon "我是说，这对孩子安全吗？"
 
 # game/src/plot/deb_baby.rpy:489
 translate chinese deb_baby_late_pool_47ea1ad1:
@@ -1018,25 +1018,25 @@ translate chinese deb_baby_late_pool_e11cba67:
 translate chinese deb_baby_late_pool_cfc16a44:
 
     # debbie "In fact, it's good, safe exercise."
-    debbie "事实上，这是很好的安全运动。"
+    debbie "其实，游泳既安全又能锻炼身体。"
 
 # game/src/plot/deb_baby.rpy:492
 translate chinese deb_baby_late_pool_22c4038e:
 
     # anon "Ahh, cool!"
-    anon "啊，真凉快！"
+    anon "啊，那就好！"
 
 # game/src/plot/deb_baby.rpy:497
 translate chinese deb_baby_late_pool_9d8eb5f4:
 
     # anon "Love you in that swimsuit!"
-    anon "你穿那件泳衣真好看！"
+    anon "你穿这件泳衣真迷人！"
 
 # game/src/plot/deb_baby.rpy:498
 translate chinese deb_baby_late_pool_3880bf7e:
 
     # anon "It's crazy sexy."
-    anon "太性感了。"
+    anon "性感得不得了。"
 
 # game/src/plot/deb_baby.rpy:499
 translate chinese deb_baby_late_pool_4094e469:
@@ -1060,19 +1060,19 @@ translate chinese deb_baby_late_pool_78638209:
 translate chinese deb_baby_late_sleep_e1394f61:
 
     # anon @ -m_talk "( I should leave her to sleep. )"
-    anon @ -m_talk "(我应该让她睡觉。)"
+    anon @ -m_talk "（我还是让她好好睡吧。）"
 
 # game/src/plot/deb_baby.rpy:515
 translate chinese deb_baby_late_sleep_4c3f9094:
 
     # anon @ -m_talk "( She's got enough on her plate right now, what with the babies and all. )"
-    anon @ -m_talk "(她现在够忙的了，又是孩子什么的。)"
+    anon @ -m_talk "（她现在够忙的了，又是孩子什么的。）"
 
 # game/src/plot/deb_baby.rpy:517
 translate chinese deb_baby_late_sleep_e03514a8:
 
     # anon @ -m_talk "( She's got enough on her plate right now, what with the baby and all. )"
-    anon @ -m_talk "(她现在够忙的了，又是孩子什么的。)"
+    anon @ -m_talk "（她现在够忙的了，又是孩子什么的。）"
 
 # game/src/plot/deb_baby.rpy:526
 translate chinese deb_baby_news_d619b3da:
@@ -1084,7 +1084,7 @@ translate chinese deb_baby_news_d619b3da:
 translate chinese deb_baby_news_24cd49d7:
 
     # jenny "Aren't you too old for a baby?!"
-    jenny "你生孩子的年纪是不是太大了？！"
+    jenny "你都这把年纪了，还生什么孩子？！"
 
 # game/src/plot/deb_baby.rpy:538
 translate chinese deb_baby_news_31fbf710:
@@ -1096,55 +1096,55 @@ translate chinese deb_baby_news_31fbf710:
 translate chinese deb_baby_news_53162270:
 
     # anon f_surprised m_teeth @ -m_talk "( Uh oh, it sounds like [saga.cast.jenny] knows about the baby. )"
-    anon f_surprised m_teeth @ -m_talk "(呃哦，听上去[saga.cast.jenny]知道孩子的事了。)"
+    anon f_surprised m_teeth @ -m_talk "（糟了，听起来[saga.cast.jenny]已经知道孩子的事了。）"
 
 # game/src/plot/deb_baby.rpy:543
 translate chinese deb_baby_news_668621f0:
 
     # anon @ -m_talk "( I'd better down there! )"
-    anon @ -m_talk "(我最好下去！)"
+    anon @ -m_talk "（我得赶紧下去！）"
 
 # game/src/plot/deb_baby.rpy:545
 translate chinese deb_baby_news_2ef027c1:
 
     # anon @ -m_talk "( I'd better get in there! )"
-    anon @ -m_talk "(我最好进去！)"
+    anon @ -m_talk "（我得赶紧进去！）"
 
 # game/src/plot/deb_baby.rpy:564
 translate chinese deb_baby_jenny_6003d535:
 
     # debbie "I was worried about that initially as well..."
-    debbie "我一开始也担心过……"
+    debbie "我一开始也担心年龄问题……"
 
 # game/src/plot/deb_baby.rpy:565
 translate chinese deb_baby_jenny_36001ea4:
 
     # debbie f_shy "... But everything seems to have worked out in the end, so-"
-    debbie f_shy "……但最后似乎一切都解决了，所以——"
+    debbie f_shy "……不过最后一切都很顺利，所以——"
 
 # game/src/plot/deb_baby.rpy:566
 translate chinese deb_baby_jenny_79026d67:
 
     # jenny "Well, isn't that lucky?!"
-    jenny "哼，那不是挺幸运的吗？！"
+    jenny "那你可真走运啊？！"
 
 # game/src/plot/deb_baby.rpy:571
 translate chinese deb_baby_jenny_4835c89f:
 
     # jenny e_r "You must feel truly blessed."
-    jenny e_r "你一定觉得自己很受眷顾吧。"
+    jenny e_r "你一定觉得自己简直太有福气了。"
 
 # game/src/plot/deb_baby.rpy:574
 translate chinese deb_baby_jenny_189e89c7:
 
     # diane @ -m_talk "..."
-    diane @ -m_talk "..."
+    diane @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:576
 translate chinese deb_baby_jenny_ff4c3e59:
 
     # debbie "I suppose so, yes."
-    debbie "我想是的。"
+    debbie "大概吧。"
 
 # game/src/plot/deb_baby.rpy:577
 translate chinese deb_baby_jenny_8265692a:
@@ -1162,73 +1162,73 @@ translate chinese deb_baby_jenny_1401ed01:
 translate chinese deb_baby_jenny_61134cdb:
 
     # jenny a_palm e_w "So who's the father?"
-    jenny a_palm e_w "那么，父亲是谁？"
+    jenny a_palm e_w "那孩子他爸是谁？"
 
 # game/src/plot/deb_baby.rpy:590
 translate chinese deb_baby_jenny_4eadd16f:
 
     # debbie a_think f_sad "T-the father?"
-    debbie a_think f_sad "父、父亲？"
+    debbie a_think f_sad "孩、孩子他爸？"
 
 # game/src/plot/deb_baby.rpy:593
 translate chinese deb_baby_jenny_3f5c123f:
 
     # jenny a_hips "Yeah, is it anyone I know?"
-    jenny a_hips "是啊，是我认识的人吗？"
+    jenny a_hips "是啊，我认识吗？"
 
 # game/src/plot/deb_baby.rpy:597
 translate chinese deb_baby_jenny_4833dc79:
 
     # anon "{i}Ack!{/i}"
-    anon "{i}啊！{/i}"
+    anon "{i}呃！{/i}"
 
 # game/src/plot/deb_baby.rpy:601
 translate chinese deb_baby_jenny_0c5ca78c:
 
     # diane @ e_b f_happy m_laugh "{i}*Snort*{/i}"
-    diane @ e_b f_happy m_laugh "{i}*哼*{/i}"
+    diane @ e_b f_happy m_laugh "{i}*噗嗤！*{/i}"
 
 # game/src/plot/deb_baby.rpy:603
 translate chinese deb_baby_jenny_eaaf91e6:
 
     # debbie "I uhh..."
-    debbie "我呃..."
+    debbie "我，呃……"
 
 # game/src/plot/deb_baby.rpy:605
 translate chinese deb_baby_jenny_d7a3ba2f:
 
     # debbie "... Yes!"
-    debbie "...是的！"
+    debbie "……认识！"
 
 # game/src/plot/deb_baby.rpy:607
 translate chinese deb_baby_jenny_737ca6c5:
 
     # debbie a_nervous "It is someone you know."
-    debbie a_nervous "是你认识的人。"
+    debbie a_nervous "确实是你认识的人。"
 
 # game/src/plot/deb_baby.rpy:608
 translate chinese deb_baby_jenny_d7d8ace0:
 
     # jenny "No kidding?"
-    jenny "真的假的？"
+    jenny "还真是？"
 
 # game/src/plot/deb_baby.rpy:612
 translate chinese deb_baby_jenny_b60c2c10:
 
     # jenny "Gee, who do you think it could be, [saga.cast.anon]?"
-    jenny "天哪，你觉得会是谁呢，[saga.cast.anon]？"
+    jenny "哎呀，你猜会是谁呢，[saga.cast.anon]？"
 
 # game/src/plot/deb_baby.rpy:613
 translate chinese deb_baby_jenny_e613be4b:
 
     # jenny f_horny @ -m_talk "Hmmm?"
-    jenny f_horny @ -m_talk "嗯？"
+    jenny f_horny @ -m_talk "嗯——？"
 
 # game/src/plot/deb_baby.rpy:614
 translate chinese deb_baby_jenny_cc2e3ba3:
 
     # anon f_shy_surprised "Ahh, it's... erm-"
-    anon f_shy_surprised "啊，是...呃——"
+    anon f_shy_surprised "啊，是……呃——"
 
 # game/src/plot/deb_baby.rpy:616
 translate chinese deb_baby_jenny_9f57014d:
@@ -1240,25 +1240,25 @@ translate chinese deb_baby_jenny_9f57014d:
 translate chinese deb_baby_jenny_b5687902:
 
     # jenny "[saga.cast.frank]?"
-    jenny "[saga.cast.frank]?"
+    jenny "[saga.cast.frank]？"
 
 # game/src/plot/deb_baby.rpy:621
 translate chinese deb_baby_jenny_77daa45e:
 
     # anon "Ooof!" with vpunch
-    anon "哦！" with vpunch
+    anon "呃！" with vpunch
 
 # game/src/plot/deb_baby.rpy:623
 translate chinese deb_baby_jenny_d526a034:
 
     # jenny f_confused "But, he's been gone for-"
-    jenny f_confused "但是，他已经去世——"
+    jenny f_confused "可他已经去世——"
 
 # game/src/plot/deb_baby.rpy:625
 translate chinese deb_baby_jenny_2e50efea:
 
     # debbie f_sad "Well, obviously it's not what you're thinking!"
-    debbie f_sad "呃，显然不是你想的那样！"
+    debbie f_sad "当然不是你想的那回事！"
 
 # game/src/plot/deb_baby.rpy:627
 translate chinese deb_baby_jenny_3b9f0d0a:
@@ -1270,7 +1270,7 @@ translate chinese deb_baby_jenny_3b9f0d0a:
 translate chinese deb_baby_jenny_4b266a94:
 
     # debbie "Well, as it happens, [saga.cast.frank] had some sperm frozen down at the clinic."
-    debbie "说来也巧，[saga.cast.frank]在诊所冷冻了一些精子。"
+    debbie "是这样的，[saga.cast.frank]以前在诊所冻存过精子。"
 
 # game/src/plot/deb_baby.rpy:630
 translate chinese deb_baby_jenny_18afc36f:
@@ -1282,7 +1282,7 @@ translate chinese deb_baby_jenny_18afc36f:
 translate chinese deb_baby_jenny_41bdad6b:
 
     # debbie "I've just been so broken up over losing him, you know?"
-    debbie "你知道，我因为失去他而心碎不已。"
+    debbie "你也知道，失去他之后，我一直很难走出来。"
 
 # game/src/plot/deb_baby.rpy:633
 translate chinese deb_baby_jenny_53a107cd:
@@ -1294,31 +1294,31 @@ translate chinese deb_baby_jenny_53a107cd:
 translate chinese deb_baby_jenny_d909a79a:
 
     # debbie "I'd give anything to feel a connection again."
-    debbie "我宁愿付出一切来再次感受那种联系。"
+    debbie "我愿意付出一切，只求再次感受到和他的联系。"
 
 # game/src/plot/deb_baby.rpy:638
 translate chinese deb_baby_jenny_37546adc:
 
     # debbie "And then [saga.cast.diane] pointed out, what a shame it would be to let his sample go to waste."
-    debbie "然后[saga.cast.diane]指出，让他的样本浪费掉太可惜了。"
+    debbie "后来[saga.cast.diane]说，要是让他的样本白白浪费，实在太可惜了。"
 
 # game/src/plot/deb_baby.rpy:639
 translate chinese deb_baby_jenny_c0a8e1a5:
 
     # jenny f_horny "Is that right, [saga.cast.diane]?"
-    jenny f_horny "是这样吗，[saga.cast.diane]？"
+    jenny f_horny "是吗，[saga.cast.diane]？"
 
 # game/src/plot/deb_baby.rpy:640
 translate chinese deb_baby_jenny_f6ed0151:
 
     # diane f_shy "Y-yeah, that's what your mother just told you, so..."
-    diane f_shy "呃——是的，你妈妈刚才告诉你的，所以……"
+    diane f_shy "对、对啊……你妈妈刚才不都说了吗，所以……"
 
 # game/src/plot/deb_baby.rpy:642
 translate chinese deb_baby_jenny_f1c4e4cc:
 
     # diane "... I must have said it."
-    diane "……我一定说了。"
+    diane "……那肯定是我说的。"
 
 # game/src/plot/deb_baby.rpy:644
 translate chinese deb_baby_jenny_8510e5a0:
@@ -1354,13 +1354,13 @@ translate chinese deb_baby_jenny_2715ab8e:
 translate chinese deb_baby_jenny_6c792241:
 
     # jenny "Riiiight."
-    jenny "对——了。"
+    jenny "是——吗。"
 
 # game/src/plot/deb_baby.rpy:656
 translate chinese deb_baby_jenny_3a198ef9:
 
     # jenny a_hips e_w f_snide o_left "Well, I bet you're excited... huh, [saga.cast.anon]?"
-    jenny a_hips e_w f_snide o_left "嗯，我打赌你很兴奋……是吧，[saga.cast.anon]？"
+    jenny a_hips e_w f_snide o_left "我猜你一定很兴奋吧……对吗，[saga.cast.anon]？"
 
 # game/src/plot/deb_baby.rpy:657
 translate chinese deb_baby_jenny_1451580e:
@@ -1396,25 +1396,25 @@ translate chinese deb_baby_jenny_94bc7f71:
 translate chinese deb_baby_jenny_19e7e0c6:
 
     # jenny f_horny "Naaah."
-    jenny f_horny "才不呢。"
+    jenny f_horny "才没有。"
 
 # game/src/plot/deb_baby.rpy:663
 translate chinese deb_baby_jenny_715d9a18:
 
     # jenny "It's not unbelievable at all!"
-    jenny "这根本一点也不难以置信！"
+    jenny "这故事一点都不难信！"
 
 # game/src/plot/deb_baby.rpy:664
 translate chinese deb_baby_jenny_9ccba5a7:
 
     # jenny f_snide "In fact, I'd say it's down right convincing."
-    jenny f_snide "事实上，我觉得这相当有说服力。"
+    jenny f_snide "简直真实得不能再真实了。"
 
 # game/src/plot/deb_baby.rpy:666
 translate chinese deb_baby_jenny_cadfbd0a:
 
     # jenny o_right "Excellent story, mom!"
-    jenny o_right "讲得好，妈妈！"
+    jenny o_right "故事编得真好，妈！"
 
 # game/src/plot/deb_baby.rpy:670
 translate chinese deb_baby_jenny_aa3d565f:
@@ -1444,7 +1444,7 @@ translate chinese deb_baby_jenny_2fd50efa:
 translate chinese deb_baby_jenny_8a04d70d:
 
     # debbie f_shy "Well, I made [saga.cast.anon] his favorite."
-    debbie f_shy "嗯，我做了[saga.cast.anon]他最喜欢的。"
+    debbie f_shy "我给[saga.cast.anon]做了他最爱吃的早餐。"
 
 # game/src/plot/deb_baby.rpy:677
 translate chinese deb_baby_jenny_05eb1a40:
@@ -1468,13 +1468,13 @@ translate chinese deb_baby_jenny_d4db96ef:
 translate chinese deb_baby_jenny_0851f6cf:
 
     # debbie "Well, he's earned it!"
-    debbie "哼，他活该！"
+    debbie "这是他应得的！"
 
 # game/src/plot/deb_baby.rpy:686
 translate chinese deb_baby_jenny_b82dc381:
 
     # diane f_happy "Oh, yes... he certainly has."
-    diane f_happy "哦，没错……他确实活该。"
+    diane f_happy "哦，是啊……这当然是他应得的。"
 
 # game/src/plot/deb_baby.rpy:689
 translate chinese deb_baby_jenny_3c56344b:
@@ -1522,13 +1522,13 @@ translate chinese deb_baby_jenny_merge_12c57982:
 translate chinese deb_baby_jenny_merge_48d8023c:
 
     # debbie f_calm "Aww."
-    debbie f_calm "啊哦。"
+    debbie f_calm "哎呀。"
 
 # game/src/plot/deb_baby.rpy:705
 translate chinese deb_baby_jenny_merge_405be8d4:
 
     # debbie f_curious "Well, how about some sugar instead?"
-    debbie f_curious "那，来点糖怎么样？"
+    debbie f_curious "那换成一点“糖”怎么样？"
 
 # game/src/plot/deb_baby.rpy:706
 translate chinese deb_baby_jenny_merge_f6bab7e5:
@@ -1558,7 +1558,7 @@ translate chinese deb_baby_jenny_merge_2bdfecf1:
 translate chinese deb_baby_jenny_merge_8073ee8d:
 
     # anon "Delicious!"
-    anon "美味！"
+    anon "真甜！"
 
 # game/src/plot/deb_baby.rpy:720
 translate chinese deb_baby_jenny_merge_727200e6:
@@ -1570,7 +1570,7 @@ translate chinese deb_baby_jenny_merge_727200e6:
 translate chinese deb_baby_jenny_merge_1f3bb88f:
 
     # diane "Hey, where's my sugar?"
-    diane "嘿，我的糖呢？"
+    diane "嘿，我的“糖”呢？"
 
 # game/src/plot/deb_baby.rpy:725
 translate chinese deb_baby_jenny_merge_795fe52d:
@@ -1600,13 +1600,13 @@ translate chinese deb_baby_jenny_merge_36c0f480:
 translate chinese deb_baby_jenny_merge_ef788eb5:
 
     # debbie "Well, that's all you're getting!"
-    debbie "哼，你就这些了！"
+    debbie "好了，你只能拿到这些！"
 
 # game/src/plot/deb_baby.rpy:731
 translate chinese deb_baby_jenny_merge_3b307ef7:
 
     # debbie "Now go shower, so you can check up on your homestead."
-    debbie "现在去洗澡吧，洗完可以检查你的家园。"
+    debbie "现在去冲个澡，然后回你的园子看看。"
 
 # game/src/plot/deb_baby.rpy:732
 translate chinese deb_baby_jenny_merge_839f5292:
@@ -1624,7 +1624,7 @@ translate chinese deb_baby_jenny_merge_da455a0e:
 translate chinese deb_baby_jenny_merge_d1660d54:
 
     # diane "Need anything while I'm out?"
-    diane "我出去的时候需要什么吗？"
+    diane "我出去时要顺便带什么吗？"
 
 # game/src/plot/deb_baby.rpy:735
 translate chinese deb_baby_jenny_merge_58cb8eb8:
@@ -1636,25 +1636,25 @@ translate chinese deb_baby_jenny_merge_58cb8eb8:
 translate chinese deb_baby_jenny_merge_69d551ff:
 
     # debbie "I've got everything I could ever want right here."
-    debbie "我想要的这里都有。"
+    debbie "我想要的一切都在这儿了。"
 
 # game/src/plot/deb_baby.rpy:737
 translate chinese deb_baby_jenny_merge_5a583d4d:
 
     # diane "Mm, yeah you do!"
-    diane "嗯，你确实有！"
+    diane "嗯，可不是嘛！"
 
 # game/src/plot/deb_baby.rpy:740
 translate chinese deb_baby_jenny_merge_44746db4:
 
     # anon "!!!"
-    anon "!!!"
+    anon "！！！"
 
 # game/src/plot/deb_baby.rpy:741
 translate chinese deb_baby_jenny_merge_ce49d417:
 
     # debbie "[saga.cast.diane]!"
-    debbie "[saga.cast.diane]!"
+    debbie "[saga.cast.diane]！"
 
 # game/src/plot/deb_baby.rpy:742
 translate chinese deb_baby_jenny_merge_795fe52d_1:
@@ -1672,7 +1672,7 @@ translate chinese deb_baby_jenny_merge_2fe06728:
 translate chinese deb_baby_jenny_merge_e101b80c:
 
     # diane "Guilty as charged."
-    diane "我认罪。"
+    diane "被你说中了。"
 
 # game/src/plot/deb_baby.rpy:747
 translate chinese deb_baby_jenny_merge_adf83bd4:
@@ -1684,13 +1684,13 @@ translate chinese deb_baby_jenny_merge_adf83bd4:
 translate chinese deb_baby_jenny_merge_b734ac3d:
 
     # anon "Y-yeah, see ya."
-    anon "呃...嗯，回头见。"
+    anon "呃……嗯，回头见。"
 
 # game/src/plot/deb_baby.rpy:753
 translate chinese deb_baby_jenny_merge_851143e6:
 
     # debbie "Why don't you go take a seat and I'll bring your food."
-    debbie "你为什么不去找个座位，我去给你端食物。"
+    debbie "你先去坐下，我把早餐端给你。"
 
 # game/src/plot/deb_baby.rpy:754
 translate chinese deb_baby_jenny_merge_c6e322d8:
@@ -1720,31 +1720,31 @@ translate chinese deb_baby_jenny_merge_244739f4:
 translate chinese deb_baby_jenny_merge_f523c372:
 
     # anon @ -m_talk "( Phew, what a meal! )"
-    anon @ -m_talk "(呼，真是顿大餐！)"
+    anon @ -m_talk "（呼，这顿吃得真饱！）"
 
 # game/src/plot/deb_baby.rpy:769
 translate chinese deb_baby_jenny_merge_da3a286f:
 
     # anon e_w f_happy @ -m_talk "( And now everything with the baby seems to be settled. )"
-    anon e_w f_happy @ -m_talk "(现在宝宝的事情似乎也都解决了。)"
+    anon e_w f_happy @ -m_talk "（看来孩子的事也算应付过去了。）"
 
 # game/src/plot/deb_baby.rpy:780
 translate chinese deb_baby_jenny_merge_bd711892:
 
     # anon @ -m_talk "( Guess I was worried over nothing. )"
-    anon @ -m_talk "(看来我是白担心了。)"
+    anon @ -m_talk "（看来我是白担心了。）"
 
 # game/src/plot/deb_baby.rpy:787
 translate chinese deb_baby_jenny_alt_2f853dbc:
 
     # jenny "You know, it's starting to get really fucking crowded in this house!"
-    jenny "你知道吗，这房子里开始变得他妈太挤了！"
+    jenny "这房子里的人他妈越来越多了！"
 
 # game/src/plot/deb_baby.rpy:790
 translate chinese deb_baby_jenny_alt_dc9b0e6c:
 
     # diane "Boo hoo."
-    diane "呜呜。"
+    diane "哎哟，好可怜哦。"
 
 # game/src/plot/deb_baby.rpy:791
 translate chinese deb_baby_jenny_alt_81a9a416:
@@ -1768,7 +1768,7 @@ translate chinese deb_baby_jenny_alt_437c5835:
 translate chinese deb_baby_jenny_alt_68e3b16f:
 
     # jenny "It's not like getting knocked up is some great achievement."
-    jenny "又不是说怀上孩子是什么了不起的成就。"
+    jenny "怀个孕又不是什么了不起的成就。"
 
 # game/src/plot/deb_baby.rpy:796
 translate chinese deb_baby_jenny_alt_33813177:
@@ -1786,7 +1786,7 @@ translate chinese deb_baby_jenny_alt_b1162fbb:
 translate chinese deb_baby_jenny_alt_1e0d8ac8:
 
     # debbie a_touch_belly e_s f_happy "Babies are a blessing."
-    debbie a_touch_belly e_s f_happy "孩子是福气。"
+    debbie a_touch_belly e_s f_happy "孩子是上天的恩赐。"
 
 # game/src/plot/deb_baby.rpy:799
 translate chinese deb_baby_jenny_alt_7ecfc07e:
@@ -1834,7 +1834,7 @@ translate chinese deb_baby_jenny_alt_0d2e85b2:
 translate chinese deb_baby_jenny_alt_a2c5fcf3:
 
     # anon a_shy_neck f_shy_surprised "Oh, ehh... really?"
-    anon a_shy_neck f_shy_surprised "哦，呃……真的吗？"
+    anon a_shy_neck f_shy_surprised "哦，呃……真的？"
 
 # game/src/plot/deb_baby.rpy:810
 translate chinese deb_baby_jenny_alt_2c64aaf2:
@@ -1858,19 +1858,19 @@ translate chinese deb_baby_jenny_alt_c07bb4af:
 translate chinese deb_baby_jenny_alt_04b49a99:
 
     # diane "You see, [saga.cast.jenny]..."
-    diane "你看，[saga.cast.jenny]……"
+    diane "看见没，[saga.cast.jenny]……"
 
 # game/src/plot/deb_baby.rpy:819
 translate chinese deb_baby_jenny_alt_8cba95ff:
 
     # diane "... That's how a decent person reacts to things like this."
-    diane "……正派的人对这种事情的反应就是这样。"
+    diane "……正常人听到这种消息就该这么反应。"
 
 # game/src/plot/deb_baby.rpy:828
 translate chinese deb_baby_jenny_alt_9f1b1e62:
 
     # debbie "It wouldn't kill you to be a little supportive once in a while, would it?"
-    debbie "偶尔支持一下又不会要你的命，对吧？"
+    debbie "偶尔支持我一下又不会要你的命，对吧？"
 
 # game/src/plot/deb_baby.rpy:829
 translate chinese deb_baby_jenny_alt_f3e08f47:
@@ -1882,7 +1882,7 @@ translate chinese deb_baby_jenny_alt_f3e08f47:
 translate chinese deb_baby_jenny_alt_87b1f2cf:
 
     # debbie f_sad @ -m_talk "..."
-    debbie f_sad @ -m_talk "..."
+    debbie f_sad @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:833
 translate chinese deb_baby_jenny_alt_e28397b7:
@@ -1894,13 +1894,13 @@ translate chinese deb_baby_jenny_alt_e28397b7:
 translate chinese deb_baby_jenny_rails_aed7dfac:
 
     # anon @ -m_talk "( Where else would they be for showdown, but in the kitchen. )"
-    anon @ -m_talk "(除了厨房，他们还能在哪里对峙呢。)"
+    anon @ -m_talk "（要吵架的话，她们果然还是会选厨房。）"
 
 # game/src/plot/deb_baby.rpy:841
 translate chinese deb_baby_jenny_rails_2c0366f8:
 
     # anon f_surprised m_teeth @ -m_talk "( [saga.cast.jenny] sounds pissed! )"
-    anon f_surprised m_teeth @ -m_talk "([saga.cast.jenny]听起来很生气！)"
+    anon f_surprised m_teeth @ -m_talk "（[saga.cast.jenny]听起来气坏了！）"
 
 # game/src/plot/deb_baby.rpy:879
 translate chinese deb_baby_bump_help1_b5d8e23a:
@@ -1918,7 +1918,7 @@ translate chinese deb_baby_bump_help1_47474234:
 translate chinese deb_baby_bump_help1_b1800ca2:
 
     # debbie "I got [saga.cast.jenny] to carry the basket down for me and the rest I can handle on my own."
-    debbie "我让[saga.cast.jenny]帮我把篮子搬下来，剩下的我自己能搞定。"
+    debbie "我让[saga.cast.jenny]帮我把篮子搬下来，剩下的我自己能应付。"
 
 # game/src/plot/deb_baby.rpy:891
 translate chinese deb_baby_bump_help1_fe0b55c7:
@@ -1930,7 +1930,7 @@ translate chinese deb_baby_bump_help1_fe0b55c7:
 translate chinese deb_baby_bump_help1_7648a29a:
 
     # anon a_finger "[saga.cast.jenny] actually helped you with something?"
-    anon a_finger "[saga.cast.jenny] 居然真的帮了你？"
+    anon a_finger "[saga.cast.jenny]居然真的肯帮忙？"
 
 # game/src/plot/deb_baby.rpy:894
 translate chinese deb_baby_bump_help1_0a3a4a72:
@@ -1942,7 +1942,7 @@ translate chinese deb_baby_bump_help1_0a3a4a72:
 translate chinese deb_baby_bump_help1_a8ffd3c6:
 
     # anon a_side "Did you take a picture?"
-    anon a_side "你拍照了吗？"
+    anon a_side "你拍照留证了吗？"
 
 # game/src/plot/deb_baby.rpy:896
 translate chinese deb_baby_bump_help1_5b29db53:
@@ -1954,13 +1954,13 @@ translate chinese deb_baby_bump_help1_5b29db53:
 translate chinese deb_baby_bump_help1_9244fd22:
 
     # anon a_wtf "I'm just saying, that's unprecedented."
-    anon a_wtf "我只是说，这前所未有。"
+    anon a_wtf "我是说，这可真是破天荒。"
 
 # game/src/plot/deb_baby.rpy:900
 translate chinese deb_baby_bump_help1_9acd3c9d:
 
     # anon "You need documented evidence of stuff like that, otherwise nobody will believe it."
-    anon "这种事得有记录证据，不然没人会信。"
+    anon "这种事不拍照留证，别人可不会相信。"
 
 # game/src/plot/deb_baby.rpy:901
 translate chinese deb_baby_bump_help1_62875525:
@@ -1984,13 +1984,13 @@ translate chinese deb_baby_bump_help2_0b50304b:
 translate chinese deb_baby_bump_merge_690ba373:
 
     # debbie f_calm "I'm fiiiiine, sweetie... really."
-    debbie f_calm "我好好啦，亲爱的……真的。"
+    debbie f_calm "我好得很，亲爱的……真的。"
 
 # game/src/plot/deb_baby.rpy:912
 translate chinese deb_baby_bump_merge_37e95aad:
 
     # debbie "A bit of exercise is good for me."
-    debbie "运动一下对我有好处。"
+    debbie "适当活动一下对我有好处。"
 
 # game/src/plot/deb_baby.rpy:913
 translate chinese deb_baby_bump_merge_a7eea0d5:
@@ -2002,7 +2002,7 @@ translate chinese deb_baby_bump_merge_a7eea0d5:
 translate chinese deb_baby_bump_merge_c64ddce8:
 
     # anon f_calm "Alright, then... just... don't overdo it."
-    anon f_calm "好吧，那么……就是……别太累了。"
+    anon f_calm "那好吧……不过别逞强。"
 
 # game/src/plot/deb_baby.rpy:915
 translate chinese deb_baby_bump_merge_8dd54e9f:
@@ -2050,13 +2050,13 @@ translate chinese deb_baby_bump_intro_28c51851:
 translate chinese deb_baby_bump_intro_dbf4e260:
 
     # anon "Heh, nice!"
-    anon "嘿，不错！"
+    anon "呵，真不错！"
 
 # game/src/plot/deb_baby.rpy:959
 translate chinese deb_baby_bump_mood_c2f117c3:
 
     # anon a_rub f_shy "You're so affectionate lately."
-    anon a_rub f_shy "你最近好亲热。"
+    anon a_rub f_shy "你最近怎么这么黏人？"
 
 # game/src/plot/deb_baby.rpy:960
 translate chinese deb_baby_bump_mood_4ffc659a:
@@ -2074,13 +2074,13 @@ translate chinese deb_baby_bump_mood_ac83e13f:
 translate chinese deb_baby_bump_mood_8838db6c:
 
     # debbie f_horny "It must be this baby you put inside me."
-    debbie f_horny "一定是因为你放进我身体里的这个宝宝。"
+    debbie f_horny "一定是你让我怀上的这个孩子闹的。"
 
 # game/src/plot/deb_baby.rpy:963
 translate chinese deb_baby_bump_mood_376c5948:
 
     # debbie "I just want to be close to you all the time."
-    debbie "我就是想一直靠近你。"
+    debbie "我现在就想时时刻刻黏着你。"
 
 # game/src/plot/deb_baby.rpy:964
 translate chinese deb_baby_bump_mood_cf77b573:
@@ -2092,7 +2092,7 @@ translate chinese deb_baby_bump_mood_cf77b573:
 translate chinese deb_baby_bump_mood_8aa6e79d:
 
     # anon "I like the sound of that idea!"
-    anon "我喜欢这个主意！"
+    anon "这话我爱听！"
 
 # game/src/plot/deb_baby.rpy:968
 translate chinese deb_baby_bump_mood_2577ba83:
@@ -2128,7 +2128,7 @@ translate chinese deb_baby_bump_okay_becb8164:
 translate chinese deb_baby_bump_okay_ef1714f9:
 
     # anon f_shy @ e_sw "W-with the baby, I mean."
-    anon f_shy @ e_sw "我是说……孩子的事。"
+    anon f_shy @ e_sw "我、我是问……你和孩子。"
 
 # game/src/plot/deb_baby.rpy:986
 translate chinese deb_baby_bump_okay_13de4e61:
@@ -2140,13 +2140,13 @@ translate chinese deb_baby_bump_okay_13de4e61:
 translate chinese deb_baby_bump_okay_59612ebb:
 
     # debbie a_touch_belly e_s f_happy "... We're doing great."
-    debbie a_touch_belly e_s f_happy "……我们很好。"
+    debbie a_touch_belly e_s f_happy "……我们都好着呢。"
 
 # game/src/plot/deb_baby.rpy:988
 translate chinese deb_baby_bump_okay_8c5efee5:
 
     # anon "Glad to hear it."
-    anon "很高兴听你这么说。"
+    anon "那我就放心了。"
 
 # game/src/plot/deb_baby.rpy:989
 translate chinese deb_baby_bump_okay_317b89e0:
@@ -2158,7 +2158,7 @@ translate chinese deb_baby_bump_okay_317b89e0:
 translate chinese deb_baby_bump_okay_2fa330f0:
 
     # debbie e_w "It's so sweet how much you're worrying about us."
-    debbie e_w "你为我们这么担心，真贴心。"
+    debbie e_w "你这么担心我们，真贴心。"
 
 # game/src/plot/deb_baby.rpy:992
 translate chinese deb_baby_bump_okay_a3ac3fce:
@@ -2170,13 +2170,13 @@ translate chinese deb_baby_bump_okay_a3ac3fce:
 translate chinese deb_baby_bump_okay_60da7663:
 
     # anon a_palm e_w "You're the most important thing in the world to me."
-    anon a_palm e_w "你是我在这世上最重要的人。"
+    anon a_palm e_w "你才是我在这世上最重要的人。"
 
 # game/src/plot/deb_baby.rpy:996
 translate chinese deb_baby_bump_okay_378a68f3:
 
     # debbie "Aww, I love you so much!"
-    debbie "啊，我好爱你！"
+    debbie "哎呀，我太爱你了！"
 
 # game/src/plot/deb_baby.rpy:997
 translate chinese deb_baby_bump_okay_f9dabf56:
@@ -2206,19 +2206,19 @@ translate chinese deb_baby_bump_pool_d15aca99:
 translate chinese deb_baby_bump_pool_bd6cc7dc:
 
     # debbie "Yeah, I was entertaining the idea."
-    debbie "嗯，我有这个想法。"
+    debbie "是啊，正想着要不要游呢。"
 
 # game/src/plot/deb_baby.rpy:1015
 translate chinese deb_baby_bump_pool_9d8eb5f4:
 
     # anon "Love you in that swimsuit!"
-    anon "爱看你穿那件泳衣！"
+    anon "你穿这件泳衣真迷人！"
 
 # game/src/plot/deb_baby.rpy:1016
 translate chinese deb_baby_bump_pool_cb89e50a:
 
     # debbie "Oh, psh!"
-    debbie "哦，切！"
+    debbie "哎呀，少来！"
 
 # game/src/plot/deb_baby.rpy:1017
 translate chinese deb_baby_bump_pool_e642de50:
@@ -2230,7 +2230,7 @@ translate chinese deb_baby_bump_pool_e642de50:
 translate chinese deb_baby_bump_pool_bc21a92a:
 
     # debbie "My belly is already showing."
-    debbie "我的肚子已经显出来了。"
+    debbie "我的肚子都已经显怀了。"
 
 # game/src/plot/deb_baby.rpy:1019
 translate chinese deb_baby_bump_pool_a96639b2:
@@ -2242,37 +2242,37 @@ translate chinese deb_baby_bump_pool_a96639b2:
 translate chinese deb_baby_bump_pool_272381cf:
 
     # debbie "Pretty soon, I won't even be able to fit in this thing."
-    debbie "很快，我就连这件都穿不下了。"
+    debbie "再过不久，这件泳衣我都穿不下了。"
 
 # game/src/plot/deb_baby.rpy:1021
 translate chinese deb_baby_bump_pool_ecd27316:
 
     # anon "Then I guess, you'll just have to swim naked."
-    anon "那我猜，你只好裸泳了。"
+    anon "那你就只好裸泳了。"
 
 # game/src/plot/deb_baby.rpy:1022
 translate chinese deb_baby_bump_pool_8f2721df:
 
     # debbie "Oh, good grief!"
-    debbie "哦，天呐！"
+    debbie "天哪！"
 
 # game/src/plot/deb_baby.rpy:1023
 translate chinese deb_baby_bump_pool_076419eb:
 
     # anon "We could even do it together."
-    anon "我们甚至可以一起游。"
+    anon "我们还可以一起裸泳。"
 
 # game/src/plot/deb_baby.rpy:1024
 translate chinese deb_baby_bump_pool_9e1d2a79:
 
     # debbie "Yeah, I'm sure the neighbors would love that!"
-    debbie "是啊，我敢肯定邻居们会喜欢的！"
+    debbie "是啊，邻居们肯定爱看得不得了！"
 
 # game/src/plot/deb_baby.rpy:1025
 translate chinese deb_baby_bump_pool_6d0998e0:
 
     # anon "Don't worry about the neighbors."
-    anon "别担心邻居。"
+    anon "管邻居们干什么。"
 
 # game/src/plot/deb_baby.rpy:1026
 translate chinese deb_baby_bump_pool_16d97250:
@@ -2284,7 +2284,7 @@ translate chinese deb_baby_bump_pool_16d97250:
 translate chinese deb_baby_bump_pool_1bfdd5ce:
 
     # anon "Aww."
-    anon "啊呜。"
+    anon "哎——"
 
 # game/src/plot/deb_baby.rpy:1041
 translate chinese deb_baby_belly_a1967dee:
@@ -2302,19 +2302,19 @@ translate chinese deb_baby_belly_a1f0b75a:
 translate chinese deb_baby_belly_548b8322:
 
     # anon f_happy @ -m_talk "( It's a text from [saga.cast.debbie]! )"
-    anon f_happy @ -m_talk "(是[saga.cast.debbie]发来的短信！)"
+    anon f_happy @ -m_talk "（是[saga.cast.debbie]发来的短信！）"
 
 # game/src/plot/deb_baby.rpy:1055
 translate chinese deb_baby_belly_bump_59e4392a:
 
     # anon "And good morning to you, little one."
-    anon "早上好啊，娃娃脸。"
+    anon "小家伙，也跟你说声早安。"
 
 # game/src/plot/deb_baby.rpy:1057
 translate chinese deb_baby_belly_bump_d3dff3e2:
 
     # anon "And hello to you, little one."
-    anon "你好呀，娃娃脸。"
+    anon "小家伙，你好呀。"
 
 # game/src/plot/deb_baby.rpy:1060
 translate chinese deb_baby_belly_bump_a0b289ed:
@@ -2332,13 +2332,13 @@ translate chinese deb_baby_belly_bump_c72b3c21:
 translate chinese deb_baby_belly_bump_cc1e4c5c:
 
     # debbie "You're gonna be such a good daddy."
-    debbie "你会是个好爸爸的。"
+    debbie "你以后一定会是个好爸爸。"
 
 # game/src/plot/deb_baby.rpy:1069
 translate chinese deb_baby_belly_bump_e6eb4fb3:
 
     # debbie "You're such a good daddy."
-    debbie "你真是个称职的爸爸。"
+    debbie "你真是个好爸爸。"
 
 # game/src/plot/deb_baby.rpy:1072
 translate chinese deb_baby_belly_bump_a34048cf:
@@ -2380,25 +2380,25 @@ translate chinese deb_baby_belly_food1_029eece6:
 translate chinese deb_baby_belly_food1_76bc7693:
 
     # debbie e_w f_happy "So, I figured, why not combine the two?!"
-    debbie e_w f_happy "所以我想，为什么不把两者结合起来呢？！"
+    debbie e_w f_happy "所以我一想，干脆把它们拌在一起吃吧？！"
 
 # game/src/plot/deb_baby.rpy:1123
 translate chinese deb_baby_belly_food1_aa566622:
 
     # anon f_disgusted "Eugh."
-    anon f_disgusted "呃。"
+    anon f_disgusted "呕。"
 
 # game/src/plot/deb_baby.rpy:1124
 translate chinese deb_baby_belly_food1_cad38360:
 
     # anon "I can think of a lot of reasons why not."
-    anon "我能想到很多不这么做的理由。"
+    anon "我倒能想出一大堆绝对不能这么吃的理由。"
 
 # game/src/plot/deb_baby.rpy:1125
 translate chinese deb_baby_belly_food1_8aea1777:
 
     # debbie "Heh, it's good!"
-    debbie "嘿，味道还不错！"
+    debbie "呵，真的很好吃！"
 
 # game/src/plot/deb_baby.rpy:1129
 translate chinese deb_baby_belly_food1_dae78df7:
@@ -2410,7 +2410,7 @@ translate chinese deb_baby_belly_food1_dae78df7:
 translate chinese deb_baby_belly_food1_1a44a0f5:
 
     # anon a_calm_down e_w "God, no!"
-    anon a_calm_down e_w "天哪，不！"
+    anon a_calm_down e_w "天哪，才不要！"
 
 # game/src/plot/deb_baby.rpy:1131
 translate chinese deb_baby_belly_food1_f29d57e3:
@@ -2428,37 +2428,37 @@ translate chinese deb_baby_belly_food1_52b1f865:
 translate chinese deb_baby_belly_food1_a941cac4:
 
     # anon @ -m_talk "( Man, I can't believe she's eating that. )"
-    anon @ -m_talk "(天，我真不敢相信她在吃那个。)"
+    anon @ -m_talk "（天啊，真不敢相信她吃得下这种东西。）"
 
 # game/src/plot/deb_baby.rpy:1141
 translate chinese deb_baby_belly_food1_8ae8c5e8:
 
     # anon @ -m_talk "( Pregnancy cravings are the worst! )"
-    anon @ -m_talk "(孕期反应真是糟透了！)"
+    anon @ -m_talk "（孕期的怪口味真可怕！）"
 
 # game/src/plot/deb_baby.rpy:1144
 translate chinese deb_baby_belly_food1_c122b4a1:
 
     # anon @ -m_talk "( Man, the women in this family have the worst pregnancy cravings. )"
-    anon @ -m_talk "(天，这家的女人孕期反应都糟糕透了。)"
+    anon @ -m_talk "（天啊，这家女人怀孕时的口味一个比一个可怕。）"
 
 # game/src/plot/deb_baby.rpy:1145
 translate chinese deb_baby_belly_food1_c8172415:
 
     # anon @ -m_talk "( Like, diabolical levels of nasty. )"
-    anon @ -m_talk "(简直是恶魔级别的恶心。)"
+    anon @ -m_talk "（简直恶心得像是魔鬼发明的。）"
 
 # game/src/plot/deb_baby.rpy:1147
 translate chinese deb_baby_belly_food1_7b61414a:
 
     # anon a_uneasy f_shy "Welp, enjoy your snack... I guess."
-    anon a_uneasy f_shy "好吧，你慢慢享用你的零食……我想。"
+    anon a_uneasy f_shy "那……你慢慢享用吧。"
 
 # game/src/plot/deb_baby.rpy:1148
 translate chinese deb_baby_belly_food1_f487588d:
 
     # debbie e_w "Mm, I plan too."
-    debbie e_w "嗯，我正打算这么做。"
+    debbie e_w "嗯，我当然要。"
 
 # game/src/plot/deb_baby.rpy:1150
 translate chinese deb_baby_belly_food1_93251b02:
@@ -2470,13 +2470,13 @@ translate chinese deb_baby_belly_food1_93251b02:
 translate chinese deb_baby_belly_food1_3c0c5cfd:
 
     # anon a_facepalm "Sheesh."
-    anon a_facepalm "哎呀。"
+    anon a_facepalm "真服了。"
 
 # game/src/plot/deb_baby.rpy:1163
 translate chinese deb_baby_belly_food1b_eb780b0f:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:1165
 translate chinese deb_baby_belly_food1b_94d3c831:
@@ -2488,7 +2488,7 @@ translate chinese deb_baby_belly_food1b_94d3c831:
 translate chinese deb_baby_belly_food1b_bc4c714b:
 
     # anon e_w "Oh, I'm positive."
-    anon e_w "哦，我确定。"
+    anon e_w "确定得不能再确定。"
 
 # game/src/plot/deb_baby.rpy:1167
 translate chinese deb_baby_belly_food1b_8e27cd4c:
@@ -2500,13 +2500,13 @@ translate chinese deb_baby_belly_food1b_8e27cd4c:
 translate chinese deb_baby_belly_food1b_af76c482:
 
     # anon a_cover_mouth @ -m_talk "( Eugh, nasty! )"
-    anon a_cover_mouth @ -m_talk "(呃，真恶心！)"
+    anon a_cover_mouth @ -m_talk "（呕，太恶心了！）"
 
 # game/src/plot/deb_baby.rpy:1184
 translate chinese deb_baby_belly_food2_2a635ad4:
 
     # anon "Oh, no."
-    anon "哦，不。"
+    anon "不是吧。"
 
 # game/src/plot/deb_baby.rpy:1185
 translate chinese deb_baby_belly_food2_8cd09b1b:
@@ -2530,19 +2530,19 @@ translate chinese deb_baby_belly_food2_26d3045a:
 translate chinese deb_baby_belly_food2_988ef857:
 
     # debbie e_sse f_happy "This pregnancy, I just can't get enough of it!"
-    debbie e_sse f_happy "这次怀孕，我真是吃不够！"
+    debbie e_sse f_happy "这次怀孕，我怎么吃都吃不够！"
 
 # game/src/plot/deb_baby.rpy:1191
 translate chinese deb_baby_belly_food2_dae78df7:
 
     # debbie a_mayo_give e_w f_curious "You want some?"
-    debbie a_mayo_give e_w f_curious "你想要吗？"
+    debbie a_mayo_give e_w f_curious "你要不要来点？"
 
 # game/src/plot/deb_baby.rpy:1192
 translate chinese deb_baby_belly_food2_e77c4a38:
 
     # anon e_w "Nu uh."
-    anon e_w "不要。"
+    anon e_w "才不要。"
 
 # game/src/plot/deb_baby.rpy:1193
 translate chinese deb_baby_belly_food2_17b4e2b4:
@@ -2554,19 +2554,19 @@ translate chinese deb_baby_belly_food2_17b4e2b4:
 translate chinese deb_baby_belly_food2_c1c3aa1d:
 
     # anon a_cover_mouth f_disgusted "Eugh, [saga.cast.debbie], please... stop it."
-    anon a_cover_mouth f_disgusted "呃，[saga.cast.debbie]，请...停下。"
+    anon a_cover_mouth f_disgusted "呕，[saga.cast.debbie]，拜托……别再往我面前递了。"
 
 # game/src/plot/deb_baby.rpy:1195
 translate chinese deb_baby_belly_food2_583f4523:
 
     # debbie f_happy "Heh, okay then..."
-    debbie f_happy "呵，那好吧..."
+    debbie f_happy "呵，那好吧……"
 
 # game/src/plot/deb_baby.rpy:1196
 translate chinese deb_baby_belly_food2_dd7a46c1:
 
     # debbie e_wsw "... More for me!"
-    debbie e_wsw "...都是我的了！"
+    debbie e_wsw "……那就全归我了！"
 
 # game/src/plot/deb_baby.rpy:1199
 translate chinese deb_baby_belly_food2_bf6a3293:
@@ -2578,7 +2578,7 @@ translate chinese deb_baby_belly_food2_bf6a3293:
 translate chinese deb_baby_belly_food2_92961960:
 
     # anon @ -m_talk "( So gross!! )"
-    anon @ -m_talk "(真恶心！！)"
+    anon @ -m_talk "（真恶心！！）"
 
 # game/src/plot/deb_baby.rpy:1207
 translate chinese deb_baby_belly_help_aea1cbf2:
@@ -2590,19 +2590,19 @@ translate chinese deb_baby_belly_help_aea1cbf2:
 translate chinese deb_baby_belly_help_97ed3227:
 
     # debbie f_calm "Nope."
-    debbie f_calm "不。"
+    debbie f_calm "不用。"
 
 # game/src/plot/deb_baby.rpy:1209
 translate chinese deb_baby_belly_help_4fa090c8:
 
     # debbie a_touch_belly e_s f_happy "You've already given me everything I need."
-    debbie a_touch_belly e_s f_happy "你已经给了我所需的一切。"
+    debbie a_touch_belly e_s f_happy "你早就把我需要的一切都给我了。"
 
 # game/src/plot/deb_baby.rpy:1210
 translate chinese deb_baby_belly_help_8dd9ab7f:
 
     # anon a_uneasy f_shy "Ah, geez... [saga.cast.debbie]..."
-    anon a_uneasy f_shy "啊，天哪……[saga.cast.debbie]……"
+    anon a_uneasy f_shy "哎呀……[saga.cast.debbie]……"
 
 # game/src/plot/deb_baby.rpy:1212
 translate chinese deb_baby_belly_help_851c1f47:
@@ -2650,7 +2650,7 @@ translate chinese deb_baby_belly_intro_d4883d99:
 translate chinese deb_baby_belly_laundry_794a6128:
 
     # anon a_palm f_worried "I can't believe you're still doing laundry."
-    anon a_palm f_worried "真不敢相信你还在洗衣服。"
+    anon a_palm f_worried "真不敢相信你都这样了还在洗衣服。"
 
 # game/src/plot/deb_baby.rpy:1263
 translate chinese deb_baby_belly_laundry_b0b236de:
@@ -2668,25 +2668,25 @@ translate chinese deb_baby_belly_laundry_4c9679c3:
 translate chinese deb_baby_belly_laundry_63d1cbc9:
 
     # anon "... I mean..."
-    anon "我是说……"
+    anon "……我是说……"
 
 # game/src/plot/deb_baby.rpy:1267
 translate chinese deb_baby_belly_laundry_eda7e894:
 
     # anon a_offer_hand e_wsw "... Look at you!"
-    anon a_offer_hand e_wsw "……看看你自己！"
+    anon a_offer_hand e_wsw "……你看看自己的肚子！"
 
 # game/src/plot/deb_baby.rpy:1269
 translate chinese deb_baby_belly_laundry_3668a28e:
 
     # anon e_w "You should be taking it easy."
-    anon e_w "你应该放松一下。"
+    anon e_w "你应该好好歇着。"
 
 # game/src/plot/deb_baby.rpy:1271
 translate chinese deb_baby_belly_laundry_9397809d:
 
     # debbie e_w f_sceptical "I'm perfectly capable of handling a bit of laundry."
-    debbie e_w f_sceptical "我完全能搞定一点洗衣活。"
+    debbie e_w f_sceptical "这么点衣服，我自己完全应付得来。"
 
 # game/src/plot/deb_baby.rpy:1272
 translate chinese deb_baby_belly_laundry_58aacc96:
@@ -2716,43 +2716,43 @@ translate chinese deb_baby_belly_laundry_4a125ed4:
 translate chinese deb_baby_belly_laundry_00499fda:
 
     # anon "It's bad enough you're going up and down stairs..."
-    anon "你上下楼已经很不容易了..."
+    anon "你挺着这么大的肚子上下楼已经够危险了……"
 
 # game/src/plot/deb_baby.rpy:1278
 translate chinese deb_baby_belly_laundry_464bcc33:
 
     # anon "... You definitely shouldn't be lugging any laundry baskets."
-    anon "...你绝对不应该再拎洗衣篮了。"
+    anon "……绝对不能再拎洗衣篮。"
 
 # game/src/plot/deb_baby.rpy:1279
 translate chinese deb_baby_belly_laundry_67deac21:
 
     # debbie a_side e_w f_calm "You worry too much."
-    debbie a_side e_w f_calm "你太担心了。"
+    debbie a_side e_w f_calm "你就是操心太多。"
 
 # game/src/plot/deb_baby.rpy:1280
 translate chinese deb_baby_belly_laundry_f61292da:
 
     # anon a_fold f_pouty "Says the kettle to the pot."
-    anon a_fold f_pouty "这是乌鸦笑猪黑。"
+    anon a_fold f_pouty "你还好意思说我。"
 
 # game/src/plot/deb_baby.rpy:1283
 translate chinese deb_baby_belly_laundry_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:1284
 translate chinese deb_baby_belly_laundry_eb780b0f:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/deb_baby.rpy:1285
 translate chinese deb_baby_belly_laundry_5710fe01:
 
     # debbie a_hips f_shy "Look, if it gets to be too much, I'll have you or [saga.cast.jenny] to do it, alright?"
-    debbie a_hips f_shy "听着，如果实在不行，我会让你或[saga.cast.jenny]做的，好吗？"
+    debbie a_hips f_shy "听着，真要吃不消了，我会叫你或者[saga.cast.jenny]来做，好吗？"
 
 # game/src/plot/deb_baby.rpy:1286
 translate chinese deb_baby_belly_laundry_97b9ed4e:
@@ -2776,19 +2776,19 @@ translate chinese deb_baby_belly_laundry_dda7ae3f:
 translate chinese deb_baby_belly_okay_27f60596:
 
     # anon f_calm "How are we doing?"
-    anon f_calm "我们怎么样？"
+    anon f_calm "你们怎么样？"
 
 # game/src/plot/deb_baby.rpy:1294
 translate chinese deb_baby_belly_okay_2937a889:
 
     # debbie f_calm "So far, so good."
-    debbie f_calm "到目前为止，还不错。"
+    debbie f_calm "目前一切都好。"
 
 # game/src/plot/deb_baby.rpy:1295
 translate chinese deb_baby_belly_okay_99b60e4e:
 
     # debbie a_touch_belly e_s "Although, I've noticed that it becomes more active when you're around."
-    debbie a_touch_belly e_s "不过，我注意到你在的时候它动得更厉害了。"
+    debbie a_touch_belly e_s "不过我发现，只要你在身边，孩子就动得特别活跃。"
 
 # game/src/plot/deb_baby.rpy:1296
 translate chinese deb_baby_belly_okay_0be188e2:
@@ -2800,7 +2800,7 @@ translate chinese deb_baby_belly_okay_0be188e2:
 translate chinese deb_baby_belly_okay_1bd36fe5:
 
     # debbie e_w "Yeah, have a feel."
-    debbie e_w "是啊，你摸摸看。"
+    debbie e_w "是啊，你来摸摸。"
 
 # game/src/plot/deb_baby.rpy:1301
 translate chinese deb_baby_belly_okay_1e46b8a6:
@@ -2812,7 +2812,7 @@ translate chinese deb_baby_belly_okay_1e46b8a6:
 translate chinese deb_baby_belly_okay_695bed2d:
 
     # debbie @ f_curious "You feel it kick?"
-    debbie @ f_curious "你感觉到它在动了吗？"
+    debbie @ f_curious "感觉到孩子踢你了吗？"
 
 # game/src/plot/deb_baby.rpy:1303
 translate chinese deb_baby_belly_okay_1ace3b94:
@@ -2830,7 +2830,7 @@ translate chinese deb_baby_belly_okay_214890d6:
 translate chinese deb_baby_belly_okay_c6002ff8:
 
     # debbie "Heh, I think it's happy to hear it's daddy's voice."
-    debbie "嘿，我觉得它是听到爸爸的声音太开心了。"
+    debbie "呵，我看孩子是听到爸爸说话，高兴坏了。"
 
 # game/src/plot/deb_baby.rpy:1309
 translate chinese deb_baby_belly_okay_c8481ccd:
@@ -2878,13 +2878,13 @@ translate chinese deb_baby_belly_pool_d59deb5e:
 translate chinese deb_baby_belly_pool_0608373b:
 
     # anon "Hmm, I suppose you're right about that."
-    anon "嗯，你说得对。"
+    anon "嗯，这倒也是。"
 
 # game/src/plot/deb_baby.rpy:1329
 translate chinese deb_baby_belly_pool_8869a3e4:
 
     # anon "Welp, let's go then."
-    anon "好吧，那我们走吧。"
+    anon "那走吧。"
 
 # game/src/plot/deb_baby.rpy:1330
 translate chinese deb_baby_belly_pool_158b234b:
@@ -2896,13 +2896,13 @@ translate chinese deb_baby_belly_pool_158b234b:
 translate chinese deb_baby_belly_pool_49e3ffca:
 
     # anon "Robe off."
-    anon "脱掉浴袍。"
+    anon "把浴袍脱了。"
 
 # game/src/plot/deb_baby.rpy:1332
 translate chinese deb_baby_belly_pool_e7e2e5cb:
 
     # anon "It's exercise time!"
-    anon "锻炼时间到了！"
+    anon "该锻炼了！"
 
 # game/src/plot/deb_baby.rpy:1333
 translate chinese deb_baby_belly_pool_51aa6318:
@@ -2920,7 +2920,7 @@ translate chinese deb_baby_belly_pool_0281c943:
 translate chinese deb_baby_belly_pool_ec236a65:
 
     # anon "Aww, c'mon.."
-    anon "哎呀，别这样.."
+    anon "哎呀，来嘛……"
 
 # game/src/plot/deb_baby.rpy:1336
 translate chinese deb_baby_belly_pool_583a869e:
@@ -2938,7 +2938,7 @@ translate chinese deb_baby_belly_pool_8a2c018e:
 translate chinese deb_baby_belly_pool_322b51d5:
 
     # debbie "I'm perfectly content just dipping my feet in, thank you very much."
-    debbie "我就泡泡脚，挺满足的，多谢关心。"
+    debbie "我泡泡脚就很满足了，多谢关心。"
 
 # game/src/plot/deb_baby.rpy:1339
 translate chinese deb_baby_belly_pool_d46280bd:
@@ -2950,13 +2950,13 @@ translate chinese deb_baby_belly_pool_d46280bd:
 translate chinese deb_baby_belly_pool_2a99945b:
 
     # anon "Can't blame a guy for trying, can you?"
-    anon "总得让人试试，对吧？"
+    anon "总不能怪我试都不试一下吧？"
 
 # game/src/plot/deb_baby.rpy:1355
 translate chinese deb_baby_read2_b33f081b:
 
     # anon "Oh, holy crap!"
-    anon "哦，天哪！"
+    anon "天啊！"
 
 # game/src/plot/deb_baby.rpy:1356
 translate chinese deb_baby_read2_7f5134ce:
@@ -2968,19 +2968,19 @@ translate chinese deb_baby_read2_7f5134ce:
 translate chinese deb_baby_read2_03d5c575:
 
     # anon "I gotta go check on them, like, right now!!"
-    anon "我得马上去看看他们，就现在！！"
+    anon "我得马上赶过去看看！！"
 
 # game/src/plot/deb_baby.rpy:1364
 translate chinese deb_baby_read2_rails_9ed26f79:
 
     # anon @ -m_talk "( No way I ghost [saga.cast.debbie]! )"
-    anon @ -m_talk "(可不能放[saga.cast.debbie]鸽子！)"
+    anon @ -m_talk "（我绝不能放[saga.cast.debbie]鸽子！）"
 
 # game/src/plot/deb_baby.rpy:1365
 translate chinese deb_baby_read2_rails_a80b4519:
 
     # anon f_happy @ -m_talk "( Let's look at her message. )"
-    anon f_happy @ -m_talk "(看看她的消息吧。)"
+    anon f_happy @ -m_talk "（先看看她发了什么。）"
 
 # game/src/plot/deb_baby.rpy:1376
 translate chinese deb_baby_meet_e18160c9:
@@ -2992,13 +2992,13 @@ translate chinese deb_baby_meet_e18160c9:
 translate chinese deb_baby_meet_2c64e7df:
 
     # anon a_side "Of course I made it."
-    anon a_side "我当然来了。"
+    anon a_side "我当然会来。"
 
 # game/src/plot/deb_baby.rpy:1378
 translate chinese deb_baby_meet_b8a26ab0:
 
     # anon "It's my-"
-    anon "这是我的——"
+    anon "这可是我的——"
 
 # game/src/plot/deb_baby.rpy:1381
 translate chinese deb_baby_meet_90ad7ca7:
@@ -3010,13 +3010,13 @@ translate chinese deb_baby_meet_90ad7ca7:
 translate chinese deb_baby_meet_3c42826a:
 
     # anon a_hips f_shy "M-my responsibility to look after you now, right."
-    anon a_hips f_shy "现在照顾你是我的责任，对吧。"
+    anon a_hips f_shy "我、我现在有责任照顾你，对吧。"
 
 # game/src/plot/deb_baby.rpy:1385
 translate chinese deb_baby_meet_50fbefda:
 
     # anon "[saga.cast.jenny] and you... I mean."
-    anon "[saga.cast.jenny]和你……我是说。"
+    anon "我是说……你和[saga.cast.jenny]。"
 
 # game/src/plot/deb_baby.rpy:1387
 translate chinese deb_baby_meet_a763cd38:
@@ -3052,49 +3052,49 @@ translate chinese deb_baby_meet_e04ac368:
 translate chinese deb_baby_meet_d7c62096:
 
     # anon a_side e_wsw f_happy "Oh, wow!"
-    anon a_side e_wsw f_happy "哦，哇！"
+    anon a_side e_wsw f_happy "哇！"
 
 # game/src/plot/deb_baby.rpy:1409
 translate chinese deb_baby_meet_fe167f6b:
 
     # anon "He's beautiful."
-    anon "他很漂亮。"
+    anon "他真可爱。"
 
 # game/src/plot/deb_baby.rpy:1410
 translate chinese deb_baby_meet_8800dbde:
 
     # debbie "Isn't he?"
-    debbie "不是吗？"
+    debbie "是吧？"
 
 # game/src/plot/deb_baby.rpy:1413
 translate chinese deb_baby_meet_acdde093:
 
     # anon "She's beautiful."
-    anon "她很漂亮。"
+    anon "她真可爱。"
 
 # game/src/plot/deb_baby.rpy:1414
 translate chinese deb_baby_meet_e6f3b73e:
 
     # debbie "Isn't she?"
-    debbie "不是吗？"
+    debbie "是吧？"
 
 # game/src/plot/deb_baby.rpy:1417
 translate chinese deb_baby_meet_e2f5c3ea:
 
     # anon "They're beautiful."
-    anon "他们很漂亮。"
+    anon "他们真可爱。"
 
 # game/src/plot/deb_baby.rpy:1418
 translate chinese deb_baby_meet_c3ce6340:
 
     # debbie "Aren't they?"
-    debbie "不是吗？"
+    debbie "是吧？"
 
 # game/src/plot/deb_baby.rpy:1420
 translate chinese deb_baby_meet_e4f7293f:
 
     # debbie e_w "I just can't get over it!"
-    debbie e_w "我就是没办法忘记它！"
+    debbie e_w "我到现在都还觉得像做梦一样！"
 
 # game/src/plot/deb_baby.rpy:1422
 translate chinese deb_baby_meet_9b26c6fd:
@@ -3106,13 +3106,13 @@ translate chinese deb_baby_meet_9b26c6fd:
 translate chinese deb_baby_meet_3fc6ffe9:
 
     # anon @ f_calm "Yeah, you are."
-    anon @ f_calm "是的，你是。"
+    anon @ f_calm "嗯，真的。"
 
 # game/src/plot/deb_baby.rpy:1424
 translate chinese deb_baby_meet_52b4185d:
 
     # anon "The best mother."
-    anon "最好的妈妈。"
+    anon "而且是最好的妈妈。"
 
 # game/src/plot/deb_baby.rpy:1425
 translate chinese deb_baby_meet_6c7ac28e:
@@ -3124,7 +3124,7 @@ translate chinese deb_baby_meet_6c7ac28e:
 translate chinese deb_baby_meet_0e360855:
 
     # debbie "I love you so much!"
-    debbie "我太爱你了！"
+    debbie "我真的好爱你！"
 
 # game/src/plot/deb_baby.rpy:1428
 translate chinese deb_baby_meet_5816b951:
@@ -3136,25 +3136,25 @@ translate chinese deb_baby_meet_5816b951:
 translate chinese deb_baby_meet_b05aabbe:
 
     # jenny "Geez, get a room already."
-    jenny "天哪，你们俩找个房间吧。"
+    jenny "天哪，你们俩能不能找个房间亲热去。"
 
 # game/src/plot/deb_baby.rpy:1432
 translate chinese deb_baby_meet_ecfc3ecd:
 
     # debbie e_wnw f_shy "We're already in a room, dear."
-    debbie e_wnw f_shy "我们已经在一个房间里了，亲爱的。"
+    debbie e_wnw f_shy "可我们已经在房间里了，亲爱的。"
 
 # game/src/plot/deb_baby.rpy:1435
 translate chinese deb_baby_meet_e045b0bc:
 
     # jenny "N-no, I meant-"
-    jenny "不，我是说——"
+    jenny "不、不是，我的意思是——"
 
 # game/src/plot/deb_baby.rpy:1438
 translate chinese deb_baby_meet_0cab8497:
 
     # jenny a_upset "Ugh, never mind."
-    jenny a_upset "呃，算了。"
+    jenny a_upset "唉，算了。"
 
 # game/src/plot/deb_baby.rpy:1439
 translate chinese deb_baby_meet_d1dea762:
@@ -3184,25 +3184,25 @@ translate chinese deb_baby_meet_3c2da186:
 translate chinese deb_baby_meet_20088e22:
 
     # jenny a_side e_sw f_disgusted "No, not really."
-    jenny a_side e_sw f_disgusted "不，不太想。"
+    jenny a_side e_sw f_disgusted "不，没什么兴趣。"
 
 # game/src/plot/deb_baby.rpy:1453
 translate chinese deb_baby_meet_fcb715a8:
 
     # debbie f_worried_surprised "[saga.cast.jenny]!"
-    debbie f_worried_surprised "[saga.cast.jenny]!"
+    debbie f_worried_surprised "[saga.cast.jenny]！"
 
 # game/src/plot/deb_baby.rpy:1457
 translate chinese deb_baby_meet_ed786c36:
 
     # debbie f_sad "Tch, fine."
-    debbie f_sad "切，好吧。"
+    debbie f_sad "啧，行吧。"
 
 # game/src/plot/deb_baby.rpy:1458
 translate chinese deb_baby_meet_eeac613f:
 
     # debbie "Just remember that I won't be home for a few days so you're on your own for food and what not."
-    debbie "记住我几天不回家，所以你得自己解决吃的什么的。"
+    debbie "记住，我这几天都不回家，吃饭什么的你得自己解决。"
 
 # game/src/plot/deb_baby.rpy:1463
 translate chinese deb_baby_meet_3d660788:
@@ -3214,19 +3214,19 @@ translate chinese deb_baby_meet_3d660788:
 translate chinese deb_baby_meet_ea649d42:
 
     # debbie "Tsk, I had hoped she would be more excited about new sibling."
-    debbie "啧，我还以为她会更高兴有个新弟弟呢。"
+    debbie "啧，我还以为她有了弟弟妹妹会更高兴呢。"
 
 # game/src/plot/deb_baby.rpy:1471
 translate chinese deb_baby_meet_bf263d0f:
 
     # anon "Meh, what can you do?"
-    anon "唉，有什么办法呢？"
+    anon "唉，她就那样，能怎么办？"
 
 # game/src/plot/deb_baby.rpy:1472
 translate chinese deb_baby_meet_aadd7332:
 
     # anon "It's [saga.cast.jenny]."
-    anon "是[saga.cast.jenny]。"
+    anon "她可是[saga.cast.jenny]。"
 
 # game/src/plot/deb_baby.rpy:1473
 translate chinese deb_baby_meet_636f8d1b:
@@ -3238,13 +3238,13 @@ translate chinese deb_baby_meet_636f8d1b:
 translate chinese deb_baby_meet_3f727d61:
 
     # anon "Hey, I'm excited."
-    anon "嘿，我可兴奋了。"
+    anon "嘿，我可是高兴得不得了。"
 
 # game/src/plot/deb_baby.rpy:1476
 translate chinese deb_baby_meet_0d0e47d7:
 
     # debbie e_wnw f_calm "Aww, I know you are, sweetie."
-    debbie e_wnw f_calm "哦，我知道你兴奋，亲爱的。"
+    debbie e_wnw f_calm "嗯，我知道，亲爱的。"
 
 # game/src/plot/deb_baby.rpy:1478
 translate chinese deb_baby_meet_c87f3e01:
@@ -3256,73 +3256,73 @@ translate chinese deb_baby_meet_c87f3e01:
 translate chinese deb_baby_meet_98a1db10:
 
     # debbie "Come and say hi to your son."
-    debbie "过来跟你儿子打个招呼。"
+    debbie "过来跟你儿子打声招呼。"
 
 # game/src/plot/deb_baby.rpy:1484
 translate chinese deb_baby_meet_fb907930:
 
     # anon "Hello little guy."
-    anon "你好啊娃娃脸。"
+    anon "你好呀，小家伙。"
 
 # game/src/plot/deb_baby.rpy:1485
 translate chinese deb_baby_meet_4093fcd6:
 
     # anon a_side "You don't know it yet, but you're the most loved baby in the entire world."
-    anon a_side "你还不知道吧，你是全世界最受宠爱的宝宝。"
+    anon a_side "你现在还不知道，但你是全世界最受疼爱的宝宝。"
 
 # game/src/plot/deb_baby.rpy:1488
 translate chinese deb_baby_meet_9c91966a:
 
     # debbie "Come and say hi to your daughter."
-    debbie "过来跟你女儿打个招呼。"
+    debbie "过来跟你女儿打声招呼。"
 
 # game/src/plot/deb_baby.rpy:1490
 translate chinese deb_baby_meet_3fd87e88:
 
     # anon "Hello little girl."
-    anon "你好啊，小姑娘。"
+    anon "你好呀，小姑娘。"
 
 # game/src/plot/deb_baby.rpy:1491
 translate chinese deb_baby_meet_4093fcd6_1:
 
     # anon a_side "You don't know it yet, but you're the most loved baby in the entire world."
-    anon a_side "你还不知道，但你是全世界最被爱着的宝宝。"
+    anon a_side "你现在还不知道，但你是全世界最受疼爱的宝宝。"
 
 # game/src/plot/deb_baby.rpy:1494
 translate chinese deb_baby_meet_7145ca35:
 
     # debbie "Come and say hi to your babies."
-    debbie "过来跟你的宝宝们打个招呼。"
+    debbie "过来跟你的宝宝们打声招呼。"
 
 # game/src/plot/deb_baby.rpy:1496
 translate chinese deb_baby_meet_d3538ce3:
 
     # anon "Hello little ones."
-    anon "你们好啊，娃娃脸们。"
+    anon "你们好呀，小家伙们。"
 
 # game/src/plot/deb_baby.rpy:1497
 translate chinese deb_baby_meet_cb5ae2fd:
 
     # anon a_side "You don't know it yet, but you're the most loved babies in the entire world."
-    anon a_side "你们还不知道，但你们是全世界最被爱着的宝宝。"
+    anon a_side "你们现在还不知道，但你们是全世界最受疼爱的宝宝。"
 
 # game/src/plot/deb_baby.rpy:1500
 translate chinese deb_baby_meet_525e5ae5:
 
     # anon "I'm going to spoil you rotten."
-    anon "我要把你宠坏。"
+    anon "以后非把你宠坏不可。"
 
 # game/src/plot/deb_baby.rpy:1501
 translate chinese deb_baby_meet_ea70a514:
 
     # debbie "{i}*Sniff*{/i} Oh, I love you so much."
-    debbie "{i}*抽鼻子*{/i} 噢，我太爱你了。"
+    debbie "{i}*吸鼻子*{/i} 哦，我真的好爱你。"
 
 # game/src/plot/deb_baby.rpy:1503
 translate chinese deb_baby_meet_e1e2e7ca:
 
     # debbie "You're going to be a wonderful father."
-    debbie "你会是个好父亲的。"
+    debbie "你一定会成为一个好爸爸。"
 
 # game/src/plot/deb_baby.rpy:1504
 translate chinese deb_baby_meet_2973c665:
@@ -3334,7 +3334,7 @@ translate chinese deb_baby_meet_2973c665:
 translate chinese deb_baby_meet_0616877a:
 
     # anon @ -m_talk "{i}*Muah*{/i}"
-    anon @ -m_talk "{i}*嗯啊*{/i}"
+    anon @ -m_talk "{i}*啵*{/i}"
 
 # game/src/plot/deb_baby.rpy:1512
 translate chinese deb_baby_meet_244739f4:
@@ -3346,97 +3346,97 @@ translate chinese deb_baby_meet_244739f4:
 translate chinese deb_baby_meet_18f18650:
 
     # anon @ -m_talk "( It's so heartwarming seeing [saga.cast.debbie] like this. )"
-    anon @ -m_talk "(看到[saga.cast.debbie]这样，真是让人暖心。)"
+    anon @ -m_talk "（看到[saga.cast.debbie]这么幸福，心里真暖。）"
 
 # game/src/plot/deb_baby.rpy:1519
 translate chinese deb_baby_meet_007fb620:
 
     # anon @ -m_talk "( She really was made to be a mom, it's her calling. )"
-    anon @ -m_talk "(她天生就是当妈妈的料，这是她的使命。)"
+    anon @ -m_talk "（她天生就适合做妈妈，这就是她的使命。）"
 
 # game/src/plot/deb_baby.rpy:1520
 translate chinese deb_baby_meet_80d56152:
 
     # anon @ -m_talk "( I can't wait to get them back home, but for now they need to rest. )"
-    anon @ -m_talk "(我迫不及待想带她们回家，但现在她们需要休息。)"
+    anon @ -m_talk "（真想早点接她和孩子回家，不过现在还是得让他们好好休息。）"
 
 # game/src/plot/deb_baby.rpy:1531
 translate chinese deb_baby_meet_rails_2b0a0e3f:
 
     # anon @ -m_talk "( The recovery ward is on the third floor, no time to waste. )"
-    anon @ -m_talk "(康复病房在三楼，别浪费时间了。)"
+    anon @ -m_talk "（康复病房在三楼，得抓紧时间。）"
 
 # game/src/plot/deb_baby.rpy:1534
 translate chinese deb_baby_meet_rails_bd0bafd8:
 
     # anon @ -m_talk "( The ward chart says that [saga.cast.debbie] is in [saga.cast.debbie.where!l]. )"
-    anon @ -m_talk "(病房表显示[saga.cast.debbie]在[saga.cast.debbie.where!l]。)"
+    anon @ -m_talk "（病房名单上写着，[saga.cast.debbie]在[saga.cast.debbie.where!l]。）"
 
 # game/src/plot/deb_baby.rpy:1537
 translate chinese deb_baby_meet_rails_69ff73ee:
 
     # anon @ -m_talk "( Well clearly she's not in this room... )"
-    anon @ -m_talk "(显然她不在这个房间……)"
+    anon @ -m_talk "（她显然不在这间病房……）"
 
 # game/src/plot/deb_baby.rpy:1538
 translate chinese deb_baby_meet_rails_b3c6319a:
 
     # anon o_left @ -m_talk "( ... She must be in one of the others. )"
-    anon o_left @ -m_talk "(……她一定在其他房间里。)"
+    anon o_left @ -m_talk "（……肯定在别的病房。）"
 
 # game/src/plot/deb_baby.rpy:1541
 translate chinese deb_baby_meet_rails_48770d11:
 
     # anon @ -m_talk "( [saga.cast.debbie] is probably already at the hospital... )"
-    anon @ -m_talk "([saga.cast.debbie]可能已经在医院了……)"
+    anon @ -m_talk "（[saga.cast.debbie]现在应该已经到医院了……）"
 
 # game/src/plot/deb_baby.rpy:1542
 translate chinese deb_baby_meet_rails_780dc94c:
 
     # anon f_worried @ -m_talk "( ... With [saga.cast.jenny]. )"
-    anon f_worried @ -m_talk "(……和[saga.cast.jenny]一起。)"
+    anon f_worried @ -m_talk "（……还是跟[saga.cast.jenny]一起去的。）"
 
 # game/src/plot/deb_baby.rpy:1543
 translate chinese deb_baby_meet_rails_1c7dc285:
 
     # anon f_worried_surprised @ -m_talk "( Not exactly my first choice for moral support... I should get there right away! )"
-    anon f_worried_surprised @ -m_talk "(这可不是我寻求精神支持的首选……我得赶紧过去！)"
+    anon f_worried_surprised @ -m_talk "（要找人陪着壮胆，她可绝不是首选……我得马上赶过去！）"
 
 # game/src/plot/deb_baby.rpy:1562
 translate chinese deb_baby_rest_help_85ae4127:
 
     # anon f_shy "Can I get you anything?"
-    anon f_shy "需要我帮你拿点什么吗？"
+    anon f_shy "想要什么吗？我去给你拿。"
 
 # game/src/plot/deb_baby.rpy:1563
 translate chinese deb_baby_rest_help_d8509142:
 
     # debbie e_wnw f_curious "Just keep an eye on [saga.cast.jenny], will you?"
-    debbie e_wnw f_curious "帮我盯着点[saga.cast.jenny]，好吗？"
+    debbie e_wnw f_curious "帮我照看一下[saga.cast.jenny]，好吗？"
 
 # game/src/plot/deb_baby.rpy:1565
 translate chinese deb_baby_rest_help_ce11519b:
 
     # debbie f_sad "I worry about her being alone."
-    debbie f_sad "我担心她一个人待着。"
+    debbie f_sad "我担心她一个人没人管。"
 
 # game/src/plot/deb_baby.rpy:1566
 translate chinese deb_baby_rest_help_56906376:
 
     # anon f_shy "Heh, that's a silly thing to worry about."
-    anon f_shy "嘿，这担心可有点傻。"
+    anon f_shy "呵，这倒没什么好担心的。"
 
 # game/src/plot/deb_baby.rpy:1569
 translate chinese deb_baby_rest_help_4f188d9c:
 
     # anon a_palm "[saga.cast.jenny] is gonna do what [saga.cast.jenny] wants."
-    anon a_palm "[saga.cast.jenny]会做[saga.cast.jenny]想做的事。"
+    anon a_palm "[saga.cast.jenny]想干什么，[saga.cast.jenny]就会干什么。"
 
 # game/src/plot/deb_baby.rpy:1570
 translate chinese deb_baby_rest_help_f9e61019:
 
     # anon "Nothing I say will make a difference."
-    anon "我说什么都没用。"
+    anon "我说什么都不会有用。"
 
 # game/src/plot/deb_baby.rpy:1572
 translate chinese deb_baby_rest_help_ae1c1ec2:
@@ -3448,13 +3448,13 @@ translate chinese deb_baby_rest_help_ae1c1ec2:
 translate chinese deb_baby_rest_help_6125a0f0:
 
     # debbie "I don't understand where she got her stubborness from."
-    debbie "真不知道她那倔脾气是跟谁学的。"
+    debbie "真不知道她那股倔劲是从哪儿来的。"
 
 # game/src/plot/deb_baby.rpy:1576
 translate chinese deb_baby_rest_help_dfa16a77:
 
     # anon a_uneasy e_e "[saga.cast.jenny] and I don't fight nearly as much as we used to."
-    anon a_uneasy e_e "[saga.cast.jenny]和我现在吵架比以前少多了。"
+    anon a_uneasy e_e "[saga.cast.jenny]和我已经不像以前那么爱吵了。"
 
 # game/src/plot/deb_baby.rpy:1577
 translate chinese deb_baby_rest_help_146b744b:
@@ -3466,55 +3466,55 @@ translate chinese deb_baby_rest_help_146b744b:
 translate chinese deb_baby_rest_help_9792fc10:
 
     # anon e_wsw f_shy_surprised "In fact, we've been spending lots of... {i}quality{/i} time together as of late."
-    anon e_wsw f_shy_surprised "事实上，我们最近一直在一起度过很多……{i}高质量{/i}的时光。"
+    anon e_wsw f_shy_surprised "其实，我们最近经常一起……{i}好好相处{/i}。"
 
 # game/src/plot/deb_baby.rpy:1580
 translate chinese deb_baby_rest_help_8f08f8a3:
 
     # debbie "Oh, that's so wonderful to hear!"
-    debbie "哦，那真是太好了！"
+    debbie "哦，听你这么说真好！"
 
 # game/src/plot/deb_baby.rpy:1581
 translate chinese deb_baby_rest_help_b80afc8d:
 
     # debbie "You two can slot together like pieces of a puzzle when you want to."
-    debbie "你俩想合拍的时候，就像拼图一样无缝契合。"
+    debbie "你们俩只要肯好好相处，明明就像两块拼图一样严丝合缝。"
 
 # game/src/plot/deb_baby.rpy:1583
 translate chinese deb_baby_rest_help_4d3c6d22:
 
     # anon a_think e_nw f_pensive "Heh, that's... true... actually."
-    anon a_think e_nw f_pensive "呵，这……确实……没错。"
+    anon a_think e_nw f_pensive "呵，这……倒确实……没错。"
 
 # game/src/plot/deb_baby.rpy:1585
 translate chinese deb_baby_rest_help_b07453a3:
 
     # anon a_ouch e_s f_happy "She fits me like a glove."
-    anon a_ouch e_s f_happy "她和我非常合拍。"
+    anon a_ouch e_s f_happy "她跟我确实严丝合缝。"
 
 # game/src/plot/deb_baby.rpy:1590
 translate chinese deb_baby_rest_help_7e2ab177:
 
     # anon "We'll be alright."
-    anon "我们会没事的。"
+    anon "我们不会有事的。"
 
 # game/src/plot/deb_baby.rpy:1592
 translate chinese deb_baby_rest_help_c792764f:
 
     # anon f_shy "You just focus on resting up, I miss you!"
-    anon f_shy "你只管好好休息，我想你！"
+    anon f_shy "你只管好好休息，我会想你的！"
 
 # game/src/plot/deb_baby.rpy:1593
 translate chinese deb_baby_rest_help_3b7c3854:
 
     # debbie "I miss you too, sweetie."
-    debbie "我也想你，亲爱的。"
+    debbie "我也会想你，亲爱的。"
 
 # game/src/plot/deb_baby.rpy:1598
 translate chinese deb_baby_rest_intro_0ff65543:
 
     # anon "You guys awake?"
-    anon "你们醒着吗？"
+    anon "你们都醒着吗？"
 
 # game/src/plot/deb_baby.rpy:1600
 translate chinese deb_baby_rest_intro_6161f680:
@@ -3526,31 +3526,31 @@ translate chinese deb_baby_rest_intro_6161f680:
 translate chinese deb_baby_rest_intro_5ff23c85:
 
     # debbie "Yeah, we're awake."
-    debbie "嗯，我们醒了。"
+    debbie "嗯，我们都醒着。"
 
 # game/src/plot/deb_baby.rpy:1617
 translate chinese deb_baby_rest_micoe_9c19fb40:
 
     # anon f_curious "Any problems?"
-    anon f_curious "有什么问题吗？"
+    anon f_curious "一切都还好吗？"
 
 # game/src/plot/deb_baby.rpy:1620
 translate chinese deb_baby_rest_micoe_a57eed6e:
 
     # micoe "No, the little guy is doing very well."
-    micoe "没有，娃娃脸情况很好。"
+    micoe "没问题，小家伙的情况很好。"
 
 # game/src/plot/deb_baby.rpy:1622
 translate chinese deb_baby_rest_micoe_383ff35a:
 
     # micoe "No, the little girl is doing very well."
-    micoe "没有，小女孩情况很好。"
+    micoe "没问题，小姑娘的情况很好。"
 
 # game/src/plot/deb_baby.rpy:1624
 translate chinese deb_baby_rest_micoe_adbff167:
 
     # micoe "No, the babies are doing very well."
-    micoe "没有，宝宝们情况都很好。"
+    micoe "没问题，孩子们的情况都很好。"
 
 # game/src/plot/deb_baby.rpy:1626
 translate chinese deb_baby_rest_micoe_90e640c3:
@@ -3568,13 +3568,13 @@ translate chinese deb_baby_rest_micoe_92b2af15:
 translate chinese deb_baby_rest_micoe_38575c48:
 
     # micoe "We'll have them back home in no time."
-    micoe "我们很快就能带他们回家了。"
+    micoe "用不了多久就能带他们回家了。"
 
 # game/src/plot/deb_baby.rpy:1633
 translate chinese deb_baby_rest_micoe_07cdb3af:
 
     # micoe "She's such a sweet woman!"
-    micoe "她真是个温柔的女人！"
+    micoe "她人真好！"
 
 # game/src/plot/deb_baby.rpy:1634
 translate chinese deb_baby_rest_micoe_f6bab7e5:
@@ -3586,7 +3586,7 @@ translate chinese deb_baby_rest_micoe_f6bab7e5:
 translate chinese deb_baby_rest_micoe_26e79327:
 
     # micoe "[saga.cast.debbie]."
-    micoe "[saga.cast.debbie]."
+    micoe "[saga.cast.debbie]。"
 
 # game/src/plot/deb_baby.rpy:1636
 translate chinese deb_baby_rest_micoe_f853875c:
@@ -3598,7 +3598,7 @@ translate chinese deb_baby_rest_micoe_f853875c:
 translate chinese deb_baby_rest_micoe_6247817b:
 
     # anon "Yeah, she is."
-    anon "是啊，她是。"
+    anon "是啊，她确实很好。"
 
 # game/src/plot/deb_baby.rpy:1638
 translate chinese deb_baby_rest_micoe_22354d89:
@@ -3616,31 +3616,31 @@ translate chinese deb_baby_rest_micoe_2986795f:
 translate chinese deb_baby_rest_micoe_6665c6a1:
 
     # anon e_nw f_worried "Oh... I uhh..."
-    anon e_nw f_worried "哦……我呃……"
+    anon e_nw f_worried "哦……我，呃……"
 
 # game/src/plot/deb_baby.rpy:1641
 translate chinese deb_baby_rest_micoe_5b71e2b3:
 
     # anon a_hips e_w f_shy "... I guess, I'm the father."
-    anon a_hips e_w f_shy "……我想，我是她父亲。"
+    anon a_hips e_w f_shy "……我应该算是孩子的父亲。"
 
 # game/src/plot/deb_baby.rpy:1642
 translate chinese deb_baby_rest_micoe_7f0c57e6:
 
     # micoe f_confused "You guess?"
-    micoe f_confused "你想？"
+    micoe f_confused "你只是“应该算”？"
 
 # game/src/plot/deb_baby.rpy:1643
 translate chinese deb_baby_rest_micoe_5e0cc0e9:
 
     # anon a_side f_shy_surprised "N-no, I am."
-    anon a_side f_shy_surprised "不——不，我就是。"
+    anon a_side f_shy_surprised "不、不是，我就是孩子的父亲。"
 
 # game/src/plot/deb_baby.rpy:1644
 translate chinese deb_baby_rest_micoe_8d2fe5f3:
 
     # micoe f_calm "Dang, okay."
-    micoe f_calm "靠，好吧。"
+    micoe f_calm "嚯，好吧。"
 
 # game/src/plot/deb_baby.rpy:1646
 translate chinese deb_baby_rest_micoe_3fb181cf:
@@ -3652,7 +3652,7 @@ translate chinese deb_baby_rest_micoe_3fb181cf:
 translate chinese deb_baby_rest_micoe_48bf1c18:
 
     # micoe "She's been talking about him non-stop."
-    micoe "她一直都在不停地谈论他。"
+    micoe "她嘴里一天到晚都是那个房客。"
 
 # game/src/plot/deb_baby.rpy:1649
 translate chinese deb_baby_rest_micoe_d04b3758:
@@ -3676,13 +3676,13 @@ translate chinese deb_baby_rest_micoe_8a583493:
 translate chinese deb_baby_rest_micoe_67fa7f1c:
 
     # anon f_worried_surprised -m_teeth @ -m_talk "{i}*Gulp*{/i}"
-    anon f_worried_surprised -m_teeth @ -m_talk "{i}*咕噜*{/i}"
+    anon f_worried_surprised -m_teeth @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb_baby.rpy:1655
 translate chinese deb_baby_rest_micoe_014b20e7:
 
     # micoe f_calm "'Cause I get the feeling she's been trying to set me up with him."
-    micoe f_calm "因为我觉得她一直在撮合我和他。"
+    micoe f_calm "我总觉得，她一直想把我和那个房客撮合到一起。"
 
 # game/src/plot/deb_baby.rpy:1656
 translate chinese deb_baby_rest_micoe_c6cb2fa0:
@@ -3694,97 +3694,97 @@ translate chinese deb_baby_rest_micoe_c6cb2fa0:
 translate chinese deb_baby_rest_micoe_d73c5e97:
 
     # micoe f_horny "I hope he's cute."
-    micoe f_horny "我希望他长得帅。"
+    micoe f_horny "希望他长得可爱点。"
 
 # game/src/plot/deb_baby.rpy:1658
 translate chinese deb_baby_rest_micoe_a3f9ac31:
 
     # anon a_side e_w f_tired_happy "Yeah, sorry... I don't know him."
-    anon a_side e_w f_tired_happy "呃，抱歉……我不认识他。"
+    anon a_side e_w f_tired_happy "嗯，抱歉……我不认识他。"
 
 # game/src/plot/deb_baby.rpy:1659
 translate chinese deb_baby_rest_micoe_3e046c25:
 
     # micoe f_sad "Too bad."
-    micoe f_sad "太可惜了。"
+    micoe f_sad "真可惜。"
 
 # game/src/plot/deb_baby.rpy:1665
 translate chinese deb_baby_rest_okay_5a7b411f:
 
     # anon f_shy "How's everyone doing?"
-    anon f_shy "大家怎么样？"
+    anon f_shy "大家都还好吗？"
 
 # game/src/plot/deb_baby.rpy:1666
 translate chinese deb_baby_rest_okay_e09fed6e:
 
     # debbie e_s f_calm "We're wonderful."
-    debbie e_s f_calm "我们很好。"
+    debbie e_s f_calm "我们都好极了。"
 
 # game/src/plot/deb_baby.rpy:1673
 translate chinese deb_baby_rest_okay_b2b42728:
 
     # debbie "He's such a calm baby."
-    debbie "他是个安静的宝宝。"
+    debbie "他真是个安静的宝宝。"
 
 # game/src/plot/deb_baby.rpy:1674
 translate chinese deb_baby_rest_okay_ca091768:
 
     # debbie "Isn't he wonderful, [saga.cast.anon]?"
-    debbie "他是不是很棒，[saga.cast.anon]？"
+    debbie "他是不是很可爱，[saga.cast.anon]？"
 
 # game/src/plot/deb_baby.rpy:1675
 translate chinese deb_baby_rest_okay_7fcdf6eb:
 
     # anon "He sure is."
-    anon "当然是的。"
+    anon "当然可爱。"
 
 # game/src/plot/deb_baby.rpy:1678
 translate chinese deb_baby_rest_okay_77b14b6e:
 
     # debbie "She's such a calm baby."
-    debbie "她是个安静的宝宝。"
+    debbie "她真是个安静的宝宝。"
 
 # game/src/plot/deb_baby.rpy:1679
 translate chinese deb_baby_rest_okay_89b2a7c5:
 
     # debbie "Isn't she wonderful, [saga.cast.anon]?"
-    debbie "她是不是很棒，[saga.cast.anon]？"
+    debbie "她是不是很可爱，[saga.cast.anon]？"
 
 # game/src/plot/deb_baby.rpy:1680
 translate chinese deb_baby_rest_okay_2ee4e239:
 
     # anon "She sure is."
-    anon "当然是的。"
+    anon "当然可爱。"
 
 # game/src/plot/deb_baby.rpy:1683
 translate chinese deb_baby_rest_okay_40b2aa6b:
 
     # debbie "They're such calm babies."
-    debbie "他们都是安静的宝宝。"
+    debbie "这两个宝宝真安静。"
 
 # game/src/plot/deb_baby.rpy:1684
 translate chinese deb_baby_rest_okay_0c079a93:
 
     # debbie "Aren't they wonderful, [saga.cast.anon]?"
-    debbie "它们不是很棒吗，[saga.cast.anon]？"
+    debbie "他们是不是很可爱，[saga.cast.anon]？"
 
 # game/src/plot/deb_baby.rpy:1685
 translate chinese deb_baby_rest_okay_80e0a7a2:
 
     # anon "They sure are."
-    anon "当然啦。"
+    anon "当然可爱。"
 
 # game/src/plot/deb_baby.rpy:1687
 translate chinese deb_baby_rest_okay_b9df0316:
 
     # anon "I don't think I've ever loved anything so much."
-    anon "我觉得我从没这么喜欢过什么东西。"
+    anon "我从没这么爱过谁。"
 
 # game/src/plot/deb_baby.rpy:1689
 translate chinese deb_baby_rest_okay_e2fc062a:
 
     # debbie "I know what you mean."
-    debbie "我懂你的意思。"
+    debbie "我懂你的感受。"
 
 # game/src/plot/deb_baby.rpy:1693
 translate chinese deb_baby_rest_okay_0616877a:
@@ -3808,25 +3808,25 @@ translate chinese deb_baby_rest_okay_f4a176f6:
 translate chinese deb_baby_rest_okay_587ca4cf:
 
     # anon "So, when can we bring them home?"
-    anon "那我们什么时候能带它们回家？"
+    anon "那我们什么时候能带他们回家？"
 
 # game/src/plot/deb_baby.rpy:1707
 translate chinese deb_baby_rest_okay_30ab53c1:
 
     # debbie "It shouldn't be more than a few days."
-    debbie "应该不超过几天。"
+    debbie "应该再过几天就可以了。"
 
 # game/src/plot/deb_baby.rpy:1708
 translate chinese deb_baby_rest_okay_a43c79da:
 
     # anon e_wsw f_calm "Oh, good."
-    anon e_wsw f_calm "哦，太好了。"
+    anon e_wsw f_calm "哦，那就好。"
 
 # game/src/plot/deb_baby.rpy:1710
 translate chinese deb_baby_rest_okay_8da41f15:
 
     # anon "The house feels so empty without you there."
-    anon "没有你在，这房子感觉好空。"
+    anon "没有你在，家里感觉空荡荡的。"
 
 # game/src/plot/deb_baby.rpy:1711
 translate chinese deb_baby_rest_okay_d2a7054d:
@@ -3838,115 +3838,115 @@ translate chinese deb_baby_rest_okay_d2a7054d:
 translate chinese deb_baby_rest_okay_e17c12b5:
 
     # debbie e_s "Well, don't worry... It won't be much longer."
-    debbie e_s "别担心……不会太久了。"
+    debbie e_s "别担心……没几天就能回去了。"
 
 # game/src/plot/deb_baby.rpy:1718
 translate chinese deb_baby_rest_outro_57a08c83:
 
     # anon a_point f_calm "I'll see you soon."
-    anon a_point f_calm "我很快就能见到你。"
+    anon a_point f_calm "回头见。"
 
 # game/src/plot/deb_baby.rpy:1719
 translate chinese deb_baby_rest_outro_4f565d59:
 
     # anon "Remember, I'm just a text away."
-    anon "记住，发个消息就能找到我。"
+    anon "记住，只要发条消息，我马上就来。"
 
 # game/src/plot/deb_baby.rpy:1721
 translate chinese deb_baby_rest_outro_7f99131e:
 
     # debbie f_calm "I know, sweetie... and I appreciate it."
-    debbie f_calm "我知道，亲爱的……我很感激。"
+    debbie f_calm "我知道，亲爱的……谢谢你。"
 
 # game/src/plot/deb_baby.rpy:1723
 translate chinese deb_baby_rest_outro_d783f6d8:
 
     # debbie @ e_s "We'll be okay."
-    debbie @ e_s "我们会没事的。"
+    debbie @ e_s "我们不会有事的。"
 
 # game/src/plot/deb_baby.rpy:1725
 translate chinese deb_baby_rest_outro_41c94642:
 
     # debbie f_happy "I'm pretty much a pro at this baby stuff."
-    debbie f_happy "带孩子这种事我可是很有经验的。"
+    debbie f_happy "照顾孩子这方面，我怎么也算个老手了。"
 
 # game/src/plot/deb_baby.rpy:1726
 translate chinese deb_baby_rest_outro_5a514865:
 
     # anon @ f_calm "Heh, alright."
-    anon @ f_calm "嘿，好吧。"
+    anon @ f_calm "呵，好吧。"
 
 # game/src/plot/deb_baby.rpy:1731
 translate chinese deb_baby_rest_outro_7fca2a66:
 
     # anon "Bye bye, little ones!"
-    anon "拜拜，娃娃脸们！"
+    anon "再见，小家伙们！"
 
 # game/src/plot/deb_baby.rpy:1732
 translate chinese deb_baby_rest_outro_461f544a:
 
     # anon "I'll see you all real soon."
-    anon "我很快就会再见你们所有人的。"
+    anon "很快就会再见到你们的。"
 
 # game/src/plot/deb_baby.rpy:1735
 translate chinese deb_baby_rest_outro_8356fa9e:
 
     # anon "Bye bye, little one!"
-    anon "拜拜，娃娃脸！"
+    anon "再见，小家伙！"
 
 # game/src/plot/deb_baby.rpy:1736
 translate chinese deb_baby_rest_outro_f8a00598:
 
     # anon "I'll see you real soon."
-    anon "我很快就会再见你。"
+    anon "很快就会再见到你的。"
 
 # game/src/plot/deb_baby.rpy:1747
 translate chinese deb_baby_rest_sleep_1a283119:
 
     # anon @ -m_talk "( She must be utterly exhausted. )"
-    anon @ -m_talk "(她一定彻底累坏了。)"
+    anon @ -m_talk "（她一定累坏了。）"
 
 # game/src/plot/deb_baby.rpy:1751
 translate chinese deb_baby_rest_sleep_69044b25:
 
     # anon @ -m_talk "( I'm glad both she and the babies are able to sleep so soundly. )"
-    anon @ -m_talk "(我很高兴她和宝宝们能睡得这么安稳。)"
+    anon @ -m_talk "（还好她和孩子们都睡得这么香。）"
 
 # game/src/plot/deb_baby.rpy:1753
 translate chinese deb_baby_rest_sleep_a9c2e9ca:
 
     # anon @ -m_talk "( I'm glad both she and the baby are able to sleep so soundly. )"
-    anon @ -m_talk "(我很高兴她和宝宝能睡得这么安稳。)"
+    anon @ -m_talk "（还好她和孩子都睡得这么香。）"
 
 # game/src/plot/deb_baby.rpy:1763
 translate chinese deb_baby_home_4b171c3f:
 
     # debbie "Oh, phew."
-    debbie "哦，呼。"
+    debbie "呼，总算到了。"
 
 # game/src/plot/deb_baby.rpy:1767
 translate chinese deb_baby_home_d0b2a6b9:
 
     # anon "You're home!"
-    anon "你回来了！"
+    anon "你们回来了！"
 
 # game/src/plot/deb_baby.rpy:1769
 translate chinese deb_baby_home_d9589751:
 
     # debbie "Yes, finally."
-    debbie "是的，终于回来了。"
+    debbie "是啊，终于到家了。"
 
 # game/src/plot/deb_baby.rpy:1772
 translate chinese deb_baby_home_5b035f90:
 
     # anon a_point f_confused "[saga.cast.diane] isn't coming in?"
-    anon a_point f_confused "[saga.cast.diane]不来了吗？"
+    anon a_point f_confused "[saga.cast.diane]不进来坐坐吗？"
 
 # game/src/plot/deb_baby.rpy:1773
 translate chinese deb_baby_home_5f0ec65a:
 
     # debbie f_calm "No, she said there's some work emergency back home."
-    debbie f_calm "不，她说家里有紧急的工作要处理。"
+    debbie f_calm "不了，她说家里临时有急活。"
 
 # game/src/plot/deb_baby.rpy:1774
 translate chinese deb_baby_home_a3536382:
@@ -3958,31 +3958,31 @@ translate chinese deb_baby_home_a3536382:
 translate chinese deb_baby_home_a369becd:
 
     # anon f_shy "Well, it was nice of her to drive you."
-    anon f_shy "嗯，她开车送你真是太好了。"
+    anon f_shy "不过，她肯开车送你回来，人真好。"
 
 # game/src/plot/deb_baby.rpy:1776
 translate chinese deb_baby_home_b13d85ab:
 
     # debbie "Heh, she was happy for an excuse to see all the babies."
-    debbie "嘿，她很高兴有机会看看所有的娃娃脸。"
+    debbie "呵，她巴不得找个借口多看看孩子们呢。"
 
 # game/src/plot/deb_baby.rpy:1780
 translate chinese deb_baby_home_db192dfb:
 
     # debbie "Between you and me, I think she's a little jealous."
-    debbie "私下说，我觉得她有点嫉妒。"
+    debbie "只跟你说啊，我觉得她有点羡慕。"
 
 # game/src/plot/deb_baby.rpy:1782
 translate chinese deb_baby_home_54c0ba73:
 
     # debbie "Between you and me, I think she's hoping for another one of her own."
-    debbie "私下说，我觉得她想要自己也生一个。"
+    debbie "只跟你说啊，我觉得她还想再生一个。"
 
 # game/src/plot/deb_baby.rpy:1784
 translate chinese deb_baby_home_ea692633:
 
     # anon f_surprised "Really?"
-    anon f_surprised "真的吗？"
+    anon f_surprised "真的？"
 
 # game/src/plot/deb_baby.rpy:1785
 translate chinese deb_baby_home_7d98dede:
@@ -3994,31 +3994,31 @@ translate chinese deb_baby_home_7d98dede:
 translate chinese deb_baby_home_80a63b78:
 
     # anon a_think e_sw f_pensive @ -m_talk "Hmm."
-    anon a_think e_sw f_pensive @ -m_talk "嗯。"
+    anon a_think e_sw f_pensive @ -m_talk "嗯……"
 
 # game/src/plot/deb_baby.rpy:1788
 translate chinese deb_baby_home_454a1045:
 
     # anon "That's... ehh-"
-    anon "这……呃——"
+    anon "那……呃——"
 
 # game/src/plot/deb_baby.rpy:1789
 translate chinese deb_baby_home_95660c96:
 
     # anon a_side e_w f_shy "{i}*Ahem*{/i} W-well, anyways..."
-    anon a_side e_w f_shy "{i}*咳咳*{/i}那、那好吧，总之……"
+    anon a_side e_w f_shy "{i}*咳咳*{/i} 那、那个，总之……"
 
 # game/src/plot/deb_baby.rpy:1790
 translate chinese deb_baby_home_4b3aef9a:
 
     # anon "... Let's get you settled in!"
-    anon "……我们帮你安顿下来！"
+    anon "……先把你们安顿好吧！"
 
 # game/src/plot/deb_baby.rpy:1792
 translate chinese deb_baby_home_f0210325:
 
     # debbie f_confused "[saga.cast.jenny] isn't home?"
-    debbie f_confused "[saga.cast.jenny] 不在家吗？"
+    debbie f_confused "[saga.cast.jenny]不在家吗？"
 
 # game/src/plot/deb_baby.rpy:1793
 translate chinese deb_baby_home_f6bab7e5:
@@ -4030,151 +4030,151 @@ translate chinese deb_baby_home_f6bab7e5:
 translate chinese deb_baby_home_0a7232f6:
 
     # anon "Um, I think she's probably asleep, it's pretty late."
-    anon "嗯，我想她可能睡着了，现在挺晚了。"
+    anon "呃，她应该已经睡了吧，毕竟挺晚的。"
 
 # game/src/plot/deb_baby.rpy:1798
 translate chinese deb_baby_home_f047269f:
 
     # debbie f_sad "I guess so... but she didn't want to wait up for us?"
-    debbie f_sad "我想是的...但她不想熬夜等我们？"
+    debbie f_sad "应该是吧……可她连等我们回来都不愿意吗？"
 
 # game/src/plot/deb_baby.rpy:1801
 translate chinese deb_baby_home_b9e3aa92:
 
     # anon @ e_ne "Oh, I did hear the shower earlier."
-    anon @ e_ne "哦，我之前确实听到了淋浴声。"
+    anon @ e_ne "哦，我之前倒是听见浴室有水声。"
 
 # game/src/plot/deb_baby.rpy:1802
 translate chinese deb_baby_home_543df783:
 
     # debbie f_sad "She couldn't even be bothered to welcome us back?"
-    debbie f_sad "她甚至都懒得欢迎我们回来？"
+    debbie f_sad "她连出来迎接我们一下都懒得吗？"
 
 # game/src/plot/deb_baby.rpy:1805
 translate chinese deb_baby_home_82b3b46d:
 
     # anon "Oh, I uhh... haven't seen her, so maybe not."
-    anon "哦，我呃...没见过她，所以可能没有。"
+    anon "哦，我，呃……一直没见到她，可能不在家吧。"
 
 # game/src/plot/deb_baby.rpy:1806
 translate chinese deb_baby_home_28b6007f:
 
     # debbie f_sad "She couldn't even be here to welcome us back?"
-    debbie f_sad "她甚至不能在这里欢迎我们回来？"
+    debbie f_sad "她连回来迎接我们都不肯吗？"
 
 # game/src/plot/deb_baby.rpy:1809
 translate chinese deb_baby_home_918e1149:
 
     # anon "Oh, I uhh... pretty sure she's out right now."
-    anon "哦，我呃……她现在大概出去了。"
+    anon "哦，我，呃……她现在应该出去了。"
 
 # game/src/plot/deb_baby.rpy:1810
 translate chinese deb_baby_home_5f79eb68:
 
     # debbie f_sad "She didn't want to welcome us back?"
-    debbie f_sad "她不想欢迎我们回来吗？"
+    debbie f_sad "她就不想来迎接我们吗？"
 
 # game/src/plot/deb_baby.rpy:1813
 translate chinese deb_baby_home_75ca0535:
 
     # anon f_worried "Oh, I uhh... she's still having breakfast, I think."
-    anon f_worried "哦，我呃……我想她还在吃早餐。"
+    anon f_worried "哦，我，呃……她好像还在吃早饭。"
 
 # game/src/plot/deb_baby.rpy:1814
 translate chinese deb_baby_home_8b6a21ad:
 
     # debbie f_sad "She couldn't even come through to welcome us back?"
-    debbie f_sad "她甚至不能过来欢迎我们回来吗？"
+    debbie f_sad "她连过来迎接我们一下都不肯吗？"
 
 # game/src/plot/deb_baby.rpy:1817
 translate chinese deb_baby_home_bb5470a2:
 
     # anon "Oh, I uhh... out sunbathing, I think."
-    anon "哦，我呃……我想她在外面晒太阳。"
+    anon "哦，我，呃……她好像在外面晒太阳。"
 
 # game/src/plot/deb_baby.rpy:1818
 translate chinese deb_baby_home_88cd4d5d:
 
     # debbie f_sad "She couldn't even come in to welcome us back?"
-    debbie f_sad "她甚至不能进来欢迎我们回来吗？"
+    debbie f_sad "她连进来迎接我们一下都不肯吗？"
 
 # game/src/plot/deb_baby.rpy:1821
 translate chinese deb_baby_home_3a8fe4d1:
 
     # anon @ e_ne "Oh, I uhh... she's probably puttering around here somewhere."
-    anon @ e_ne "哦，我呃……她大概在这附近瞎忙活。"
+    anon @ e_ne "哦，我，呃……她大概正在屋里什么地方晃悠吧。"
 
 # game/src/plot/deb_baby.rpy:1822
 translate chinese deb_baby_home_a4013ff8:
 
     # debbie f_sad "She couldn't even come down to welcome us back?"
-    debbie f_sad "她甚至不能下楼欢迎我们回来吗？"
+    debbie f_sad "她连下楼迎接我们一下都不肯吗？"
 
 # game/src/plot/deb_baby.rpy:1824
 translate chinese deb_baby_home_b90fdd30:
 
     # anon f_shy "You know [saga.cast.jenny]."
-    anon f_shy "你知道[saga.cast.jenny]。"
+    anon f_shy "你又不是不了解[saga.cast.jenny]。"
 
 # game/src/plot/deb_baby.rpy:1825
 translate chinese deb_baby_home_7733e18f:
 
     # debbie e_sw "{i}*Sigh*{/i} Yes, yes."
-    debbie e_sw "{i}*叹气*{/i} 是，是。"
+    debbie e_sw "{i}*叹气*{/i} 是啊，是啊。"
 
 # game/src/plot/deb_baby.rpy:1831
 translate chinese deb_baby_home_4a284002:
 
     # anon "Aww, c'mon now... don't be sad."
-    anon "哎呀，别这样嘛……别难过了。"
+    anon "哎呀，好啦……别难过了。"
 
 # game/src/plot/deb_baby.rpy:1835
 translate chinese deb_baby_home_527b7c75:
 
     # anon "You're finally home and we have babies!"
-    anon "你终于回家了，我们有了孩子！"
+    anon "你终于回家了，我们还有两个宝宝呢！"
 
 # game/src/plot/deb_baby.rpy:1837
 translate chinese deb_baby_home_d4cbadc6:
 
     # anon "You're finally home and we have a baby!"
-    anon "你终于回家了，我们有了一个宝宝！"
+    anon "你终于回家了，我们还有了孩子！"
 
 # game/src/plot/deb_baby.rpy:1842
 translate chinese deb_baby_home_a24cf5dc:
 
     # anon e_w "Life is good."
-    anon e_w "生活真美好。"
+    anon e_w "日子真美好。"
 
 # game/src/plot/deb_baby.rpy:1843
 translate chinese deb_baby_home_6deef3a8:
 
     # debbie e_w f_happy "Heh, it is!"
-    debbie e_w f_happy "嘿，可不是嘛！"
+    debbie e_w f_happy "呵，可不是嘛！"
 
 # game/src/plot/deb_baby.rpy:1850
 translate chinese deb_baby_home_e459cc65:
 
     # debbie "C'mon, he'll be waking soon and I'll need to feed him."
-    debbie "来吧，他很快就要醒了，我得喂他了。"
+    debbie "走吧，他快醒了，我得给他喂奶。"
 
 # game/src/plot/deb_baby.rpy:1852
 translate chinese deb_baby_home_66fb6e08:
 
     # debbie "C'mon, she'll be waking soon and I'll need to feed her."
-    debbie "来吧，她很快就要醒了，我得喂她了。"
+    debbie "走吧，她快醒了，我得给她喂奶。"
 
 # game/src/plot/deb_baby.rpy:1854
 translate chinese deb_baby_home_83590855:
 
     # debbie "C'mon, they'll be waking soon and I'll need to feed them."
-    debbie "来吧，他们很快就要醒了，我得喂他们了。"
+    debbie "走吧，他们快醒了，我得给他们喂奶。"
 
 # game/src/plot/deb_baby.rpy:1858
 translate chinese deb_baby_home_d95f8807:
 
     # debbie "You can help me with nipple stimulation."
-    debbie "你可以帮我刺激乳头。"
+    debbie "你可以帮我刺激一下乳头。"
 
 # game/src/plot/deb_baby.rpy:1859
 translate chinese deb_baby_home_5cc64cfc:
@@ -4186,25 +4186,25 @@ translate chinese deb_baby_home_5cc64cfc:
 translate chinese deb_baby_home_93afef82:
 
     # anon "That sounds like a fun job!"
-    anon "那听起来是份有趣的工作！"
+    anon "这活儿听着挺有意思！"
 
 # game/src/plot/deb_baby.rpy:1864
 translate chinese deb_baby_home_cec2969a:
 
     # debbie "Heh, I thought you'd like that."
-    debbie "嘿，我就知道你会喜欢。"
+    debbie "呵，我就知道你喜欢。"
 
 # game/src/plot/deb_baby.rpy:1865
 translate chinese deb_baby_home_c402d20d:
 
     # anon "We'd better hurry."
-    anon "我们最好快点。"
+    anon "那我们得快点了。"
 
 # game/src/plot/deb_baby.rpy:1866
 translate chinese deb_baby_home_4aa5a925:
 
     # debbie "Hehe!"
-    debbie "嘿嘿！"
+    debbie "呵呵！"
 
 # game/src/plot/deb_baby.rpy:1870
 translate chinese deb_baby_home_244739f4:
@@ -4216,55 +4216,55 @@ translate chinese deb_baby_home_244739f4:
 translate chinese deb_baby_home_2d7bd325:
 
     # anon e_w f_shy -m_drink @ -m_talk "( Man, that was one hungry baby. )"
-    anon e_w f_shy -m_drink @ -m_talk "(天啊，那真是个饿坏了的娃娃脸。)"
+    anon e_w f_shy -m_drink @ -m_talk "（天啊，这小家伙可真能吃。）"
 
 # game/src/plot/deb_baby.rpy:1879
 translate chinese deb_baby_home_606583e1:
 
     # anon a_side f_happy @ e_b m_teeth "( If you think that's good, kid... wait until you taste her cooking! )"
-    anon a_side f_happy @ e_b m_teeth "(如果你觉得那不错，孩子……等你尝到她做的饭再说！)"
+    anon a_side f_happy @ e_b m_teeth "（小家伙，这就觉得好吃了……等你尝到她做的饭再说吧！）"
 
 # game/src/plot/deb_baby.rpy:1880
 translate chinese deb_baby_home_b59e0c18:
 
     # anon @ -m_talk "( I'm so glad they're home. )"
-    anon @ -m_talk "(真高兴他们回家了。)"
+    anon @ -m_talk "（真高兴她和孩子终于回家了。）"
 
 # game/src/plot/deb_baby.rpy:1891
 translate chinese deb_baby_post_care_2f4a5b85:
 
     # anon f_shy "Looking forward to daycare?"
-    anon f_shy "期待去托儿所吗？"
+    anon f_shy "舍得送孩子去托儿所吗？"
 
 # game/src/plot/deb_baby.rpy:1893
 translate chinese deb_baby_post_care_0c0f0106:
 
     # debbie e_w f_sad "No."
-    debbie e_w f_sad "不。"
+    debbie e_w f_sad "舍不得。"
 
 # game/src/plot/deb_baby.rpy:1894
 translate chinese deb_baby_post_care_5e3b8a7c:
 
     # debbie e_s "Not even a little bit."
-    debbie e_s "一点也不想。"
+    debbie e_s "一点都舍不得。"
 
 # game/src/plot/deb_baby.rpy:1897
 translate chinese deb_baby_post_care_e0d704a1:
 
     # anon "We don't {i}have{/i} to send him, you know?"
-    anon "我们其实不必{i}送{/i}他，你知道吧？"
+    anon "其实，我们也不是{i}非得{/i}送他去。"
 
 # game/src/plot/deb_baby.rpy:1899
 translate chinese deb_baby_post_care_aae5275c:
 
     # anon "We don't {i}have{/i} to send her, you know?"
-    anon "我们其实不必{i}送{/i}她，你知道吧？"
+    anon "其实，我们也不是{i}非得{/i}送她去。"
 
 # game/src/plot/deb_baby.rpy:1901
 translate chinese deb_baby_post_care_e16b96e9:
 
     # anon "We don't {i}have{/i} to send them, you know?"
-    anon "我们其实不必{i}送{/i}他们，你知道吧？"
+    anon "其实，我们也不是{i}非得{/i}送他们去。"
 
 # game/src/plot/deb_baby.rpy:1903
 translate chinese deb_baby_post_care_fc0c1453:
@@ -4276,103 +4276,103 @@ translate chinese deb_baby_post_care_fc0c1453:
 translate chinese deb_baby_post_care_78978800:
 
     # debbie @ e_w "But it's good to socialize them young."
-    debbie @ e_w "但让他们从小就社交是好事。"
+    debbie @ e_w "可让孩子从小多接触同龄人总是好事。"
 
 # game/src/plot/deb_baby.rpy:1905
 translate chinese deb_baby_post_care_6666677d:
 
     # debbie "Even if it kills me to do it."
-    debbie "即使这让我痛苦不堪。"
+    debbie "就算再舍不得，我也得这么做。"
 
 # game/src/plot/deb_baby.rpy:1906
 translate chinese deb_baby_post_care_9b6d77ef:
 
     # anon f_shy "Aww, it'll be alright."
-    anon f_shy "啊，会没事的。"
+    anon f_shy "别难过，不会有事的。"
 
 # game/src/plot/deb_baby.rpy:1909
 translate chinese deb_baby_post_care_ab6eafe5:
 
     # anon "He's half you and half me."
-    anon "他一半像你一半像我。"
+    anon "他一半像你，一半像我。"
 
 # game/src/plot/deb_baby.rpy:1910
 translate chinese deb_baby_post_care_7084e709:
 
     # anon "Everyone is going to love him."
-    anon "每个人都会喜欢他的。"
+    anon "所有人都会喜欢他的。"
 
 # game/src/plot/deb_baby.rpy:1913
 translate chinese deb_baby_post_care_2a253d8b:
 
     # anon "She's half you and half me."
-    anon "她一半像你一半像我。"
+    anon "她一半像你，一半像我。"
 
 # game/src/plot/deb_baby.rpy:1914
 translate chinese deb_baby_post_care_3d585034:
 
     # anon "Everyone is going to love her."
-    anon "大家都会喜欢她的。"
+    anon "所有人都会喜欢她的。"
 
 # game/src/plot/deb_baby.rpy:1917
 translate chinese deb_baby_post_care_c06d3a86:
 
     # anon "They're half you and half me."
-    anon "他们一半是你，一半是我。"
+    anon "他们一半像你，一半像我。"
 
 # game/src/plot/deb_baby.rpy:1918
 translate chinese deb_baby_post_care_2fe9e304:
 
     # anon "Everyone is going to love them."
-    anon "大家都会喜欢他们的。"
+    anon "所有人都会喜欢他们的。"
 
 # game/src/plot/deb_baby.rpy:1920
 translate chinese deb_baby_post_care_c2ffcce9:
 
     # debbie e_w f_shy "Yeah, I'm sure you're right."
-    debbie e_w f_shy "嗯，你说得对。"
+    debbie e_w f_shy "嗯，我相信你说得对。"
 
 # game/src/plot/deb_baby.rpy:1921
 translate chinese deb_baby_post_care_b716adc8:
 
     # anon "I am."
-    anon "我也是。"
+    anon "我说得没错。"
 
 # game/src/plot/deb_baby.rpy:1924
 translate chinese deb_baby_post_care_4fec8893:
 
     # anon "Everything is going to work out great."
-    anon "一切都会好起来的。"
+    anon "一切都会顺顺利利的。"
 
 # game/src/plot/deb_baby.rpy:1926
 translate chinese deb_baby_post_care_9cc59d68:
 
     # anon "Remember last time, everything worked out great."
-    anon "还记得上次吗，一切都很好。"
+    anon "想想上一次，不也一切顺利吗？"
 
 # game/src/plot/deb_baby.rpy:1938
 translate chinese deb_baby_post_help_1f986311:
 
     # anon f_confused "You guys need anything?"
-    anon f_confused "你们需要什么吗？"
+    anon f_confused "你们有什么需要吗？"
 
 # game/src/plot/deb_baby.rpy:1939
 translate chinese deb_baby_post_help_9c4d03cc:
 
     # debbie f_calm "Naw, we're good."
-    debbie f_calm "不，我们没事。"
+    debbie f_calm "不用，我们什么都不缺。"
 
 # game/src/plot/deb_baby.rpy:1940
 translate chinese deb_baby_post_help_b6425278:
 
     # anon a_point f_horny "No nipple stimulation?"
-    anon a_point f_horny "没有乳头刺激？"
+    anon a_point f_horny "真不用我帮你刺激乳头？"
 
 # game/src/plot/deb_baby.rpy:1941
 translate chinese deb_baby_post_help_bdcda1f8:
 
     # debbie e_w f_happy "Heh, no."
-    debbie e_w f_happy "呵，才不。"
+    debbie e_w f_happy "呵，不用。"
 
 # game/src/plot/deb_baby.rpy:1942
 translate chinese deb_baby_post_help_6b4a8e2e:
@@ -4384,7 +4384,7 @@ translate chinese deb_baby_post_help_6b4a8e2e:
 translate chinese deb_baby_post_help_3608448c:
 
     # anon a_hips f_smug "Because I've been practicing!"
-    anon a_hips f_smug "因为我一直在练习！"
+    anon a_hips f_smug "我可一直在练习呢！"
 
 # game/src/plot/deb_baby.rpy:1945
 translate chinese deb_baby_post_help_cdbf7063:
@@ -4396,43 +4396,43 @@ translate chinese deb_baby_post_help_cdbf7063:
 translate chinese deb_baby_post_help_b2627375:
 
     # debbie f_confused "How?!"
-    debbie f_confused "怎么做到的？！"
+    debbie f_confused "你怎么练？！"
 
 # game/src/plot/deb_baby.rpy:1947
 translate chinese deb_baby_post_help_c8391f1e:
 
     # anon a_shy_neck e_sse f_shy of_blush "I might have... drawn some nipples on my pillow case."
-    anon a_shy_neck e_sse f_shy of_blush "我可能……在我的枕套上画了些乳头。"
+    anon a_shy_neck e_sse f_shy of_blush "我可能……在枕套上画了几个乳头。"
 
 # game/src/plot/deb_baby.rpy:1948
 translate chinese deb_baby_post_help_5b9a19eb:
 
     # debbie f_happy "Pfft, really?!"
-    debbie f_happy "噗，真的假的？！"
+    debbie f_happy "噗，真的？！"
 
 # game/src/plot/deb_baby.rpy:1951
 translate chinese deb_baby_post_help_bd64f4fb:
 
     # anon a_wtf e_w f_worried "Hey, I take the health and wellbeing of you and our twins seriously."
-    anon a_wtf e_w f_worried "嘿，我可是认真对待你和我们双胞胎的健康和幸福。"
+    anon a_wtf e_w f_worried "嘿，我可是很认真地关心你和咱们双胞胎的健康。"
 
 # game/src/plot/deb_baby.rpy:1953
 translate chinese deb_baby_post_help_faf1ea1d:
 
     # anon a_wtf e_w f_worried "Hey, I take the health and wellbeing of you and our baby seriously."
-    anon a_wtf e_w f_worried "嘿，我可是认真对待你和我们孩子的健康与幸福。"
+    anon a_wtf e_w f_worried "嘿，我可是很认真地关心你和咱们孩子的健康。"
 
 # game/src/plot/deb_baby.rpy:1955
 translate chinese deb_baby_post_help_65934ddd:
 
     # debbie "Heh, clearly."
-    debbie "呵，显然如此。"
+    debbie "呵，看得出来。"
 
 # game/src/plot/deb_baby.rpy:1956
 translate chinese deb_baby_post_help_b6582006:
 
     # anon a_side f_happy of_none "For real, I might have found my life's true calling."
-    anon a_side f_happy of_none "说真的，我可能找到了我人生真正的使命。"
+    anon a_side f_happy of_none "说真的，我可能找到自己这辈子的使命了。"
 
 # game/src/plot/deb_baby.rpy:1957
 translate chinese deb_baby_post_help_92d2c860:
@@ -4450,55 +4450,55 @@ translate chinese deb_baby_post_intro_4b300d64:
 translate chinese deb_baby_post_intro_1f3de55d:
 
     # debbie "{i}♪ I'll like you for always. ♪{/i}"
-    debbie "{i}♪ 我会永远喜欢你。 ♪{/i}"
+    debbie "{i}♪ 我会一直疼你。 ♪{/i}"
 
 # game/src/plot/deb_baby.rpy:1970
 translate chinese deb_baby_post_intro_4a887027:
 
     # debbie "{i}♪ As long as I'm living, my sweeties you'll be. ♪{/i}"
-    debbie "{i}♪ 只要我活着，你们就永远是我的宝贝。 ♪{/i}"
+    debbie "{i}♪ 只要我还活着，你们永远都是我的宝贝。 ♪{/i}"
 
 # game/src/plot/deb_baby.rpy:1972
 translate chinese deb_baby_post_intro_6498313c:
 
     # debbie "{i}♪ As long as I'm living, my sweetie you'll be. ♪{/i}"
-    debbie "{i}♪ 只要我活着，你就永远是我的宝贝。 ♪{/i}"
+    debbie "{i}♪ 只要我还活着，你永远都是我的宝贝。 ♪{/i}"
 
 # game/src/plot/deb_baby.rpy:1994
 translate chinese deb_baby_post_name_f0c6bba6:
 
     # anon a_point_self f_worried "Hey, I thought I was your sweetie?!"
-    anon a_point_self f_worried "嘿，我以为我是你的亲爱的？！"
+    anon a_point_self f_worried "嘿，我不是你的宝贝吗？！"
 
 # game/src/plot/deb_baby.rpy:1995
 translate chinese deb_baby_post_name_7b10cd8f:
 
     # debbie e_w "Hehe, you are!!"
-    debbie e_w "嘿嘿，你就是！！"
+    debbie e_w "呵呵，你当然是！！"
 
 # game/src/plot/deb_baby.rpy:1997
 translate chinese deb_baby_post_name_b008b8a8:
 
     # debbie "You're my big sweetie."
-    debbie "你是我的大亲爱的。"
+    debbie "你是我的大宝贝。"
 
 # game/src/plot/deb_baby.rpy:2002
 translate chinese deb_baby_post_name_c33bbe62:
 
     # debbie "And he's my little sweetie."
-    debbie "他可是我的小亲爱的。"
+    debbie "他是我的小宝贝。"
 
 # game/src/plot/deb_baby.rpy:2004
 translate chinese deb_baby_post_name_05363077:
 
     # debbie "And she's my little sweetie."
-    debbie "她可是我的小亲爱的。"
+    debbie "她是我的小宝贝。"
 
 # game/src/plot/deb_baby.rpy:2006
 translate chinese deb_baby_post_name_be50da9e:
 
     # debbie "And they're my little sweeties."
-    debbie "他们都是我的小亲爱的。"
+    debbie "他们是我的小宝贝们。"
 
 # game/src/plot/deb_baby.rpy:2008
 translate chinese deb_baby_post_name_91ee269a:
@@ -4510,19 +4510,19 @@ translate chinese deb_baby_post_name_91ee269a:
 translate chinese deb_baby_post_name_726221da:
 
     # anon f_horny "Well, I suppose that's alright."
-    anon f_horny "好吧，我觉得这没问题。"
+    anon f_horny "那我就勉强接受吧。"
 
 # game/src/plot/deb_baby.rpy:2015
 translate chinese deb_baby_post_outro_4b20a10e:
 
     # anon f_calm "Let me know if there's anything I can do."
-    anon f_calm "有什么我能做的就告诉我。"
+    anon f_calm "有什么需要我做的，尽管告诉我。"
 
 # game/src/plot/deb_baby.rpy:2016
 translate chinese deb_baby_post_outro_1eece775:
 
     # anon "I'm always just a text away."
-    anon "我随时都在，发消息就行。"
+    anon "随时给我发消息，我马上就来。"
 
 # game/src/plot/deb_baby.rpy:2017
 translate chinese deb_baby_post_outro_98a8c431:
@@ -4546,7 +4546,7 @@ translate chinese strings:
 
     # game/src/plot/deb_baby.rpy:128
     old "Curious."
-    new "真好奇"
+    new "好奇"
 
     # game/src/plot/deb_baby.rpy:152
     old "Confident."
@@ -4566,7 +4566,7 @@ translate chinese strings:
 
     # game/src/plot/deb_baby.rpy:429
     old "Gotta go."
-    new "得走了。"
+    new "得走了"
 
     # game/src/plot/deb_baby.rpy:496
     old "Swimsuit."
@@ -4579,7 +4579,7 @@ translate chinese strings:
     # game/src/plot/deb_baby.rpy:946
     # game/src/plot/deb_baby.rpy:1241
     old "Bump."
-    new "撞到"
+    new "孕肚"
 
     # game/src/plot/deb_baby.rpy:1245
     old "Laundry."
@@ -4592,7 +4592,7 @@ translate chinese strings:
 
     # game/src/plot/deb_baby.rpy:1343
     old "Let me know if you need anything."
-    new "如果你需要什么，告诉我。"
+    new "有需要就告诉我"
 
     # game/src/plot/deb_baby.rpy:1981
     old "Daycare."
@@ -4600,11 +4600,11 @@ translate chinese strings:
 
     # game/src/plot/deb_baby.rpy:946
     old "Okay?"
-    new "好吧？"
+    new "还好吗？"
 
     # game/src/plot/deb_baby.rpy:1254
     old "I'll leave you be."
-    new "我就不打扰你了。"
+    new "那我不打扰你了"
 
     # game/src/plot/deb_baby.rpy:1986
     old "See you later!"

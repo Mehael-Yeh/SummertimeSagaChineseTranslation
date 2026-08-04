@@ -89,6 +89,16 @@
 | Rock-a-Billy Pants Explosion | Rock-a-Billy Pants Explosion | FunBiz 的拟人动物乐队名称，保持英文原名 |
 | Casanova（Kassy 调侃 Anon） | 情圣 | 泛称式调侃，不使用中文音译“卡萨诺瓦” |
 
+## 怀孕与育儿术语
+
+| 英文表达 | 统一处理 | 说明 |
+|---|---|---|
+| `little one` / `little guy` / `little ones`（婴儿） | 小家伙／小家伙们 | 指新生儿时不得译“娃娃脸”；女孩可按语境译“小姑娘” |
+| `pregnancy cravings` | 孕期怪口味／孕期口味 | 指怀孕造成的特殊饮食欲望，不机械译成笼统的“孕期反应” |
+| `daycare` | 托儿所 | 指婴幼儿日间照护机构 |
+| `nipple stimulation` | 刺激乳头 | 产后哺乳与成人双关并存，不弱化或净化 |
+| `sweetie`（母婴连续双关） | 宝贝／大宝贝／小宝贝 | Debbie 同时称呼 Anon 与孩子时用于区分；普通对 Anon 的称呼仍通常译“亲爱的” |
+
 ## Ren’Py 特殊内容
 
 - `[变量]`、`{标签}`、`%(变量)s`、`%s`、`%d`、转义字符和文本标签必须与英文源字符串保持同一集合和拼写。
