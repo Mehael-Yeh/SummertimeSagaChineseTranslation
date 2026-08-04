@@ -4,7 +4,7 @@
 translate chinese deb_shower_26473f4a:
 
     # anon "( Hmm, it's so steamy... )"
-    anon "(嗯，好热啊……)"
+    anon "（嗯，浴室里雾气腾腾的……）"
 
 # game/src/plot/deb_shower.rpy:5
 translate chinese deb_shower_2db17454:
@@ -16,7 +16,7 @@ translate chinese deb_shower_2db17454:
 translate chinese deb_shower_8a08dbda:
 
     # anon "( Mm, it's my sexy landlady! )"
-    anon "(嗯，是我那性感的女房东！)"
+    anon "(嗯，是我那性感的房东太太！)"
 
 # game/src/plot/deb_shower.rpy:9
 translate chinese deb_shower_6c6e3467:
@@ -70,7 +70,7 @@ translate chinese deb_shower_44746db4:
 translate chinese deb_shower_169538e0:
 
     # anon "W-wow, we're just getting straight into it, huh?"
-    anon "哇——哇，我们这是直接进入正题了，哈？"
+    anon "哇——哇，直接就进入正题了，哈？"
 
 # game/src/plot/deb_shower.rpy:71
 translate chinese deb_shower_9af9a3fd:
@@ -178,7 +178,7 @@ translate chinese deb_shower_merge3_f0ecd3b9:
 translate chinese deb_shower_merge3_d00ded84:
 
     # debbie "Give it to me, sweetie!"
-    debbie "给我吧，亲爱的！"
+    debbie "继续，别停，亲爱的！"
 
 # game/src/plot/deb_shower.rpy:128
 translate chinese deb_shower_merge3_f21a3803:
@@ -292,13 +292,13 @@ translate chinese deb_shower_merge3_02e49b49:
 translate chinese deb_shower_merge3_9febe2b8:
 
     # debbie "Give it to me!"
-    debbie "给我吧！"
+    debbie "继续，别停！"
 
 # game/src/plot/deb_shower.rpy:161
 translate chinese deb_shower_merge3_801b27df:
 
     # debbie "Give it to me!!"
-    debbie "给我吧！！"
+    debbie "继续，别停！！"
 
 # game/src/plot/deb_shower.rpy:163
 translate chinese deb_shower_merge3_54ee26e7:
@@ -496,7 +496,7 @@ translate chinese deb_shower_anal_45a5707b:
 translate chinese deb_shower_anal_de8c830a:
 
     # debbie e_w f_surprised "OH MY GOD!!"
-    debbie e_w f_surprised "哦我的天哪！！"
+    debbie e_w f_surprised "我的天啊！！"
 
 # game/src/plot/deb_shower.rpy:254
 translate chinese deb_shower_anal_e2b55376:
@@ -520,7 +520,7 @@ translate chinese deb_shower_anal_bc32b28d:
 translate chinese deb_shower_anal_a5915b17:
 
     # debbie e_b "Fffuuu."
-    debbie e_b "呼——。"
+    debbie e_b "呼——"
 
 # game/src/plot/deb_shower.rpy:261
 translate chinese deb_shower_anal_fde0fb0e:
@@ -544,7 +544,7 @@ translate chinese deb_shower_anal_6658582e:
 translate chinese deb_shower_anal_422fbe4e:
 
     # debbie "It's dirty!"
-    debbie "这很脏！"
+    debbie "这样太下流了！"
 
 # game/src/plot/deb_shower.rpy:267
 translate chinese deb_shower_anal_436c9c4c:
@@ -568,7 +568,7 @@ translate chinese deb_shower_anal_61a1751a:
 translate chinese deb_shower_anal_ffd41142:
 
     # debbie f_worried_surprised "S-sweetie..."
-    debbie f_worried_surprised "甜、亲爱的……"
+    debbie f_worried_surprised "亲、亲爱的……"
 
 # game/src/plot/deb_shower.rpy:274
 translate chinese deb_shower_anal_476a9d3e:
@@ -718,7 +718,7 @@ translate chinese deb_shower_anal_c008daf8:
 translate chinese deb_shower_anal_f033bfed:
 
     # anon "Egs ah oud."
-    anon "埃格斯啊欧德。"
+    anon "感、感觉好舒服……"
 
 # game/src/plot/deb_shower.rpy:310
 translate chinese deb_shower_anal_3d05379b:
@@ -742,7 +742,7 @@ translate chinese deb_shower_anal_653d269e:
 translate chinese deb_shower_anal_bead4899:
 
     # debbie e_ese f_sad "Grr... Sweetie, why?!"
-    debbie e_ese f_sad "呃... 亲爱的，为什么？！"
+    debbie e_ese f_sad "呃……亲爱的，为什么？！"
 
 # game/src/plot/deb_shower.rpy:317
 translate chinese deb_shower_anal_2f3659d1:
@@ -796,13 +796,13 @@ translate chinese deb_shower_anal_94d1a215:
 translate chinese deb_shower_anal_3345e798:
 
     # debbie "Ffffaawwwwwccccckkkk!!!"
-    debbie "操操操操操操操操操操操！！！"
+    debbie "操操操操操！！！"
 
 # game/src/plot/deb_shower.rpy:331
 translate chinese deb_shower_anal_b08ae90f:
 
     # debbie "Ngghhh... N-no, NO!"
-    debbie "嗯呃...不，不行！"
+    debbie "嗯呃……不、不行！"
 
 # game/src/plot/deb_shower.rpy:332
 translate chinese deb_shower_anal_a97cef56:
@@ -814,13 +814,13 @@ translate chinese deb_shower_anal_a97cef56:
 translate chinese deb_shower_anal_db7eec17:
 
     # debbie e_ese f_sad "Sweetie, please... I can't-"
-    debbie e_ese f_sad "亲爱的，求你了...我受不了——"
+    debbie e_ese f_sad "亲爱的，求你了……我受不了——"
 
 # game/src/plot/deb_shower.rpy:345
 translate chinese deb_shower_baby_26473f4a:
 
     # anon "( Hmm, it's so steamy... )"
-    anon "(嗯，真是春色无边...)"
+    anon "（嗯，浴室里雾气腾腾的……）"
 
 # game/src/plot/deb_shower.rpy:346
 translate chinese deb_shower_baby_2db17454:
@@ -838,13 +838,13 @@ translate chinese deb_shower_baby_00baccf7:
 translate chinese deb_shower_baby_f60375f4:
 
     # anon "( Man, I love seeing her in this state... she just looks so... )"
-    anon "(天哪，我就爱看她这副模样...看起来如此...)"
+    anon "（天哪，我就喜欢看她这副模样……看起来真是……）"
 
 # game/src/plot/deb_shower.rpy:352
 translate chinese deb_shower_baby_a62ae5d8:
 
     # anon "( ... Luscious and fertile. )"
-    anon "(...如此丰韵多产。)"
+    anon "（……丰腴又充满孕味。）"
 
 # game/src/plot/deb_shower.rpy:355
 translate chinese deb_shower_baby_ab68597f:
@@ -868,7 +868,7 @@ translate chinese deb_shower_bail_d5450e75:
 translate chinese deb_shower_blowjob1_0b1e2647:
 
     # anon "I don't suppose you'd wanna... y'know... use your mouth?"
-    anon "我想你不会想要……你知道的……用你的嘴吧？"
+    anon "我想你应该不会介意……呃，你懂的……用嘴帮我吧？"
 
 # game/src/plot/deb_shower.rpy:370
 translate chinese deb_shower_blowjob1_b4903153:
@@ -898,13 +898,13 @@ translate chinese deb_shower_blowjob1a_a83b723d:
 translate chinese deb_shower_blowjob1a_1c636b33:
 
     # debbie "Anything for my boy!"
-    debbie "为了我的好兄弟，什么都行！"
+    debbie "为了我的好男孩，什么都行！"
 
 # game/src/plot/deb_shower.rpy:385
 translate chinese deb_shower_blowjob1a_530678f8:
 
     # anon "Man, you're the best!"
-    anon "老兄，你太棒了！"
+    anon "你真是最棒的！"
 
 # game/src/plot/deb_shower.rpy:386
 translate chinese deb_shower_blowjob1a_b1dad515:
@@ -1126,19 +1126,19 @@ translate chinese deb_shower_blowjob1b_90cbd83e:
 translate chinese deb_shower_blowjob1c_243b0c87:
 
     # debbie "Now let's get washed up, so I can get started on breakfast."
-    debbie "现在我们去洗洗，这样我就可以开始做早餐了。"
+    debbie "现在我们洗洗干净，我好开始做早餐。"
 
 # game/src/plot/deb_shower.rpy:461
 translate chinese deb_shower_blowjob1c_e719f94a:
 
     # debbie "Now let's get washed up, so I can get to bed."
-    debbie "现在我们去洗洗，这样我就能上床睡觉了。"
+    debbie "现在我们洗洗干净，我好上床睡觉。"
 
 # game/src/plot/deb_shower.rpy:463
 translate chinese deb_shower_blowjob1c_09b91ea1:
 
     # debbie "Now let's get washed up, so I can get on with the day."
-    debbie "现在我们去洗洗，这样我就可以开始新的一天了。"
+    debbie "现在我们洗洗干净，我好开始今天的生活。"
 
 # game/src/plot/deb_shower.rpy:465
 translate chinese deb_shower_blowjob1c_38019bca:
@@ -1156,7 +1156,7 @@ translate chinese deb_shower_blowjob1c_244739f4:
 translate chinese deb_shower_blowjob2_9fe13f94:
 
     # anon "Phew, man... that feels real good..."
-    anon "呼，伙计……感觉真不错……"
+    anon "呼，伙计……感觉真舒服……"
 
 # game/src/plot/deb_shower.rpy:477
 translate chinese deb_shower_blowjob2_b5359175:
@@ -1168,7 +1168,7 @@ translate chinese deb_shower_blowjob2_b5359175:
 translate chinese deb_shower_blowjob2_83e37c09:
 
     # anon f_curious "... But maybe... you could... suck on it?"
-    anon f_curious "...但也许...你可以...吸一下它？"
+    anon f_curious "……不过，也许你可以……帮它吸一下？"
 
 # game/src/plot/deb_shower.rpy:481
 translate chinese deb_shower_blowjob2_d44be6da:
@@ -1186,7 +1186,7 @@ translate chinese deb_shower_blowjob2_f6bab7e5:
 translate chinese deb_shower_blowjob2_828b4bd8:
 
     # debbie f_worried_surprised "That's a terrible thing to say to your landlady!!"
-    debbie f_worried_surprised "对你房东太太说这种话太糟糕了！！"
+    debbie f_worried_surprised "对你这个房东太太说这种话，太过分了！！"
 
 # game/src/plot/deb_shower.rpy:485
 translate chinese deb_shower_blowjob2_b82c2e64:
@@ -1198,7 +1198,7 @@ translate chinese deb_shower_blowjob2_b82c2e64:
 translate chinese deb_shower_blowjob2_1f030093:
 
     # anon a_behind "S-sorry, I didn't think-"
-    anon a_behind "对、对不起，我没想——"
+    anon a_behind "对、对不起，我没想到——"
 
 # game/src/plot/deb_shower.rpy:489
 translate chinese deb_shower_blowjob2_8b141911:
@@ -1210,25 +1210,25 @@ translate chinese deb_shower_blowjob2_8b141911:
 translate chinese deb_shower_blowjob2_f8d378de:
 
     # anon a_side f_shy "Oh... Heh!"
-    anon a_side f_shy "哦...嘿！"
+    anon a_side f_shy "哦……嘿！"
 
 # game/src/plot/deb_shower.rpy:491
 translate chinese deb_shower_blowjob2_39ee5207:
 
     # debbie "Aww, of course I'll suck it for you, sweetie."
-    debbie "啊，我当然会帮你吸的，亲爱的。"
+    debbie "啊，当然可以帮你吸，亲爱的。"
 
 # game/src/plot/deb_shower.rpy:493
 translate chinese deb_shower_blowjob2_1c636b33:
 
     # debbie "Anything for my boy!"
-    debbie "为了我的男孩，什么都行！"
+    debbie "为了我的好男孩，什么都行！"
 
 # game/src/plot/deb_shower.rpy:503
 translate chinese deb_shower_blowjob2_530678f8:
 
     # anon "Man, you're the best!"
-    anon "老兄，你最棒了！"
+    anon "你真是最棒的！"
 
 # game/src/plot/deb_shower.rpy:504
 translate chinese deb_shower_blowjob2_0bc97c04:
@@ -1252,7 +1252,7 @@ translate chinese deb_shower_blowjob2_35464c24:
 translate chinese deb_shower_blowjob2_e1bd6b0d:
 
     # anon "I'm getting close!!"
-    anon "我快要到了！！"
+    anon "我快要射了！！"
 
 # game/src/plot/deb_shower.rpy:510
 translate chinese deb_shower_blowjob2_61027ed4:
@@ -1264,7 +1264,7 @@ translate chinese deb_shower_blowjob2_61027ed4:
 translate chinese deb_shower_blowjob2_5f947b43:
 
     # anon "Here it... comes!!!"
-    anon "来了……要来了！！！"
+    anon "要来了……要来了！！！"
 
 # game/src/plot/deb_shower.rpy:515
 translate chinese deb_shower_blowjob2_0cf4d269:
@@ -1288,7 +1288,7 @@ translate chinese deb_shower_blowjob2_e77192aa:
 translate chinese deb_shower_blowjob2_543cd4a5:
 
     # debbie "Fuah... haah... haah..."
-    debbie "呼啊...哈啊...哈啊..."
+    debbie "呼啊……哈啊……哈啊……"
 
 # game/src/plot/deb_shower.rpy:522
 translate chinese deb_shower_blowjob2_05dd0608:
@@ -1300,25 +1300,25 @@ translate chinese deb_shower_blowjob2_05dd0608:
 translate chinese deb_shower_blowjob2_93342f5a:
 
     # debbie "I wasn't sure I could handle it all."
-    debbie "我还以为自己应付不了呢。"
+    debbie "我还以为自己吃不下这么多呢。"
 
 # game/src/plot/deb_shower.rpy:529
 translate chinese deb_shower_blowjob2_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_shower.rpy:534
 translate chinese deb_shower_blowjob2_b1230b55:
 
     # debbie "Guess I won't be eating breakfast this morning."
-    debbie "看来今天早上不用吃早餐了。"
+    debbie "看来我今天早上是不用吃早餐了。"
 
 # game/src/plot/deb_shower.rpy:536
 translate chinese deb_shower_blowjob2_bd8c4d7e:
 
     # debbie "Guess I'll be skipping a meal or two."
-    debbie "估计要少吃一两顿了。"
+    debbie "看来得少吃一两顿了。"
 
 # game/src/plot/deb_shower.rpy:538
 translate chinese deb_shower_blowjob2_537b55c3:
@@ -1330,7 +1330,7 @@ translate chinese deb_shower_blowjob2_537b55c3:
 translate chinese deb_shower_blowjob2_6b3406fc:
 
     # debbie "You really filled me up."
-    debbie "你真的把我填饱了。"
+    debbie "你可真是把我填饱了。"
 
 # game/src/plot/deb_shower.rpy:540
 translate chinese deb_shower_blowjob2_64fe5784:
@@ -1378,7 +1378,7 @@ translate chinese deb_shower_blowjob2_178fcc3b:
 translate chinese deb_shower_blowjob2_b4ac0757:
 
     # debbie a_shy e_e "I just took a gallon off you!"
-    debbie a_shy e_e "我刚刚帮你解决了足足一加仑！"
+    debbie a_shy e_e "我刚刚替你解决了足足一加仑的量！"
 
 # game/src/plot/deb_shower.rpy:552
 translate chinese deb_shower_blowjob2_3ed33e1b:
@@ -1408,7 +1408,7 @@ translate chinese deb_shower_blowjob2_477a24eb:
 translate chinese deb_shower_busy_96779edb:
 
     # anon "( Man, it's a shame I've got so much stuff to do. )"
-    anon "(唉，真可惜我还有那么多事要做。)"
+    anon "（唉，真可惜我还有那么多事要做。）"
 
 # game/src/plot/deb_shower.rpy:568
 translate chinese deb_shower_busy_319077b1:
@@ -1420,7 +1420,7 @@ translate chinese deb_shower_busy_319077b1:
 translate chinese deb_shower_busy_05f10e67:
 
     # anon "( {i}*Sigh*{/i} Maybe next time. )"
-    anon "({i}*叹气*{/i}也许下次吧。)"
+    anon "（{i}*叹气*{/i}也许下次吧。）"
 
 # game/src/plot/deb_shower.rpy:577
 translate chinese deb_shower_creampie_0cf4d269:
@@ -1438,19 +1438,19 @@ translate chinese deb_shower_creampie_a9534954:
 translate chinese deb_shower_creampie_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_shower.rpy:584
 translate chinese deb_shower_creampie_0746c02e:
 
     # anon e_oe f_calm "That was... amazing..."
-    anon e_oe f_calm "那真是...太棒了..."
+    anon e_oe f_calm "那真是……太棒了……"
 
 # game/src/plot/deb_shower.rpy:587
 translate chinese deb_shower_creampie_e8f2e895:
 
     # anon "... [saga.cast.debbie]?"
-    anon "... [saga.cast.debbie]?"
+    anon "……[saga.cast.debbie]？"
 
 # game/src/plot/deb_shower.rpy:588
 translate chinese deb_shower_creampie_b3d16a30:
@@ -1486,7 +1486,7 @@ translate chinese deb_shower_creampie_c6e322d8:
 translate chinese deb_shower_dark_ae80b849:
 
     # anon "( Man, if it wasn't so late I'd be in there in a flash! )"
-    anon "(靠，要不是这么晚了，我早就冲进去了！)"
+    anon "（操，要不是这么晚了，我早就冲进去了！）"
 
 # game/src/plot/deb_shower.rpy:601
 translate chinese deb_shower_dark_0851c1da:
@@ -1510,7 +1510,7 @@ translate chinese deb_shower_deny1_f6bab7e5:
 translate chinese deb_shower_deny1_79fd44a7:
 
     # debbie "I said nothing below the waist!"
-    debbie "我说过腰部以下不能碰！"
+    debbie "我说过腰部以下不许碰！"
 
 # game/src/plot/deb_shower.rpy:616
 translate chinese deb_shower_deny1_6f9bce74:
@@ -1570,7 +1570,7 @@ translate chinese deb_shower_deny2_20daa2a8:
 translate chinese deb_shower_deny2_a341a9ef:
 
     # debbie "{i}*Gulp*{/i} L-let's just have sex, okay?"
-    debbie "{i}*吞咽*{/i} 我、我们就做爱吧，好吗？"
+    debbie "{i}*吞咽*{/i} 我、我们还是做爱吧，好吗？"
 
 # game/src/plot/deb_shower.rpy:655
 translate chinese deb_shower_deny2_56d0d031:
@@ -1654,13 +1654,13 @@ translate chinese deb_shower_foreplay_3d97bd22:
 translate chinese deb_shower_foreplay_c8a958f4:
 
     # debbie e_e f_curious -m_laugh "I guess, that means I'm renting to a boob guy?"
-    debbie e_e f_curious -m_laugh "我想，这意味着我是个胸控吧？"
+    debbie e_e f_curious -m_laugh "我想，这下能确定我是个胸控了吧？"
 
 # game/src/plot/deb_shower.rpy:691
 translate chinese deb_shower_foreplay_5596d8e4:
 
     # anon "Mm, when it comes to you, [saga.cast.debbie]... I'm an everything guy."
-    anon "嗯，说到你，[saga.cast.debbie]……我什么控都行。"
+    anon "嗯，说到你，[saga.cast.debbie]……我什么都喜欢。"
 
 # game/src/plot/deb_shower.rpy:692
 translate chinese deb_shower_foreplay_3c030a1d:
@@ -1696,7 +1696,7 @@ translate chinese deb_shower_foreplay_d36e1173:
 translate chinese deb_shower_foreplay_c4a1aebc:
 
     # debbie "I love feeling your big, strong hands... all over me!"
-    debbie "我喜欢你那双大手……抚摸我全身的感觉！"
+    debbie "我喜欢你那双强壮的大手在我身上到处游走！"
 
 # game/src/plot/deb_shower.rpy:701
 translate chinese deb_shower_foreplay_63e884e3:
@@ -1714,7 +1714,7 @@ translate chinese deb_shower_foreplay_b2f98406:
 translate chinese deb_shower_foreplay_18fc583e:
 
     # debbie "... Going!"
-    debbie "……高潮啦！"
+    debbie "……兴奋起来了！"
 
 # game/src/plot/deb_shower.rpy:705
 translate chinese deb_shower_foreplay_477fa505:
@@ -1744,7 +1744,7 @@ translate chinese deb_shower_foreplay_c3d76857:
 translate chinese deb_shower_foreplay_6d929bf3:
 
     # anon e_wnw "[saga.cast.debbie] your pussy is dripping wet!"
-    anon e_wnw "[saga.cast.debbie]你的小穴湿透了！"
+    anon e_wnw "[saga.cast.debbie]，你的小穴湿透了！"
 
 # game/src/plot/deb_shower.rpy:723
 translate chinese deb_shower_foreplay_5f9be8e7:
@@ -1828,7 +1828,7 @@ translate chinese deb_shower_foreplay_c950b36a:
 translate chinese deb_shower_foreplay_5b63a65b:
 
     # anon "Mm, your pussy is getting creamy again."
-    anon "嗯，你的小穴又湿了。"
+    anon "嗯，你的小穴又开始冒白浆了。"
 
 # game/src/plot/deb_shower.rpy:740
 translate chinese deb_shower_foreplay_acc559eb:
@@ -1852,7 +1852,7 @@ translate chinese deb_shower_foreplay_a529fedd:
 translate chinese deb_shower_foreplay_d3a63a37:
 
     # debbie "Y-you do?"
-    debbie "你...你确定？"
+    debbie "你……你确定？"
 
 # game/src/plot/deb_shower.rpy:745
 translate chinese deb_shower_foreplay_a8f3c1dd:
@@ -1864,7 +1864,7 @@ translate chinese deb_shower_foreplay_a8f3c1dd:
 translate chinese deb_shower_foreplay_83bd280c:
 
     # anon "Working your sopping wet pussy until it froths up all over my fingers."
-    anon "用手指把你湿透的小穴搅到冒沫子。"
+    anon "用手指操弄你湿透的小穴，直到白浆沾满我的手指。"
 
 # game/src/plot/deb_shower.rpy:748
 translate chinese deb_shower_foreplay_a74b7205:
@@ -1882,7 +1882,7 @@ translate chinese deb_shower_foreplay_47873cb2:
 translate chinese deb_shower_foreplay_559ece68:
 
     # debbie "Haah... haah..."
-    debbie "哈啊...哈啊..."
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_shower.rpy:752
 translate chinese deb_shower_foreplay_66f9dc29:
@@ -1894,7 +1894,7 @@ translate chinese deb_shower_foreplay_66f9dc29:
 translate chinese deb_shower_foreplay_346fae25:
 
     # debbie e_ese "Sweetie, don't... say things... like that."
-    debbie e_ese "亲爱的，别……说这样的话……。"
+    debbie e_ese "亲爱的，别……说这种话……"
 
 # game/src/plot/deb_shower.rpy:756
 translate chinese deb_shower_merge2_ad43e5d5:
@@ -1924,13 +1924,13 @@ translate chinese deb_shower_merge2_98bbab62:
 translate chinese deb_shower_merge2_cc03d052:
 
     # debbie "P-please... I want it so-"
-    debbie "请……求……我超想——"
+    debbie "求……求你……我想要得——"
 
 # game/src/plot/deb_shower.rpy:774
 translate chinese deb_shower_merge2_2b14b685:
 
     # debbie "BAAAAAAAAADDD!!!" with hpunch
-    debbie "超————————级想！！！" with hpunch
+    debbie "太——想要了！！！" with hpunch
 
 # game/src/plot/deb_shower.rpy:779
 translate chinese deb_shower_handjob1_4025a81f:
@@ -1960,7 +1960,7 @@ translate chinese deb_shower_handjob1_614e7aef:
 translate chinese deb_shower_handjob1_738bb569:
 
     # debbie "I enjoy taking care of my boy."
-    debbie "我喜欢照顾我的男孩。"
+    debbie "我就喜欢照顾我的好男孩。"
 
 # game/src/plot/deb_shower.rpy:787
 translate chinese deb_shower_handjob1_015ab450:
@@ -2014,7 +2014,7 @@ translate chinese deb_shower_handjob1_7d19b6d2:
 translate chinese deb_shower_handjob1_a2a00118:
 
     # anon "D-definitely."
-    anon "绝...绝对！"
+    anon "绝、绝对！"
 
 # game/src/plot/deb_shower.rpy:807
 translate chinese deb_shower_handjob1_8ea7403f:
@@ -2026,19 +2026,19 @@ translate chinese deb_shower_handjob1_8ea7403f:
 translate chinese deb_shower_handjob1_78e85f9f:
 
     # debbie "I just can't get over how big you are..."
-    debbie "我简直无法适应你有多么巨大..."
+    debbie "我简直无法想象你居然这么大……"
 
 # game/src/plot/deb_shower.rpy:812
 translate chinese deb_shower_handjob1_f84072bf:
 
     # debbie "... I can't even get my hand all the way around it."
-    debbie "...我甚至无法用手完全握住它。"
+    debbie "……我甚至没法用一只手完全握住它。"
 
 # game/src/plot/deb_shower.rpy:815
 translate chinese deb_shower_handjob1_196f8a2c:
 
     # debbie "That's it, sweetie... just relax and think about happy thoughts."
-    debbie "这就对了，亲爱的...放松，想想开心的事情。"
+    debbie "这就对了，亲爱的……放松，想点开心的事。"
 
 # game/src/plot/deb_shower.rpy:816
 translate chinese deb_shower_handjob1_ebcb9e93:
@@ -2062,7 +2062,7 @@ translate chinese deb_shower_handjob1_0dafa05f:
 translate chinese deb_shower_handjob1_e7296da8:
 
     # anon e_sw f_shy "Could you... y'know... use your mouth?"
-    anon e_sw f_shy "你能...那个...用嘴吗？"
+    anon e_sw f_shy "你能……呃，你懂的……用嘴吗？"
 
 # game/src/plot/deb_shower.rpy:828
 translate chinese deb_shower_handjob1_2ec47a84:
@@ -2098,7 +2098,7 @@ translate chinese deb_shower_handjob1_c32d6e0b:
 translate chinese deb_shower_handjob1_6c35224f:
 
     # debbie "... Just let it all out for me."
-    debbie "……都为我释放出来吧。"
+    debbie "……全都射出来给我。"
 
 # game/src/plot/deb_shower.rpy:846
 translate chinese deb_shower_handjob1_2763a86f:
@@ -2134,7 +2134,7 @@ translate chinese deb_shower_handjob1_60af49fc:
 translate chinese deb_shower_handjob1_abd21d0c:
 
     # debbie e_ne od_cum p_lean_hj_cum_02 "Good boy!"
-    debbie e_ne od_cum p_lean_hj_cum_02 "好孩子！"
+    debbie e_ne od_cum p_lean_hj_cum_02 "好男孩！"
 
 # game/src/plot/deb_shower.rpy:863
 translate chinese deb_shower_handjob1_2c892a1b:
@@ -2152,7 +2152,7 @@ translate chinese deb_shower_handjob1_5b1bc33b:
 translate chinese deb_shower_handjob1_ec0dfc79:
 
     # debbie "I take good care of my boy, don't I?"
-    debbie "我很照顾我的男孩，对吧？"
+    debbie "我很会照顾我的好男孩，对吧？"
 
 # game/src/plot/deb_shower.rpy:871
 translate chinese deb_shower_handjob1_e7559492:
@@ -2170,7 +2170,7 @@ translate chinese deb_shower_handjob1_083b8841:
 translate chinese deb_shower_handjob1_98838594:
 
     # anon a_surprised_reach d_soft "Have I mentioned you're the best landlady ever?"
-    anon a_surprised_reach d_soft "我有没有说过你是最棒的房东？"
+    anon a_surprised_reach d_soft "我有没有说过你是最棒的房东太太？"
 
 # game/src/plot/deb_shower.rpy:874
 translate chinese deb_shower_handjob1_114446e4:
@@ -2188,7 +2188,7 @@ translate chinese deb_shower_handjob1a_5794a7b8:
 translate chinese deb_shower_handjob1a_4591b592:
 
     # anon f_happy "Umm, do bears shit in the woods?!"
-    anon f_happy "嗯，这还用问吗？！"
+    anon f_happy "嗯，当然了！"
 
 # game/src/plot/deb_shower.rpy:880
 translate chinese deb_shower_handjob1a_3f604875:
@@ -2254,7 +2254,7 @@ translate chinese deb_shower_handjob2_80f3e31f:
 translate chinese deb_shower_handjob2_b0af056a:
 
     # debbie f_shy "... {i}Thing{/i}... throbbing."
-    debbie f_shy "……{i}那东西{/i}……在颤动。"
+    debbie f_shy "……{i}那东西{/i}……在跳动。"
 
 # game/src/plot/deb_shower.rpy:907
 translate chinese deb_shower_handjob2_d6f1f60b:
@@ -2266,13 +2266,13 @@ translate chinese deb_shower_handjob2_d6f1f60b:
 translate chinese deb_shower_handjob2_8a67b4db:
 
     # debbie "Y-your..."
-    debbie "你、你的..."
+    debbie "你、你的……"
 
 # game/src/plot/deb_shower.rpy:912
 translate chinese deb_shower_handjob2_da17c9e1:
 
     # debbie e_se f_shy of_blush "... {size=*.65}Cock.{/size}"
-    debbie e_se f_shy of_blush "... {size=*.65}鸡巴。{/size}"
+    debbie e_se f_shy of_blush "……{size=*.65}鸡巴。{/size}"
 
 # game/src/plot/deb_shower.rpy:913
 translate chinese deb_shower_handjob2_c45bde19:
@@ -2296,7 +2296,7 @@ translate chinese deb_shower_handjob2_5161a483:
 translate chinese deb_shower_handjob2_978ec958:
 
     # debbie f_horny "I can feel your big, fat, veiny cock... throbbing in my hand, and I love it!"
-    debbie f_horny "我能感觉到你粗大、肥硕、青筋暴起的鸡巴...在我手里跳动，我爱死了！"
+    debbie f_horny "我能感觉到你那根又粗又大、青筋暴起的鸡巴……在我手里跳动，我喜欢死了！"
 
 # game/src/plot/deb_shower.rpy:920
 translate chinese deb_shower_handjob2_020eb296:
@@ -2326,7 +2326,7 @@ translate chinese deb_shower_handjob2_01309dd2:
 translate chinese deb_shower_handjob2_362de542:
 
     # anon "S-sorry, it's just... I-"
-    anon "对，对不起，我只是...我..."
+    anon "对、对不起，只是……我——"
 
 # game/src/plot/deb_shower.rpy:932
 translate chinese deb_shower_handjob2_bf2be05b:
@@ -2362,13 +2362,13 @@ translate chinese deb_shower_handjob2_a517be7a:
 translate chinese deb_shower_handjob2_8dc7831b:
 
     # debbie e_sw "I want you to cum for me."
-    debbie e_sw "我想让你射给我。"
+    debbie e_sw "我想让你为我射出来。"
 
 # game/src/plot/deb_shower.rpy:943
 translate chinese deb_shower_handjob2_cdc74ab1:
 
     # debbie "Cum for me now."
-    debbie "现在就射给我吧。"
+    debbie "现在就射给我。"
 
 # game/src/plot/deb_shower.rpy:944
 translate chinese deb_shower_handjob2_a4fb183f:
@@ -2392,7 +2392,7 @@ translate chinese deb_shower_handjob2_17adf768:
 translate chinese deb_shower_handjob2_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_shower.rpy:950
 translate chinese deb_shower_handjob2_f9097381:
@@ -2422,7 +2422,7 @@ translate chinese deb_shower_handjob2_f285aa54:
 translate chinese deb_shower_peek1_26473f4a:
 
     # anon "( Hmm, it's so steamy... )"
-    anon "(哈，真是雾气腾腾...)"
+    anon "（嗯，浴室里雾气腾腾的……）"
 
 # game/src/plot/deb_shower.rpy:963
 translate chinese deb_shower_peek1_2db17454:
@@ -2452,13 +2452,13 @@ translate chinese deb_shower_peek1_82397bca:
 translate chinese deb_shower_peek1_19d534c5:
 
     # anon "( ... Man, just look at her! )"
-    anon "(……操，你看看她！)"
+    anon "（……操，看看她！）"
 
 # game/src/plot/deb_shower.rpy:974
 translate chinese deb_shower_peek1_4d4fe2d8:
 
     # anon "( She's got curves in all the right places! )"
-    anon "(她该凸的地方都凸了！)"
+    anon "（该凸的凸、该翘的翘！）"
 
 # game/src/plot/deb_shower.rpy:976
 translate chinese deb_shower_peek1_38d30f49:
@@ -2500,7 +2500,7 @@ translate chinese deb_shower_peek2_a4b5ed66:
 translate chinese deb_shower_peek2_5f364556:
 
     # anon "( Now it's all I see. )"
-    anon "(现在我只能看到这个。)"
+    anon "（现在满脑子都是她。）"
 
 # game/src/plot/deb_shower.rpy:995
 translate chinese deb_shower_peek2_8909ca22:
@@ -2512,13 +2512,13 @@ translate chinese deb_shower_peek2_8909ca22:
 translate chinese deb_shower_peek2_6c18f43c:
 
     # anon "( I'd go in there right now and sweep her off her feet! )"
-    anon "(我现在就想进去，让她神魂颠倒！)"
+    anon "（我现在就想冲进去，把她迷得神魂颠倒！）"
 
 # game/src/plot/deb_shower.rpy:998
 translate chinese deb_shower_peek2_54959ff8:
 
     # anon "( {i}*Sigh*{/i} Oh well, it's just not in the cards. )"
-    anon "({i}*叹气*{/i}算了，缘分未到。)"
+    anon "（{i}*叹气*{/i}算了，看来没这机会。）"
 
 # game/src/plot/deb_shower.rpy:999
 translate chinese deb_shower_peek2_43cdfa45:
@@ -2530,7 +2530,7 @@ translate chinese deb_shower_peek2_43cdfa45:
 translate chinese deb_shower_peek3_26473f4a:
 
     # anon "( Hmm, it's so steamy... )"
-    anon "(嗯，雾气好重……)"
+    anon "（嗯，浴室里雾气腾腾的……）"
 
 # game/src/plot/deb_shower.rpy:1007
 translate chinese deb_shower_peek3_2db17454:
@@ -2554,7 +2554,7 @@ translate chinese deb_shower_peek3_7b16de68:
 translate chinese deb_shower_peek3_c6bcfe6f:
 
     # anon "( I wonder if she'll be willing to push things a little further in the future? )"
-    anon "(不知道她以后愿不愿意再进一步？)"
+    anon "（不知道她以后愿不愿意再进一步？）"
 
 # game/src/plot/deb_shower.rpy:1014
 translate chinese deb_shower_peek3_cae54f2f:
@@ -2572,13 +2572,13 @@ translate chinese deb_shower_peek3_66f4e5a8:
 translate chinese deb_shower_peek3_f37d1792:
 
     # anon "( I'd say this bodes well for my chances. )"
-    anon "(我认为这对我的机会是个好兆头。)"
+    anon "（我觉得这对我来说是个好兆头。）"
 
 # game/src/plot/deb_shower.rpy:1028
 translate chinese deb_shower_peek3_0a873deb:
 
     # anon "( That is so freaking hot! )"
-    anon "(那也太他妈性感了！)"
+    anon "（那也太他妈性感了！）"
 
 # game/src/plot/deb_shower.rpy:1029
 translate chinese deb_shower_peek3_d3109f40:
@@ -2590,7 +2590,7 @@ translate chinese deb_shower_peek3_d3109f40:
 translate chinese deb_shower_peek4_26473f4a:
 
     # anon "( Hmm, it's so steamy... )"
-    anon "(嗯，真够火辣的……)"
+    anon "（嗯，浴室里雾气腾腾的……）"
 
 # game/src/plot/deb_shower.rpy:1038
 translate chinese deb_shower_peek4_2db17454:
@@ -2602,19 +2602,19 @@ translate chinese deb_shower_peek4_2db17454:
 translate chinese deb_shower_peek4_5081afcc:
 
     # anon "( Oh, momma! )"
-    anon "(哦，天哪！)"
+    anon "（哦，妈妈！）"
 
 # game/src/plot/deb_shower.rpy:1042
 translate chinese deb_shower_peek4_031ffa0a:
 
     # anon "( Man, I could stare at that body all day... so delicious! )"
-    anon "(老天，我能盯着那身体看一整天……太诱人了！)"
+    anon "（天哪，我能盯着那副身材看一整天……真是太诱人了！）"
 
 # game/src/plot/deb_shower.rpy:1045
 translate chinese deb_shower_peek4_dbdd5dfd:
 
     # anon "( Oh, it looks like someone is feeling naughty! )"
-    anon "(哦，看来有人很调皮！)"
+    anon "（哦，看来有人兴致很高嘛！）"
 
 # game/src/plot/deb_shower.rpy:1071
 translate chinese deb_shower_peek4_4fdb44af:
@@ -2632,13 +2632,13 @@ translate chinese deb_shower_peek4_b02745fd:
 translate chinese deb_shower_peek4_1939f851:
 
     # debbie a_cover f_shy of_blush "Oh, umm... H-hey, sweetie."
-    debbie a_cover f_shy of_blush "哦，嗯...嘿，亲爱的。"
+    debbie a_cover f_shy of_blush "哦，嗯……嘿，亲爱的。"
 
 # game/src/plot/deb_shower.rpy:1080
 translate chinese deb_shower_peek4_0eae94e9:
 
     # debbie f_curious "You weren't, umm... watching me... were you?"
-    debbie f_curious "你刚才没有，嗯...在看我...吧？"
+    debbie f_curious "你刚才没有，嗯……在看我……吧？"
 
 # game/src/plot/deb_shower.rpy:1081
 translate chinese deb_shower_peek4_8caa98fb:
@@ -2650,7 +2650,7 @@ translate chinese deb_shower_peek4_8caa98fb:
 translate chinese deb_shower_peek4_2b926d0b:
 
     # debbie e_sw f_shy "Oh, dear... I-"
-    debbie e_sw f_shy "哦，天哪...我——"
+    debbie e_sw f_shy "哦，天哪……我——"
 
 # game/src/plot/deb_shower.rpy:1084
 translate chinese deb_shower_peek4_057d5069:
@@ -2662,7 +2662,7 @@ translate chinese deb_shower_peek4_057d5069:
 translate chinese deb_shower_peek4_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/deb_shower.rpy:1087
 translate chinese deb_shower_peek4_0b6d7aa6:
@@ -2674,7 +2674,7 @@ translate chinese deb_shower_peek4_0b6d7aa6:
 translate chinese deb_shower_peek4_f2af8aa6:
 
     # debbie f_shy "... Y-yeah, sure... I suppose."
-    debbie f_shy "...嗯，好啊...当然可以。"
+    debbie f_shy "……嗯，好啊……我想可以。"
 
 # game/src/plot/deb_shower.rpy:1089
 translate chinese deb_shower_peek4_bae08c07:
@@ -2728,7 +2728,7 @@ translate chinese deb_shower_peek4_057d5069_1:
 translate chinese deb_shower_peek4_c9464635:
 
     # debbie a_shy f_happy "Yes, of course."
-    debbie a_shy f_happy "是的，当然。"
+    debbie a_shy f_happy "当然可以。"
 
 # game/src/plot/deb_shower.rpy:1121
 translate chinese deb_shower_peek4_f7088ba4:
@@ -2776,7 +2776,7 @@ translate chinese deb_shower_peek4_527b2f3c:
 translate chinese deb_shower_peek4_37f2718f:
 
     # debbie e_sw "{i}*Ahem*{/i} Certainly full of energy today."
-    debbie e_sw "{i}*咳咳*{/i} 今天确实精力充沛呢。"
+    debbie e_sw "{i}*咳咳*{/i} 今天可真是精力充沛呢。"
 
 # game/src/plot/deb_shower.rpy:1156
 translate chinese deb_shower_peek4_d3db31ea:
@@ -2836,7 +2836,7 @@ translate chinese deb_shower_peek4_c28875ba:
 translate chinese deb_shower_peek4_041cbf7b:
 
     # debbie a_surprised e_e "But nothing below the waist, okay?"
-    debbie a_surprised e_e "但不能脱腰部以下的衣服，好吗？"
+    debbie a_surprised e_e "但腰部以下的衣服不能动，好吗？"
 
 # game/src/plot/deb_shower.rpy:1188
 translate chinese deb_shower_peek4_cc35f25a:
@@ -2938,7 +2938,7 @@ translate chinese deb_shower_peek4_c8c056f5:
 translate chinese deb_shower_peek4_2d0fb937:
 
     # debbie "Goodness... you're so assertive today."
-    debbie "天哪...你今天可真强势。"
+    debbie "天哪……你今天可真强势。"
 
 # game/src/plot/deb_shower.rpy:1229
 translate chinese deb_shower_peek4_b94ab22a:
@@ -2956,13 +2956,13 @@ translate chinese deb_shower_peek4_18628322:
 translate chinese deb_shower_peek4_a5651cb0:
 
     # debbie f_shy "I kinda-"
-    debbie f_shy "我有点-"
+    debbie f_shy "我有点——"
 
 # game/src/plot/deb_shower.rpy:1232
 translate chinese deb_shower_peek4_d6d5af94:
 
     # debbie "Umm... like it."
-    debbie "嗯...喜欢它。"
+    debbie "嗯……喜欢。"
 
 # game/src/plot/deb_shower.rpy:1233
 translate chinese deb_shower_peek4_7f7d0e3e:
@@ -3016,7 +3016,7 @@ translate chinese deb_shower_peek4_385fc97a:
 translate chinese deb_shower_peek4_09e09575:
 
     # anon "Wow, your pussy is getting all creamy."
-    anon "哇，你的小穴都开始出沫了。"
+    anon "哇，你的小穴都湿得冒白浆了。"
 
 # game/src/plot/deb_shower.rpy:1246
 translate chinese deb_shower_peek4_7a4391f4:
@@ -3058,19 +3058,19 @@ translate chinese deb_shower_peek4_79fc1e38:
 translate chinese deb_shower_peek4_559ece68:
 
     # debbie "Haah... haah..."
-    debbie "哈……哈……"
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_shower.rpy:1256
 translate chinese deb_shower_peek4_66f9dc29:
 
     # anon "Everything is twitching back here."
-    anon "这里的一切都在抽搐。"
+    anon "我能感觉到里面全在抽搐。"
 
 # game/src/plot/deb_shower.rpy:1258
 translate chinese deb_shower_peek4_f2181ebb:
 
     # debbie e_ese "Sweetie, you shouldn't talk like that..."
-    debbie e_ese "亲爱的，你不该那么说……"
+    debbie e_ese "亲爱的，你不该这么说……"
 
 # game/src/plot/deb_shower.rpy:1259
 translate chinese deb_shower_peek4_f3001245:
@@ -3142,7 +3142,7 @@ translate chinese deb_shower_peek4_c73e51fe:
 translate chinese deb_shower_merge1_12f204d9:
 
     # debbie e_w f_horny m_idle "{i}*Gulp*{/i} L-let's just get you taken care of, yeah?"
-    debbie e_w f_horny m_idle "{i}*吞咽*{/i} 就、就先照顾你吧，好吗？"
+    debbie e_w f_horny m_idle "{i}*吞咽*{/i} 我、我们还是先让你舒服一下，好吗？"
 
 # game/src/plot/deb_shower.rpy:1302
 translate chinese deb_shower_merge1_bfdc8475:

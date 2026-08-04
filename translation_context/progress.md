@@ -58,6 +58,7 @@
 | `tl/chinese/src/plot/deb_mall.rpy` | Debbie支线；商场购物、车内亲密互动与怀孕后日常 | Debbie、Anon、Jenny（被提及） | 完成 | 通读完整场景；精修购物闲聊、车内接吻、Raven Hill 骑乘与口交分支、一起高潮、体外/内射和怀孕后日常；统一 `sweetie`、中文省略号、弯引号、人物语气及成人动作强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA构建通过 |
 | `tl/chinese/src/plot/deb_pants.rpy` | Debbie支线；Debbie发现Anon自慰、留下观看并主动调情，随后进入射精与事后清理分支 | Debbie、Anon | 完成 | 通读完整场景；精修偷窥/自慰发现、Debbie主动观看与鼓励、射精到身上、事后安抚及“憋得太久”的支线双关；统一`sweetie`“亲爱的”、中文省略号、喘息表达、英文姓名和成人动作强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA构建通过 |
 | `tl/chinese/src/plot/deb_pool.rpy` | Debbie支线；泳池边泳装调情、户外性交及邻居撞见风险 | Debbie、Anon、Tammy、Erik、Harold、Helen（被提及） | 完成 | 通读完整场景；精修泳装赞美、泳池边主动调情、邻居与熟人可能撞见的紧张感、性交节奏及 Debbie 的高潮前连续拆句；统一 `sweetie`“亲爱的”、中文省略号、全角括号、英文姓名和成人动作强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA构建通过 |
+| `tl/chinese/src/plot/deb_shower.rpy` | Debbie支线；浴室偷窥、淋浴性交、口交与边界重申 | Debbie、Anon、Jenny（被提及） | 完成 | 通读完整场景；精修浴室雾气、偷窥与关系阶段变化；理顺肛门相关双关、口交射精、互相清洗、抚摸/手淫和停止分支；统一 `ma’am`→“夫人”、`landlady`→“房东太太”、`my boy`→“我的好男孩”、中文省略号及女性高潮表达 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -174,7 +175,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线 `deb01.rpy` 至 `deb27.rpy` 及支线 `deb_baby.rpy`、`deb_island.rpy`、`deb_kitchen.rpy`、`deb_laundry.rpy`、`deb_lobby.rpy`、`deb_mall.rpy`、`deb_pants.rpy`、`deb_pool.rpy` 已完成；下一批按顺序完整通读并精修 `deb_shower.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线 `deb01.rpy` 至 `deb27.rpy` 及支线 `deb_baby.rpy`、`deb_island.rpy`、`deb_kitchen.rpy`、`deb_laundry.rpy`、`deb_lobby.rpy`、`deb_mall.rpy`、`deb_pants.rpy`、`deb_pool.rpy` 已完成；下一批按顺序完整通读并精修 `deb_sink.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
