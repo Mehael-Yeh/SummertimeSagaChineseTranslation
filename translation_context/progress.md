@@ -13,6 +13,7 @@
 | 文件 | 剧情线/场景 | 主要角色 | 状态 | 主要修复 | 校验 |
 |---|---|---|---|---|---|
 | `tl/chinese/src/plot/mar01.rpy` | Maria线；Tony/Maria 生育后的披萨店成人场景与关系安抚 | Maria、Tony、Anon | 完成 | 通读完整场景并精修感谢、生育双关、顾客掩饰、性交与高潮、负罪感安抚；统一中文省略号、成人动作强度和 Maria 主动粗俗口吻；保留所有英文姓名与变量 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar02.rpy` | Maria线；Tony与Anon讨论 Maria 产后继续发生关系及再生育计划 | Tony、Anon、Maria（被提及） | 完成 | 通读完整场景并精修 Tony 的支持与施压、Anon 的犹豫和关系推进；统一 Tony 专属称呼 `champ` →“冠军”；保留性行为动作强度、粗俗语气和英文姓名 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -129,7 +130,7 @@
 
 ## 下一步
 
-1. 主线数字序列及首批地点/物品短交互已完成；当前按用户指定优先处理 Maria 线，`mar01.rpy` 已完成，下一批处理 `mar02.rpy`。
+1. 主线数字序列及首批地点/物品短交互已完成；当前按用户指定优先处理 Maria 线，`mar01.rpy`、`mar02.rpy` 已完成，下一批处理 `mar_baby.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
