@@ -224,3 +224,12 @@
 | Bridget | `bridget.rpy`、学校/体育相关文件 | 身份称谓可写“Bridget教练”；姓名部分保持英文 |
 | Bissette | 学校相关文件 | 身份称谓可写“Bissette老师”；姓名部分保持英文 |
 | Smith | 学校管理相关文件 | 身份称谓可写“Smith校长”；姓名部分保持英文 |
+
+
+## mar_couch.rpy 补充
+
+- Maria 与 Anon 已从工作场合的暧昧推进到公开、主动且反复发生的成人关系，后期可以直接说出性需求和对内射的期待。
+- Tony 可熟睡、半醒或直接在场起哄，不能一律翻成偷情或隐瞒关系。
+- Maria 在 `creampie`、`merge`、`noon` 段落更主动、直白、粗俗；翻译需保留她对 Anon 和 Tony 的不同态度，不应用前期含蓄语气冲淡。
+- Tony 的 `champ` 统一译为“冠军”；`The Falsettos` 译为《假声》；`Carmella` 保持英文拼写。
+- Anon 在性行为中会结巴、喘息、犹豫，但不能被翻成完全被动。

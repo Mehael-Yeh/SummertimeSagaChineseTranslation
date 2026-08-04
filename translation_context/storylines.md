@@ -236,3 +236,11 @@
 - **隐私与成人含义**：`panty drawer` 明确译“内裤抽屉”，不能弱化成普通抽屉；但这些短交互只表现 Anon 的好奇、尴尬和越界冲动，不额外增加原文没有的色情描写。
 - **角色与代词**：原文姓名变量保持不变；`Dad` 是明确亲属称谓，译“爸爸”；Debbie 与 Diane 的复数代词统一用“她们”，并记录两人年轻时一起参加过夏令营。
 - **顺序限制**：这些支持性交互在 Debbie 数字主线中的精确插入点尚未仅凭翻译文件确认，后续处理 `deb01.rpy` 起的连续剧情时需结合调用条件复核。
+
+
+## mar_couch.rpy
+
+- 承接 `mar_cook.rpy`、`mar01.rpy`和 `mar02.rpy`，场景围绕 Tony 熟睡、半醒或看棒球时，Maria 与 Anon 在沙发上发生性行为展开。
+- `hit`/上垒、`bases loaded`/满垒、`strike`、`knuckleball`、`right down the middle` 组成连续的棒球—性双关，不应拆开后互相脱节。
+- `horizontal pizzica` 统一使用“横着做披萨”；`cum in me`、`fill me up`、`work that big cock`、`tap that` 保留露骨成人信息。
+- `Carmella`、变量、文本标签、角色标识和 Ren’Py 结构保持不变。

@@ -5,14 +5,14 @@ translate chinese mar_couch_creampie1_c84ef7d3:
 
 
     # maria "Do it!!"
-    maria "肏它！！"
+    maria "射吧！！"
 
 # game/src/plot/mar_couch.rpy:10
 translate chinese mar_couch_creampie1_1198f25d:
 
 
     # maria "Doo iittt!!"
-    maria "肏它！！"
+    maria "射吧——！！"
 
 # game/src/plot/mar_couch.rpy:13
 translate chinese mar_couch_creampie1_0cf4d269:
@@ -33,28 +33,28 @@ translate chinese mar_couch_creampie1_d165fd93:
 
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/mar_couch.rpy:19
 translate chinese mar_couch_creampie1_368bd6cb:
 
 
     # maria "Haah..."
-    maria "哈啊..."
+    maria "哈啊……"
 
 # game/src/plot/mar_couch.rpy:20
 translate chinese mar_couch_creampie1_925f9197:
 
 
     # anon "Sheesh."
-    anon "啧。"
+    anon "呼……"
 
 # game/src/plot/mar_couch.rpy:21
 translate chinese mar_couch_creampie1_7be59f41:
 
 
     # anon "You were really going hard there."
-    anon "你刚才真的很卖力啊。"
+    anon "刚才你可真卖力。"
 
 # game/src/plot/mar_couch.rpy:22
 translate chinese mar_couch_creampie1_b3ec5f40:
@@ -82,7 +82,7 @@ translate chinese mar_couch_creampie2_3a13952e:
 
 
     # tony f_happy "IT'S GONE!!!"
-    tony f_happy "不见了！！！"
+    tony f_happy "飞出去了！！！"
 
 # game/src/plot/mar_couch.rpy:32
 translate chinese mar_couch_creampie2_0cf4d269:
@@ -115,7 +115,7 @@ translate chinese mar_couch_creampie3_d165fd93:
 
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/mar_couch.rpy:59
 translate chinese mar_couch_dusk_2d6ca7a0:
@@ -183,7 +183,7 @@ translate chinese mar_couch_dusk1_ce66db4b:
 translate chinese mar_couch_dusk1_d61e821b:
 
     # anon f_horny "Or the way you're sipping that wine."
-    anon f_horny "或者你啜饮葡萄酒的样子。"
+    anon f_horny "或者是你小口抿着红酒的样子。"
 
 # game/src/plot/mar_couch.rpy:103
 translate chinese mar_couch_dusk1_2672cad0:
@@ -225,7 +225,7 @@ translate chinese mar_couch_dusk1_f4b37975:
 
 
     # maria a_hips "Heh, I love how excited you get over my breasts."
-    maria a_hips "嘿，我就喜欢你对我胸这么兴奋的样子。"
+    maria a_hips "呵，我就喜欢看你因为我的胸而兴奋成这样。"
 
 # game/src/plot/mar_couch.rpy:116
 translate chinese mar_couch_dusk1_bd6eee9d:
@@ -239,7 +239,7 @@ translate chinese mar_couch_dusk1_e478b315:
 
 
     # anon "... Just look at those things!"
-    anon "……看看那玩意儿！"
+    anon "……看看这对宝贝！"
 
 # game/src/plot/mar_couch.rpy:120
 translate chinese mar_couch_dusk1_cd060c84:
@@ -290,7 +290,7 @@ translate chinese mar_couch_dusk1_919d766b:
 translate chinese mar_couch_dusk1_967ad655:
 
     # maria "Relax, [saga.cast.anon]... he's fine with us."
-    maria "放轻松，[saga.cast.anon]……他对我们没意见。"
+    maria "放轻松，[saga.cast.anon]……他不会介意的。"
 
 # game/src/plot/mar_couch.rpy:153
 translate chinese mar_couch_dusk1_a4d7e100:
@@ -308,7 +308,7 @@ translate chinese mar_couch_dusk1_d987df6b:
 translate chinese mar_couch_dusk1_e340d598:
 
     # maria ob_none p_sex s_8 "Now focus!"
-    maria ob_none p_sex s_8 "现在集中注意！"
+    maria ob_none p_sex s_8 "现在专心点！"
 
 # game/src/plot/mar_couch.rpy:165
 translate chinese mar_couch_merge1_e31c87f3:
@@ -328,7 +328,7 @@ translate chinese mar_couch_merge1_ab29b733:
 
 
     # anon "... for the world."
-    anon "...哪怕用整个世界来换。"
+    anon "……哪怕拿整个世界来换。"
 
 # game/src/plot/mar_couch.rpy:171
 translate chinese mar_couch_merge1_d33c6731:
@@ -373,7 +373,7 @@ translate chinese mar_couch_merge2_ec3310db:
 
 
     # maria e_wsw f_calm "... Inside me."
-    maria e_wsw f_calm "...内射我。"
+    maria e_wsw f_calm "……射在我里面。"
 
 # game/src/plot/mar_couch.rpy:222
 translate chinese mar_couch_merge2_c060b820:
@@ -392,14 +392,14 @@ translate chinese mar_couch_merge3_ee71bd3a:
 
 
     # maria "Mm, I should probably..."
-    maria "嗯，我大概应该……"
+    maria "嗯，我大概得……"
 
 # game/src/plot/mar_couch.rpy:246
 translate chinese mar_couch_merge3_bb4661da:
 
 
     # maria "... Get this cleaned up."
-    maria "……把这个清理干净。"
+    maria "……把这里收拾干净。"
 
 # game/src/plot/mar_couch.rpy:258
 translate chinese mar_couch_merge3_c4abe7c5:
@@ -433,7 +433,7 @@ translate chinese mar_couch_merge3_8e09b8c9:
 translate chinese mar_couch_merge3_07a790d4:
 
     # anon @ -m_talk "( I wouldn't have thought that of an ex-mafia guy. )"
-    anon @ -m_talk "(真想不到前黑手党成员会这样。)"
+    anon @ -m_talk "(真没想到一个前黑手党会睡成这样。)"
 
 # game/src/plot/mar_couch.rpy:264
 translate chinese mar_couch_merge3_3d291bbb:
@@ -686,7 +686,7 @@ translate chinese mar_couch_dusk2_19b04449:
 
 
     # maria "What is it about you that makes me feel like a teenager again?"
-    maria "你到底有什么魔力，让我感觉又回到了少年时代？"
+    maria "你到底有什么魔力，能让我又找回少女般的感觉？"
 
 # game/src/plot/mar_couch.rpy:431
 translate chinese mar_couch_dusk2_2f7e9301:
@@ -700,28 +700,28 @@ translate chinese mar_couch_dusk2_f38ed8ea:
 
 
     # anon e_w "I uhh... dunno..."
-    anon e_w "我呃...不知道..."
+    anon e_w "我呃……不知道……"
 
 # game/src/plot/mar_couch.rpy:438
 translate chinese mar_couch_dusk2_2d0e8454:
 
 
     # anon e_w "Man, those are nice!"
-    anon e_w "天哪，那对乳房真好看！"
+    anon e_w "哇，这对胸真带劲！"
 
 # game/src/plot/mar_couch.rpy:440
 translate chinese mar_couch_dusk2_b726249b:
 
 
     # maria a_top_off_05 c_pants e_sw oa_none "Heh, I'm really glad [saga.cast.tony] found you."
-    maria a_top_off_05 c_pants e_sw oa_none "嘿嘿，我真的很高兴[saga.cast.tony]找到了你。"
+    maria a_top_off_05 c_pants e_sw oa_none "呵，我真高兴[saga.cast.tony]能找到你。"
 
 # game/src/plot/mar_couch.rpy:442
 translate chinese mar_couch_dusk2_659d3133:
 
 
     # anon "Y-yeah, me too."
-    anon "嗯...我也是。"
+    anon "嗯……我也是。"
 
 # game/src/plot/mar_couch.rpy:443
 translate chinese mar_couch_dusk2_c2a4e225:
@@ -793,7 +793,7 @@ translate chinese mar_couch_creampie2_d165fd93:
 
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 translate chinese mar_couch_creampie3_bf348d30:
 
@@ -815,7 +815,7 @@ translate chinese mar_couch_dusk1_7241a5a0:
 
 
     # anon "... Maybe it's the moonlight in your hair."
-    anon "...也许是你发间的月光。"
+    anon "……也许是你发间的月光。"
 
 translate chinese mar_couch_dusk1_54ca6a42:
 
@@ -853,7 +853,7 @@ translate chinese mar_couch_dusk1_b2fdd4d5:
 
 
     # maria "For now, I have other ideas in mind."
-    maria "目前，我另有打算。"
+    maria "不过，我现在另有打算。"
 
 translate chinese mar_couch_dusk1_bbac05c5:
 
@@ -888,23 +888,23 @@ translate chinese mar_couch_dusk1_f84cd8cc:
 
 
     # maria "Turns on The Falsettos and conks out 'til bed."
-    maria "打开《假声》然后一直睡到天黑。"
+    maria "打开《假声》，然后一觉睡到该上床睡。"
 
 translate chinese mar_couch_merge1_e9b59d51:
 
     # maria "It's so nice of ya..."
-    maria "你真是太好了……"
+    maria "你可真贴心……"
 
 translate chinese mar_couch_merge1_1237a554:
 
     # maria "... to make..."
-    maria "……来为我……"
+    maria "……还特地……"
 
 translate chinese mar_couch_merge1_80a7e549:
 
 
     # maria "... house calls for me!"
-    maria "……提供上门服务！"
+    maria "……上门来帮我！"
 
 translate chinese mar_couch_merge1_13ce197e:
 
@@ -915,7 +915,7 @@ translate chinese mar_couch_merge1_f4a86343:
 
 
     # anon "I wouldn't miss this..."
-    anon "我绝不会错过这个..."
+    anon "我可不会错过这个……"
 
 translate chinese mar_couch_merge1_7feddaed:
 
@@ -1013,7 +1013,7 @@ translate chinese mar_couch_merge1_77933e7b:
 translate chinese mar_couch_merge1_95c0c88b:
 
     # maria "I'M GONNA CUM!!!"
-    maria "我要潮！喷！了！！！"
+    maria "我、我要射了！！！"
 
 translate chinese mar_couch_merge1_707106a0:
 
@@ -1023,7 +1023,7 @@ translate chinese mar_couch_merge1_707106a0:
 translate chinese mar_couch_merge1_af038675:
 
     # maria "GIVE IT TO ME, [saga.cast.anon!u]!!"
-    maria "把它们给我，[saga.cast.anon!u]！！"
+    maria "给我射，[saga.cast.anon!u]！！"
 
 translate chinese mar_couch_merge1_60a42d96:
 
@@ -1064,7 +1064,7 @@ translate chinese mar_couch_merge2_217e4446:
 
 
     # maria "... To cum..."
-    maria "...射在..."
+    maria "……射在我里面……"
 
 translate chinese mar_couch_merge2_8a28c44d:
 
@@ -1168,7 +1168,7 @@ translate chinese mar_couch_merge4_90260e09:
 translate chinese mar_couch_merge4_485ae414:
 
     # maria f_annoyed "Ugh, this Carmella gal is the worst."
-    maria f_annoyed "唉，这个卡梅拉妞儿最烦人了。"
+    maria f_annoyed "唉，这个Carmella妮儿最烦人了。"
 
 translate chinese mar_couch_merge4_7dd2edb4:
 
@@ -1197,7 +1197,7 @@ translate chinese mar_couch_merge4_ff80827d:
 
 
     # maria "The Falsettos."
-    maria "《法赛图一家》。"
+    maria "《假声》。"
 
 translate chinese mar_couch_merge4_4638f7d2:
 
@@ -1226,7 +1226,7 @@ translate chinese mar_couch_dusk2_5bb096da:
 
 
     # anon e_e "H-he's sleeping... right?"
-    anon e_e "他...睡着了吧？"
+    anon e_e "他……睡着了吧？"
 
 translate chinese mar_couch_dusk2_bb8d9507:
 
@@ -1243,7 +1243,7 @@ translate chinese mar_couch_dusk2_c6e322d8:
 translate chinese mar_couch_creampie2_7a286a5b:
 
     # tony a_cheer f_happy "IT'S GONE!!!"
-    tony a_cheer f_happy "它不见了！！！"
+    tony a_cheer f_happy "飞出去了！！！"
 
 translate chinese mar_couch_creampie2_8e72181c:
 
@@ -1273,7 +1273,7 @@ translate chinese mar_couch_noon1_e12b3848:
 translate chinese mar_couch_noon1_74f85254:
 
     # tony "[saga.cast.maria] especially wears it well."
-    tony "[saga.cast.maria]尤其适合这种状态。"
+    tony "[saga.cast.maria]尤其适合这个样子。"
 
 translate chinese mar_couch_noon1_a3df1f9d:
 
@@ -1303,7 +1303,7 @@ translate chinese mar_couch_noon1_3f40aac0:
 translate chinese mar_couch_noon1_d0a53d7b:
 
     # tony f_calm "... You hit that recently?"
-    tony f_calm "……你最近搞定了没？"
+    tony f_calm "……你最近也上垒了？"
 
 translate chinese mar_couch_noon1_a1f0b75a:
 
@@ -1378,7 +1378,7 @@ translate chinese mar_couch_noon1_292d85c8:
 translate chinese mar_couch_noon1_31dab32c:
 
     # tony "... I'm just surprised you two ain't doin' the horizontal pizzica right now."
-    tony "……我只是惊讶你俩现在居然没在做「美味披萨」。"
+    tony "……我只是奇怪，你俩现在怎么没在“横着做披萨”。"
 
 translate chinese mar_couch_noon1_eb9d9f4c:
 
@@ -1398,7 +1398,7 @@ translate chinese mar_couch_noon1_093b67e4:
 translate chinese mar_couch_noon1_e71dc833:
 
     # tony "Beautiful woman like you, wantin' to ride him like a kite in a windstorm."
-    tony "像你这样的美人，想骑他就像在暴风中放风筝似的。"
+    tony "像你这样的美人，居然想骑着他在暴风里放风筝。"
 
 translate chinese mar_couch_noon1_fa41834a:
 
@@ -1443,7 +1443,7 @@ translate chinese mar_couch_noon1_6de192f9:
 translate chinese mar_couch_noon1_65f2f80d:
 
     # tony a_lap e_inw p_getup "I think you mean, \"That's so sweet, {i}[saga.cast.tony]{/i}.\""
-    tony a_lap e_inw p_getup "我想你说的是，「真是太贴心了，{i}[saga.cast.tony]{/i}。」"
+    tony a_lap e_inw p_getup "我想你说的是，“真是太贴心了，{i}[saga.cast.tony]{/i}。”"
 
 translate chinese mar_couch_noon1_c2b6763c:
 
@@ -1508,7 +1508,7 @@ translate chinese mar_couch_noon1_0fbd9c67:
 translate chinese mar_couch_noon1_4e13bae5:
 
     # maria e_se p_sit "Suppose I could do with a quickie."
-    maria e_se p_sit "想来个快的也行。"
+    maria e_se p_sit "来个快的也不错。"
 
 translate chinese mar_couch_noon1_b898f941:
 
@@ -1563,12 +1563,12 @@ translate chinese mar_couch_noon1_489c8b6e:
 translate chinese mar_couch_noon1_ccd19f05:
 
     # tony @ e_iw f_calm "Ya see that primed pussy, champ?"
-    tony @ e_iw f_calm "看到那个的已经鲜嫩欲滴的骚屄了吗，冠军？"
+    tony @ e_iw f_calm "看到那只水润润、正等着开干的骚屄了吗，冠军？"
 
 translate chinese mar_couch_noon1_66da9cf0:
 
     # tony "Succulent as lampredotto!"
-    tony "像意大利牛肚包一样多汁！"
+    tony "多汁得就像灯笼牛肚一样！"
 
 translate chinese mar_couch_noon1_fbb8e95c:
 
@@ -1613,7 +1613,7 @@ translate chinese mar_couch_noon1_5ac9bf0e:
 translate chinese mar_couch_noon1_b0a82543:
 
     # tony e_iw "What's your cock still doin' in your pants, ya knucklehead?!"
-    tony e_iw "你那玩意儿怎么还穿在裤子里，你个笨蛋？！"
+    tony e_iw "你那根鸡巴怎么还在裤子里，你这个木头！"
 
 translate chinese mar_couch_noon1_c55a3e11:
 
@@ -1678,7 +1678,7 @@ translate chinese mar_couch_noon1_d9f87726:
 translate chinese mar_couch_noon1_a5d010cb:
 
     # tony e_iw "Heh, \"I can take it.\" she says!"
-    tony e_iw "呵，「我扛得住。」她说道！"
+    tony e_iw "呵，“我扛得住。”她说道！"
 
 translate chinese mar_couch_noon1_9ab5d46e:
 
@@ -1693,7 +1693,7 @@ translate chinese mar_couch_noon1_b3dcbc67:
 translate chinese mar_couch_noon1_9f560307:
 
     # maria "You try takin' this monster inside ya."
-    maria "你来试试把这怪物塞进你体内。"
+    maria "你来试试把这怪物塞进身体里。"
 
 translate chinese mar_couch_noon1_86139722:
 
@@ -1778,7 +1778,7 @@ translate chinese mar_couch_noon1_bf5aadc3:
 translate chinese mar_couch_noon1_8d41bdc1:
 
     # tony e_iw "Damn, how's that pussy feel, champ?"
-    tony e_iw "天啊，那骚屄感觉怎么样，冠军？"
+    tony e_iw "天啊，这骚屄感觉如何，冠军？"
 
 translate chinese mar_couch_noon1_c45dc18b:
 
@@ -1923,7 +1923,7 @@ translate chinese mar_couch_noon1_dbc0c0db:
 translate chinese mar_couch_noon1_ff57d003:
 
     # tony a_point "Getta loada this mama jamma, coming up to the plate!"
-    tony a_point "看看这家伙，要上场了！"
+    tony a_point "瞧瞧这位猛将，准备上场击球了！"
 
 translate chinese mar_couch_noon1_a1f0b75a_1:
 
@@ -1973,17 +1973,17 @@ translate chinese mar_couch_noon1_cb24dc32:
 translate chinese mar_couch_noon1_6838ecca:
 
     # tony f_shy "Oh, sorry... darlin'."
-    tony f_shy "哦，抱歉...亲爱的。"
+    tony f_shy "哦，抱歉……亲爱的。"
 
 translate chinese mar_couch_noon1_75b4bddc:
 
     # anon "If you go this fast..."
-    anon "如果你这么快的话..."
+    anon "如果你这么快的话……"
 
 translate chinese mar_couch_noon1_a588074d:
 
     # anon "... I can't-"
-    anon "...我不能-"
+    anon "……我不能-"
 
 translate chinese mar_couch_noon1_7e5c4d40:
 
@@ -2013,17 +2013,17 @@ translate chinese mar_couch_noon1_d17f928c:
 translate chinese mar_couch_noon1_94f1da7e:
 
     # anon "[saga.cast.maria]... I'm-"
-    anon "[saga.cast.maria]... 我——"
+    anon "[saga.cast.maria]…… 我——"
 
 translate chinese mar_couch_noon1_93ba6934:
 
     # maria "Almost..."
-    maria "几乎要..."
+    maria "几乎要……"
 
 translate chinese mar_couch_noon1_90887343:
 
     # maria "... There!!"
-    maria "... 到了！！"
+    maria "…… 到了！！"
 
 translate chinese mar_couch_noon1_1ebd5772:
 
@@ -2038,7 +2038,7 @@ translate chinese mar_couch_noon1_d04c8e89:
 translate chinese mar_couch_noon1_94e119b1:
 
     # tony @ f_happy "Holy Toledo... he got all of that one!!"
-    tony @ f_happy "我的天啊……他完全抓住了那一球！！"
+    tony @ f_happy "我的天……这一球他全吃住了！！"
 
 translate chinese mar_couch_noon1_7de3fb03:
 
@@ -2103,7 +2103,7 @@ translate chinese mar_couch_merge6_5c225b66:
 translate chinese mar_couch_merge6_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 translate chinese mar_couch_merge6_d9356f66:
 
@@ -2533,7 +2533,7 @@ translate chinese mar_couch_noon2_79b62f7a:
 translate chinese mar_couch_noon2_8de7ebcb:
 
     # anon "Well, I mean... I wouldn't say no."
-    anon "嗯，我是说... 我不会说不。"
+    anon "嗯，我是说…… 我不会说不。"
 
 translate chinese mar_couch_noon2_f2d4ad64:
 
@@ -2593,7 +2593,7 @@ translate chinese mar_couch_noon2_3141b9d4:
 translate chinese mar_couch_noon2_583fca3b:
 
     # maria a_fold f_sceptical "Tsk, really [saga.cast.tony]..."
-    maria a_fold f_sceptical "啧，真是的[saga.cast.tony]..."
+    maria a_fold f_sceptical "啧，真是的[saga.cast.tony]……"
 
 translate chinese mar_couch_noon2_8f004edc:
 
@@ -2603,7 +2603,7 @@ translate chinese mar_couch_noon2_8f004edc:
 translate chinese mar_couch_noon2_7855190a:
 
     # tony f_calm "I'm just sayin', you better take advantage... this arrangement ain't gonna last forever, yah know?"
-    tony f_calm "我只是说，你最好抓住机会……这安排可不会永远持续下去，你懂的？"
+    tony f_calm "我只是说，你最好抓住机会……这种安排可不会永远持续，懂吗？"
 
 translate chinese mar_couch_noon2_4380f1c5:
 
@@ -2683,7 +2683,7 @@ translate chinese mar_couch_noon2_6b70d67b:
 translate chinese mar_couch_noon2_fb82757e:
 
     # tony e_iw "You better tap that real good for me, ya hear?!"
-    tony e_iw "你最好给我好好敲打敲打，听见没？！"
+    tony e_iw "你可得替我好好肏她一顿，听见没！！"
 
 translate chinese mar_couch_noon2_2c0bca13:
 
@@ -2723,7 +2723,7 @@ translate chinese mar_couch_noon2_e0e06e08:
 translate chinese mar_couch_noon2_4d2d63b1:
 
     # tony "{i}*Whistles*{/i} Just look at that soppin' wet pussy..."
-    tony "{i}*吹口哨*{/i} 看看这鲜嫩欲滴的骚屄……"
+    tony "{i}*吹口哨*{/i} 看看这水淋淋的骚屄……"
 
 translate chinese mar_couch_noon2_e39dbdf0:
 
@@ -2753,7 +2753,7 @@ translate chinese mar_couch_noon2_dd357546:
 translate chinese mar_couch_noon2_6c845631:
 
     # tony e_iw f_horny "Feels pretty good, eh champ?"
-    tony e_iw f_horny "感觉很棒吧，嗯，冠军？"
+    tony e_iw f_horny "感觉很棒吧，冠军？"
 
 translate chinese mar_couch_noon2_1e03c342:
 
@@ -2793,7 +2793,7 @@ translate chinese mar_couch_noon2_8fe77036:
 translate chinese mar_couch_noon2_bbd738de:
 
     # tony e_wsw "Work that big cock!"
-    tony e_wsw "伺候好这根大鸡巴！"
+    tony e_wsw "好好使唤那根大鸡巴！"
 
 translate chinese mar_couch_noon2_6ac98394:
 
@@ -2843,7 +2843,7 @@ translate chinese mar_couch_noon2_8884f23a:
 translate chinese mar_couch_noon2_253778bd:
 
     # maria "You're gonna make me-"
-    maria "你要让我-"
+    maria "你这是要把我……"
 
 translate chinese mar_couch_noon2_c8481ccd:
 
@@ -2853,7 +2853,7 @@ translate chinese mar_couch_noon2_c8481ccd:
 translate chinese mar_couch_noon2_b4e0997e:
 
     # maria "I'm gonna-"
-    maria "我要-"
+    maria "我要……"
 
 translate chinese mar_couch_noon2_36fee352:
 
@@ -2883,7 +2883,7 @@ translate chinese mar_couch_noon2_442bfb9e:
 translate chinese mar_couch_noon2_9a57c5ec:
 
     # tony e_w f_confused @ a_wtf_tv "It's just... an error like that with the bases loaded?!"
-    tony e_w f_confused @ a_wtf_tv "只是... 在满垒的情况下犯那种错误？！"
+    tony e_w f_confused @ a_wtf_tv "满垒的情况下居然还会犯这种错？！"
 
 translate chinese mar_couch_noon2_7a778a02:
 
@@ -2908,12 +2908,12 @@ translate chinese mar_couch_noon2_8c94b54b:
 translate chinese mar_couch_noon2_52907b5d:
 
     # maria "You're so..."
-    maria "你真是..."
+    maria "你真是……"
 
 translate chinese mar_couch_noon2_a0ca6a96:
 
     # maria "... Good!!"
-    maria "...太棒了！！"
+    maria "……太棒了！！"
 
 translate chinese mar_couch_noon2_c8481ccd_1:
 
@@ -2953,7 +2953,7 @@ translate chinese mar_couch_noon2_a1f0b75a:
 translate chinese mar_couch_noon2_459ea703:
 
     # tony a_lap e_iw "He's got a knuckleball that defies gravity!"
-    tony a_lap e_iw "他有一种违反重力的指节球！"
+    tony a_lap e_iw "他投出的指节球简直违反重力！"
 
 translate chinese mar_couch_noon2_ed0e5f4f:
 
@@ -2988,7 +2988,7 @@ translate chinese mar_couch_noon2_216f7389:
 translate chinese mar_couch_noon2_6124a10f:
 
     # anon "[saga.cast.maria]..."
-    anon "[saga.cast.maria]..."
+    anon "[saga.cast.maria]……"
 
 translate chinese mar_couch_noon2_ea007782:
 
@@ -3043,7 +3043,7 @@ translate chinese mar_couch_noon2_eb96b1d7:
 translate chinese mar_couch_noon2_f44d7de6:
 
     # maria "CUM IN ME!!!"
-    maria "射在我的里面！！！"
+    maria "射进我里面！！！"
 
 translate chinese mar_couch_noon2_6ace3055:
 
@@ -3078,7 +3078,7 @@ translate chinese mar_couch_noon2_7fd5d419:
 translate chinese mar_couch_merge7_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊... 哈啊..."
+    anon "哈啊…… 哈啊……"
 
 translate chinese mar_couch_merge7_3b147ccc:
 
@@ -3118,7 +3118,7 @@ translate chinese mar_couch_merge7_ae8ed2e1:
 translate chinese mar_couch_merge7_7f188cba:
 
     # tony "You look real content, darlin'."
-    tony "你看起来很满足嘛，亲爱的。"
+    tony "你看起来可真满足啊，亲爱的。"
 
 translate chinese mar_couch_merge7_ba415760:
 
@@ -3238,7 +3238,7 @@ translate chinese mar_couch_merge7_2c4a5eb2:
 translate chinese mar_couch_noon2a_57dfd8b0:
 
     # maria "[saga.cast.tony]... sandwich."
-    maria "[saga.cast.tony]... 三明治。"
+    maria "[saga.cast.tony]…… 三明治。"
 
 translate chinese mar_couch_noon2a_8cb4c6b8:
 
@@ -3408,12 +3408,12 @@ translate chinese mar_couch_noon2a_1547e067:
 translate chinese mar_couch_noon2a_b94df131:
 
     # anon "I'm not gonna last much longer!"
-    anon "我坚持不了多久了！"
+    anon "我快要撑不住了！"
 
 translate chinese mar_couch_noon2a_c84ef7d3:
 
     # maria "Do it!!"
-    maria "快做！！"
+    maria "射吧！！"
 
 translate chinese mar_couch_noon2a_f27c685a:
 
@@ -3433,4 +3433,4 @@ translate chinese mar_couch_noon2a_8f3e194b:
 translate chinese mar_couch_noon2a_43cadeeb:
 
     # maria "... ALL!!!"
-    maria "……全部！！！"
+    maria "……全都要！！！"

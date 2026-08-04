@@ -14,7 +14,8 @@
 |---|---|---|---|---|---|
 | `tl/chinese/src/plot/mar01.rpy` | Maria线；Tony/Maria 生育后的披萨店成人场景与关系安抚 | Maria、Tony、Anon | 完成 | 通读完整场景并精修感谢、生育双关、顾客掩饰、性交与高潮、负罪感安抚；统一中文省略号、成人动作强度和 Maria 主动粗俗口吻；保留所有英文姓名与变量 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar02.rpy` | Maria线；Tony与Anon讨论 Maria 产后继续发生关系及再生育计划 | Tony、Anon、Maria（被提及） | 完成 | 通读完整场景并精修 Tony 的支持与施压、Anon 的犹豫和关系推进；统一 Tony 专属称呼 `champ` →“冠军”；保留性行为动作强度、粗俗语气和英文姓名 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
-| `tl/chinese/src/plot/mar_cook.rpy` | Maria???????????????????? | Maria?Anon | ?? | ????????? 40 ??????????????cannoli ???????????????????????/??/??/??????? Maria ?????? Anon ???????????????? Ren?Py ?? | `validate_translations.py --changed`?`audit_recurring_terms.py --changed --fail-on-mismatch`?`git diff --check` ?? |
+| `tl/chinese/src/plot/mar_cook.rpy` | Maria线；Maria在厨房为Anon准备食物并推进亲密关系 | Maria、Anon | 完成 | 通读完整场景并精修 40 个翻译块；统一 cannoli 等意大利食物术语；修复厨房动作、暧昧双关、成人语气和 Maria 对 Anon 的称呼；保留英文姓名、变量与 Ren’Py 结构 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar_couch.rpy` | Maria线；Tony熟睡、半醒或看球时，Maria与Anon在沙发上发生性行为，并以棒球双关贯穿多条场景 | Maria、Tony、Anon、Carmella | 完成 | 通读 640 个翻译块；精修射精、内射、上垒、满垒、界外球和“横着做披萨”等双关；统一 Tony 的 `champ`→“冠军”、The Falsettos→《假声》以及 Carmella 英文姓名；恢复露骨性行为和 Maria 主动语气，全文消除活动译文中的 ASCII 省略号和直角引号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -146,4 +147,13 @@
 - Formatting: active translations use Chinese ellipses and curved Chinese quotation marks; English source comments, names, variables, tags and Ren'Py structure remain unchanged.
 - Validation: translation validator passed; recurring-term audit passed; `git diff --check` passed; RPA build packed and verified 328 files.
 - Recovery note: temporary line-mapping script changes to English source comments were fully restored from HEAD; temporary pair files were excluded.
-- Completed: `mar_cook.rpy` (2026-08-04). Next: `mar_couch.rpy`.
+- Completed: `mar_cook.rpy` and `mar_couch.rpy` (2026-08-04). Next: `mar_dark.rpy`.
+
+### Maria storyline: `mar_couch.rpy` (2026-08-04)
+
+- Status: completed full-scene refinement and three-pass review.
+- Scope: Tony sleeping, half-awake or watching baseball while Maria and Anon continue their adult relationship on the couch; baseball commentary remains a continuous sexual double entendre.
+- Character consistency: Maria is openly proactive and explicit at this late relationship stage; Tony uses `champ` as “冠军”; Anon remains breathless and hesitant without becoming passive.
+- Terminology: `Fill me up` is rendered as “把我填满”; `CUM IN ME` as “射进我里面”; `horizontal pizzica` as “横着做披萨”; `The Falsettos` as 《假声》; `Carmella` remains English.
+- Formatting: active translations use Chinese ellipses and Chinese quotation marks; variables, tags, names, speaker identifiers and Ren’Py structure remain unchanged.
+- Validation: translation validator passed; recurring-term audit passed; `git diff --check` passed; RPA build packed and verified 328 files.

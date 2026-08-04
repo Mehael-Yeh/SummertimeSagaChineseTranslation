@@ -74,3 +74,12 @@ python -X utf8 tools/audit_recurring_terms.py --query "Blue Falcon"
 # 每批必须运行：只检查本批修改过的 Ren'Py 文件，并在不一致时返回失败
 python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 ```
+
+
+## mar_couch.rpy 复查项
+
+- `The Falsettos` →《假声》
+- `horizontal pizzica` →“横着做披萨”
+- `lampredotto` →“灯笼牛肚”
+- `primed pussy`、`tap that`、`work that big cock`需在后续 Maria 线中复查。
+- `strike`、`bases loaded`、`hit`、`knuckleball` 需与棒球双关一致。

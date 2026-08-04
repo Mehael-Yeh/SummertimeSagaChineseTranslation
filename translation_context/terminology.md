@@ -269,3 +269,16 @@
 | higher resolution graphics | 更高分辨率的画面 | 电脑修复后的画质升级元叙事，不译成生硬的“图形” |
 | bugs（游戏故障） | BUG | 仅用于游戏程序故障语境，与昆虫含义区分 |
 | cheat menu | 作弊菜单 | 手机 Wi-Fi 连续点击彩蛋；保留玩家主动寻找并最终解锁的第四面墙逻辑 |
+
+
+## mar_couch.rpy 术语补充
+
+| 英文表达 | 统一处理 | 说明 |
+|---|---|---|
+| `champ` | 冠军 | Tony 对 Anon 的专属称呼 |
+| `The Falsettos` | 《假声》 | 电视节目标题 |
+| `horizontal pizzica` | “横着做披萨” | 保留性双关 |
+| `primed pussy` | 水润润、正等着开干的骚屌 | 保留 Tony 的露骨起哄 |
+| `tap that` | 肐她一顿 | 明确性行为动作 |
+| `work that big cock` | 好好使唤那根大鸡巴 | Tony 的粗俗起哄 |
+| `lampredotto` | 灯笼牛肚 | 意大利食物比喻 |
