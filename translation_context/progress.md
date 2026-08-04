@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 | `tl/chinese/src/plot/mar01.rpy` | Maria线；Tony/Maria 生育后的披萨店成人场景与关系安抚 | Maria、Tony、Anon | 完成 | 通读完整场景并精修感谢、生育双关、顾客掩饰、性交与高潮、负罪感安抚；统一中文省略号、成人动作强度和 Maria 主动粗俗口吻；保留所有英文姓名与变量 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar02.rpy` | Maria线；Tony与Anon讨论 Maria 产后继续发生关系及再生育计划 | Tony、Anon、Maria（被提及） | 完成 | 通读完整场景并精修 Tony 的支持与施压、Anon 的犹豫和关系推进；统一 Tony 专属称呼 `champ` →“冠军”；保留性行为动作强度、粗俗语气和英文姓名 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar_baby.rpy` | Maria线；怀孕确认、单胎/双胎生产、医院探访、产后恢复与返回披萨店 | Maria、Tony、Anon、新生儿 | 完成 | 通读单胎与双胎全部分支；精修怀孕生产、教父关系、产后关怀和成人双关；修复“听醒”“娃娃脸”等误译；统一 `champ`、`cannoli`、单复数代词及英文姓名 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_cook.rpy` | Maria线；Maria在厨房为Anon准备食物并推进亲密关系 | Maria、Anon | 完成 | 通读完整场景并精修 40 个翻译块；统一 cannoli 等意大利食物术语；修复厨房动作、暧昧双关、成人语气和 Maria 对 Anon 的称呼；保留英文姓名、变量与 Ren’Py 结构 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/mar_dark.rpy` | Maria线；夜间造人、内射/拔出分支、骑乘、“恶魔三人行”及双重插入 | Maria、Tony、Anon | 完成 | 通读 369 组英文—中文对应；精修 Tony 的造人指导和粗俗起哄、Maria 后期主动口吻、Anon 的迟疑与参与；统一 `champ`、`capisce/capiche`、`Devil's Threeway`、`The Kidney Shifter`、`cannoli` 及成人动作强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/mar_couch.rpy` | Maria线；Tony熟睡、半醒或看球时，Maria与Anon在沙发上发生性行为，并以棒球双关贯穿多条场景 | Maria、Tony、Anon、Carmella | 完成 | 通读 640 个翻译块；精修射精、内射、上垒、满垒、界外球和“横着做披萨”等双关；统一 Tony 的 `champ`→“冠军”、The Falsettos→《假声》以及 Carmella 英文姓名；恢复露骨性行为和 Maria 主动语气，全文消除活动译文中的 ASCII 省略号和直角引号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
@@ -132,28 +134,35 @@
 
 ## 下一步
 
-1. 主线数字序列及首批地点/物品短交互已完成；当前按用户指定优先处理 Maria 线，`mar01.rpy`、`mar02.rpy` 已完成，下一批处理 `mar_baby.rpy`。
+1. 主线数字序列及 Maria 线前六个文件已完成；下一批继续完整通读并精修 `mar_door.rpy`，随后依次处理 `mar_kitchen.rpy`、`mar_pantry.rpy`、`maria.rpy`、`maria_lounge.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
 
 
-### Maria storyline: `mar_baby.rpy` (2026-08-04)
+### Maria 线：`mar_baby.rpy`（2026-08-04）
 
-- Status: completed full-scene refinement and three-pass review.
-- Scope: Tony announces Maria's pregnancy; single-child/twin birth branches; hospital visits; postpartum recovery; return to the pizza shop; pregnancy smell changes and adult innuendo.
-- Character consistency: Maria's forceful and earthy voice; Tony's warm old-school voice; `champ` consistently follows the established Chinese rendering; Anon's hesitant but affectionate reactions.
-- Terminology: godfather/godson/goddaughter/godchildren, pregnancy and delivery terms, cannoli, single/twin pronouns and number agreement.
-- Formatting: active translations use Chinese ellipses and curved Chinese quotation marks; English source comments, names, variables, tags and Ren'Py structure remain unchanged.
-- Validation: translation validator passed; recurring-term audit passed; `git diff --check` passed; RPA build packed and verified 328 files.
-- Recovery note: temporary line-mapping script changes to English source comments were fully restored from HEAD; temporary pair files were excluded.
-- Completed: `mar_cook.rpy` and `mar_couch.rpy` (2026-08-04). Next: `mar_dark.rpy`.
+- 状态：已完成完整场景精修和三轮校对。
+- 范围：Tony 宣布 Maria 怀孕；单胎与双胎出生分支；医院探访；产后恢复；返回披萨店；孕期嗅觉变化及成人双关。
+- 角色一致性：Maria 保持强势、直率而粗粝的口吻；Tony 保持温和、老派的语气；`champ` 统一译为“冠军”；Anon 的反应保持犹豫但亲近。
+- 术语：统一处理教父、教子、教女、教子女、怀孕生产术语、意式奶油甜馅卷以及单胎/双胎的数量和代词。
+- 格式：活动译文统一使用中文省略号和中文双引号；英文原文注释、姓名、变量、文本标签及 Ren’Py 结构保持不变。
+- 校验：翻译格式检查、重复术语审计、`git diff --check` 及 RPA 构建均通过。
 
-### Maria storyline: `mar_couch.rpy` (2026-08-04)
+### Maria 线：`mar_couch.rpy`（2026-08-04）
 
-- Status: completed full-scene refinement and three-pass review.
-- Scope: Tony sleeping, half-awake or watching baseball while Maria and Anon continue their adult relationship on the couch; baseball commentary remains a continuous sexual double entendre.
-- Character consistency: Maria is openly proactive and explicit at this late relationship stage; Tony uses `champ` as “冠军”; Anon remains breathless and hesitant without becoming passive.
-- Terminology: `Fill me up` is rendered as “把我填满”; `CUM IN ME` as “射进我里面”; `horizontal pizzica` as “横着做披萨”; `The Falsettos` as 《假声》; `Carmella` remains English.
-- Formatting: active translations use Chinese ellipses and Chinese quotation marks; variables, tags, names, speaker identifiers and Ren’Py structure remain unchanged.
-- Validation: translation validator passed; recurring-term audit passed; `git diff --check` passed; RPA build packed and verified 328 files.
+- 状态：已完成完整场景精修和三轮校对。
+- 范围：Tony 熟睡、半醒或观看棒球时，Maria 与 Anon 在沙发上继续发展成人关系；棒球解说始终作为连续性双关处理。
+- 角色一致性：Maria 在关系后期保持主动、放得开且露骨的表达；Tony 使用专属称呼 `champ`“冠军”；Anon 保持紧张、喘息和犹豫，但不被改写成完全被动。
+- 术语：`Fill me up` 统一译为“把我填满”；`CUM IN ME` 译为“射进我里面”；`horizontal pizzica` 译为“横着做披萨”；`The Falsettos` 译为《假声》；`Carmella` 保持英文。
+- 格式：活动译文统一使用中文省略号和中文双引号；变量、标签、姓名、说话人标识及 Ren’Py 结构保持不变。
+- 校验：翻译格式检查、重复术语审计、`git diff --check` 及 RPA 构建均通过。
+
+### Maria 线：`mar_dark.rpy`（2026-08-04）
+
+- 状态：已完成完整场景精修和三轮校对。
+- 范围：Tony 与 Anon 约定再次造人；Tony 旁观、指导并参与 Maria 与 Anon 的性交；普通性交、骑乘、内射/拔出分支、“恶魔三人行”、肛交和双重插入。
+- 角色一致性：Maria 在后期关系中对 Anon 主动、直白而露骨，同时仍会训斥 Tony 过分粗俗的称呼；Tony 保持老派、热情且粗俗的意大利裔口吻；Anon 从犹豫推进到主动参与，但保留紧张和不确定。
+- 术语：`Devil's Threeway` 统一译为“恶魔三人行”；`The Kidney Shifter` 译为“移肾术”；`capisce/capiche` 作为 Tony 同一口癖处理；食物与造人双关统一为“面糊”“小家伙们”“意式奶油甜馅卷”。
+- 格式：活动译文统一使用中文省略号和中文双引号；英文姓名、变量、标签、说话人标识、分支与 Ren’Py 结构保持不变。
+- 校验：翻译格式检查、重复术语审计、`git diff --check` 及 RPA 构建均通过。

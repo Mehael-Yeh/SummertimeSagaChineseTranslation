@@ -167,7 +167,7 @@
 | 英文 | 当前处理 | 说明 |
 |---|---|---|
 | champ | 冠军 | Tony 对 Anon 的固定专属称呼；仅在英文明确使用 `champ` 时采用，不替代普通 `kid`／`kiddo` |
-| babyface | 小帅哥 | Tina 对 Anon 的固定专属称呼；Tony 客观描述 `babyfaces` 时仍可译“娃娃脸” |
+| babyface | 小帅哥 | Tina 对 Anon 的固定专属称呼；非称呼用法不得机械译成“娃娃脸”，应按语境处理为“长着娃娃脸的年轻人”等自然表达 |
 | dollface | 美人儿 | Maria／Tony 使用的老派亲昵称呼；不是人物专名，不保留英文 |
 | kid / kiddo | 小子／好小子 | 按责备、鼓励或熟稔语气选择，不与 `champ` 混用 |
 | Yes, sir! | 遵命，老板！ | Anon 对 Tony 的玩笑式或恭敬回应；当前是雇佣关系，不机械译“先生” |
@@ -278,7 +278,18 @@
 | `champ` | 冠军 | Tony 对 Anon 的专属称呼 |
 | `The Falsettos` | 《假声》 | 电视节目标题 |
 | `horizontal pizzica` | “横着做披萨” | 保留性双关 |
-| `primed pussy` | 水润润、正等着开干的骚屌 | 保留 Tony 的露骨起哄 |
-| `tap that` | 肐她一顿 | 明确性行为动作 |
+| `primed pussy` | 水润润、正等着开干的骚屄 | 保留 Tony 的露骨起哄 |
+| `tap that` | 好好肏她一顿 | 明确性行为动作 |
 | `work that big cock` | 好好使唤那根大鸡巴 | Tony 的粗俗起哄 |
 | `lampredotto` | 灯笼牛肚 | 意大利食物比喻 |
+
+
+## mar_dark.rpy 术语补充
+
+| 英文表达 | 统一处理 | 说明 |
+|---|---|---|
+| `Devil's Threeway` | 恶魔三人行 | Tony 为三人性交提出的招式名，保留夸张的老派命名感 |
+| `The Kidney Shifter` | 移肾术 | Tony 为性交动作提出的夸张招式名 |
+| `batter` | 面糊 | 造人语境下指精液，延续披萨店食物双关 |
+| `little guys` | 小家伙们 | 指精子，保持 Tony 半玩笑式造人说法 |
+| `cannoli` | 意式奶油甜馅卷 | 食品核心译名不变；在成人双关中仍保持同一意象 |

@@ -244,3 +244,12 @@
 - `hit`/上垒、`bases loaded`/满垒、`strike`、`knuckleball`、`right down the middle` 组成连续的棒球—性双关，不应拆开后互相脱节。
 - `horizontal pizzica` 统一使用“横着做披萨”；`cum in me`、`fill me up`、`work that big cock`、`tap that` 保留露骨成人信息。
 - `Carmella`、变量、文本标签、角色标识和 Ren’Py 结构保持不变。
+
+
+## mar_dark.rpy
+
+- **剧情承接**：承接 `mar01.rpy`、`mar02.rpy`、`mar_baby.rpy` 与 `mar_couch.rpy`，Tony 与 Maria 已接受 Anon 参与造人和三人关系。Anon 先与 Tony 约定夜间造人，再进入卧室完成多组普通性交、骑乘、内射/拔出和三人分支。
+- **场景阶段**：前半段由 Tony 旁观并指导 Maria 与 Anon；关系进一步推进后解锁“恶魔三人行”，Tony 从旁观者变为参与者，包含 Maria 首次肛交和双重插入。她对新动作会紧张，但对 Anon 的成人关系仍然主动而明确。
+- **角色语气**：Maria 对 Anon 直白、主动、放得开，对 Tony 则保留强势妻子的约束；Tony 用老派、粗俗而兴奋的语气指导二人，并不断使用食物、口味和意式奶油甜馅卷作性双关；Anon 参与度提高，但仍保留真实的迟疑和结巴。
+- **固定表达**：`Devil's Threeway` 译“恶魔三人行”，`The Kidney Shifter` 译“移肾术”，`champ` 译“冠军”，`capisce/capiche` 按语气译“懂吗？”“明白吗？”。`batter`、`little guys`、`cannoli` 形成连续造人/食物双关。
+- **分支处理**：内射与拔出、普通双人性交与三人性行为属于互斥分支；必须分别维持 Maria 的期待、Tony 的目标和 Anon 的选择后果，不能把拔出射精误写成意外内射。

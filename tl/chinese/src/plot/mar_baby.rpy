@@ -1417,14 +1417,14 @@ translate chinese mar_baby_rest_outro_8bb3c096:
 translate chinese mar_baby_rest_sleep_83ab8156:
 
     # anon @ -m_talk "( I shouldn't wake her... )"
-    anon @ -m_talk "(我不该听醒她……)"
+    anon @ -m_talk "(我不该吵醒她……)"
 
 # game/src/plot/mar_baby.rpy:970
 translate chinese mar_baby_rest_sleep_71e0dd28:
 
 
     # anon @ -m_talk "( ... And especially not that little one. )"
-    anon @ -m_talk "(……尤其不能听醒那个小家伙。)"
+    anon @ -m_talk "(……尤其不能吵醒那个小家伙。)"
 
 # game/src/plot/mar_baby.rpy:980
 translate chinese mar_baby_home_36a80298:
@@ -2300,7 +2300,7 @@ translate chinese mar_baby_rest_sleep_5d932eff:
 
 
     # anon @ -m_talk "( ... And especially not those little ones. )"
-    anon @ -m_talk "(……尤其是那些娃娃脸。)"
+    anon @ -m_talk "(……尤其不能吵醒那些小家伙。)"
 
 translate chinese mar_baby_home_29e29af2:
 

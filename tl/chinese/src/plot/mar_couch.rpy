@@ -1023,7 +1023,7 @@ translate chinese mar_couch_merge1_707106a0:
 translate chinese mar_couch_merge1_af038675:
 
     # maria "GIVE IT TO ME, [saga.cast.anon!u]!!"
-    maria "给我射，[saga.cast.anon!u]！！"
+    maria "射进来，[saga.cast.anon!u]！！"
 
 translate chinese mar_couch_merge1_60a42d96:
 

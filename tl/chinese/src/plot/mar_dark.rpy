@@ -5,7 +5,7 @@ translate chinese mar_dark_tony_58e48dee:
 
 
     # anon f_curious "Is today a good time for another baby-making session?"
-    anon f_curious "今天能再安排一次造人计划吗？"
+    anon f_curious "今天方便再来一次造人吗？"
 
 # game/src/plot/mar_dark.rpy:7
 translate chinese mar_dark_tony_06745398:
@@ -19,7 +19,7 @@ translate chinese mar_dark_tony_d1b0fb04:
 
 
     # tony "I'll make sure to have everything ready."
-    tony "我会确保一切安排妥当。"
+    tony "我会把一切都准备妥当。"
 
 # game/src/plot/mar_dark.rpy:9
 translate chinese mar_dark_tony_304c7259:
@@ -61,7 +61,7 @@ translate chinese mar_dark_tony_busy_00d41cbd:
 
 
     # tony f_shy "Gotta recharge once in a while, capisce?"
-    tony f_shy "偶尔也得充充电歇一歇，懂吗？"
+    tony f_shy "偶尔也得歇一歇、充充电，懂吗？"
 
 # game/src/plot/mar_dark.rpy:20
 translate chinese mar_dark_tony_busy_b4730b63:
@@ -75,21 +75,21 @@ translate chinese mar_dark_tony_busy_8216e6c4:
 
 
     # anon "I'll come back when I have a free night."
-    anon "等我有空晚上再回来。"
+    anon "等我哪晚有空再回来。"
 
 # game/src/plot/mar_dark.rpy:23
 translate chinese mar_dark_tony_busy_4d2b4580:
 
 
     # tony "Thanks for understandin', champ."
-    tony "谢啦，冠军，你能理解就好。"
+    tony "谢谢你体谅，冠军。"
 
 # game/src/plot/mar_dark.rpy:79
 translate chinese mar_dark_maria_7d0b2587:
 
 
     # tony "Hey, the kid's here."
-    tony "嘿，那孩子到了。"
+    tony "嘿，那小子来了。"
 
 # game/src/plot/mar_dark.rpy:80
 translate chinese mar_dark_maria_ccb2bffe:
@@ -110,7 +110,7 @@ translate chinese mar_dark_maria_9fafdeb9:
 
 
     # tony f_sad "Well, I'll let you guys get to it then..."
-    tony f_sad "好吧，那我就让你们忙活了……"
+    tony f_sad "好吧，那我就不打扰你们了……"
 
 # game/src/plot/mar_dark.rpy:87
 translate chinese mar_dark_maria_44de9856:
@@ -131,7 +131,7 @@ translate chinese mar_dark_maria_e577b751:
 
 
     # tony "Try and give her a couple orgasms before you blow your load, eh?"
-    tony "尽量在内射之前让她多高潮几次，明白？"
+    tony "记得在你射之前，先让她高潮个一两次，明白吗？"
 
 # game/src/plot/mar_dark.rpy:93
 translate chinese mar_dark_maria_ee609ce1:
@@ -145,14 +145,14 @@ translate chinese mar_dark_maria_4f1743e4:
 
 
     # anon f_shy "Y-yeah, okay."
-    anon f_shy "是、是啊，好吧。"
+    anon f_shy "好、好的。"
 
 # game/src/plot/mar_dark.rpy:95
 translate chinese mar_dark_maria_6cf0d379:
 
 
     # tony "Oh, and don't forget the visualization thing we talked about!"
-    tony "哦，别忘了我们讨论过的口诀！"
+    tony "哦，还有我们之前说过的意念法，可别忘了！"
 
 # game/src/plot/mar_dark.rpy:97
 translate chinese mar_dark_maria_4ffde4f8:
@@ -166,21 +166,21 @@ translate chinese mar_dark_maria_ca16411d:
 
 
     # maria "[saga.cast.tony]-"
-    maria "[saga.cast.tony]-"
+    maria "[saga.cast.tony]——"
 
 # game/src/plot/mar_dark.rpy:104
 translate chinese mar_dark_maria_00839e28:
 
 
     # tony "'Ay, don't knock it, darlin'."
-    tony "嘿，别急着否定嘛，亲爱的。"
+    tony "嘿，别小看这招嘛，亲爱的。"
 
 # game/src/plot/mar_dark.rpy:107
 translate chinese mar_dark_maria_306a6f0e:
 
 
     # tony a_wide f_calm "Now, c'mere and gimme a kiss, you beautiful woman."
-    tony a_wide f_calm "来，过来亲一个，你这美人儿。"
+    tony a_wide f_calm "来，过来亲一个，我的美人儿。"
 
 # game/src/plot/mar_dark.rpy:113
 translate chinese mar_dark_maria_2ab0ec7c:
@@ -194,35 +194,35 @@ translate chinese mar_dark_maria_b98044df:
 
 
     # tony "Just enjoy yourself, eh?"
-    tony "放轻松享受就好，嗯？"
+    tony "你就放松享受，嗯？"
 
 # game/src/plot/mar_dark.rpy:119
 translate chinese mar_dark_maria_92b1fb85:
 
 
     # tony a_point o_left "Fuck her good, champ."
-    tony a_point o_left "好好肏她，冠军。"
+    tony a_point o_left "狠狠地肏她，冠军。"
 
 # game/src/plot/mar_dark.rpy:124
 translate chinese mar_dark_maria_accca3e1:
 
 
     # maria f_horny "Should we get started?"
-    maria f_horny "我们可以开始吗？"
+    maria f_horny "那我们开始？"
 
 # game/src/plot/mar_dark.rpy:125
 translate chinese mar_dark_maria_cc21ea35:
 
 
     # anon a_salute f_calm o_right "Yes, ma'am."
-    anon a_salute f_calm o_right "是的，夫人。"
+    anon a_salute f_calm o_right "遵命，夫人。"
 
 # game/src/plot/mar_dark.rpy:142
 translate chinese mar_dark_maria_2a989568:
 
 
     # maria c_naked e_sw p_behind "Mm, I've been thinking about that dick all day..."
-    maria c_naked e_sw p_behind "嗯，我整天都在想着那根鸡巴……"
+    maria c_naked e_sw p_behind "嗯，我一整天都在想着那根鸡巴……"
 
 # game/src/plot/mar_dark.rpy:150
 translate chinese mar_dark_maria_4e84a5b7:
@@ -250,7 +250,7 @@ translate chinese mar_dark_maria_d292373d:
 
 
     # anon "That feels really good."
-    anon "感觉真棒。"
+    anon "太舒服了。"
 
 # game/src/plot/mar_dark.rpy:161
 translate chinese mar_dark_maria_7c43f8c9:
@@ -271,7 +271,7 @@ translate chinese mar_dark_maria_merge1_bd482720:
 
 
     # maria p_legs_up "I'm all yours."
-    maria p_legs_up "我全是你的。"
+    maria p_legs_up "随你想怎么弄我。"
 
 # game/src/plot/mar_dark.rpy:182
 translate chinese mar_dark_maria_merge1_4df0d8ff:
@@ -285,14 +285,14 @@ translate chinese mar_dark_maria_merge1_6d5316dd:
 
 
     # tony "You better get in there, champ..."
-    tony "你最好全插进去，冠军……"
+    tony "还不赶紧进去，冠军……"
 
 # game/src/plot/mar_dark.rpy:186
 translate chinese mar_dark_maria_merge1_a876d4bb:
 
 
     # tony "... She wants it bad tonight!"
-    tony "……她今晚很想要！"
+    tony "……她今晚可想要得不行！"
 
 # game/src/plot/mar_dark.rpy:189
 translate chinese mar_dark_maria_merge1_7d35e67a:
@@ -306,7 +306,7 @@ translate chinese mar_dark_maria_merge1_35f4815b:
 
 
     # tony "That's it, champ... All the way in."
-    tony "就是这样，冠军……全塞进去。"
+    tony "就是这样，冠军……一直插到底。"
 
 # game/src/plot/mar_dark.rpy:198
 translate chinese mar_dark_maria_merge1_6fa67f23:
@@ -320,7 +320,7 @@ translate chinese mar_dark_maria_merge1_5da97971:
 
 
     # maria "Mmm, I feel so fu-"
-    maria "嗯，我感觉好爽——"
+    maria "嗯，我感觉真他妈——"
 
 # game/src/plot/mar_dark.rpy:210
 translate chinese mar_dark_maria_merge1_e57a9639:
@@ -334,14 +334,14 @@ translate chinese mar_dark_maria_merge1_371777ae:
 
 
     # maria "-uuuuuuuuuuck!"
-    maria "——操——！"
+    maria "——爽死了啊啊啊！"
 
 # game/src/plot/mar_dark.rpy:218
 translate chinese mar_dark_maria_merge1_ecc859df:
 
 
     # maria "Fuuuuuuuuuuck!"
-    maria "操操操操操操操操！"
+    maria "操——！"
 
 # game/src/plot/mar_dark.rpy:222
 translate chinese mar_dark_maria_merge1_bc47dc82:
@@ -355,7 +355,7 @@ translate chinese mar_dark_maria_merge1_c2884744:
 
 
     # maria "It's so good!"
-    maria "太舒服了！"
+    maria "太爽了！"
 
 # game/src/plot/mar_dark.rpy:228
 translate chinese mar_dark_maria_merge1_a43501e6:
@@ -369,7 +369,7 @@ translate chinese mar_dark_maria_merge1_99cd461d:
 
 
     # maria "It feels incredible!!"
-    maria "感觉太棒了！！"
+    maria "简直爽翻了！！"
 
 # game/src/plot/mar_dark.rpy:232
 translate chinese mar_dark_maria_merge1_2db3b2df:
@@ -404,7 +404,7 @@ translate chinese mar_dark_maria_merge1_a87ccb22:
 
 
     # tony "You heard her, champ!"
-    tony "你听到了吗，冠军！"
+    tony "听见她说的了吧，冠军！"
 
 # game/src/plot/mar_dark.rpy:254
 translate chinese mar_dark_maria_merge1_13ce197e:
@@ -418,7 +418,7 @@ translate chinese mar_dark_maria_merge1_c8ff0d2d:
 
 
     # maria "I'm gonna cum!!!"
-    maria "我要高潮了！！！"
+    maria "我、我要高潮了！！！"
 
 # game/src/plot/mar_dark.rpy:256
 translate chinese mar_dark_maria_merge1_af6ed8ae:
@@ -432,21 +432,21 @@ translate chinese mar_dark_maria_merge1_6a54d026:
 
 
     # tony "Make sure you cum deep inside her."
-    tony "你一定要射在她的最里面。"
+    tony "记得射进她最里面。"
 
 # game/src/plot/mar_dark.rpy:262
 translate chinese mar_dark_maria_merge1_fd55c488:
 
 
     # maria "Do it, [saga.cast.anon]!"
-    maria "来吧，[saga.cast.anon]！"
+    maria "射进来，[saga.cast.anon]！"
 
 # game/src/plot/mar_dark.rpy:263
 translate chinese mar_dark_maria_merge1_b4d02ab1:
 
 
     # maria "Put a baby inside me!"
-    maria "让我怀孕！"
+    maria "让我怀上你的孩子！"
 
 # game/src/plot/mar_dark.rpy:264
 translate chinese mar_dark_maria_merge1_b98b75b3:
@@ -460,7 +460,7 @@ translate chinese mar_dark_maria_merge1_09a61ea7:
 
 
     # anon "Y-yes, ma'am."
-    anon "是...是的，夫人。"
+    anon "是、是，夫人。"
 
 # game/src/plot/mar_dark.rpy:281
 translate chinese mar_dark_maria_merge2_d102f263:
@@ -474,7 +474,7 @@ translate chinese mar_dark_maria_merge2_e9c50410:
 
 
     # maria "GIVE ME A BABY, [saga.cast.anon!u]!!!"
-    maria "让我怀孕，[saga.cast.anon!u]！！！"
+    maria "让我怀上你的孩子，[saga.cast.anon!u]！！！"
 
 # game/src/plot/mar_dark.rpy:289
 translate chinese mar_dark_maria_merge2_cc900a58:
@@ -495,14 +495,14 @@ translate chinese mar_dark_maria_merge2_d26561ee:
 
 
     # anon " Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/mar_dark.rpy:294
 translate chinese mar_dark_maria_merge2_793d1739:
 
 
     # maria e_c f_shy "What happened?"
-    maria e_c f_shy "发生了什么？"
+    maria e_c f_shy "怎么了？"
 
 # game/src/plot/mar_dark.rpy:297
 translate chinese mar_dark_maria_merge2_9ebbc879:
@@ -523,28 +523,28 @@ translate chinese mar_dark_maria_merge2_203a7a68:
 
 
     # anon "Y-yeah, sorry..."
-    anon "是、是的，抱歉..."
+    anon "是、是的，抱歉……"
 
 # game/src/plot/mar_dark.rpy:302
 translate chinese mar_dark_maria_merge2_52dcefd3:
 
 
     # anon "The moment came and I just-"
-    anon "那一刻来了，我只是——"
+    anon "刚才要射的时候，我一下就……"
 
 # game/src/plot/mar_dark.rpy:304
 translate chinese mar_dark_maria_merge2_4b3b968a:
 
 
     # anon "Sorry, I just couldn't do it."
-    anon "抱歉，我做不到。"
+    anon "抱歉，我就是没法射进去。"
 
 # game/src/plot/mar_dark.rpy:305
 translate chinese mar_dark_maria_merge2_6164bd96:
 
 
     # maria f_happy "Oh, it's alright, [saga.cast.anon]..."
-    maria f_happy "哦，没关系，[saga.cast.anon]..."
+    maria f_happy "哦，没关系，[saga.cast.anon]……"
 
 # game/src/plot/mar_dark.rpy:306
 translate chinese mar_dark_maria_merge2_30a8623a:
@@ -565,7 +565,7 @@ translate chinese mar_dark_maria_merge2_9d532433:
 
 
     # maria f_shy "I mean, I would prefer you finish inside me; but if you'd rather pull out, that's okay too."
-    maria f_shy "我是说，我更喜欢你射在里面；但如果你宁愿拔出来，那也没关系。"
+    maria f_shy "我是更想让你射在里面……不过你要是想拔出来，也没关系。"
 
 # game/src/plot/mar_dark.rpy:312
 translate chinese mar_dark_maria_merge2_5502af91:
@@ -586,7 +586,7 @@ translate chinese mar_dark_maria_merge2_ceaf7120:
 
 
     # maria "Now if you'll excuse me, I think I'm just gonna lay here a while and bask in the afterglow."
-    maria "那么，恕我失陪了，我想我要在这儿躺一会儿，享受一下余韵。"
+    maria "我就先躺在这儿，好好享受一下余韵。"
 
 # game/src/plot/mar_dark.rpy:315
 translate chinese mar_dark_maria_merge2_294b4cc7:
@@ -607,7 +607,7 @@ translate chinese mar_dark_maria_merge2_6876e8bd:
 
 
     # maria "See ya, [saga.cast.anon]."
-    maria "再见，[saga.cast.anon]。"
+    maria "回头见，[saga.cast.anon]。"
 
 # game/src/plot/mar_dark.rpy:320
 translate chinese mar_dark_maria_merge2_ea15cd0f:
@@ -628,21 +628,21 @@ translate chinese mar_dark_maria_merge3_05830fb1:
 
 
     # anon "Yup, it's all done."
-    anon "是的，都搞定了。"
+    anon "嗯，都结束了。"
 
 # game/src/plot/mar_dark.rpy:333
 translate chinese mar_dark_maria_merge3_03107e00:
 
 
     # tony f_calm "Alright, champ... Let's see how we did."
-    tony f_calm "好吧，冠军……让我们看看结果如何。"
+    tony f_calm "好了，冠军……咱们看看效果怎么样。"
 
 # game/src/plot/mar_dark.rpy:339
 translate chinese mar_dark_maria_merge3_8fb364cf:
 
 
     # tony "Jesus Christ, [saga.cast.maria]... look at you!"
-    tony "天哪，[saga.cast.maria]……看看你！"
+    tony "我的天，[saga.cast.maria]……瞧瞧你！"
 
 # game/src/plot/mar_dark.rpy:340
 translate chinese mar_dark_maria_merge3_5bb17192:
@@ -656,14 +656,14 @@ translate chinese mar_dark_maria_merge3_8037758e:
 
 
     # maria "Oh my god, [saga.cast.tony]... it was incredible!"
-    maria "哦我的天，[saga.cast.tony]……太棒了！"
+    maria "哦，我的天，[saga.cast.tony]……刚才太爽了！"
 
 # game/src/plot/mar_dark.rpy:354
 translate chinese mar_dark_maria_alt1_65744b3d:
 
 
     # maria f_confused "You gettin' tired?"
-    maria f_confused "你累了吗？"
+    maria f_confused "你累了？"
 
 # game/src/plot/mar_dark.rpy:357
 translate chinese mar_dark_maria_alt1_6936a92b:
@@ -691,7 +691,7 @@ translate chinese mar_dark_maria_alt1_256303cf:
 
 
     # maria "You just lay back and I'll ride ya for a while."
-    maria "你躺会儿，换我来骑你。"
+    maria "你躺好，换我来骑你。"
 
 # game/src/plot/mar_dark.rpy:363
 translate chinese mar_dark_maria_alt1_5502af91:
@@ -705,21 +705,21 @@ translate chinese mar_dark_maria_alt1_bbb6d7a7:
 
 
     # tony "Heh, you wearin' out on us already, champ?"
-    tony "呵，这就累了？冠军？"
+    tony "呵，冠军，这么快就撑不住了？"
 
 # game/src/plot/mar_dark.rpy:369
 translate chinese mar_dark_maria_alt1_1313c1a7:
 
 
     # anon "N-no, I just-"
-    anon "不，我只是——"
+    anon "没、没有，我只是——"
 
 # game/src/plot/mar_dark.rpy:371
 translate chinese mar_dark_maria_alt1_78a45f36:
 
 
     # maria f_annoyed "[saga.cast.tony], don't give the kid a hard time!"
-    maria f_annoyed "[saga.cast.tony]，别为难这孩子！"
+    maria f_annoyed "[saga.cast.tony]，别欺负这孩子！"
 
 # game/src/plot/mar_dark.rpy:373
 translate chinese mar_dark_maria_alt1_73c9742f:
@@ -740,7 +740,7 @@ translate chinese mar_dark_maria_alt1_d74daf62:
 
 
     # tony "Just remember to roll over on your back after he cums."
-    tony "记住，他射完后记得翻身仰躺。"
+    tony "记住，他射完后，你要翻过来仰躺。"
 
 # game/src/plot/mar_dark.rpy:379
 translate chinese mar_dark_maria_alt1_d31e3bf5:
@@ -754,7 +754,7 @@ translate chinese mar_dark_maria_alt1_06ed6555:
 
 
     # maria "Try and give me a little warnin' before ya blow, alright?"
-    maria "射之前给我点提醒，行吗？"
+    maria "快射的时候提前告诉我一声，行吗？"
 
 # game/src/plot/mar_dark.rpy:386
 translate chinese mar_dark_maria_alt1_47bd71f0:
@@ -775,7 +775,7 @@ translate chinese mar_dark_maria_alt1_cd0bdc24:
 
 
     # maria "Mmm, give me a baby [saga.cast.anon]!"
-    maria "嗯，给我个孩子吧[saga.cast.anon]！"
+    maria "嗯，让我怀上你的孩子，[saga.cast.anon]！"
 
 # game/src/plot/mar_dark.rpy:393
 translate chinese mar_dark_maria_alt1_414e69a5:
@@ -803,14 +803,14 @@ translate chinese mar_dark_maria_alt1_647df347:
 
 
     # anon "Yes!"
-    anon "是的！"
+    anon "舒服！"
 
 # game/src/plot/mar_dark.rpy:398
 translate chinese mar_dark_maria_alt1_2a7952cc:
 
 
     # maria "Really good?"
-    maria "真的很好吗？"
+    maria "真的很爽？"
 
 # game/src/plot/mar_dark.rpy:399
 translate chinese mar_dark_maria_alt1_f7a188a3:
@@ -838,7 +838,7 @@ translate chinese mar_dark_maria_alt1_94e3a9dc:
 
 
     # maria "It's so damn good!!"
-    maria "太他妈好了！！"
+    maria "爽死了！！"
 
 # game/src/plot/mar_dark.rpy:405
 translate chinese mar_dark_maria_alt1_af99b2a5:
@@ -852,7 +852,7 @@ translate chinese mar_dark_maria_alt1_87e6816a:
 
 
     # maria "I can't believe it, you feel even bigger with me on top!"
-    maria "真不敢相信，我在上面骑着你的时候感觉你更大了！"
+    maria "真不敢相信，我骑在上面时，感觉你居然更大了！"
 
 # game/src/plot/mar_dark.rpy:408
 translate chinese mar_dark_maria_alt1_cdd2b970:
@@ -866,7 +866,7 @@ translate chinese mar_dark_maria_alt1_9522fd0e:
 
 
     # maria "Your dick is incredible, [saga.cast.anon]!"
-    maria "你的鸡巴太不可思议了，[saga.cast.anon]！"
+    maria "你的鸡巴太厉害了，[saga.cast.anon]！"
 
 # game/src/plot/mar_dark.rpy:411
 translate chinese mar_dark_maria_alt1_13ce197e:
@@ -922,14 +922,14 @@ translate chinese mar_dark_maria_alt1_a263ca09:
 
 
     # tony "That's it, darlin'..."
-    tony "就是这样，亲爱的..."
+    tony "就是这样，亲爱的……"
 
 # game/src/plot/mar_dark.rpy:424
 translate chinese mar_dark_maria_alt1_2dd386e8:
 
 
     # tony "...Give it to him!"
-    tony "...给他！"
+    tony "……好好骑他！"
 
 # game/src/plot/mar_dark.rpy:425
 translate chinese mar_dark_maria_alt1_c33842a9:
@@ -957,7 +957,7 @@ translate chinese mar_dark_maria_alt1_f7f8a376:
 
 
     # tony "Yeah, she knows what she's doin', don't she?"
-    tony "是啊，她知道自己在干什么，对吧？"
+    tony "是啊，她可太会了，对吧？"
 
 # game/src/plot/mar_dark.rpy:431
 translate chinese mar_dark_maria_alt1_e2ef434a:
@@ -971,7 +971,7 @@ translate chinese mar_dark_maria_alt1_7b4ec5fb:
 
 
     # maria "So good!"
-    maria "太舒服了！"
+    maria "太爽了！"
 
 # game/src/plot/mar_dark.rpy:433
 translate chinese mar_dark_maria_alt1_3a3e2168:
@@ -992,7 +992,7 @@ translate chinese mar_dark_maria_alt1_cd0bdc24_1:
 
 
     # maria "Mmm, give me a baby [saga.cast.anon]!"
-    maria "嗯，给我一个孩子 [saga.cast.anon]！"
+    maria "嗯，让我怀上你的孩子，[saga.cast.anon]！"
 
 # game/src/plot/mar_dark.rpy:437
 translate chinese mar_dark_maria_alt1_414e69a5_1:
@@ -1013,7 +1013,7 @@ translate chinese mar_dark_maria_creampie_a79681ca:
 
 
     # anon "Boy, boy, boy... very tall boy!"
-    anon "男孩，男孩，男孩……非常高大的男孩！"
+    anon "男孩，男孩，男孩……长得高高的男孩！"
 
 # game/src/plot/mar_dark.rpy:446
 translate chinese mar_dark_maria_creampie_8c94b54b:
@@ -1027,14 +1027,14 @@ translate chinese mar_dark_maria_creampie_80913e25:
 
 
     # maria "OH FUUUUCK!"
-    maria "哦操操！！！"
+    maria "哦——操！！！"
 
 # game/src/plot/mar_dark.rpy:450
 translate chinese mar_dark_maria_creampie_20218ad7:
 
 
     # maria "FILL ME UP, [saga.cast.anon!u]!!!"
-    maria "灌满我，[saga.cast.anon!u]！！！"
+    maria "把我填满，[saga.cast.anon!u]！！！"
 
 # game/src/plot/mar_dark.rpy:453
 translate chinese mar_dark_maria_creampie_d102f263:
@@ -1048,7 +1048,7 @@ translate chinese mar_dark_maria_creampie_e9c50410:
 
 
     # maria "GIVE ME A BABY, [saga.cast.anon!u]!!!"
-    maria "给我一个孩子，[saga.cast.anon!u]！！！"
+    maria "让我怀上你的孩子，[saga.cast.anon!u]！！！"
 
 # game/src/plot/mar_dark.rpy:459
 translate chinese mar_dark_maria_creampie_0cf4d269:
@@ -1069,21 +1069,21 @@ translate chinese mar_dark_maria_creampie_294e912b:
 
 
     # maria "Help me, [saga.cast.anon], my legs aren't working so good just now."
-    maria "帮帮我，[saga.cast.anon]，我的腿现在有点不好使。"
+    maria "扶我一下，[saga.cast.anon]，我的腿现在有点使不上劲。"
 
 # game/src/plot/mar_dark.rpy:470
 translate chinese mar_dark_maria_creampie_36604031:
 
 
     # tony "C'mon, champ, roll her over to make sure that batter gets good and deep."
-    tony "来吧，冠军，把她翻过来，确保那面糊又深又好。"
+    tony "来吧，冠军，把她翻过来，好让那些“面糊”都留在最里面。"
 
 # game/src/plot/mar_dark.rpy:474
 translate chinese mar_dark_maria_creampie_d165fd93:
 
 
     # anon "Haah... haah..."
-    anon "哈啊... 哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/mar_dark.rpy:475
 translate chinese mar_dark_maria_creampie_3c7bcf9e:
@@ -1097,21 +1097,21 @@ translate chinese mar_dark_maria_creampie_9f50560e:
 
 
     # maria "Oh, gawd..."
-    maria "哦，天哪..."
+    maria "哦，天哪……"
 
 # game/src/plot/mar_dark.rpy:490
 translate chinese mar_dark_maria_creampie_c3df4c90:
 
 
     # maria "... This is the best sex ever!"
-    maria "... 这是最棒的性爱！"
+    maria "……这是我做过最爽的一次！"
 
 # game/src/plot/mar_dark.rpy:492
 translate chinese mar_dark_maria_creampie_8129e102:
 
 
     # tony "That was incredible, champ!"
-    tony "太不可思议了，冠军！"
+    tony "刚才太厉害了，冠军！"
 
 # game/src/plot/mar_dark.rpy:494
 translate chinese mar_dark_maria_creampie_c8481ccd:
@@ -1125,14 +1125,14 @@ translate chinese mar_dark_maria_creampie_0238d9bb:
 
 
     # maria "Phew... I don't know if I'll ever wanna quit doin' it..."
-    maria "呼... 我都不知道我还会不会想停下来..."
+    maria "呼……我都不知道自己还想不想停下来……"
 
 # game/src/plot/mar_dark.rpy:500
 translate chinese mar_dark_maria_creampie_eb6666d9:
 
 
     # tony "You really fucked her brains out..."
-    tony "你真是把她肏得神魂颠倒了..."
+    tony "你真把她肏得人都快傻了……"
 
 # game/src/plot/mar_dark.rpy:501
 translate chinese mar_dark_maria_creampie_04900160:
@@ -1153,7 +1153,7 @@ translate chinese mar_dark_maria_alt2_d3480c6b:
 
 
     # maria "Heh, if you'll excuse me, I think I'm just gonna lay here a while and bask in the afterglow."
-    maria "呵，恕我失陪，我想我得在这儿躺一会儿，享受一下余韵。"
+    maria "呵，我就先躺在这儿，好好享受一下余韵。"
 
 # game/src/plot/mar_dark.rpy:518
 translate chinese mar_dark_maria_alt2_98db0701:
@@ -1195,14 +1195,14 @@ translate chinese mar_dark_maria_ogle1_42697c81:
 
 
     # tony f_horny "Tonight's another special night, I can feel it!"
-    tony f_horny "今晚又是一个特别的夜晚，我能感觉到！"
+    tony f_horny "我有预感，今晚又会很特别！"
 
 # game/src/plot/mar_dark.rpy:534
 translate chinese mar_dark_maria_ogle1_320915c1:
 
 
     # tony f_horny "Tonight's gonna be the night, I can feel it!"
-    tony f_horny "今晚就是那晚，我能感觉到！"
+    tony f_horny "我有预感，今晚肯定能成！"
 
 # game/src/plot/mar_dark.rpy:536
 translate chinese mar_dark_maria_ogle1_74e7d746:
@@ -1216,7 +1216,7 @@ translate chinese mar_dark_maria_ogle1_0093b893:
 
 
     # anon e_w "Y-yeah, definitely!"
-    anon e_w "是——是的，当然！"
+    anon e_w "嗯、嗯，当然！"
 
 # game/src/plot/mar_dark.rpy:539
 translate chinese mar_dark_maria_ogle1_26eb59b3:
@@ -1230,7 +1230,7 @@ translate chinese mar_dark_maria_ogle1_bfa7a68c:
 
 
     # tony @ e_e "Heh, I think she agrees."
-    tony @ e_e "嘿，我觉得她同意了。"
+    tony @ e_e "呵，看样子她也同意。"
 
 # game/src/plot/mar_dark.rpy:565
 translate chinese mar_dark_maria_ogle1_d146a31e:
@@ -1251,63 +1251,63 @@ translate chinese mar_dark_maria_ogle1_d292373d:
 
 
     # anon "That feels really good."
-    anon "这种感觉真棒。"
+    anon "真舒服。"
 
 # game/src/plot/mar_dark.rpy:597
 translate chinese mar_dark_maria_ogle1_c99e40ff:
 
 
     # anon e_e f_shy "Did you want to do that demon thing today?"
-    anon e_e f_shy "你今天想干那魔鬼的事吗？"
+    anon e_e f_shy "你今天想试试那个“恶魔”玩法吗？"
 
 # game/src/plot/mar_dark.rpy:598
 translate chinese mar_dark_maria_ogle1_0a8fd7f4:
 
 
     # maria "Demon thing?!"
-    maria "魔鬼的事？！"
+    maria "“恶魔”玩法？！"
 
 # game/src/plot/mar_dark.rpy:599
 translate chinese mar_dark_maria_ogle1_fddbe423:
 
 
     # tony "I think he means the Devil's Threeway."
-    tony "我想他指的是魔鬼三人行。"
+    tony "我想他说的是恶魔三人行。"
 
 # game/src/plot/mar_dark.rpy:600
 translate chinese mar_dark_maria_ogle1_d66a761c:
 
 
     # maria "Oh, yes, yes!"
-    maria "哦，是的，是的！"
+    maria "哦，对对对！"
 
 # game/src/plot/mar_dark.rpy:601
 translate chinese mar_dark_maria_ogle1_1bf3d729:
 
 
     # maria "I mean, assuming... you're okay with it, [saga.cast.anon]."
-    maria "我的意思是，假设……你同意的话，[saga.cast.anon]。"
+    maria "我是说……只要你不介意，[saga.cast.anon]。"
 
 # game/src/plot/mar_dark.rpy:602
 translate chinese mar_dark_maria_ogle1_35efe232:
 
 
     # anon "Y-yeah, it doesn't sound so bad... we can try it."
-    anon "是——是啊，听起来没那么糟……我们可以试试。"
+    anon "嗯……听起来也没那么糟，我们可以试试。"
 
 # game/src/plot/mar_dark.rpy:603
 translate chinese mar_dark_maria_ogle1_3ea0a17b:
 
 
     # tony "Not so bad, he says..."
-    tony "没那么糟，他说……"
+    tony "“没那么糟”，他说得可真轻巧……"
 
 # game/src/plot/mar_dark.rpy:605
 translate chinese mar_dark_maria_ogle1_c59a826a:
 
 
     # tony f_happy "... Yer gonna love this, champ!"
-    tony f_happy "……你会喜欢的，兄弟！"
+    tony f_happy "……你肯定会喜欢的，冠军！"
 
 # game/src/plot/mar_dark.rpy:606
 translate chinese mar_dark_maria_ogle1_31ffc26e:
@@ -1321,7 +1321,7 @@ translate chinese mar_dark_maria_ogle1_0f14b79f:
 
 
     # maria "I think yer just... about... ready."
-    maria "我觉得你差不多……准备好了。"
+    maria "我觉得你已经……差不多……准备好了。"
 
 # game/src/plot/mar_dark.rpy:610
 translate chinese mar_dark_maria_ogle1_ef474f3b:
@@ -1335,7 +1335,7 @@ translate chinese mar_dark_maria_ogle1_da845a1d:
 
 
     # tony "Let's-a go!"
-    tony "我们走吧！"
+    tony "出发喽！"
 
 # game/src/plot/mar_dark.rpy:616
 translate chinese mar_dark_maria_merge4_98bf6469:
@@ -1349,28 +1349,28 @@ translate chinese mar_dark_maria_merge4_935d65b0:
 
 
     # anon a_towel_down e_w "Yes, ma'am."
-    anon a_towel_down e_w "是的，女士。"
+    anon a_towel_down e_w "遵命，夫人。"
 
 # game/src/plot/mar_dark.rpy:627
 translate chinese mar_dark_maria_merge4_0f5236a0:
 
 
     # tony "Man, she's so aggressive these days..."
-    tony "天哪，她最近好主动……"
+    tony "好家伙，她最近可真够生猛的……"
 
 # game/src/plot/mar_dark.rpy:629
 translate chinese mar_dark_maria_merge4_416708dc:
 
 
     # tony "Man, I have never seen her so aggressive before..."
-    tony "天哪，我从没见过她这么主动……"
+    tony "好家伙，我以前可从没见她这么生猛过……"
 
 # game/src/plot/mar_dark.rpy:634
 translate chinese mar_dark_maria_merge4_745ae2d2:
 
 
     # tony f_horny "... You've really awoken somethin' in her, champ!"
-    tony f_horny "……你还真唤醒了她内心的某样东西啊，冠军！"
+    tony f_horny "……你还真把她骨子里那股劲儿给勾出来了，冠军！"
 
 # game/src/plot/mar_dark.rpy:655
 translate chinese mar_dark_maria_ogle2_73741803:
@@ -1384,14 +1384,14 @@ translate chinese mar_dark_maria_ogle2_8ea3167f:
 
 
     # anon "Y-yeah, I guess so."
-    anon "呃……算是吧。"
+    anon "嗯……大概吧。"
 
 # game/src/plot/mar_dark.rpy:657
 translate chinese mar_dark_maria_ogle2_1413630d:
 
 
     # tony f_happy "Heh, \"I guess so.\" He says."
-    tony f_happy "呵，「算是吧。」他说。"
+    tony f_happy "呵，他还说“大概吧”。"
 
 # game/src/plot/mar_dark.rpy:660
 translate chinese mar_dark_maria_ogle2_82615e0e:
@@ -1405,14 +1405,14 @@ translate chinese mar_dark_maria_ogle2_eecebe4d:
 
 
     # tony "Ahh, it's alright, champ."
-    tony "啊，没事，冠军。"
+    tony "哎，没事的，冠军。"
 
 # game/src/plot/mar_dark.rpy:670
 translate chinese mar_dark_maria_ogle2_d694e475:
 
 
     # tony "C'mere you!"
-    tony "过来！"
+    tony "你小子过来！"
 
 # game/src/plot/mar_dark.rpy:683
 translate chinese mar_dark_maria_ogle2_c35871f2:
@@ -1440,7 +1440,7 @@ translate chinese mar_dark_maria_ogle2_ca0bfe40:
 
 
     # tony "Just don't make a habit of it, yeah?"
-    tony "只是别养成习惯，行不？"
+    tony "不过以后可别老这么干，知道吗？"
 
 # game/src/plot/mar_dark.rpy:689
 translate chinese mar_dark_maria_ogle2_f8fcb5fb:
@@ -1454,14 +1454,14 @@ translate chinese mar_dark_maria_ogle2_5fa66be0:
 
 
     # tony a_wide @ e_wsw "He's a wonder, this guy!"
-    tony a_wide @ e_wsw "这家伙真是个奇才！"
+    tony a_wide @ e_wsw "这小子可真有一手！"
 
 # game/src/plot/mar_dark.rpy:697
 translate chinese mar_dark_maria_ogle2_c7bb0381:
 
 
     # anon a_neck "Hah, geez, [saga.cast.tony]... it's not that big a deal."
-    anon a_neck "哈，天哪，[saga.cast.tony]……没那么夸张。"
+    anon a_neck "得了吧，[saga.cast.tony]……哪有那么夸张。"
 
 # game/src/plot/mar_dark.rpy:710
 translate chinese mar_dark_maria_ogle2_30a110d1:
@@ -1489,14 +1489,14 @@ translate chinese mar_dark_maria_rails_795f42b7:
 
 
     # tony "Woah, where you goin', champ?!" with hpunch
-    tony "哇哦，你要去哪儿，冠军？！" with hpunch
+    tony "喂，冠军，你上哪儿去？！" with hpunch
 
 # game/src/plot/mar_dark.rpy:732
 translate chinese mar_dark_maria_rails_0d93485d:
 
 
     # anon e_w f_shy o_right -m_teeth "Oh, umm... right."
-    anon e_w f_shy o_right -m_teeth "哦，嗯...对。"
+    anon e_w f_shy o_right -m_teeth "哦，呃……对。"
 
 # game/src/plot/mar_dark.rpy:734
 translate chinese mar_dark_maria_rails_c885ed27:
@@ -1517,7 +1517,7 @@ translate chinese mar_dark_maria_trio_968a5f62:
 
 
     # tony "Who's ready for [saga.cast.tony] to join the party?"
-    tony "谁准备好让[saga.cast.tony]加入派对了？"
+    tony "谁准备好让[saga.cast.tony]也来助兴了？"
 
 # game/src/plot/mar_dark.rpy:756
 translate chinese mar_dark_maria_trio1_a1f0b75a:
@@ -1531,21 +1531,21 @@ translate chinese mar_dark_maria_trio1_c9092d29:
 
 
     # maria e_n f_happy p_lay "You still okay with him joinin' us?"
-    maria e_n f_happy p_lay "你还同意他加入我们吗？"
+    maria e_n f_happy p_lay "让他也加入，你还是没意见吧？"
 
 # game/src/plot/mar_dark.rpy:759
 translate chinese mar_dark_maria_trio1_c618d783:
 
 
     # anon f_shy "Y-yeah, I think so."
-    anon f_shy "嗯...是的，我想是的。"
+    anon f_shy "嗯……应该没问题。"
 
 # game/src/plot/mar_dark.rpy:763
 translate chinese mar_dark_maria_trio1_10d35b0b:
 
 
     # anon "But I'm still a little confused on the mechanics here."
-    anon "但我还是有点搞不懂这个体位。"
+    anon "但我还是没弄明白具体该怎么来。"
 
 # game/src/plot/mar_dark.rpy:767
 translate chinese mar_dark_maria_trio1_7a339202:
@@ -1559,21 +1559,21 @@ translate chinese mar_dark_maria_trio1_1c1122e0:
 
 
     # tony "... You just roll over on your back and relax, while [saga.cast.maria] gets on top."
-    tony "……你只需要仰面躺下放松，让[saga.cast.maria]骑在你上面。"
+    tony "……你仰面躺好放松，让[saga.cast.maria]骑上去就行。"
 
 # game/src/plot/mar_dark.rpy:769
 translate chinese mar_dark_maria_trio1_d0f405f0:
 
 
     # tony "Then you can work the pussy while I work the ass, capiche?"
-    tony "然后你可以肏屄，而我肏屁眼，明白吗？"
+    tony "然后你肏她的屄，我肏她的屁眼，懂吗？"
 
 # game/src/plot/mar_dark.rpy:771
 translate chinese mar_dark_maria_trio1_ae320bbb:
 
 
     # maria f_annoyed "Jesus, [saga.cast.tony] don't say it like that!"
-    maria f_annoyed "天啊，[saga.cast.tony]别那么说！"
+    maria f_annoyed "天啊，[saga.cast.tony]，别说得那么难听！"
 
 # game/src/plot/mar_dark.rpy:773
 translate chinese mar_dark_maria_trio1_384a1f65:
@@ -1587,14 +1587,14 @@ translate chinese mar_dark_maria_trio1_aed1412f:
 
 
     # maria "You shouldn't be talkin' crass like that while we're tryin' to make a baby, ya big galoot!"
-    maria "我们正忙着造人呢，你不该那么粗俗地说话，你这个大傻瓜！"
+    maria "我们正忙着造人呢，别说得这么下流，你这个大老粗！"
 
 # game/src/plot/mar_dark.rpy:777
 translate chinese mar_dark_maria_trio1_6ced65af:
 
 
     # tony "Well, I'm sorry darlin' but what do you want me to call 'em?"
-    tony "好吧，抱歉亲爱的，但你希望我叫它们什么呢？"
+    tony "好吧，抱歉，亲爱的，那你说我该怎么叫？"
 
 # game/src/plot/mar_dark.rpy:779
 translate chinese mar_dark_maria_trio1_308feaae:
@@ -1608,7 +1608,7 @@ translate chinese mar_dark_maria_trio1_bceb4192:
 
 
     # maria "... But somethin' else, please."
-    maria "……但请换个名儿。"
+    maria "……反正换个好听点的说法，求你了。"
 
 # game/src/plot/mar_dark.rpy:782
 translate chinese mar_dark_maria_trio1_3340c61c:
@@ -1622,28 +1622,28 @@ translate chinese mar_dark_maria_trio1_88fd4d07:
 
 
     # tony "You work the vanilla while I work the chocolate, capiche?"
-    tony "你负责香草，我负责巧克力，懂吗？"
+    tony "你负责香草口味，我负责巧克力口味，懂吗？"
 
 # game/src/plot/mar_dark.rpy:788
 translate chinese mar_dark_maria_trio1_45a52c4d:
 
 
     # maria "[saga.cast.tony!u]!!!"
-    maria "[saga.cast.tony!u]!!!"
+    maria "[saga.cast.tony!u]！！！"
 
 # game/src/plot/mar_dark.rpy:789
 translate chinese mar_dark_maria_trio1_3f1e05fc:
 
 
     # maria "That's not any better!"
-    maria "这也没好到哪去！"
+    maria "这也没好听到哪儿去！"
 
 # game/src/plot/mar_dark.rpy:792
 translate chinese mar_dark_maria_trio1_f6c0463c:
 
 
     # tony "Well, I'm running outta ideas here, darlin'!"
-    tony "好吧，我这儿快没辙了，亲爱的！"
+    tony "可我真想不出别的说法了，亲爱的！"
 
 # game/src/plot/mar_dark.rpy:795
 translate chinese mar_dark_maria_trio1_6f13dc30:
@@ -1657,70 +1657,70 @@ translate chinese mar_dark_maria_trio1_4039aa00:
 
 
     # maria @ -m_talk "Grr..."
-    maria @ -m_talk "呃..."
+    maria @ -m_talk "啧……"
 
 # game/src/plot/mar_dark.rpy:802
 translate chinese mar_dark_maria_trio1_1a9c12ee:
 
 
     # tony "That's it..."
-    tony "这就对了..."
+    tony "这就对了……"
 
 # game/src/plot/mar_dark.rpy:804
 translate chinese mar_dark_maria_trio1_893eef61:
 
 
     # tony ".. Now go ahead and put him in."
-    tony "现在，把他放进去吧。"
+    tony "……现在把他塞进去吧。"
 
 # game/src/plot/mar_dark.rpy:805
 translate chinese mar_dark_maria_trio1_f324ee6e:
 
 
     # maria "I am!"
-    maria "我正要做呢！"
+    maria "我正弄呢！"
 
 # game/src/plot/mar_dark.rpy:806
 translate chinese mar_dark_maria_trio1_fbf09d76:
 
 
     # tony "Alright, alright..."
-    tony "好了，好了..."
+    tony "好了，好了……"
 
 # game/src/plot/mar_dark.rpy:808
 translate chinese mar_dark_maria_trio1_680426d1:
 
 
     # tony "... Don't get all worked up."
-    tony "...别那么激动。"
+    tony "……别那么激动。"
 
 # game/src/plot/mar_dark.rpy:812
 translate chinese mar_dark_maria_trio1_4be0d5c2:
 
 
     # tony "Now then, I'm gonna use this olive oil to lube ya up, okay?"
-    tony "好了，我要用这橄榄油给你润滑一下，行吗？"
+    tony "好了，我先用这橄榄油给你润滑一下，行吗？"
 
 # game/src/plot/mar_dark.rpy:813
 translate chinese mar_dark_maria_trio1_88cc7389:
 
 
     # maria f_surprised p_turn "I dunno about this [saga.cast.tony]..."
-    maria f_surprised p_turn "我不知道这能不能行[saga.cast.tony]……"
+    maria f_surprised p_turn "我还是有点怕，[saga.cast.tony]……"
 
 # game/src/plot/mar_dark.rpy:814
 translate chinese mar_dark_maria_trio1_4c191824:
 
 
     # maria f_worried "... Ya know, I ain't never had nothin' up there..."
-    maria f_worried "……你知道，我那儿从来没进过东西……"
+    maria f_worried "……你知道，我后面可从来没进过东西……"
 
 # game/src/plot/mar_dark.rpy:815
 translate chinese mar_dark_maria_trio1_3ffb0319:
 
 
     # maria "... A-and you ain't exactly little."
-    maria "而……而且你的也不小。"
+    maria "而、而且你的家伙可一点都不小。"
 
 # game/src/plot/mar_dark.rpy:816
 translate chinese mar_dark_maria_trio1_eaeea3a5:
@@ -1741,7 +1741,7 @@ translate chinese mar_dark_maria_trio1_72f1aee6:
 
 
     # tony "A few squirts of this and it's gonna slide right in, I promise."
-    tony "挤上几滴，我保证它就能滑进去。"
+    tony "挤上几下，我保证它就能顺顺当当地滑进去。"
 
 # game/src/plot/mar_dark.rpy:823
 translate chinese mar_dark_maria_trio1_3af6b340:
@@ -1755,7 +1755,7 @@ translate chinese mar_dark_maria_trio1_e218a3f2:
 
 
     # tony "Now here we go, brace ya self."
-    tony "现在开始了，准备好。"
+    tony "好了，要进去了，做好准备。"
 
 # game/src/plot/mar_dark.rpy:829
 translate chinese mar_dark_maria_trio1_9435d32c:
@@ -1776,14 +1776,14 @@ translate chinese mar_dark_maria_trio1_09709233:
 
 
     # tony "Phew, now that is a snug fit!"
-    tony "呼，现在这样正好合适！"
+    tony "呼，这可夹得真紧！"
 
 # game/src/plot/mar_dark.rpy:832
 translate chinese mar_dark_maria_trio1_12f4c64e:
 
 
     # maria "Oh, I dunno..."
-    maria "哦，我不知道……"
+    maria "哦，我还是有点……"
 
 # game/src/plot/mar_dark.rpy:833
 translate chinese mar_dark_maria_trio1_2179d56f:
@@ -1797,7 +1797,7 @@ translate chinese mar_dark_maria_trio1_dd619d56:
 
 
     # tony "Just give it a second, [saga.cast.maria]."
-    tony "再等一下，[saga.cast.maria]。"
+    tony "再适应一下，[saga.cast.maria]。"
 
 # game/src/plot/mar_dark.rpy:836
 translate chinese mar_dark_maria_trio1_dd008c06:
@@ -1825,7 +1825,7 @@ translate chinese mar_dark_maria_trio1_e404c66a:
 
 
     # tony "How ya doin' down there, champ?"
-    tony "下面感觉怎么样，冠军？"
+    tony "冠军，你在下面怎么样？"
 
 # game/src/plot/mar_dark.rpy:841
 translate chinese mar_dark_maria_trio1_ac359f6c:
@@ -1839,7 +1839,7 @@ translate chinese mar_dark_maria_trio1_2cb1f19b:
 
 
     # tony "Heh, I bet she is."
-    tony "嘿，我打赌她确实是。"
+    tony "呵，我就知道。"
 
 # game/src/plot/mar_dark.rpy:843
 translate chinese mar_dark_maria_trio1_47ce0aba:
@@ -1860,14 +1860,14 @@ translate chinese mar_dark_maria_trio1_1f616204:
 
 
     # tony "Already?"
-    tony "已经？"
+    tony "这么快？"
 
 # game/src/plot/mar_dark.rpy:847
 translate chinese mar_dark_maria_trio1_74a110b5:
 
 
     # anon "Okay, that's like... {i}REALLY{/i} hard now..."
-    anon "好了，这就像……现在{i}真的{/i}很硬了……"
+    anon "好吧，这下……夹得{i}真{/i}紧……"
 
 # game/src/plot/mar_dark.rpy:848
 translate chinese mar_dark_maria_trio1_6d73e66a:
@@ -1888,7 +1888,7 @@ translate chinese mar_dark_maria_trio1_b843366b:
 
 
     # tony "Hey, hey... you gotta breathe, darlin'!"
-    tony "嘿，嘿……你得呼吸，亲爱的！"
+    tony "嘿、嘿……亲爱的，别憋着，喘口气！"
 
 # game/src/plot/mar_dark.rpy:851
 translate chinese mar_dark_maria_trio1_23b3c912:
@@ -1902,7 +1902,7 @@ translate chinese mar_dark_maria_trio1_ac6e2e07:
 
 
     # tony "You don't wanna snap the kid's dick off."
-    tony "你不想把那孩子的鸡巴弄断吧。"
+    tony "别把这小子的鸡巴夹断了。"
 
 # game/src/plot/mar_dark.rpy:853
 translate chinese mar_dark_maria_trio1_3514fb0a:
@@ -1930,7 +1930,7 @@ translate chinese mar_dark_maria_trio1_cbe7ae72:
 
 
     # anon "Y-yeah, I think so."
-    anon "还——还好吧，我想。"
+    anon "嗯、嗯，我想没事。"
 
 # game/src/plot/mar_dark.rpy:857
 translate chinese mar_dark_maria_trio1_b20a2b16:
@@ -1944,70 +1944,70 @@ translate chinese mar_dark_maria_trio1_da99057c:
 
 
     # maria "This feels incredible!"
-    maria "这感觉太棒了！"
+    maria "这感觉太爽了！"
 
 # game/src/plot/mar_dark.rpy:859
 translate chinese mar_dark_maria_trio1_700e2fbf:
 
 
     # tony "Heh, see... I told ya you'd like it."
-    tony "嘿，看吧……我早说你会的。"
+    tony "呵，看吧……我就说你会喜欢的。"
 
 # game/src/plot/mar_dark.rpy:861
 translate chinese mar_dark_maria_trio1_c55ca375:
 
 
     # tony "Man, this brings back a lot of memories..."
-    tony "天，这勾起我好多回忆……"
+    tony "好家伙，这可勾起不少往事……"
 
 # game/src/plot/mar_dark.rpy:862
 translate chinese mar_dark_maria_trio1_fe4bc3b2:
 
 
     # tony "... Ya know, Luigi and me used to call this move, \"The Kidney Shifter.\""
-    tony "……你知道吗，Luigi和我以前把这招叫做「肾移位」。"
+    tony "……你知道吗，我和Luigi以前管这招叫“移肾术”。"
 
 # game/src/plot/mar_dark.rpy:863
 translate chinese mar_dark_maria_trio1_9ff9774c:
 
 
     # tony "[saga.cast.tina] hated it when he coined that-"
-    tony "[saga.cast.tina]当年听我喊这名字时可讨厌了。"
+    tony "Luigi想出这个名字时，[saga.cast.tina]可讨厌它了——"
 
 # game/src/plot/mar_dark.rpy:864
 translate chinese mar_dark_maria_trio1_88488b82:
 
 
     # maria "[saga.cast.tony] focus!!"
-    maria "[saga.cast.tony]集中注意力！！"
+    maria "[saga.cast.tony]，专心点！！"
 
 # game/src/plot/mar_dark.rpy:865
 translate chinese mar_dark_maria_trio1_957c0f67:
 
 
     # tony "Oh, sorry, darlin'!"
-    tony "哦，抱歉，宝贝！"
+    tony "哦，抱歉，亲爱的！"
 
 # game/src/plot/mar_dark.rpy:866
 translate chinese mar_dark_maria_trio1_38786241:
 
 
     # tony "Bad time to be gettin' nostalgic, eh?"
-    tony "可不是感伤的时候，啊？"
+    tony "这时候走神怀旧可不合适，对吧？"
 
 # game/src/plot/mar_dark.rpy:869
 translate chinese mar_dark_maria_trio1a_538fd277:
 
 
     # maria "This is..."
-    maria "这是……"
+    maria "这感觉……"
 
 # game/src/plot/mar_dark.rpy:870
 translate chinese mar_dark_maria_trio1a_42af7bf1:
 
 
     # maria "... So-"
-    maria "……所以-"
+    maria "……太——"
 
 # game/src/plot/mar_dark.rpy:871
 translate chinese mar_dark_maria_trio1a_b0f81af8:
@@ -2021,7 +2021,7 @@ translate chinese mar_dark_maria_trio1a_ec2a7f37:
 
 
     # tony "Jesus, I ain't gonna last much longer back here..."
-    tony "天啊，我可撑不了多久了……"
+    tony "天啊，我在后面可撑不了多久了……"
 
 # game/src/plot/mar_dark.rpy:874
 translate chinese mar_dark_maria_trio1a_b43b3420:
@@ -2042,21 +2042,21 @@ translate chinese mar_dark_maria_trio1a_122349d8:
 
 
     # tony "[saga.cast.maria]?"
-    tony "[saga.cast.maria]?"
+    tony "[saga.cast.maria]？"
 
 # game/src/plot/mar_dark.rpy:877
 translate chinese mar_dark_maria_trio1a_5b8d130f:
 
 
     # maria "I'm cumming!!"
-    maria "我要喷出来了！！"
+    maria "我、我要高潮了！！"
 
 # game/src/plot/mar_dark.rpy:878
 translate chinese mar_dark_maria_trio1a_f5692ece:
 
 
     # maria "I'M CUMMING!!!"
-    maria "我要喷出来了！！！"
+    maria "我、我要高潮了！！！"
 
 # game/src/plot/mar_dark.rpy:879
 translate chinese mar_dark_maria_trio1a_3964071e:
@@ -2070,7 +2070,7 @@ translate chinese mar_dark_maria_trio1a_68b1dac7:
 
 
     # tony "Let her rip, champ!"
-    tony "让她爽上天，冠军！"
+    tony "尽管射吧，冠军！"
 
 # game/src/plot/mar_dark.rpy:882
 translate chinese mar_dark_maria_trio1a_301aa803:
@@ -2112,7 +2112,7 @@ translate chinese mar_dark_maria_trio1a_3e173c19:
 
 
     # tony "You gotta make sure that cannoli's good and filled."
-    tony "你得确保那奶油卷填得满满的。"
+    tony "你得确保那只意式奶油甜馅卷里塞满了馅儿。"
 
 # game/src/plot/mar_dark.rpy:901
 translate chinese mar_dark_maria_trio1a_ea9735e0:
@@ -2126,28 +2126,28 @@ translate chinese mar_dark_maria_trio1a_5ca34c52:
 
 
     # maria "Y-yeah, I'm just..."
-    maria "是——是的，我只是……"
+    maria "嗯、嗯，我只是……"
 
 # game/src/plot/mar_dark.rpy:904
 translate chinese mar_dark_maria_trio1a_d02d17c0:
 
 
     # maria "... Feeling very..."
-    maria "……感觉非常……"
+    maria "……一下子有点……"
 
 # game/src/plot/mar_dark.rpy:905
 translate chinese mar_dark_maria_trio1a_eb598c13:
 
 
     # maria "... Overwhelmed, right now."
-    maria "……现在不知所措。"
+    maria "……受不住了。"
 
 # game/src/plot/mar_dark.rpy:907
 translate chinese mar_dark_maria_trio1a_bf91be1f:
 
 
     # anon "Ah, man... You're shaking!"
-    anon "啊，天哪……你在发抖！"
+    anon "天啊……你还在发抖！"
 
 # game/src/plot/mar_dark.rpy:908
 translate chinese mar_dark_maria_trio1a_b52bed7a:
@@ -2161,7 +2161,7 @@ translate chinese mar_dark_maria_trio1a_23531802:
 
 
     # tony "... We just gotta let the sensations die down a bit."
-    tony "……我们只需要让感觉平息一点。"
+    tony "……等这股劲儿稍微缓过去就好。"
 
 # game/src/plot/mar_dark.rpy:911
 translate chinese mar_dark_maria_trio1a_1b513419:
@@ -2182,21 +2182,21 @@ translate chinese mar_dark_maria_trio1a_6861865f:
 
 
     # maria "Just need..."
-    maria "只是需要……"
+    maria "我只要……"
 
 # game/src/plot/mar_dark.rpy:914
 translate chinese mar_dark_maria_trio1a_f6ad2635:
 
 
     # maria "... Rest."
-    maria "……休息。"
+    maria "……歇一会儿。"
 
 # game/src/plot/mar_dark.rpy:915
 translate chinese mar_dark_maria_trio1a_be823903:
 
 
     # tony "See, there you have it!"
-    tony "看吧，就是这样！"
+    tony "看吧，她没事！"
 
 # game/src/plot/mar_dark.rpy:916
 translate chinese mar_dark_maria_trio1a_c358e310:
@@ -2217,7 +2217,7 @@ translate chinese mar_dark_maria_trio1a_1c33109d:
 
 
     # tony "Make sure you keep those legs elevated so his little guys can get to the egg."
-    tony "一定要把腿抬高，这样他的娃娃脸们才能到达卵子。"
+    tony "记得把腿抬高，好让他的小家伙们游到卵子那里。"
 
 # game/src/plot/mar_dark.rpy:919
 translate chinese mar_dark_maria_trio1a_d614b342:
@@ -2231,28 +2231,28 @@ translate chinese mar_dark_maria_trio1a_2541847a:
 
 
     # tony "Attagirl."
-    tony "好姑娘。"
+    tony "这才对嘛。"
 
 # game/src/plot/mar_dark.rpy:929
 translate chinese mar_dark_maria_trio1a_b9ad3a01:
 
 
     # tony "Hey, ya done real good in there, champ!"
-    tony "嘿，你在里面干得真不错，冠军！"
+    tony "嘿，冠军，刚才干得真不错！"
 
 # game/src/plot/mar_dark.rpy:930
 translate chinese mar_dark_maria_trio1a_4ea4e8bf:
 
 
     # tony a_fists_up "She's gonna be seein' stars for a while after the number we just did on her."
-    tony a_fists_up "我们刚把她折腾完，她得晕一阵子了。"
+    tony a_fists_up "刚才咱俩那顿折腾，够她眼冒金星好一阵了。"
 
 # game/src/plot/mar_dark.rpy:931
 translate chinese mar_dark_maria_trio1a_705ee536:
 
 
     # anon "Do you think I got her pregnant?"
-    anon "你觉得我让她怀孕了吗？"
+    anon "你觉得我让她怀上了吗？"
 
 # game/src/plot/mar_dark.rpy:932
 translate chinese mar_dark_maria_trio1a_b98ab069:
@@ -2280,7 +2280,7 @@ translate chinese mar_dark_maria_trio1a_7e99465f:
 
 
     # tony @ e_sw "And with how deep you buried that thing in her, there ain't no doubt in my mind."
-    tony @ e_sw "而且你插得那么深，我毫不怀疑。"
+    tony @ e_sw "再加上你把那玩意儿埋得那么深，我敢说她肯定怀上了。"
 
 # game/src/plot/mar_dark.rpy:940
 translate chinese mar_dark_maria_trio1a_4ed27784:
@@ -2294,7 +2294,7 @@ translate chinese mar_dark_maria_trio1a_44746db4:
 
 
     # anon "!!!"
-    anon "!!!"
+    anon "！！！"
 
 # game/src/plot/mar_dark.rpy:945
 translate chinese mar_dark_maria_trio1a_38e0d9ae:
@@ -2308,7 +2308,7 @@ translate chinese mar_dark_maria_trio1a_93a14f7d:
 
 
     # tony "Now you go on and get home, eh?"
-    tony "现在你该回家了，嗯？"
+    tony "好了，你也该回家了，行吧？"
 
 # game/src/plot/mar_dark.rpy:954
 translate chinese mar_dark_maria_trio1a_1343f769:
@@ -2336,7 +2336,7 @@ translate chinese mar_dark_maria_trio1a_8f8a7450:
 
 
     # anon a_rub c_casual "Later, [saga.cast.tony]."
-    anon a_rub c_casual "再见，[saga.cast.tony]。"
+    anon a_rub c_casual "回头见，[saga.cast.tony]。"
 
 # game/src/plot/mar_dark.rpy:970
 translate chinese mar_dark_maria_trio2_e8749afd:
@@ -2357,21 +2357,21 @@ translate chinese mar_dark_maria_trio2_cdf4815d:
 
 
     # maria e_n f_confused "That's okay, isn't it?"
-    maria e_n f_confused "没关系的，对吧？"
+    maria e_n f_confused "这样没问题吧？"
 
 # game/src/plot/mar_dark.rpy:974
 translate chinese mar_dark_maria_trio2_f7731dad:
 
 
     # anon f_calm "Y-yeah, of course."
-    anon f_calm "是——是的，当然。"
+    anon f_calm "嗯、嗯，当然。"
 
 # game/src/plot/mar_dark.rpy:975
 translate chinese mar_dark_maria_trio2_efb20cad:
 
 
     # maria "Go ahead and roll over so I can get on top."
-    maria "翻过来，让我在上面。"
+    maria "你翻身躺好，让我骑上去。"
 
 # game/src/plot/mar_dark.rpy:980
 translate chinese mar_dark_maria_trio2_62221ccb:
@@ -2385,7 +2385,7 @@ translate chinese mar_dark_maria_trio2_a74b237e:
 
 
     # maria p_mount "Okay, he's in!"
-    maria p_mount "好了，他进去了！"
+    maria p_mount "好了，进去了！"
 
 # game/src/plot/mar_dark.rpy:985
 translate chinese mar_dark_maria_trio2_97571d1b:
@@ -2420,14 +2420,14 @@ translate chinese mar_dark_maria_trio2_0b2c5037:
 
 
     # tony "Relax, darlin'..."
-    tony "放松点，亲爱的..."
+    tony "放松点，亲爱的……"
 
 # game/src/plot/mar_dark.rpy:991
 translate chinese mar_dark_maria_trio2_39c29752:
 
 
     # tony "... You're gonna get plenty of heat here in just a second, I promise."
-    tony "...我保证，你马上就会在这里感受到炽热。"
+    tony "……我保证，马上就会热起来的。"
 
 # game/src/plot/mar_dark.rpy:994
 translate chinese mar_dark_maria_trio2_3af6b340:
@@ -2441,7 +2441,7 @@ translate chinese mar_dark_maria_trio2_e218a3f2:
 
 
     # tony "Now here we go, brace ya self."
-    tony "好了，准备好。"
+    tony "好了，要进去了，做好准备。"
 
 # game/src/plot/mar_dark.rpy:1000
 translate chinese mar_dark_maria_trio2_9435d32c:
@@ -2462,7 +2462,7 @@ translate chinese mar_dark_maria_trio2_d3e13345:
 
 
     # tony "Phew, that's nice!"
-    tony "呼，舒服！"
+    tony "呼，真舒服！"
 
 # game/src/plot/mar_dark.rpy:1004
 translate chinese mar_dark_maria_trio2_11f917c5:
@@ -2483,28 +2483,28 @@ translate chinese mar_dark_maria_trio2_6c06e099:
 
 
     # tony "You like that?"
-    tony "你喜欢吗？"
+    tony "喜欢这样吗？"
 
 # game/src/plot/mar_dark.rpy:1007
 translate chinese mar_dark_maria_trio2_4149b20a:
 
 
     # maria "Yes!!"
-    maria "是的！！"
+    maria "喜欢！！"
 
 # game/src/plot/mar_dark.rpy:1008
 translate chinese mar_dark_maria_trio2_9b4e79b6:
 
 
     # tony "You like it when I work your tight little asshole?"
-    tony "你喜欢我肏你紧致的小屁眼吗？"
+    tony "喜欢我狠狠干你这紧巴巴的小屁眼吗？"
 
 # game/src/plot/mar_dark.rpy:1009
 translate chinese mar_dark_maria_trio2_1547e067:
 
 
     # maria "YES!!!"
-    maria "是的！！！"
+    maria "喜欢！！！"
 
 # game/src/plot/mar_dark.rpy:1011
 translate chinese mar_dark_maria_trio2_b0f81af8:
@@ -2532,21 +2532,21 @@ translate chinese mar_dark_maria_trio2_fe9825bf:
 
 
     # tony "... Fuck her nice and deep now!"
-    tony "……现在肏她，又深又狠！"
+    tony "……现在插深点，好好肏她！"
 
 # game/src/plot/mar_dark.rpy:1016
 translate chinese mar_dark_maria_trio2_69211db2:
 
 
     # anon "I'm trying!"
-    anon "我在努力！"
+    anon "我已经很用力了！"
 
 # game/src/plot/mar_dark.rpy:1018
 translate chinese mar_dark_maria_trio2_44aaabab:
 
 
     # tony "Is he doin' good, darlin'?"
-    tony "他肏得好吗，亲爱的？"
+    tony "他肏得你爽吗，亲爱的？"
 
 # game/src/plot/mar_dark.rpy:1019
 translate chinese mar_dark_maria_trio2_50c396d9:
@@ -2560,14 +2560,14 @@ translate chinese mar_dark_maria_trio2_0e36b2bb:
 
 
     # maria "It feels so good!!"
-    maria "感觉真棒！！"
+    maria "爽死了！！"
 
 # game/src/plot/mar_dark.rpy:1022
 translate chinese mar_dark_maria_trio2_5c820db7:
 
 
     # maria "JESUS, MARY, AND JOSEPH!!!"
-    maria "天哪，圣母玛利亚和圣约瑟夫！！！"
+    maria "耶稣、圣母玛利亚、圣约瑟啊！！！"
 
 # game/src/plot/mar_dark.rpy:1023
 translate chinese mar_dark_maria_trio2_4e335fb9:
@@ -2579,11 +2579,11 @@ translate chinese mar_dark_maria_trio2_4e335fb9:
 translate chinese mar_dark_maria_alt1_852bd071:
 
     # maria "Your dick is incredible, [saga.cast.anon]!"
-    maria "你的鸡巴真是不可思议，[saga.cast.anon]！"
+    maria "你的鸡巴太厉害了，[saga.cast.anon]！"
 
 translate chinese strings:
 
 
     # game/src/plot/mar_dark.rpy:588
     old "Threeway?"
-    new "3P？"
+    new "要来三人行吗？"

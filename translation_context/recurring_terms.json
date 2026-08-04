@@ -26,7 +26,7 @@
       "addressee": "Anon",
       "translation": "小帅哥",
       "first_seen": "tl/chinese/src/plot/ano09.rpy",
-      "note": "Tina 对 Anon 的专属称呼；Tony 客观描述外貌的复数 babyfaces 排除在本称呼规则外。"
+      "note": "Tina 对 Anon 的专属称呼；非称呼用法不受本规则约束，应根据具体指代自然翻译，不机械使用“娃娃脸”。"
     },
     {
       "id": "maria_dollface",
@@ -75,7 +75,7 @@
     },
     {
       "id": "tony_capisce",
-      "source_regex": "\\bcapisce\\b",
+      "source_regex": "\\bcapi(?:sce|che)\\b",
       "target_regexes": [
         "懂(?:了)?没",
         "明白(?:了)?(?:吗|没)",
@@ -295,6 +295,30 @@
       "translation": "Consum-R",
       "first_seen": "tl/chinese/src/plot/ano01.rpy",
       "note": "商场店名；保持英文原拼写、大小写和连字符，不翻译、不插入中文音译。"
+    },
+    {
+      "id": "tony_devils_threeway",
+      "source_regex": "\\bDevil's Threeway\\b",
+      "target_regexes": [
+        "恶魔三人行"
+      ],
+      "category": "adult_move_name",
+      "speaker": "Tony",
+      "translation": "恶魔三人行",
+      "first_seen": "tl/chinese/src/plot/mar_dark.rpy",
+      "note": "Tony 为三人性交提出的招式名；保留夸张的老派命名感。"
+    },
+    {
+      "id": "tony_kidney_shifter",
+      "source_regex": "\\bThe Kidney Shifter\\b",
+      "target_regexes": [
+        "移肾术"
+      ],
+      "category": "adult_move_name",
+      "speaker": "Tony",
+      "translation": "移肾术",
+      "first_seen": "tl/chinese/src/plot/mar_dark.rpy",
+      "note": "Tony 为性交动作提出的夸张招式名。"
     }
   ]
 }

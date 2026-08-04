@@ -22,7 +22,7 @@
 | 条目 | 类型 | 固定处理 | 仓库出现范围 | 当前结论 |
 |---|---|---|---|---|
 | Tony 的 `champ` | 人物专属称呼 | 冠军 | 173 处 / 13 个文件 | `ano09.rpy` 的 9 处已统一；未处理文件仍有 16 处旧译待随剧情文件复核 |
-| Tina 的 `babyface` | 人物专属称呼 | 小帅哥 | 42 处 / 10 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 的称呼已统一；Tony 客观描述外貌的 `babyfaces` 仍译“娃娃脸” |
+| Tina 的 `babyface` | 人物专属称呼 | 小帅哥 | 42 处 / 10 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 的称呼已统一；非称呼用法按具体指代自然翻译，不机械使用“娃娃脸” |
 | Maria/Tony 的 `dollface` | 老派亲昵称呼 | 美人儿 | 3 处 / 3 个文件 | `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 已全部统一 |
 | `The Blue Falcon` | 车辆专名 | 蓝色猎鹰号 | 6 处 / 1 个文件 | `ano09.rpy` 全部一致 |
 | `The Sapphire Stallion` | 车辆候选名 | 蓝宝石种马号 | 2 处 / 1 个文件 | `ano09.rpy` 全部一致 |
@@ -51,12 +51,12 @@
 
 ## 当前跨文件复查队列
 
-- `champ`：`ano15.rpy`、`ano16.rpy` 已统一；`mar02.rpy`、`mar_baby.rpy`、`mar_dark.rpy`、`pizza_boxes.rpy`、`ton_baby.rpy` 仍待随完整剧情复核。
-- `babyface`：已处理的 `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 统一为“小帅哥”；其余 Tina 剧情文件中的“娃娃脸/小可爱/小宝贝”待逐文件复核。
+- `champ`：`ano15.rpy`、`ano16.rpy`、`mar02.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已统一；`pizza_boxes.rpy`、`ton_baby.rpy` 仍待随完整剧情复核。
+- `babyface`：已处理的 `ano09.rpy`、`ano11.rpy`、`ano13.rpy` 统一为“小帅哥”；其余 Tina 剧情文件中的旧译待逐文件复核。非称呼用法按具体指代自然翻译，不机械使用“娃娃脸”。
 - `protégé`：`ano11.rpy` 已统一为“徒弟”；`tin_vault.rpy` 仍有 1 处旧译待复核。
-- `cannoli`：`ano10.rpy`、`mar_cook.rpy` 已统一为“意式奶油甜馅卷”；`mar_baby.rpy`、`mar_dark.rpy` 待完整场景复核；`Holy cannoli` 属感叹语，不机械替换。
+- `cannoli`：`ano10.rpy`、`mar_cook.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已统一为“意式奶油甜馅卷”；`Holy cannoli` 属感叹语，不机械替换。
 - `little bunny`：`deb18.rpy` 3 处待在完整剧情中复核，核心译法保持“小兔子”。
-- `godfather`：`ano16.rpy` 2 处已统一为“教父”；`mar_baby.rpy` 6 处待随完整剧情复核，并保留与 Tony 黑帮背景相关的《教父》笑点。
+- `godfather`：`ano16.rpy` 与 `mar_baby.rpy` 已统一为“教父”，并保留与 Tony 黑帮背景相关的《教父》笑点。
 - 上述条目只登记，不在未通读完整文件前批量替换；进入对应文件时结合关系阶段完成统一。
 
 ## 审计命令
@@ -83,3 +83,11 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 - `lampredotto` →“灯笼牛肚”
 - `primed pussy`、`tap that`、`work that big cock`需在后续 Maria 线中复查。
 - `strike`、`bases loaded`、`hit`、`knuckleball` 需与棒球双关一致。
+
+
+## mar_dark.rpy 复查项
+
+- `Devil's Threeway` →“恶魔三人行”，作为 Tony 提出的三人性交招式名。
+- `The Kidney Shifter` →“移肾术”，保留 Tony 夸张粗俗的命名方式。
+- `batter`、`little guys`、`cannoli` 共同构成造人和食物双关，分别按“面糊”“小家伙们”“意式奶油甜馅卷”处理。
+- `capisce`／`capiche` 均视为 Tony 的同一口癖，按场景译“懂吗？”“明白吗？”等确认语气。
