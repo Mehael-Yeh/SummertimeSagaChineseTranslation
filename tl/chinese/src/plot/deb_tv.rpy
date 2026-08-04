@@ -70,7 +70,7 @@ translate chinese deb_tv_acf27627:
 translate chinese deb_tv_40c085e8:
 
     # anon e_e f_shy "Y-yeah, okay."
-    anon e_e f_shy "嗯...好、好吧。"
+    anon e_e f_shy "嗯……好、好吧。"
 
 # game/src/plot/deb_tv.rpy:39
 translate chinese deb_tv_7b20a4ad:
@@ -196,7 +196,7 @@ translate chinese deb_tv_fb43599c:
 translate chinese deb_tv_61dbf170:
 
     # debbie e_iw ob_none p_prone_push z_reset "How do you want to finish?"
-    debbie e_iw ob_none p_prone_push z_reset "你想怎么结束？"
+    debbie e_iw ob_none p_prone_push z_reset "你想怎么收尾？"
 
 # game/src/plot/deb_tv.rpy:101
 translate chinese deb_tv_2f10528f:
@@ -244,7 +244,7 @@ translate chinese deb_tv_aed3378d:
 translate chinese deb_tv_0ee80d1d:
 
     # debbie "... You're such a big boy!"
-    debbie "……你真是个男子汉！"
+    debbie "……你真是个大男孩！"
 
 # game/src/plot/deb_tv.rpy:120
 translate chinese deb_tv_0362d4f4:
@@ -340,25 +340,25 @@ translate chinese deb_tv_e799ee41:
 translate chinese deb_tv_e6549954:
 
     # debbie "And I love..."
-    debbie "而我喜欢..."
+    debbie "而我喜欢……"
 
 # game/src/plot/deb_tv.rpy:141
 translate chinese deb_tv_48ccf0d7:
 
     # debbie "... Bouncing..."
-    debbie "... 在这个粗大的..."
+    debbie "……骑在……"
 
 # game/src/plot/deb_tv.rpy:142
 translate chinese deb_tv_04f05282:
 
     # debbie "... On this big..."
-    debbie "... 上颠簸..."
+    debbie "……这根大……"
 
 # game/src/plot/deb_tv.rpy:143
 translate chinese deb_tv_0530431f:
 
     # debbie "... fat-"
-    debbie "... 肉棒上——"
+    debbie "……又粗——"
 
 # game/src/plot/deb_tv.rpy:144
 translate chinese deb_tv_7dbf31eb:
@@ -382,13 +382,13 @@ translate chinese deb_tv_fdb90cf8:
 translate chinese deb_tv_09437bab:
 
     # debbie "Big... fat..."
-    debbie "又大...又粗..."
+    debbie "又大……又粗……"
 
 # game/src/plot/deb_tv.rpy:149
 translate chinese deb_tv_a57bce67:
 
     # debbie "... Coooock!!!"
-    debbie "...鸡巴！！！"
+    debbie "……鸡巴！！！"
 
 # game/src/plot/deb_tv.rpy:150
 translate chinese deb_tv_1f57241c:
@@ -400,13 +400,13 @@ translate chinese deb_tv_1f57241c:
 translate chinese deb_tv_8151f040:
 
     # anon "Ahh, I'm gonna cum!!"
-    anon "啊，我要射了！！"
+    anon "我要射了！！"
 
 # game/src/plot/deb_tv.rpy:153
 translate chinese deb_tv_ba8c90cf:
 
     # debbie "Me too!!"
-    debbie "我也是！！"
+    debbie "我也要高潮了！！"
 
 # game/src/plot/deb_tv.rpy:168
 translate chinese deb_tv_62e18112:
@@ -424,13 +424,13 @@ translate chinese deb_tv_87c69c69:
 translate chinese deb_tv_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:176
 translate chinese deb_tv_559ece68:
 
     # debbie "Haah... haah..."
-    debbie "哈啊...哈啊..."
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:189
 translate chinese deb_tv_429071db:
@@ -472,7 +472,7 @@ translate chinese deb_tv_7d98dede_2:
 translate chinese deb_tv_03d2c8fb:
 
     # debbie "Just... enjoying the afterglow."
-    debbie "只是...享受一下余韵。"
+    debbie "只是……享受一下余韵。"
 
 # game/src/plot/deb_tv.rpy:197
 translate chinese deb_tv_689738a5:
@@ -556,31 +556,31 @@ translate chinese deb_tv_boobjob3_81e4d79e:
 translate chinese deb_tv_boobjob3_2d0c3792:
 
     # anon "You know, where you lay down on your back and I... ehh..."
-    anon "你知道的，就是你仰面躺下，然后我...呃..."
+    anon "你知道的，就是你躺下，然后我……呃……"
 
 # game/src/plot/deb_tv.rpy:246
 translate chinese deb_tv_boobjob3_7f69b518:
 
     # anon e_s of_blush "... Use your boobs?"
-    anon e_s of_blush "...用你的胸部？"
+    anon e_s of_blush "……用你的胸夹住？"
 
 # game/src/plot/deb_tv.rpy:254
 translate chinese deb_tv_boobjob3_95367808:
 
     # debbie a_side e_s f_shy of_blush p_lean_turn "Y-you wanna put it between my breasts again?"
-    debbie a_side e_s f_shy of_blush p_lean_turn "你、你想再把它放在我两乳之间？"
+    debbie a_side e_s f_shy of_blush p_lean_turn "你、你想再把它夹在我胸间？"
 
 # game/src/plot/deb_tv.rpy:258
 translate chinese deb_tv_boobjob3_d47d096e:
 
     # debbie a_side e_s f_curious of_blush p_lean_turn "Oh, you wanna put it between my breasts again?"
-    debbie a_side e_s f_curious of_blush p_lean_turn "哦，你想再把它放在我两乳之间？"
+    debbie a_side e_s f_curious of_blush p_lean_turn "哦，你是想再让它夹在我胸间？"
 
 # game/src/plot/deb_tv.rpy:260
 translate chinese deb_tv_boobjob3_3788a902:
 
     # anon "Yes, please."
-    anon "好的，拜托了。"
+    anon "好，求你了。"
 
 # game/src/plot/deb_tv.rpy:263
 translate chinese deb_tv_boobjob3_71459a27:
@@ -718,7 +718,7 @@ translate chinese deb_tv_boobjob3_06e9ffcb:
 translate chinese deb_tv_boobjob3_b604bedb:
 
     # debbie e_sw f_horny "... But I'm thankful they're big enough to get this job done."
-    debbie e_sw f_horny "……不过我很庆幸它们够大，能帮我搞定这工作。"
+    debbie e_sw f_horny "……不过幸好它们够大，能帮上这个忙。"
 
 # game/src/plot/deb_tv.rpy:329
 translate chinese deb_tv_boobjob3_271b5af8:
@@ -844,7 +844,7 @@ translate chinese deb_tv_boobjob3_b9dc74e0:
 translate chinese deb_tv_boobjob3_dc92a0f7:
 
     # debbie e_sw s_24 "Let it all out!"
-    debbie e_sw s_24 "全都释放出来！"
+    debbie e_sw s_24 "全都射出来！"
 
 # game/src/plot/deb_tv.rpy:357
 translate chinese deb_tv_boobjob3_66d09acf_1:
@@ -856,13 +856,13 @@ translate chinese deb_tv_boobjob3_66d09acf_1:
 translate chinese deb_tv_boobjob3_66fec15c:
 
     # anon "Here it..."
-    anon "来了..."
+    anon "来了……"
 
 # game/src/plot/deb_tv.rpy:360
 translate chinese deb_tv_boobjob3_063da537:
 
     # anon "... Comes!!"
-    anon "...要射了！！"
+    anon "……要射了！！"
 
 # game/src/plot/deb_tv.rpy:363
 translate chinese deb_tv_boobjob3_0cf4d269:
@@ -880,7 +880,7 @@ translate chinese deb_tv_boobjob3_b2c454e0:
 translate chinese deb_tv_boobjob3_e7c8a008:
 
     # anon d_none f_calm od_none p_couch_side_rest -m_teeth "Haah... haah..."
-    anon d_none f_calm od_none p_couch_side_rest -m_teeth "哈...哈..."
+    anon d_none f_calm od_none p_couch_side_rest -m_teeth "哈……哈……"
 
 # game/src/plot/deb_tv.rpy:367
 translate chinese deb_tv_boobjob3_042fec22:
@@ -892,7 +892,7 @@ translate chinese deb_tv_boobjob3_042fec22:
 translate chinese deb_tv_boobjob3_5434d999:
 
     # anon e_sse f_nervous "Y-yeah."
-    anon e_sse f_nervous "是...是啊。"
+    anon e_sse f_nervous "是、是啊。"
 
 # game/src/plot/deb_tv.rpy:369
 translate chinese deb_tv_boobjob3_4acbc1ac:
@@ -964,13 +964,13 @@ translate chinese deb_tv_boobjob3_19ab2bdc:
 translate chinese deb_tv_boobjob3_5fc919b3:
 
     # debbie e_w -m_laugh "That's my good boy."
-    debbie e_w -m_laugh "这才是我的乖孩子。"
+    debbie e_w -m_laugh "这才是我的好男孩。"
 
 # game/src/plot/deb_tv.rpy:402
 translate chinese deb_tv_boobjob4_35c86b9b:
 
     # anon "I wanna go at those tits again!"
-    anon "我还想再摸那对奶子！"
+    anon "我还想再狠狠干那对奶子！"
 
 # game/src/plot/deb_tv.rpy:403
 translate chinese deb_tv_boobjob4_27193879:
@@ -988,7 +988,7 @@ translate chinese deb_tv_boobjob4_bc099adc:
 translate chinese deb_tv_boobjob4_4644c5f7:
 
     # anon f_confused "I can't say tits?"
-    anon f_confused "我连'奶子'都不能说吗？"
+    anon f_confused "我连“奶子”都不能说吗？"
 
 # game/src/plot/deb_tv.rpy:406
 translate chinese deb_tv_boobjob4_14d816db:
@@ -1036,7 +1036,7 @@ translate chinese deb_tv_boobjob4_61027ed4:
 translate chinese deb_tv_boobjob4_27e77643:
 
     # debbie p_couch_lay_kiss_stop "You're lucky I'm such a doting landlady."
-    debbie p_couch_lay_kiss_stop "你该庆幸我是个这么溺爱你的女房东。"
+    debbie p_couch_lay_kiss_stop "你就庆幸我是个这么疼你的房东太太吧。"
 
 # game/src/plot/deb_tv.rpy:435
 translate chinese deb_tv_boobjob4_40d65cee:
@@ -1084,7 +1084,7 @@ translate chinese deb_tv_boobjob4_30ae2bbc:
 translate chinese deb_tv_boobjob4_4f5f66cc:
 
     # debbie "That's my good boy!"
-    debbie "这才是我乖儿子！"
+    debbie "这才是我的好男孩！"
 
 # game/src/plot/deb_tv.rpy:445
 translate chinese deb_tv_boobjob4_118ff402:
@@ -1096,7 +1096,7 @@ translate chinese deb_tv_boobjob4_118ff402:
 translate chinese deb_tv_boobjob4_90bd967b:
 
     # anon "Haah, [saga.cast.debbie]."
-    anon "哈啊, [saga.cast.debbie]."
+    anon "哈啊，[saga.cast.debbie]。"
 
 # game/src/plot/deb_tv.rpy:449
 translate chinese deb_tv_boobjob4_a8e1cb05:
@@ -1174,7 +1174,7 @@ translate chinese deb_tv_boobjob4_ad529964:
 translate chinese deb_tv_boobjob4_7a4391f4:
 
     # debbie "Oh, goodness... I-"
-    debbie "哦，天哪... 我——"
+    debbie "哦，天哪……我——"
 
 # game/src/plot/deb_tv.rpy:465
 translate chinese deb_tv_boobjob4_570581d5:
@@ -1258,13 +1258,13 @@ translate chinese deb_tv_boobjob4_85e58c18:
 translate chinese deb_tv_boobjob4_07b7baa8:
 
     # debbie "Mm, baby..."
-    debbie "嗯，宝贝..."
+    debbie "嗯，宝贝……"
 
 # game/src/plot/deb_tv.rpy:488
 translate chinese deb_tv_boobjob4_119f0064:
 
     # debbie "... Give it to me!"
-    debbie "...给我吧！"
+    debbie "……射我身上！"
 
 # game/src/plot/deb_tv.rpy:490
 translate chinese deb_tv_boobjob4_d160c47c:
@@ -1300,13 +1300,13 @@ translate chinese deb_tv_boobjob4_19f4554b:
 translate chinese deb_tv_boobjob4_66fec15c:
 
     # anon "Here it..."
-    anon "它要…"
+    anon "它要……"
 
 # game/src/plot/deb_tv.rpy:500
 translate chinese deb_tv_boobjob4_063da537:
 
     # anon "... Comes!!"
-    anon "…来了！！"
+    anon "……来了！！"
 
 # game/src/plot/deb_tv.rpy:503
 translate chinese deb_tv_boobjob4_0cf4d269:
@@ -1318,25 +1318,25 @@ translate chinese deb_tv_boobjob4_0cf4d269:
 translate chinese deb_tv_boobjob4_59756af2:
 
     # debbie f_horny -m_talk "Mm, sweetie..."
-    debbie f_horny -m_talk "嗯，亲爱的…"
+    debbie f_horny -m_talk "嗯，亲爱的……"
 
 # game/src/plot/deb_tv.rpy:507
 translate chinese deb_tv_boobjob4_e7c8a008:
 
     # anon d_none f_calm od_none p_couch_side_rest -m_teeth "Haah... haah..."
-    anon d_none f_calm od_none p_couch_side_rest -m_teeth "哈啊…哈啊…"
+    anon d_none f_calm od_none p_couch_side_rest -m_teeth "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:508
 translate chinese deb_tv_boobjob4_f4a16da0:
 
     # debbie a_hold_couch e_sw f_calm "... Look at all this."
-    debbie a_hold_couch e_sw f_calm "…看看这一大堆。"
+    debbie a_hold_couch e_sw f_calm "……看看这一大堆。"
 
 # game/src/plot/deb_tv.rpy:509
 translate chinese deb_tv_boobjob4_dfe36ea3:
 
     # debbie "You covered me!"
-    debbie "你把我盖住了！"
+    debbie "你把我身上都弄满了！"
 
 # game/src/plot/deb_tv.rpy:513
 translate chinese deb_tv_boobjob4_244739f4:
@@ -1360,7 +1360,7 @@ translate chinese deb_tv_boobjob4_361af2c1:
 translate chinese deb_tv_boobjob4_0be701d7:
 
     # debbie f_horny "I loved every second of it."
-    debbie f_horny "每一秒我都爱。"
+    debbie f_horny "我享受其中的每一秒。"
 
 # game/src/plot/deb_tv.rpy:522
 translate chinese deb_tv_boobjob4_47b0d29a:
@@ -1408,7 +1408,7 @@ translate chinese deb_tv_boobjob4_023542b2:
 translate chinese deb_tv_boobjob4_44507540:
 
     # debbie f_happy "That's my good boy."
-    debbie f_happy "这才是我的乖孩子。"
+    debbie f_happy "这才是我的好男孩。"
 
 # game/src/plot/deb_tv.rpy:535
 translate chinese deb_tv_boobjob4_88894e4c:
@@ -1438,13 +1438,13 @@ translate chinese deb_tv_creampie4_ed64f9cc:
 translate chinese deb_tv_creampie4_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:552
 translate chinese deb_tv_creampie4_559ece68:
 
     # debbie "Haah... haah..."
-    debbie "哈啊...哈啊..."
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:561
 translate chinese deb_tv_creampie4_7bdde6a2:
@@ -1486,7 +1486,7 @@ translate chinese deb_tv_creampie4_c8481ccd:
 translate chinese deb_tv_creampie4_cb9dc6f9:
 
     # debbie "I love feeling you inside me."
-    debbie "我喜欢感受你在里面。"
+    debbie "我喜欢感受你在我里面。"
 
 # game/src/plot/deb_tv.rpy:569
 translate chinese deb_tv_creampie4_0c5ca092:
@@ -1522,7 +1522,7 @@ translate chinese deb_tv_entry1_4fce17b8:
 translate chinese deb_tv_entry1_d17bf045:
 
     # debbie "[saga.cast.jenny]?"
-    debbie "[saga.cast.jenny]?"
+    debbie "[saga.cast.jenny]？"
 
 # game/src/plot/deb_tv.rpy:591
 translate chinese deb_tv_entry1_51033f2a:
@@ -1540,7 +1540,7 @@ translate chinese deb_tv_entry1_dd6e1554:
 translate chinese deb_tv_entry1_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/deb_tv.rpy:598
 translate chinese deb_tv_entry1_09739645:
@@ -1624,7 +1624,7 @@ translate chinese deb_tv_entry2_53f6701a:
 translate chinese deb_tv_entry2_f989e3bd:
 
     # debbie a_doorframe e_osw f_confused -m_yawn "[saga.cast.anon]?"
-    debbie a_doorframe e_osw f_confused -m_yawn "[saga.cast.anon]?"
+    debbie a_doorframe e_osw f_confused -m_yawn "[saga.cast.anon]？"
 
 # game/src/plot/deb_tv.rpy:657
 translate chinese deb_tv_entry2_b991f602:
@@ -1726,7 +1726,7 @@ translate chinese deb_tv_entry2_1d99971f:
 translate chinese deb_tv_entry2_ba9b4fa3:
 
     # debbie "I suppose... if it helps you."
-    debbie "我想...如果你觉得有帮助的话。"
+    debbie "我想……如果你觉得有帮助的话。"
 
 # game/src/plot/deb_tv.rpy:701
 translate chinese deb_tv_entry2_d158f28a:
@@ -1774,7 +1774,7 @@ translate chinese deb_tv_entry2_e5698204:
 translate chinese deb_tv_entry2_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/deb_tv.rpy:727
 translate chinese deb_tv_entry2_b4354e92:
@@ -1852,13 +1852,13 @@ translate chinese deb_tv_entry2_49f82611:
 translate chinese deb_tv_entry2_d4a389d3:
 
     # debbie @ e_w f_worried "I umm..."
-    debbie @ e_w f_worried "我唔..."
+    debbie @ e_w f_worried "我唔……"
 
 # game/src/plot/deb_tv.rpy:754
 translate chinese deb_tv_entry2_fc77d262:
 
     # debbie e_e -m_lip "... Oh, I-"
-    debbie e_e -m_lip "...哦，我—"
+    debbie e_e -m_lip "……哦，我—"
 
 # game/src/plot/deb_tv.rpy:755
 translate chinese deb_tv_entry2_307d2fad:
@@ -1894,13 +1894,13 @@ translate chinese deb_tv_entry2_ec7878e0:
 translate chinese deb_tv_entry2_9ff6a59e:
 
     # debbie "It's just, I feel weird saying it..."
-    debbie "只是，说出来感觉怪怪的..."
+    debbie "只是，说出来感觉怪怪的……"
 
 # game/src/plot/deb_tv.rpy:761
 translate chinese deb_tv_entry2_3fc5c629:
 
     # debbie e_sw "... To my tenant."
-    debbie e_sw "...对我的房客说。"
+    debbie e_sw "……对我的房客说。"
 
 # game/src/plot/deb_tv.rpy:763
 translate chinese deb_tv_entry2_c01d765e:
@@ -1972,7 +1972,7 @@ translate chinese deb_tv_entry2_20956f3d:
 translate chinese deb_tv_entry2_05630adc:
 
     # debbie e_sw "Your big..."
-    debbie e_sw "你的大家伙..."
+    debbie e_sw "你的大家伙……"
 
 # game/src/plot/deb_tv.rpy:785
 translate chinese deb_tv_entry2_302d3d27:
@@ -2338,7 +2338,7 @@ translate chinese deb_tv_entry3_3cc6a7ad:
 translate chinese deb_tv_entry3_40c085e8:
 
     # anon e_e f_shy "Y-yeah, okay."
-    anon e_e f_shy "好...好吧。"
+    anon e_e f_shy "好……好吧。"
 
 # game/src/plot/deb_tv.rpy:910
 translate chinese deb_tv_entry3_334094e1:
@@ -2350,13 +2350,13 @@ translate chinese deb_tv_entry3_334094e1:
 translate chinese deb_tv_entry3_fa6973fb:
 
     # debbie e_e f_curious "Well, yeah..."
-    debbie e_e f_curious "呃，是啊..."
+    debbie e_e f_curious "呃，是啊……"
 
 # game/src/plot/deb_tv.rpy:913
 translate chinese deb_tv_entry3_b5df73d5:
 
     # debbie "... Most girls do, sweetie."
-    debbie "...大部分女孩都这样，亲爱的。"
+    debbie "……大部分女孩都这样，亲爱的。"
 
 # game/src/plot/deb_tv.rpy:915
 translate chinese deb_tv_entry3_87d65f40:
@@ -2368,13 +2368,13 @@ translate chinese deb_tv_entry3_87d65f40:
 translate chinese deb_tv_entry3_bfd91a0b:
 
     # anon e_n p_sit_tilt "But there's just something about yours..."
-    anon e_n p_sit_tilt "但你的手就是有点特别..."
+    anon e_n p_sit_tilt "但你的手就是有点特别……"
 
 # game/src/plot/deb_tv.rpy:917
 translate chinese deb_tv_entry3_02496094:
 
     # anon "... That makes them better than the rest."
-    anon "...让它们比别的都更好。"
+    anon "……让它们比别的都更好。"
 
 # game/src/plot/deb_tv.rpy:918
 translate chinese deb_tv_entry3_a937b54b:
@@ -2464,13 +2464,13 @@ translate chinese deb_tv_entry3_c15b7761:
 translate chinese deb_tv_entry3_ff3858f6:
 
     # debbie e_e f_shy p_sit_turn "You know..."
-    debbie e_e f_shy p_sit_turn "你知道的..."
+    debbie e_e f_shy p_sit_turn "你知道的……"
 
 # game/src/plot/deb_tv.rpy:939
 translate chinese deb_tv_entry3_a4d84909:
 
     # debbie "... The whole, landlady and tenant thing."
-    debbie "就是…房东和房客那点事。"
+    debbie "就是……房东和房客那点事。"
 
 # game/src/plot/deb_tv.rpy:940
 translate chinese deb_tv_entry3_451ac667:
@@ -2494,7 +2494,7 @@ translate chinese deb_tv_entry3_adb167f2:
 translate chinese deb_tv_entry3_92e3b267:
 
     # debbie e_n f_calm p_sit_tilt "Heh, no... it certainly doesn't."
-    debbie e_n f_calm p_sit_tilt "呵，可不是嘛…完全不在意。"
+    debbie e_n f_calm p_sit_tilt "呵，可不是嘛……完全不在意。"
 
 # game/src/plot/deb_tv.rpy:949
 translate chinese deb_tv_entry3_28e3d406:
@@ -2596,7 +2596,7 @@ translate chinese deb_tv_entry3_a82f7c47:
 translate chinese deb_tv_entry3_a797eb37:
 
     # anon "You really know how to..."
-    anon "你还真懂怎么..."
+    anon "你还真懂怎么……"
 
 # game/src/plot/deb_tv.rpy:989
 translate chinese deb_tv_entry3_15337084:
@@ -2608,7 +2608,7 @@ translate chinese deb_tv_entry3_15337084:
 translate chinese deb_tv_entry3_573e8a46:
 
     # anon "... Use your-"
-    anon "...用你的——"
+    anon "……用你的——"
 
 # game/src/plot/deb_tv.rpy:991
 translate chinese deb_tv_entry3_13992a17:
@@ -2638,7 +2638,7 @@ translate chinese deb_tv_entry3_be229354:
 translate chinese deb_tv_entry3_68001302:
 
     # anon "To have such a beautiful landlady..."
-    anon "能有这么漂亮的房东太太..."
+    anon "能有这么漂亮的房东太太……"
 
 # game/src/plot/deb_tv.rpy:997
 translate chinese deb_tv_entry3_ef170bf2:
@@ -2650,7 +2650,7 @@ translate chinese deb_tv_entry3_ef170bf2:
 translate chinese deb_tv_entry3_662d2941:
 
     # anon "... That's takes such good care of me."
-    anon "...还这么照顾我。"
+    anon "……还这么照顾我。"
 
 # game/src/plot/deb_tv.rpy:1004
 translate chinese deb_tv_entry3_12c1873a:
@@ -2692,7 +2692,7 @@ translate chinese deb_tv_entry3_15337084_1:
 translate chinese deb_tv_entry3_c78fb52f:
 
     # anon "Yeah, just like that, [saga.cast.debbie]."
-    anon "对，就这样，[saga.cast.debbie]."
+    anon "对，就这样，[saga.cast.debbie]。"
 
 # game/src/plot/deb_tv.rpy:1022
 translate chinese deb_tv_entry3_7ba075b5:
@@ -2716,7 +2716,7 @@ translate chinese deb_tv_entry3_0377809a:
 translate chinese deb_tv_entry3_a7488eea:
 
     # anon f_worried "Oh, uhh..."
-    anon f_worried "哦，呃..."
+    anon f_worried "哦，呃……"
 
 # game/src/plot/deb_tv.rpy:1030
 translate chinese deb_tv_entry3_c6472967:
@@ -3016,13 +3016,13 @@ translate chinese deb_tv_merge3a_66d09acf:
 translate chinese deb_tv_merge3a_66fec15c:
 
     # anon "Here it..."
-    anon "出来了..."
+    anon "出来了……"
 
 # game/src/plot/deb_tv.rpy:1117
 translate chinese deb_tv_merge3a_063da537:
 
     # anon "... Comes!!"
-    anon "...要来了！！"
+    anon "……要来了！！"
 
 # game/src/plot/deb_tv.rpy:1121
 translate chinese deb_tv_merge3a_0cf4d269:
@@ -3040,19 +3040,19 @@ translate chinese deb_tv_merge3a_2a2c4e5a:
 translate chinese deb_tv_merge3a_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:1131
 translate chinese deb_tv_merge3a_29adce94:
 
     # anon "I think... I might have..."
-    anon "我想...我可能..."
+    anon "我想……我可能……"
 
 # game/src/plot/deb_tv.rpy:1132
 translate chinese deb_tv_merge3a_d686e933:
 
     # anon p_kneel "... Gotten your robe."
-    anon p_kneel "...弄脏了你的袍子。"
+    anon p_kneel "……弄脏了你的袍子。"
 
 # game/src/plot/deb_tv.rpy:1134
 translate chinese deb_tv_merge3a_db6e5f86:
@@ -3124,13 +3124,13 @@ translate chinese deb_tv_merge3a_1ae2d88f:
 translate chinese deb_tv_merge3a_07cb9f95:
 
     # anon "Well..."
-    anon "嗯..."
+    anon "嗯……"
 
 # game/src/plot/deb_tv.rpy:1156
 translate chinese deb_tv_merge3a_2d577b14:
 
     # anon f_horny "... Okay then."
-    anon f_horny "... 那好吧。"
+    anon f_horny "……那好吧。"
 
 # game/src/plot/deb_tv.rpy:1158
 translate chinese deb_tv_merge3a_88e4fd3b:
@@ -3184,7 +3184,7 @@ translate chinese deb_tv_footjob3_81e4d79e:
 translate chinese deb_tv_footjob3_46fd0510:
 
     # anon "... Would it be too weird if I... ehh..."
-    anon "...如果我……呃……会不会太奇怪……"
+    anon "……如果我……呃……会不会太奇怪……"
 
 # game/src/plot/deb_tv.rpy:1183
 translate chinese deb_tv_footjob3_04e45016:
@@ -3460,7 +3460,7 @@ translate chinese deb_tv_footjob3_ffe77c9b:
 translate chinese deb_tv_footjob3_dec1ac47:
 
     # anon "Oh, yeah... of course!"
-    anon "哦，当然...太喜欢了！"
+    anon "哦，当然……太喜欢了！"
 
 # game/src/plot/deb_tv.rpy:1265
 translate chinese deb_tv_footjob3_3accea69:
@@ -3550,7 +3550,7 @@ translate chinese deb_tv_footjob3_9e188477:
 translate chinese deb_tv_footjob3_7571434f:
 
     # debbie "It's just so... dirty."
-    debbie "只是觉得...好脏。"
+    debbie "只是觉得……好脏。"
 
 # game/src/plot/deb_tv.rpy:1284
 translate chinese deb_tv_footjob3_4cfa0640:
@@ -3664,7 +3664,7 @@ translate chinese deb_tv_footjob4_cc6aaa67:
 translate chinese deb_tv_footjob4_3aeeeb58:
 
     # debbie "Now... hands off!"
-    debbie "现在...把手拿开！"
+    debbie "现在……把手拿开！"
 
 # game/src/plot/deb_tv.rpy:1325
 translate chinese deb_tv_footjob4_3de4aae5:
@@ -3688,13 +3688,13 @@ translate chinese deb_tv_footjob4_d2a7054d:
 translate chinese deb_tv_footjob4_cb041633:
 
     # anon "Just look at these elegant toes..."
-    anon "看看这优雅的脚趾头..."
+    anon "看看这优雅的脚趾头……"
 
 # game/src/plot/deb_tv.rpy:1334
 translate chinese deb_tv_footjob4_b23bf8be:
 
     # anon "... And these velvety soft soles."
-    anon "...还有这如丝绒般柔软的脚底。"
+    anon "……还有这如丝绒般柔软的脚底。"
 
 # game/src/plot/deb_tv.rpy:1335
 translate chinese deb_tv_footjob4_4aa5a925:
@@ -3706,13 +3706,13 @@ translate chinese deb_tv_footjob4_4aa5a925:
 translate chinese deb_tv_footjob4_6a7eeb5c:
 
     # anon "These shapely long legs..."
-    anon "这曲线优美的长腿..."
+    anon "这曲线优美的长腿……"
 
 # game/src/plot/deb_tv.rpy:1337
 translate chinese deb_tv_footjob4_eba1852f:
 
     # anon "... And that thick, perfect ass!"
-    anon "...还有这丰满完美的翘臀！"
+    anon "……还有这丰满完美的翘臀！"
 
 # game/src/plot/deb_tv.rpy:1338
 translate chinese deb_tv_footjob4_e306267b:
@@ -3772,7 +3772,7 @@ translate chinese deb_tv_merge4a_4aa5a925:
 translate chinese deb_tv_merge4a_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:1361
 translate chinese deb_tv_merge4a_61dd9478:
@@ -3796,13 +3796,13 @@ translate chinese deb_tv_merge4a_760d230b:
 translate chinese deb_tv_merge4a_343f0d4b:
 
     # anon e_sw "Y-yeah, okay."
-    anon e_sw "嗯…好，好吧。"
+    anon e_sw "嗯……好，好吧。"
 
 # game/src/plot/deb_tv.rpy:1366
 translate chinese deb_tv_merge4a_233aa11b:
 
     # debbie f_horny "That's my good boy."
-    debbie f_horny "这才是我乖孩子。"
+    debbie f_horny "这才是我的好男孩。"
 
 # game/src/plot/deb_tv.rpy:1370
 translate chinese deb_tv_merge4a_244739f4:
@@ -4108,13 +4108,13 @@ translate chinese deb_tv_play3_75bdef5c:
 translate chinese deb_tv_play3_abd285e8:
 
     # anon a_side d_firm f_shy m_blow od_cum of_blush p_couch @ m_pant "Haah... haah..."
-    anon a_side d_firm f_shy m_blow od_cum of_blush p_couch @ m_pant "哈啊...哈啊..."
+    anon a_side d_firm f_shy m_blow od_cum of_blush p_couch @ m_pant "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:1476
 translate chinese deb_tv_play3_559ece68:
 
     # debbie "Haah... haah..."
-    debbie "哈啊...哈啊..."
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:1479
 translate chinese deb_tv_play3_6e6bd149:
@@ -4126,19 +4126,19 @@ translate chinese deb_tv_play3_6e6bd149:
 translate chinese deb_tv_play3_065e249a:
 
     # debbie e_w p_couch_rub_turn "Heh, yeah..."
-    debbie e_w p_couch_rub_turn "嘿，是啊..."
+    debbie e_w p_couch_rub_turn "嘿，是啊……"
 
 # game/src/plot/deb_tv.rpy:1481
 translate chinese deb_tv_play3_cfec591a:
 
     # debbie "... That was pretty good."
-    debbie "...还挺不错的。"
+    debbie "……还挺不错的。"
 
 # game/src/plot/deb_tv.rpy:1484
 translate chinese deb_tv_play3_0fad5c9d:
 
     # hym "Geez, landlady... we just aren't having any luck here!"
-    hym "哎呀，房东太太...我们可真不走运啊！"
+    hym "哎呀，房东太太……我们可真不走运啊！"
 
 # game/src/plot/deb_tv.rpy:1487
 translate chinese deb_tv_play3_f76c3a00:
@@ -4174,7 +4174,7 @@ translate chinese deb_tv_play3_3a156e06:
 translate chinese deb_tv_play3_f98929a2:
 
     # lsd "Maybe you should try cumming inside me?"
-    lsd "也许你应该试试射在我的里面？"
+    lsd "也许你该试试射进我里面？"
 
 # game/src/plot/deb_tv.rpy:1498
 translate chinese deb_tv_play3_f13dc194:
@@ -4222,7 +4222,7 @@ translate chinese deb_tv_play3_56d0d031:
 translate chinese deb_tv_play3_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才是我的乖孩子。"
+    debbie "这才是我的好男孩！"
 
 # game/src/plot/deb_tv.rpy:1521
 translate chinese deb_tv_play4_21a91124:
@@ -4300,7 +4300,7 @@ translate chinese deb_tv_play4_65c6ed54:
 translate chinese deb_tv_play4_93f84f3f:
 
     # anon e_w f_horny "Who's my naughty landlady?"
-    anon e_w f_horny "谁是我的调皮女房东？"
+    anon e_w f_horny "谁是我的调皮房东太太？"
 
 # game/src/plot/deb_tv.rpy:1555
 translate chinese deb_tv_play4_aad81848:
@@ -4312,7 +4312,7 @@ translate chinese deb_tv_play4_aad81848:
 translate chinese deb_tv_play4_0f1cd944:
 
     # debbie e_e "I'm your naughty landlady."
-    debbie e_e "我是你的调皮女房东。"
+    debbie e_e "我是你的调皮房东太太。"
 
 # game/src/plot/deb_tv.rpy:1561
 translate chinese deb_tv_play4_40623c03:
@@ -4390,13 +4390,13 @@ translate chinese deb_tv_play4_a42dcd10:
 translate chinese deb_tv_play4_5852be0e:
 
     # debbie e_b s_50 "... Driving down into me..."
-    debbie e_b s_50 "... 深深插进我的体内..."
+    debbie e_b s_50 "……深深插进我的体内……"
 
 # game/src/plot/deb_tv.rpy:1589
 translate chinese deb_tv_play4_1300b100:
 
     # debbie "... Over... and over..."
-    debbie "... 一下... 又一下..."
+    debbie "……一下……又一下……"
 
 # game/src/plot/deb_tv.rpy:1590
 translate chinese deb_tv_play4_48303e92:
@@ -4414,19 +4414,19 @@ translate chinese deb_tv_play4_0e4573c9:
 translate chinese deb_tv_play4_2fda4c6f:
 
     # debbie "I love... you..."
-    debbie "我爱... 你..."
+    debbie "我爱……你……"
 
 # game/src/plot/deb_tv.rpy:1596
 translate chinese deb_tv_play4_f098a5e3:
 
     # debbie f_shy "... T-too!!!"
-    debbie f_shy "... 我、也是！！！"
+    debbie f_shy "……我、也是！！！"
 
 # game/src/plot/deb_tv.rpy:1599
 translate chinese deb_tv_play4_7845dfdf:
 
     # debbie "Ahh, sweetie... I'm-"
-    debbie "啊哈，亲爱的... 我-"
+    debbie "啊，亲爱的……我——"
 
 # game/src/plot/deb_tv.rpy:1601
 translate chinese deb_tv_play4_17deaf0b:
@@ -4462,7 +4462,7 @@ translate chinese deb_tv_play4_7eb4c3ed:
 translate chinese deb_tv_play4_a4f660ee:
 
     # debbie a_rest e_s p_couch_rub "Haah... haah..."
-    debbie a_rest e_s p_couch_rub "哈啊...哈啊..."
+    debbie a_rest e_s p_couch_rub "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:1611
 translate chinese deb_tv_play4_26d6054d:
@@ -4522,7 +4522,7 @@ translate chinese deb_tv_play4_2577ba83:
 translate chinese deb_tv_play4_abd285e8:
 
     # anon a_side d_firm f_shy m_blow od_cum of_blush p_couch @ m_pant "Haah... haah..."
-    anon a_side d_firm f_shy m_blow od_cum of_blush p_couch @ m_pant "哈啊...哈啊..."
+    anon a_side d_firm f_shy m_blow od_cum of_blush p_couch @ m_pant "哈啊……哈啊……"
 
 # game/src/plot/deb_tv.rpy:1626
 translate chinese deb_tv_play4_8c1b8f38:
@@ -4558,7 +4558,7 @@ translate chinese deb_tv_play4_a1f61959:
 translate chinese deb_tv_play4_0686f373:
 
     # debbie "That's my good boy."
-    debbie "这才是我的乖孩子。"
+    debbie "这才是我的好男孩！"
 
 translate chinese strings:
 
