@@ -41,6 +41,7 @@
 | `tl/chinese/src/plot/deb16.rpy` | Debbie线；Jenny遗留色情片、房东房客剧情映照、共同自慰与事后关系确认 | Debbie、Anon、Jenny、色情片角色 | 完成 | 通读 281 个翻译块；理顺 Anon 被色情片挑起欲望、Debbie 撞见后允许继续、双方互相观看自慰与描述幻想、Debbie 高潮、Anon 射精及事后罪恶感安抚；统一 `landlady`“房东太太”、中文省略号、内心括号和 Anon 对 Debbie 的 `ma’am`“夫人”，保留“只此一次”的真实边界 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb17.rpy` | Debbie线；共同自慰后的夜间反思、潜入卧室触摸 Anon 及主动停止越界 | Debbie、Anon | 完成 | 通读 66 个翻译块；理顺 Debbie 从罪恶感、自我否认转向偷看、隔着内裤触摸、直接抚弄阴茎及性交幻想，保留她以“帮忙”为借口的自我合理化和最终主动离开的真实边界；统一中文省略号、内心括号、成人动作强度及睡梦语气 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb18.rpy` | Debbie线；俄罗斯打手入侵、Anon保护 Debbie、浴室照顾与首次主动手淫 | Debbie、Anon、Jenny、Dimitri、Igor、Yumi、Harold、Raz（被提及） | 完成 | 通读 178 个翻译块；理顺打手入侵、Anon受伤、报警掩护、Debbie自责及以照顾和奖励为由主动手淫的关系推进；保留 Dimitri 的性威胁、Igor 的迟钝笑点、Debbie 照顾者式色情口吻及“只能到手淫”为止的新边界；统一中文省略号、内心括号和姓名变量 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/deb19.rpy` | Debbie线；失眠夜谈、丧亲孤独、主动同床与首次性交 | Debbie、Anon、Jenny（被提及）、Diane（被提及） | 完成 | 通读 304 个翻译块；理顺助眠药、亡夫留下的空床、Anon 不愿趁脆弱推进关系及 Debbie 主动邀请同床的情感基础；完整精修亲吻、身体爱抚、口交、摩擦、首次插入性交、互相表白、拔出/内射及多阶段停止分支，保留每个分支的真实同意边界和次日谨慎重复约定；统一中文省略号、内心括号、女性高潮表达及 `ma’am`“夫人” | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -157,7 +158,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb18.rpy` 已完成；下一批继续完整通读并精修 `deb19.rpy`。
+1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb19.rpy` 已完成；下一批继续完整通读并精修 `deb20.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

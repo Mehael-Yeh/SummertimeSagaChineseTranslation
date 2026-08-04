@@ -4,31 +4,31 @@
 translate chinese deb19_intro_83a5ecf5:
 
     # anon a_side e_ne f_tired p_bed3_visit_sit @ -m_talk "( Man, I just can't seem to fall asleep tonight. )"
-    anon a_side e_ne f_tired p_bed3_visit_sit @ -m_talk "(天啊，我今晚就是睡不着。)"
+    anon a_side e_ne f_tired p_bed3_visit_sit @ -m_talk "（唉，今晚怎么都睡不着。）"
 
 # game/src/plot/deb19.rpy:12
 translate chinese deb19_intro_ba2de10d:
 
     # anon @ -m_talk "( So many things have happened lately and my mind is just racing like crazy. )"
-    anon @ -m_talk "(最近发生了太多事，脑子转得停不下来。)"
+    anon @ -m_talk "（最近发生了太多事，脑子里乱得根本停不下来。）"
 
 # game/src/plot/deb19.rpy:17
 translate chinese deb19_intro_d48ed35e:
 
     # anon @ -m_talk "( Maybe a glass of warm milk will help? )"
-    anon @ -m_talk "(也许喝杯热牛奶会好点？)"
+    anon @ -m_talk "（要不喝杯热牛奶试试？）"
 
 # game/src/plot/deb19.rpy:27
 translate chinese deb19_kitchen_ddbaf030:
 
     # anon "{i}*Yawn*{/i}"
-    anon "{i}*哈欠*{/i}"
+    anon "{i}*打哈欠*{/i}"
 
 # game/src/plot/deb19.rpy:28
 translate chinese deb19_kitchen_6300e004:
 
     # anon a_rub f_confused p_stand "[saga.cast.debbie]?"
-    anon a_rub f_confused p_stand "[saga.cast.debbie]?"
+    anon a_rub f_confused p_stand "[saga.cast.debbie]？"
 
 # game/src/plot/deb19.rpy:30
 translate chinese deb19_kitchen_1333271b:
@@ -46,55 +46,55 @@ translate chinese deb19_kitchen_ebe2808d:
 translate chinese deb19_kitchen_4dd6a4cd:
 
     # debbie f_shy "... S-sweetie, I'm sorry... I-"
-    debbie f_shy "……亲、亲爱的，抱歉……我——"
+    debbie f_shy "……亲、亲爱的，对不起……我——"
 
 # game/src/plot/deb19.rpy:37
 translate chinese deb19_kitchen_ce204545:
 
     # debbie a_wtf e_s f_surprised of_blush "Oh!"
-    debbie a_wtf e_s f_surprised of_blush "哦！"
+    debbie a_wtf e_s f_surprised of_blush "啊！"
 
 # game/src/plot/deb19.rpy:42
 translate chinese deb19_kitchen_7d4a1f2a:
 
     # debbie a_clasp e_w f_worried_surprised "{i}*Ahem*{/i}"
-    debbie a_clasp e_w f_worried_surprised "{i}*咳咳*{/i}"
+    debbie a_clasp e_w f_worried_surprised "{i}*清嗓子*{/i}"
 
 # game/src/plot/deb19.rpy:43
 translate chinese deb19_kitchen_bee225da:
 
     # debbie f_shy "I thought you'd gone to bed."
-    debbie f_shy "我以为你睡了。"
+    debbie f_shy "我还以为你已经睡了。"
 
 # game/src/plot/deb19.rpy:44
 translate chinese deb19_kitchen_0eec85a1:
 
     # anon f_worried "Yeah, I had."
-    anon f_worried "是啊，我吃过。"
+    anon f_worried "嗯，本来是睡了。"
 
 # game/src/plot/deb19.rpy:46
 translate chinese deb19_kitchen_1ec3ac02:
 
     # anon e_s "Couldn't fall asleep though..."
-    anon e_s "不过就是睡不着..."
+    anon e_s "可怎么也睡不着……"
 
 # game/src/plot/deb19.rpy:49
 translate chinese deb19_kitchen_fbfae251:
 
     # anon e_w "... Came down here thinking a glass of warm milk might help."
-    anon e_w "...下来想，喝杯热牛奶或许能管用。"
+    anon e_w "……所以下来看看，喝杯热牛奶会不会有用。"
 
 # game/src/plot/deb19.rpy:50
 translate chinese deb19_kitchen_bde49b93:
 
     # debbie e_sw "Ah, I see."
-    debbie e_sw "啊，原来如此。"
+    debbie e_sw "原来是这样。"
 
 # game/src/plot/deb19.rpy:51
 translate chinese deb19_kitchen_dea97910:
 
     # anon f_confused "What are you doing up?"
-    anon f_confused "你怎么还没睡？"
+    anon f_confused "你怎么也还没睡？"
 
 # game/src/plot/deb19.rpy:52
 translate chinese deb19_kitchen_acc4be57:
@@ -106,139 +106,139 @@ translate chinese deb19_kitchen_acc4be57:
 translate chinese deb19_kitchen_b0cb6bda:
 
     # debbie "Oh, nothing... I just-"
-    debbie "哦，没什么...我只是——"
+    debbie "哦，没什么……我只是——"
 
 # game/src/plot/deb19.rpy:54
 translate chinese deb19_kitchen_079b85d5:
 
     # debbie f_shy "M-my throat was dry and I thought a glass of water would-"
-    debbie f_shy "我、我嗓子干，想喝杯水——"
+    debbie f_shy "我、我嗓子有点干，本来想喝杯水——"
 
 # game/src/plot/deb19.rpy:56
 translate chinese deb19_kitchen_358de886:
 
     # anon f_worried "And the pills?"
-    anon f_worried "那药片呢？"
+    anon f_worried "那这些药呢？"
 
 # game/src/plot/deb19.rpy:57
 translate chinese deb19_kitchen_3d342211:
 
     # debbie a_nervous f_shy "Heh, saw those, did ya?"
-    debbie a_nervous f_shy "呵，你看到了，是吧？"
+    debbie a_nervous f_shy "呵，还是被你看见了？"
 
 # game/src/plot/deb19.rpy:58
 translate chinese deb19_kitchen_78f190bb:
 
     # anon f_shy "I did."
-    anon f_shy "是的。"
+    anon f_shy "看见了。"
 
 # game/src/plot/deb19.rpy:59
 translate chinese deb19_kitchen_624ea8fe:
 
     # debbie o_right p_stand_away "It's nothing to worry about, sweetie..."
-    debbie o_right p_stand_away "没什么好担心的，亲爱的……"
+    debbie o_right p_stand_away "这个不用担心，亲爱的……"
 
 # game/src/plot/deb19.rpy:61
 translate chinese deb19_kitchen_016bee0a:
 
     # debbie a_pills_open e_sw o_left p_stand "... Just a little sleep aid [saga.cast.diane] gave me after the funeral."
-    debbie a_pills_open e_sw o_left p_stand "……只是葬礼后 [saga.cast.diane] 给我的一点助眠药。"
+    debbie a_pills_open e_sw o_left p_stand "……只是葬礼之后[saga.cast.diane]给我的一点助眠药。"
 
 # game/src/plot/deb19.rpy:62
 translate chinese deb19_kitchen_ff6a186e:
 
     # anon e_w f_confused "Oh?"
-    anon e_w f_confused "哦？"
+    anon e_w f_confused "助眠药？"
 
 # game/src/plot/deb19.rpy:63
 translate chinese deb19_kitchen_40234938:
 
     # debbie a_pills_clasp e_w "I thought it was silly at the time but they really have come in handy."
-    debbie a_pills_clasp e_w "当时我还觉得挺傻的，但现在确实派上了用场。"
+    debbie a_pills_clasp e_w "当时我还觉得没必要，没想到还真派上用场了。"
 
 # game/src/plot/deb19.rpy:64
 translate chinese deb19_kitchen_62228ef2:
 
     # anon f_worried "I didn't realize you were struggling so much."
-    anon f_worried "我不知道你当时那么难受。"
+    anon f_worried "我都不知道你这么难熬。"
 
 # game/src/plot/deb19.rpy:65
 translate chinese deb19_kitchen_b8e8a07c:
 
     # debbie f_sad "We're all struggling, sweetie."
-    debbie f_sad "我们都在挣扎，亲爱的。"
+    debbie f_sad "大家都不好过，亲爱的。"
 
 # game/src/plot/deb19.rpy:66
 translate chinese deb19_kitchen_da499626:
 
     # anon e_osw f_sad "Yeah, I suppose you're right about that."
-    anon e_osw f_sad "是啊，你说得对。"
+    anon e_osw f_sad "嗯……你说得也对。"
 
 # game/src/plot/deb19.rpy:68
 translate chinese deb19_kitchen_1ce42057:
 
     # debbie a_nervous o_right p_stand_away "Everything's been so chaotic since your father passed."
-    debbie a_nervous o_right p_stand_away "自从你父亲去世后，一切都变得乱七八糟的。"
+    debbie a_nervous o_right p_stand_away "你父亲走后，所有事都乱成了一团。"
 
 # game/src/plot/deb19.rpy:71
 translate chinese deb19_kitchen_e220a0fa:
 
     # debbie "Dealing with the fallout, and all his assets..."
-    debbie "处理那些烂摊子，还有他所有的资产……"
+    debbie "要收拾他留下的烂摊子，处理那些资产……"
 
 # game/src/plot/deb19.rpy:72
 translate chinese deb19_kitchen_40425a24:
 
     # debbie "... Funeral preparations, police investigations, and now these Russian thugs."
-    debbie "...葬礼筹备、警方调查，现在还来了这些俄国恶徒。"
+    debbie "……准备葬礼、应付警方调查，现在又冒出这帮俄罗斯恶棍。"
 
 # game/src/plot/deb19.rpy:75
 translate chinese deb19_kitchen_254c3bd5:
 
     # debbie "I feel like I've hardly had time to process any of it."
-    debbie "我感觉自己几乎没有时间去消化这一切。"
+    debbie "我几乎连喘口气、好好消化这一切的时间都没有。"
 
 # game/src/plot/deb19.rpy:76
 translate chinese deb19_kitchen_44b5168d:
 
     # anon "Y-yeah, I know what you mean."
-    anon "是——是啊，我懂你的意思。"
+    anon "嗯、嗯，我懂。"
 
 # game/src/plot/deb19.rpy:77
 translate chinese deb19_kitchen_acc047f1:
 
     # anon "But then at night, everything quiets down and it all just hits you at once."
-    anon "但到了夜晚，一切都安静下来，所有的情绪就会瞬间涌上心头。"
+    anon "可一到晚上，四周全安静下来，这些事就一下子全涌上心头。"
 
 # game/src/plot/deb19.rpy:79
 translate chinese deb19_kitchen_03c6af27:
 
     # debbie e_sw "Yeah."
-    debbie e_sw "是啊。"
+    debbie e_sw "嗯。"
 
 # game/src/plot/deb19.rpy:80
 translate chinese deb19_kitchen_f963890f:
 
     # debbie a_cover "And the worst part is lying in there, alone... in that big empty bed."
-    debbie a_cover "最糟糕的是一个人躺在那里……在那张空荡荡的大床上。"
+    debbie a_cover "最难受的是一个人躺在那张又大又空的床上……"
 
 # game/src/plot/deb19.rpy:81
 translate chinese deb19_kitchen_ffa5f4e2:
 
     # debbie "I keep reaching out, thinking he'll be there and he's just..."
-    debbie "我总是不停地伸手，以为他还在那里，可他……"
+    debbie "我总会下意识伸手，以为他还在身边，可那里只有……"
 
 # game/src/plot/deb19.rpy:83
 translate chinese deb19_kitchen_f35d3e9d:
 
     # debbie a_cover_face e_b f_distressed of_tears "... Gone."
-    debbie a_cover_face e_b f_distressed of_tears "……消失了。"
+    debbie a_cover_face e_b f_distressed of_tears "……一片空。"
 
 # game/src/plot/deb19.rpy:85
 translate chinese deb19_kitchen_60650052:
 
     # anon "Aww, [saga.cast.debbie]."
-    anon "啊，[saga.cast.debbie]。"
+    anon "唉，[saga.cast.debbie]……"
 
 # game/src/plot/deb19.rpy:87
 translate chinese deb19_kitchen_e33c6d88:
@@ -256,7 +256,7 @@ translate chinese deb19_kitchen_457aace3:
 translate chinese deb19_kitchen_8378fe0c:
 
     # anon "I'm here."
-    anon "我在这里。"
+    anon "有我在。"
 
 # game/src/plot/deb19.rpy:90
 translate chinese deb19_kitchen_5cb18d57:
@@ -274,7 +274,7 @@ translate chinese deb19_kitchen_d95298bc:
 translate chinese deb19_kitchen_0988adcc:
 
     # debbie a_side e_w f_sad p_stand -b_anon_pants "I don't suppose, you'd-"
-    debbie a_side e_w f_sad p_stand -b_anon_pants "我想，你能不能——"
+    debbie a_side e_w f_sad p_stand -b_anon_pants "那个……你能不能——"
 
 # game/src/plot/deb19.rpy:94
 translate chinese deb19_kitchen_60c078e5:
@@ -286,127 +286,127 @@ translate chinese deb19_kitchen_60c078e5:
 translate chinese deb19_kitchen_4a4ac789:
 
     # debbie a_wipe_tears e_b f_calm "N-no, never mind... it's silly."
-    debbie a_wipe_tears e_b f_calm "不——不，算了……这很傻。"
+    debbie a_wipe_tears e_b f_calm "不、不了，算了……太傻了。"
 
 # game/src/plot/deb19.rpy:97
 translate chinese deb19_kitchen_3afaab7b:
 
     # anon "Tell me."
-    anon "告诉我。"
+    anon "说吧。"
 
 # game/src/plot/deb19.rpy:98
 translate chinese deb19_kitchen_b14e3474:
 
     # debbie of_blush "Do you maybe, wanna... sleep in my bed tonight?"
-    debbie of_blush "你今晚，想不想……睡在我的床上？"
+    debbie of_blush "你今晚……愿不愿意睡在我床上？"
 
 # game/src/plot/deb19.rpy:99
 translate chinese deb19_kitchen_ea692633:
 
     # anon f_surprised "Really?"
-    anon f_surprised "真的吗？"
+    anon f_surprised "真的？"
 
 # game/src/plot/deb19.rpy:100
 translate chinese deb19_kitchen_ffefe0e0:
 
     # debbie f_sad "I know, it's stupid... but-"
-    debbie f_sad "我知道，这很蠢……但是——"
+    debbie f_sad "我知道，这听起来很傻……可是——"
 
 # game/src/plot/deb19.rpy:101
 translate chinese deb19_kitchen_1756ef25:
 
     # anon f_worried "N-no, it's not stupid!"
-    anon f_worried "不、不，才不蠢！"
+    anon f_worried "不、不，一点也不傻！"
 
 # game/src/plot/deb19.rpy:102
 translate chinese deb19_kitchen_35016b47:
 
     # anon f_calm "I'd be happy to."
-    anon f_calm "我很乐意。"
+    anon f_calm "我愿意陪你。"
 
 # game/src/plot/deb19.rpy:103
 translate chinese deb19_kitchen_bf29b78b:
 
     # debbie f_shy "You're not embarrassed..."
-    debbie f_shy "你不觉得尴尬……"
+    debbie f_shy "你不会觉得难为情吗……"
 
 # game/src/plot/deb19.rpy:104
 translate chinese deb19_kitchen_57aab07d:
 
     # debbie "... Sleeping in your landlady's bed?"
-    debbie "……睡在你女房东的床上？"
+    debbie "……要睡在自己房东太太的床上？"
 
 # game/src/plot/deb19.rpy:105
 translate chinese deb19_kitchen_38639342:
 
     # anon "Not at all."
-    anon "一点也不。"
+    anon "完全不会。"
 
 # game/src/plot/deb19.rpy:106
 translate chinese deb19_kitchen_24d9f7b7:
 
     # anon "In fact, I think it would be good for both of us."
-    anon "事实上，我觉得这对我们俩都好。"
+    anon "其实我觉得，这样对我们两个都有好处。"
 
 # game/src/plot/deb19.rpy:108
 translate chinese deb19_kitchen_7c726b22:
 
     # debbie e_se "Alright, well... then maybe I won't need those pills tonight after all."
-    debbie e_se "好吧，那……也许我今晚根本不需要那些药了。"
+    debbie e_se "好吧，那……看来今晚用不着吃这些药了。"
 
 # game/src/plot/deb19.rpy:112
 translate chinese deb19_kitchen_4d69315a:
 
     # debbie a_surprised e_w f_calm "C'mon, sweetie."
-    debbie a_surprised e_w f_calm "来吧，亲爱的。"
+    debbie a_surprised e_w f_calm "走吧，亲爱的。"
 
 # game/src/plot/deb19.rpy:115
 translate chinese deb19_kitchen_d59e4010:
 
     # anon a_neck f_shy_surprised o_left @ -m_talk "( Man, is this really happening? )"
-    anon a_neck f_shy_surprised o_left @ -m_talk "(天啊，这真的在发生吗？)"
+    anon a_neck f_shy_surprised o_left @ -m_talk "（天啊，这事真要发生了？）"
 
 # game/src/plot/deb19.rpy:116
 translate chinese deb19_kitchen_7faf98fb:
 
     # debbie "You coming?"
-    debbie "你来吗？"
+    debbie "还不来吗？"
 
 # game/src/plot/deb19.rpy:117
 translate chinese deb19_kitchen_c9f13d5a:
 
     # anon f_shy "Mhmm, right behind you."
-    anon f_shy "嗯，就在你身后。"
+    anon f_shy "嗯，我就在后面。"
 
 # game/src/plot/deb19.rpy:119
 translate chinese deb19_kitchen_1987cadc:
 
     # anon @ -m_talk "( Alright, I've gotta keep my head here... this isn't the time to push things. )"
-    anon @ -m_talk "(好吧，我得保持冷静……现在不是推进关系的时候。)"
+    anon @ -m_talk "（冷静点……现在可不是得寸进尺的时候。）"
 
 # game/src/plot/deb19.rpy:137
 translate chinese deb19_kitchen_53479cad:
 
     # debbie "Are you sure you're okay with this?"
-    debbie "你确定这样没问题吗？"
+    debbie "你真的不介意吗？"
 
 # game/src/plot/deb19.rpy:139
 translate chinese deb19_kitchen_addf0db6:
 
     # anon "Of course."
-    anon "当然。"
+    anon "当然不介意。"
 
 # game/src/plot/deb19.rpy:140
 translate chinese deb19_kitchen_a3032d41:
 
     # debbie "I know it's silly but I feel so much better knowing there's someone here with me."
-    debbie "我知道这很傻，但知道有人陪着我，我感觉好多了。"
+    debbie "我知道这样有点傻，可一想到有人陪着我，我就安心多了。"
 
 # game/src/plot/deb19.rpy:141
 translate chinese deb19_kitchen_e64a56a8:
 
     # anon f_shy "I'll always be here for you, [saga.cast.debbie]... if you want me to be."
-    anon f_shy "我会一直在这里陪你的，[saga.cast.debbie]……只要你愿意。"
+    anon f_shy "我永远都会陪着你，[saga.cast.debbie]……只要你希望我留下。"
 
 # game/src/plot/deb19.rpy:142
 translate chinese deb19_kitchen_892cf90c:
@@ -424,25 +424,25 @@ translate chinese deb19_kitchen_b14c6ce2:
 translate chinese deb19_kitchen_reuse_360ebd26:
 
     # debbie "... I dunno what I did to deserve you."
-    debbie "……不知道我做了什么才配得上你。"
+    debbie "……我都不知道自己何德何能，能有你陪着。"
 
 # game/src/plot/deb19.rpy:146
 translate chinese deb19_kitchen_reuse_707d1de3:
 
     # anon "Heh, I feel the same way about you."
-    anon "呵，我对你也有同样的感觉。"
+    anon "呵，我也觉得能遇见你是我的幸运。"
 
 # game/src/plot/deb19.rpy:147
 translate chinese deb19_kitchen_reuse_411f89b1:
 
     # debbie f_calm of_blush "That's-"
-    debbie f_calm of_blush "那是——"
+    debbie f_calm of_blush "这话——"
 
 # game/src/plot/deb19.rpy:148
 translate chinese deb19_kitchen_reuse_5ed795fc:
 
     # debbie "Really... sweet."
-    debbie "真的……很甜。"
+    debbie "真的……好贴心。"
 
 # game/src/plot/deb19.rpy:149
 translate chinese deb19_kitchen_reuse_2ab0bebd:
@@ -454,7 +454,7 @@ translate chinese deb19_kitchen_reuse_2ab0bebd:
 translate chinese deb19_kitchen_reuse_c1c6699c:
 
     # debbie "{i}*Ahem*{/i} Well, goodnight."
-    debbie "{i}*咳咳*{/i} 嗯，晚安。"
+    debbie "{i}*清嗓子*{/i} 嗯，晚安。"
 
 # game/src/plot/deb19.rpy:153
 translate chinese deb19_kitchen_reuse_486120be:
@@ -466,73 +466,73 @@ translate chinese deb19_kitchen_reuse_486120be:
 translate chinese deb19_kitchen_reuse_0f0554e9:
 
     # debbie e_sw @ -m_talk "..."
-    debbie e_sw @ -m_talk "..."
+    debbie e_sw @ -m_talk "……"
 
 # game/src/plot/deb19.rpy:157
 translate chinese deb19_kitchen_reuse_3881aec3:
 
     # anon e_ne @ -m_talk "..."
-    anon e_ne @ -m_talk "..."
+    anon e_ne @ -m_talk "……"
 
 # game/src/plot/deb19.rpy:163
 translate chinese deb19_kitchen_reuse_91207b03:
 
     # debbie "Mmm."
-    debbie "嗯。"
+    debbie "唔……"
 
 # game/src/plot/deb19.rpy:166
 translate chinese deb19_kitchen_reuse_01e17953:
 
     # anon "( She's not pulling away? )"
-    anon "(她没有躲开？)"
+    anon "（她没有躲开？）"
 
 # game/src/plot/deb19.rpy:175
 translate chinese deb19_kitchen_reuse_11345db7:
 
     # anon "( Wow, this is a lot more than a \"goodnight kiss\". )"
-    anon "（哇，这可比“晚安吻”深入多了。）"
+    anon "（哇，这可不只是“晚安吻”了。）"
 
 # game/src/plot/deb19.rpy:178
 translate chinese deb19_kitchen_reuse_91207b03_1:
 
     # debbie "Mmm."
-    debbie "嗯。"
+    debbie "唔……"
 
 # game/src/plot/deb19.rpy:181
 translate chinese deb19_kitchen_reuse_4582ee0c:
 
     # anon "( Maybe I should see about pushing things a little further? )"
-    anon "(也许我该试着更进一步？)"
+    anon "（要不要试着再往前一步？）"
 
 # game/src/plot/deb19.rpy:193
 translate chinese deb19_kitchen_reuse_71d1c3dd:
 
     # debbie a_up ob_anon_kiss_neck p_sleep_awake -b_anon @ -m_talk "Mmm."
-    debbie a_up ob_anon_kiss_neck p_sleep_awake -b_anon @ -m_talk "嗯。"
+    debbie a_up ob_anon_kiss_neck p_sleep_awake -b_anon @ -m_talk "唔……"
 
 # game/src/plot/deb19.rpy:195
 translate chinese deb19_kitchen_reuse_4729a721:
 
     # debbie "Ahh!"
-    debbie "啊！"
+    debbie "啊……"
 
 # game/src/plot/deb19.rpy:197
 translate chinese deb19_kitchen_reuse_ee8ec4eb:
 
     # debbie "T-that feels..."
-    debbie "这、感觉……"
+    debbie "这、这种感觉……"
 
 # game/src/plot/deb19.rpy:198
 translate chinese deb19_kitchen_reuse_4792deff:
 
     # debbie "... So good!"
-    debbie "……太爽了！"
+    debbie "……好舒服！"
 
 # game/src/plot/deb19.rpy:221
 translate chinese deb19_kitchen_reuse_131c5650:
 
     # debbie a_robe f_distressed ob_anon_tease z_reset "Oh, sweetie!"
-    debbie a_robe f_distressed ob_anon_tease z_reset "噢，亲爱的！"
+    debbie a_robe f_distressed ob_anon_tease z_reset "哦，亲爱的！"
 
 # game/src/plot/deb19.rpy:224
 translate chinese deb19_kitchen_reuse_20129c3c:
@@ -544,7 +544,7 @@ translate chinese deb19_kitchen_reuse_20129c3c:
 translate chinese deb19_kitchen_reuse_bc32b28d:
 
     # anon "Mmm."
-    anon "嗯。"
+    anon "唔……"
 
 # game/src/plot/deb19.rpy:238
 translate chinese deb19_kitchen_reuse_b8399c95:
@@ -562,7 +562,7 @@ translate chinese deb19_kitchen_reuse_54e39845:
 translate chinese deb19_kitchen_reuse_205cda1c:
 
     # debbie of_none @ e_ssw "W-we, shouldn't-"
-    debbie of_none @ e_ssw "我、我们不应该——"
+    debbie of_none @ e_ssw "我、我们不该——"
 
 # game/src/plot/deb19.rpy:243
 translate chinese deb19_kitchen_reuse_a57aa6c2:
@@ -580,31 +580,31 @@ translate chinese deb19_kitchen_reuse_2b6b64d6:
 translate chinese deb19_kitchen_reuse_1fc430a8:
 
     # debbie a_none c_robe_leg ob_anon_rub @ f_distressed "Ngh, I-"
-    debbie a_none c_robe_leg ob_anon_rub @ f_distressed "嗯，我——"
+    debbie a_none c_robe_leg ob_anon_rub @ f_distressed "嗯啊，我……"
 
 # game/src/plot/deb19.rpy:264
 translate chinese deb19_kitchen_reuse_938c2b41:
 
     # debbie @ f_distressed "Fffffaaaa..."
-    debbie @ f_distressed "呼啊啊啊……"
+    debbie @ f_distressed "呼啊啊……"
 
 # game/src/plot/deb19.rpy:266
 translate chinese deb19_kitchen_reuse_bc32b28d_1:
 
     # anon "Mmm."
-    anon "嗯。"
+    anon "唔……"
 
 # game/src/plot/deb19.rpy:267
 translate chinese deb19_kitchen_reuse_25fa9c40:
 
     # debbie of_blush @ f_distressed "S-sweetie... Oh, goodness..."
-    debbie of_blush @ f_distressed "亲、亲爱的……哦，天哪……"
+    debbie of_blush @ f_distressed "亲、亲爱的……天哪……"
 
 # game/src/plot/deb19.rpy:269
 translate chinese deb19_kitchen_reuse_f618288e:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*嘶溜嘶溜吸*{/i}"
+    anon "{i}*用力吸吮*{/i}"
 
 # game/src/plot/deb19.rpy:270
 translate chinese deb19_kitchen_reuse_ba800636:
@@ -616,25 +616,25 @@ translate chinese deb19_kitchen_reuse_ba800636:
 translate chinese deb19_kitchen_reuse_7afc7feb:
 
     # debbie ob_anon_hump @ e_ssw "Oh... Oh..."
-    debbie ob_anon_hump @ e_ssw "哦……哦……"
+    debbie ob_anon_hump @ e_ssw "啊……啊……"
 
 # game/src/plot/deb19.rpy:289
 translate chinese deb19_kitchen_reuse_1466dcbe:
 
     # anon "Does that feel good?"
-    anon "感觉好吗？"
+    anon "舒服吗？"
 
 # game/src/plot/deb19.rpy:290
 translate chinese deb19_kitchen_reuse_422a883e:
 
     # debbie @ f_distressed "Y-yes!!"
-    debbie @ f_distressed "是、是的！！"
+    debbie @ f_distressed "舒、舒服！！"
 
 # game/src/plot/deb19.rpy:292
 translate chinese deb19_kitchen_reuse_1f248da0:
 
     # anon e_se f_tired "Mm, [saga.cast.debbie]!"
-    anon e_se f_tired "嗯，[saga.cast.debbie]！"
+    anon e_se f_tired "唔，[saga.cast.debbie]！"
 
 # game/src/plot/deb19.rpy:294
 translate chinese deb19_kitchen_reuse_00de1f1e:
@@ -658,7 +658,7 @@ translate chinese deb19_kitchen_reuse_3bf16301:
 translate chinese deb19_kitchen_reuse_a1dd77a4:
 
     # anon "You smell so good."
-    anon "你闻起来真香。"
+    anon "你身上好香。"
 
 # game/src/plot/deb19.rpy:302
 translate chinese deb19_kitchen_reuse_76ccffb9:
@@ -670,19 +670,19 @@ translate chinese deb19_kitchen_reuse_76ccffb9:
 translate chinese deb19_kitchen_reuse_148401e2:
 
     # anon e_se f_tired "And you taste even better!"
-    anon e_se f_tired "你尝起来更棒！"
+    anon e_se f_tired "尝起来更美味！"
 
 # game/src/plot/deb19.rpy:307
 translate chinese deb19_kitchen_reuse_2482018e:
 
     # anon "Mmm... mmm..."
-    anon "嗯……嗯……"
+    anon "唔……唔……"
 
 # game/src/plot/deb19.rpy:308
 translate chinese deb19_kitchen_reuse_8a7911b1:
 
     # debbie @ f_distressed "Oh my goodness, I'm-"
-    debbie @ f_distressed "哦，我的天，我——"
+    debbie @ f_distressed "天哪，我要——"
 
 # game/src/plot/deb19.rpy:309
 translate chinese deb19_kitchen_reuse_e23cc746:
@@ -694,31 +694,31 @@ translate chinese deb19_kitchen_reuse_e23cc746:
 translate chinese deb19_kitchen_reuse_25957fbf:
 
     # anon "Mm, [saga.cast.debbie]..."
-    anon "嗯，[saga.cast.debbie]……"
+    anon "唔，[saga.cast.debbie]……"
 
 # game/src/plot/deb19.rpy:324
 translate chinese deb19_kitchen_reuse_1177b79b:
 
     # anon e_sse f_shy "... Every part of you is so wonderful!"
-    anon e_sse f_shy "你身上的每一处都那么美好！"
+    anon e_sse f_shy "……你身上的每一处都这么美！"
 
 # game/src/plot/deb19.rpy:327
 translate chinese deb19_kitchen_reuse_d804c93d:
 
     # debbie a_up e_ssw f_shy ob_leg_up z_b_f_of "W-where are you-"
-    debbie a_up e_ssw f_shy ob_leg_up z_b_f_of "你——你在哪儿——"
+    debbie a_up e_ssw f_shy ob_leg_up z_b_f_of "你、你要往哪儿——"
 
 # game/src/plot/deb19.rpy:328
 translate chinese deb19_kitchen_reuse_3d4e6368:
 
     # anon e_ne "I wanna kiss you all over."
-    anon e_ne "我想吻遍你全身。"
+    anon e_ne "我想把你全身都亲一遍。"
 
 # game/src/plot/deb19.rpy:331
 translate chinese deb19_kitchen_reuse_7267b596:
 
     # debbie a_none e_b f_distressed ob_anon_kiss_belly z_reset "Ngh!"
-    debbie a_none e_b f_distressed ob_anon_kiss_belly z_reset "嗯！"
+    debbie a_none e_b f_distressed ob_anon_kiss_belly z_reset "嗯啊！"
 
 # game/src/plot/deb19.rpy:336
 translate chinese deb19_kitchen_reuse_2a0b3ff4:
@@ -730,7 +730,7 @@ translate chinese deb19_kitchen_reuse_2a0b3ff4:
 translate chinese deb19_kitchen_reuse_1dcb5311:
 
     # anon "I wanna taste you."
-    anon "我想尝尝你的味道。"
+    anon "我想尝尝你。"
 
 # game/src/plot/deb19.rpy:343
 translate chinese deb19_kitchen_reuse_6cf19350:
@@ -742,7 +742,7 @@ translate chinese deb19_kitchen_reuse_6cf19350:
 translate chinese deb19_kitchen_reuse_c526fcf8:
 
     # debbie "{i}*Gasp*{/i}"
-    debbie "{i}*喘息*{/i}"
+    debbie "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/deb19.rpy:350
 translate chinese deb19_kitchen_reuse_2a37701e:
@@ -754,7 +754,7 @@ translate chinese deb19_kitchen_reuse_2a37701e:
 translate chinese deb19_kitchen_reuse_bc32b28d_2:
 
     # anon "Mmm."
-    anon "嗯……"
+    anon "唔……"
 
 # game/src/plot/deb19.rpy:352
 translate chinese deb19_kitchen_reuse_a8e1cb05:
@@ -766,25 +766,25 @@ translate chinese deb19_kitchen_reuse_a8e1cb05:
 translate chinese deb19_kitchen_reuse_6c272fa1:
 
     # debbie "Y-you're really..."
-    debbie "你……你真的……"
+    debbie "你、你真的……"
 
 # game/src/plot/deb19.rpy:355
 translate chinese deb19_kitchen_reuse_144745e0:
 
     # debbie @ -m_talk "{i}*Gulp*{/i}"
-    debbie @ -m_talk "{i}*吞咽*{/i}"
+    debbie @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb19.rpy:356
 translate chinese deb19_kitchen_reuse_bc7d5bbc:
 
     # debbie "... You're really good at that!"
-    debbie "……你真的很会这个！"
+    debbie "……你、你太会了！"
 
 # game/src/plot/deb19.rpy:358
 translate chinese deb19_kitchen_reuse_f618288e_1:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*吸溜*{/i}"
+    anon "{i}*用力吸吮*{/i}"
 
 # game/src/plot/deb19.rpy:359
 translate chinese deb19_kitchen_reuse_d595ae7d:
@@ -796,31 +796,31 @@ translate chinese deb19_kitchen_reuse_d595ae7d:
 translate chinese deb19_kitchen_reuse_03fec152:
 
     # debbie "I can't believe..."
-    debbie "我简直不敢相信……"
+    debbie "我真不敢相信……"
 
 # game/src/plot/deb19.rpy:363
 translate chinese deb19_kitchen_reuse_be93add3:
 
     # debbie "... M-my tenant..."
-    debbie "...我、我的房客..."
+    debbie "……我、我的房客……"
 
 # game/src/plot/deb19.rpy:365
 translate chinese deb19_kitchen_reuse_bd08ff72:
 
     # debbie "... has his tongue... inside my-"
-    debbie "...他的舌头...伸进了我的-"
+    debbie "……居然把舌头……伸进我的——"
 
 # game/src/plot/deb19.rpy:367
 translate chinese deb19_kitchen_reuse_82d638e9:
 
     # debbie "Oh, god!!"
-    debbie "哦，天哪！！"
+    debbie "天哪！！"
 
 # game/src/plot/deb19.rpy:369
 translate chinese deb19_kitchen_reuse_05f5ee39:
 
     # debbie "Sweetie, I'm-"
-    debbie "亲爱的，我-"
+    debbie "亲爱的，我要——"
 
 # game/src/plot/deb19.rpy:370
 translate chinese deb19_kitchen_reuse_b8e73bd5:
@@ -832,19 +832,19 @@ translate chinese deb19_kitchen_reuse_b8e73bd5:
 translate chinese deb19_kitchen_reuse_e8e69e4d:
 
     # anon @ -m_talk "( !!! )"
-    anon @ -m_talk "( !!! )"
+    anon @ -m_talk "（！！！）"
 
 # game/src/plot/deb19.rpy:376
 translate chinese deb19_kitchen_reuse_d12df81d:
 
     # debbie a_up c_robe_leg ob_leg_up p_sleep_awake z_b_f_of -b_anon @ of_blush "Haah... haah..."
-    debbie a_up c_robe_leg ob_leg_up p_sleep_awake z_b_f_of -b_anon @ of_blush "哈啊...哈啊..."
+    debbie a_up c_robe_leg ob_leg_up p_sleep_awake z_b_f_of -b_anon @ of_blush "哈啊……哈啊……"
 
 # game/src/plot/deb19.rpy:377
 translate chinese deb19_kitchen_reuse_b6416c13:
 
     # anon a_side "Wow, you came a lot!"
-    anon a_side "哇，你高潮了好多！"
+    anon a_side "哇，你刚才流了好多！"
 
 # game/src/plot/deb19.rpy:379
 translate chinese deb19_kitchen_reuse_3a2a835e:
@@ -856,31 +856,31 @@ translate chinese deb19_kitchen_reuse_3a2a835e:
 translate chinese deb19_kitchen_reuse_b07a5c83:
 
     # debbie a_none e_b m_lip ob_anon_kiss_belly z_reset @ -m_talk "Mm."
-    debbie a_none e_b m_lip ob_anon_kiss_belly z_reset @ -m_talk "嗯。"
+    debbie a_none e_b m_lip ob_anon_kiss_belly z_reset @ -m_talk "唔……"
 
 # game/src/plot/deb19.rpy:409
 translate chinese deb19_kitchen_reuse_1741c8a2:
 
     # debbie a_none f_distressed ob_anon_hump_raw z_reset "Oh!"
-    debbie a_none f_distressed ob_anon_hump_raw z_reset "哦！"
+    debbie a_none f_distressed ob_anon_hump_raw z_reset "啊！"
 
 # game/src/plot/deb19.rpy:410
 translate chinese deb19_kitchen_reuse_2ab0bebd_1:
 
     # debbie "I-"
-    debbie "我-"
+    debbie "我——"
 
 # game/src/plot/deb19.rpy:411
 translate chinese deb19_kitchen_reuse_0a9cb1d0:
 
     # debbie e_b "Fffffaaaa..."
-    debbie e_b "嘶嘶嘶啊啊..."
+    debbie e_b "嘶……啊……"
 
 # game/src/plot/deb19.rpy:414
 translate chinese deb19_kitchen_reuse_f618288e_2:
 
     # anon "{i}*Sluuuuuuurp*{/i}"
-    anon "{i}*吸溜吸溜*{/i}"
+    anon "{i}*用力吸吮*{/i}"
 
 # game/src/plot/deb19.rpy:416
 translate chinese deb19_kitchen_reuse_5ade5767:
@@ -892,25 +892,25 @@ translate chinese deb19_kitchen_reuse_5ade5767:
 translate chinese deb19_kitchen_reuse_915e306a:
 
     # debbie f_distressed -m_lip "Do it, sweetie!"
-    debbie f_distressed -m_lip "来吧，亲爱的！"
+    debbie f_distressed -m_lip "进来吧，亲爱的！"
 
 # game/src/plot/deb19.rpy:422
 translate chinese deb19_kitchen_reuse_984a64c3:
 
     # anon "Are you sure?"
-    anon "你确定吗？"
+    anon "你确定？"
 
 # game/src/plot/deb19.rpy:424
 translate chinese deb19_kitchen_reuse_57412b43:
 
     # debbie "I can't wait any longer!"
-    debbie "我再也等不了了！"
+    debbie "我等不下去了！"
 
 # game/src/plot/deb19.rpy:428
 translate chinese deb19_kitchen_reuse_cbf75db4:
 
     # anon "Yeah, me neither."
-    anon "是啊，我也是。"
+    anon "我也是。"
 
 # game/src/plot/deb19.rpy:430
 translate chinese deb19_kitchen_reuse_80c9ab00:
@@ -922,31 +922,31 @@ translate chinese deb19_kitchen_reuse_80c9ab00:
 translate chinese deb19_kitchen_reuse_1baf773f:
 
     # debbie p_sleep_anim_01 "Oh, sweetie!"
-    debbie p_sleep_anim_01 "哦，亲爱的！"
+    debbie p_sleep_anim_01 "啊，亲爱的！"
 
 # game/src/plot/deb19.rpy:434
 translate chinese deb19_kitchen_reuse_db4ab051:
 
     # debbie p_sleep_anim s_8 "Oh!"
-    debbie p_sleep_anim s_8 "哦！"
+    debbie p_sleep_anim s_8 "啊！"
 
 # game/src/plot/deb19.rpy:436
 translate chinese deb19_kitchen_reuse_25584cea:
 
     # debbie "It's so perfect!!"
-    debbie "太完美了！！"
+    debbie "这样简直完美！！"
 
 # game/src/plot/deb19.rpy:437
 translate chinese deb19_kitchen_reuse_9df9bf3d:
 
     # anon "Feels good?"
-    anon "感觉好吗？"
+    anon "舒服吗？"
 
 # game/src/plot/deb19.rpy:438
 translate chinese deb19_kitchen_reuse_e61ea614:
 
     # debbie "Oh, baby... yes!!"
-    debbie "哦，宝贝……是的！！"
+    debbie "啊，宝贝……舒服！！"
 
 # game/src/plot/deb19.rpy:440
 translate chinese deb19_kitchen_reuse_43dc3f68:
@@ -964,19 +964,19 @@ translate chinese deb19_kitchen_reuse_8316191d:
 translate chinese deb19_kitchen_reuse_f93197d0:
 
     # debbie "Oh, I love you! I love you!! I LOVE YOU!!!"
-    debbie "哦，我爱你！我爱你！！我爱你！！！"
+    debbie "啊，我爱你！我爱你！！我爱你！！！"
 
 # game/src/plot/deb19.rpy:444
 translate chinese deb19_kitchen_reuse_78638209:
 
     # anon "Heh."
-    anon "嘿。"
+    anon "呵。"
 
 # game/src/plot/deb19.rpy:446
 translate chinese deb19_kitchen_reuse_d00ded84:
 
     # debbie "Give it to me, sweetie!"
-    debbie "给我吧，亲爱的！"
+    debbie "用力肏我，亲爱的！"
 
 # game/src/plot/deb19.rpy:447
 translate chinese deb19_kitchen_reuse_919d766b:
@@ -988,19 +988,19 @@ translate chinese deb19_kitchen_reuse_919d766b:
 translate chinese deb19_kitchen_reuse_30026996:
 
     # debbie "Oh, it feels so good!!"
-    debbie "哦，感觉太棒了！！"
+    debbie "啊，太舒服了！！"
 
 # game/src/plot/deb19.rpy:450
 translate chinese deb19_kitchen_reuse_95138a2c:
 
     # anon "You're so wet, I can hardly believe it."
-    anon "你下面这么湿，我简直不敢相信。"
+    anon "你湿成这样，我都不敢相信。"
 
 # game/src/plot/deb19.rpy:451
 translate chinese deb19_kitchen_reuse_698d59e8:
 
     # debbie "It's you..."
-    debbie "是你……"
+    debbie "都是因为你……"
 
 # game/src/plot/deb19.rpy:452
 translate chinese deb19_kitchen_reuse_6992e029:
@@ -1030,7 +1030,7 @@ translate chinese deb19_kitchen_reuse_049b9067:
 translate chinese deb19_kitchen_reuse_c7aca62f:
 
     # anon "Go on."
-    anon "继续说。"
+    anon "说出来。"
 
 # game/src/plot/deb19.rpy:459
 translate chinese deb19_kitchen_reuse_c5bbbf6c:
@@ -1042,37 +1042,37 @@ translate chinese deb19_kitchen_reuse_c5bbbf6c:
 translate chinese deb19_kitchen_reuse_6d6dd176:
 
     # debbie "OH, IT'S SO GOOD!!"
-    debbie "哦，太爽了！！"
+    debbie "啊，太爽了！！"
 
 # game/src/plot/deb19.rpy:462
 translate chinese deb19_kitchen_reuse_afaf8fde:
 
     # anon "I'm getting close!"
-    anon "我快到了！"
+    anon "我快射了！"
 
 # game/src/plot/deb19.rpy:463
 translate chinese deb19_kitchen_reuse_f3c2e944:
 
     # debbie "Ahh, me too!"
-    debbie "啊哈，我也是！"
+    debbie "啊，我也要去了！"
 
 # game/src/plot/deb19.rpy:465
 translate chinese deb19_kitchen_reuse_82e12759:
 
     # debbie "Give it to me, baby!"
-    debbie "给我吧，宝贝！"
+    debbie "射吧，宝贝！"
 
 # game/src/plot/deb19.rpy:466
 translate chinese deb19_kitchen_reuse_801b27df:
 
     # debbie "Give it to me!!"
-    debbie "给我！！"
+    debbie "都射出来！！"
 
 # game/src/plot/deb19.rpy:468
 translate chinese deb19_kitchen_reuse_35464c24:
 
     # anon "Oh, [saga.cast.debbie]!"
-    anon "哦，[saga.cast.debbie]！"
+    anon "啊，[saga.cast.debbie]！"
 
 # game/src/plot/deb19.rpy:483
 translate chinese deb19_kitchen_reuse_0cf4d269:
@@ -1084,55 +1084,55 @@ translate chinese deb19_kitchen_reuse_0cf4d269:
 translate chinese deb19_kitchen_reuse_23efd93c:
 
     # debbie p_sleep_cum_out_02 "NGGHHH!!!"
-    debbie p_sleep_cum_out_02 "嗯呃呃呃！！！"
+    debbie p_sleep_cum_out_02 "嗯啊啊啊！！！"
 
 # game/src/plot/deb19.rpy:486
 translate chinese deb19_kitchen_reuse_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb19.rpy:487
 translate chinese deb19_kitchen_reuse_26dc8c1a:
 
     # debbie "Heh, look at this mess you made."
-    debbie "嘿，看看你搞的这一团糟。"
+    debbie "呵，瞧你弄得这一片狼藉。"
 
 # game/src/plot/deb19.rpy:491
 translate chinese deb19_kitchen_reuse_2513d2db:
 
     # anon "{i}*Phew*{/i} Y-yeah, sorry about that."
-    anon "{i}*呼*{/i} 呃，抱歉啊。"
+    anon "{i}*呼*{/i} 呃、嗯……抱歉。"
 
 # game/src/plot/deb19.rpy:492
 translate chinese deb19_kitchen_reuse_2597eff0:
 
     # debbie f_happy "It's okay."
-    debbie f_happy "translation': '没事的。"
+    debbie f_happy "没事的。"
 
 # game/src/plot/deb19.rpy:494
 translate chinese deb19_kitchen_reuse_954dd2cc:
 
     # debbie "It was worth the mess."
-    debbie "麻烦也值得。"
+    debbie "弄脏了也值得。"
 
 # game/src/plot/deb19.rpy:500
 translate chinese deb19_kitchen_merge_28e83c3a:
 
     # anon @ a_pants_down_02 "Man, I'm gonna sleep well tonight."
-    anon @ a_pants_down_02 "天啊，今晚我会睡个好觉。"
+    anon @ a_pants_down_02 "今晚我肯定能睡个好觉了。"
 
 # game/src/plot/deb19.rpy:501
 translate chinese deb19_kitchen_merge_c4af1234:
 
     # debbie "Yeah, me too."
-    debbie "是啊，我也是。"
+    debbie "嗯，我也是。"
 
 # game/src/plot/deb19.rpy:504
 translate chinese deb19_kitchen_merge_fd7b128a:
 
     # debbie b_anon p_sleep_kiss s_2 @ -m_talk "Mm."
-    debbie b_anon p_sleep_kiss s_2 @ -m_talk "嗯。"
+    debbie b_anon p_sleep_kiss s_2 @ -m_talk "唔……"
 
 # game/src/plot/deb19.rpy:508
 translate chinese deb19_kitchen_merge_325ee154:
@@ -1156,25 +1156,25 @@ translate chinese deb19_kitchen_merge_d171e08a:
 translate chinese deb19_kitchen_merge_f6003abf:
 
     # anon e_b f_calm @ f_elated "I love... {i}*Yawn*{/i}"
-    anon e_b f_calm @ f_elated "我爱... {i}*哈欠*{/i}"
+    anon e_b f_calm @ f_elated "我也爱……{i}*打哈欠*{/i}"
 
 # game/src/plot/deb19.rpy:512
 translate chinese deb19_kitchen_merge_ee5fbe74:
 
     # anon "... You..."
-    anon "...你..."
+    anon "……你……"
 
 # game/src/plot/deb19.rpy:513
 translate chinese deb19_kitchen_merge_bdd13ee2:
 
     # anon @ -m_talk "... Zzz."
-    anon @ -m_talk "…… 呼……"
+    anon @ -m_talk "……呼。"
 
 # game/src/plot/deb19.rpy:524
 translate chinese deb19_kitchen_bail1_1941e1df:
 
     # anon "{i}*Ahem*{/i} R-right, well..."
-    anon "{i}*咳咳*{/i} 对……对，嗯……"
+    anon "{i}*清嗓子*{/i} 那、那就……"
 
 # game/src/plot/deb19.rpy:525
 translate chinese deb19_kitchen_bail1_49164688:
@@ -1186,19 +1186,19 @@ translate chinese deb19_kitchen_bail1_49164688:
 translate chinese deb19_kitchen_bail1_ad2ce64f:
 
     # debbie "Y-yeah, umm..."
-    debbie "嗯……嗯，那个……"
+    debbie "嗯、嗯……那个……"
 
 # game/src/plot/deb19.rpy:527
 translate chinese deb19_kitchen_bail1_2e837c6f:
 
     # debbie of_none "... {i}*Gulp*{/i} You too, my wonderful boy."
-    debbie of_none "…… {i}*咕咚*{/i} 你也是，我的好男孩。"
+    debbie of_none "……{i}*咽口水*{/i} 你也做个好梦，我最亲爱的好孩子。"
 
 # game/src/plot/deb19.rpy:537
 translate chinese deb19_kitchen_bail2_a803db6b:
 
     # anon "Mmmf-"
-    anon "嗯唔——"
+    anon "唔——"
 
 # game/src/plot/deb19.rpy:540
 translate chinese deb19_kitchen_bail2_bbfbc57d:
@@ -1210,7 +1210,7 @@ translate chinese deb19_kitchen_bail2_bbfbc57d:
 translate chinese deb19_kitchen_bail2_150dcd80:
 
     # debbie "Me too!"
-    debbie "我也是！"
+    debbie "我也要去了！"
 
 # game/src/plot/deb19.rpy:545
 translate chinese deb19_kitchen_bail2_0cf4d269:
@@ -1222,7 +1222,7 @@ translate chinese deb19_kitchen_bail2_0cf4d269:
 translate chinese deb19_kitchen_bail2_f3dfc18b:
 
     # debbie e_ssw f_shy @ e_b f_distressed "NGGHHH!!!"
-    debbie e_ssw f_shy @ e_b f_distressed "嗯呃呃呃！！！"
+    debbie e_ssw f_shy @ e_b f_distressed "嗯啊啊啊！！！"
 
 # game/src/plot/deb19.rpy:553
 translate chinese deb19_kitchen_bail2_d165fd93:
@@ -1246,7 +1246,7 @@ translate chinese deb19_kitchen_bail2_a21f03cc:
 translate chinese deb19_kitchen_bail2_09d45120:
 
     # anon "Ah, man... I made a mess!"
-    anon "啊，我搞得一团糟！"
+    anon "啊……我弄得到处都是！"
 
 # game/src/plot/deb19.rpy:563
 translate chinese deb19_kitchen_bail2_6b2c09b5:
@@ -1258,55 +1258,55 @@ translate chinese deb19_kitchen_bail2_6b2c09b5:
 translate chinese deb19_kitchen_bail2_d2e3ecae:
 
     # debbie "I did too."
-    debbie "我也是。"
+    debbie "我也一样。"
 
 # game/src/plot/deb19.rpy:567
 translate chinese deb19_kitchen_bail2_0945b16b:
 
     # anon "Should we clean up, or?"
-    anon "要收拾一下吗？"
+    anon "要不要清理一下？"
 
 # game/src/plot/deb19.rpy:568
 translate chinese deb19_kitchen_bail2_4eabdd41:
 
     # debbie "N-no, just leave it."
-    debbie "不，不用管它。"
+    debbie "不、不用了，就这样吧。"
 
 # game/src/plot/deb19.rpy:569
 translate chinese deb19_kitchen_bail2_be2be8a1:
 
     # debbie f_happy "All I want now is to lie here with you and sleep."
-    debbie f_happy "我现在只想和你躺在这里，然后睡觉。"
+    debbie f_happy "我现在只想这么和你躺在一起睡觉。"
 
 # game/src/plot/deb19.rpy:570
 translate chinese deb19_kitchen_bail2_426633b8:
 
     # anon f_happy "O-okay."
-    anon f_happy "好、好吧。"
+    anon f_happy "好、好。"
 
 # game/src/plot/deb19.rpy:572
 translate chinese deb19_kitchen_bail2_74280402:
 
     # debbie "Mm, it's nice when you stay with me."
-    debbie "嗯，你陪在我身边真好。"
+    debbie "唔，你陪在我身边真好。"
 
 # game/src/plot/deb19.rpy:573
 translate chinese deb19_kitchen_bail2_a59ef120:
 
     # anon e_se f_tired "Yeah, it is."
-    anon e_se f_tired "是啊，是挺好的。"
+    anon e_se f_tired "嗯，确实。"
 
 # game/src/plot/deb19.rpy:574
 translate chinese deb19_kitchen_bail2_33b779d3:
 
     # anon e_b @ f_elated "{i}*Yawn*{/i}"
-    anon e_b @ f_elated "{i}*哈欠*{/i}"
+    anon e_b @ f_elated "{i}*打哈欠*{/i}"
 
 # game/src/plot/deb19.rpy:575
 translate chinese deb19_kitchen_bail2_54bff69d:
 
     # anon f_calm "It's... really..."
-    anon f_calm "这……真的……"
+    anon f_calm "这样……真的……"
 
 # game/src/plot/deb19.rpy:576
 translate chinese deb19_kitchen_bail2_0f286c9e:
@@ -1318,19 +1318,19 @@ translate chinese deb19_kitchen_bail2_0f286c9e:
 translate chinese deb19_kitchen_bail2_bdd13ee2:
 
     # anon @ -m_talk "... Zzz."
-    anon @ -m_talk "……呼噜。"
+    anon @ -m_talk "……呼。"
 
 # game/src/plot/deb19.rpy:578
 translate chinese deb19_kitchen_bail2_da455a0e:
 
     # debbie "Heh."
-    debbie "嘿嘿。"
+    debbie "呵呵。"
 
 # game/src/plot/deb19.rpy:587
 translate chinese deb19_kitchen_creampie_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "哼啊啊啊！！！" with flash
+    anon "嗯啊啊啊！！！" with flash
 
 # game/src/plot/deb19.rpy:588
 translate chinese deb19_kitchen_creampie_5dc3bb5c:
@@ -1348,67 +1348,67 @@ translate chinese deb19_kitchen_creampie_d165fd93:
 translate chinese deb19_kitchen_creampie_78cc41c0:
 
     # debbie d_anon_hard_pullout ob_anon_pullout_02 "Oh, sweetie..."
-    debbie d_anon_hard_pullout ob_anon_pullout_02 "哦，亲爱的..."
+    debbie d_anon_hard_pullout ob_anon_pullout_02 "啊，亲爱的……"
 
 # game/src/plot/deb19.rpy:593
 translate chinese deb19_kitchen_creampie_6f4555e4:
 
     # debbie "... You really filled me up."
-    debbie "……你真的把我填满了。"
+    debbie "……你真的把我里面填得满满的。"
 
 # game/src/plot/deb19.rpy:597
 translate chinese deb19_kitchen_creampie_d75485a1:
 
     # anon "That's good, right?"
-    anon "那很好，对吧？"
+    anon "这样很好，对吧？"
 
 # game/src/plot/deb19.rpy:599
 translate chinese deb19_kitchen_creampie_ce2d9ba2:
 
     # debbie f_happy "Mm, it feels wonderful."
-    debbie f_happy "嗯，感觉太棒了。"
+    debbie f_happy "唔，感觉好极了。"
 
 # game/src/plot/deb19.rpy:600
 translate chinese deb19_kitchen_creampie_4e7b1ff1:
 
     # debbie "So warm and tingly."
-    debbie "又温暖又麻痒。"
+    debbie "里面又热又酥麻。"
 
 # game/src/plot/deb19.rpy:609
 translate chinese deb19_kitchen_deny1_c41b9391:
 
     # debbie e_ssw ob_reject_anon_kiss_belly -m_lip "N-no, sweetie..."
-    debbie e_ssw ob_reject_anon_kiss_belly -m_lip "不，不，亲爱的……"
+    debbie e_ssw ob_reject_anon_kiss_belly -m_lip "不、不行，亲爱的……"
 
 # game/src/plot/deb19.rpy:612
 translate chinese deb19_kitchen_deny1_0d838116:
 
     # debbie a_up c_robe e_sw f_calm ob_none of_none "... We can't-"
-    debbie a_up c_robe e_sw f_calm ob_none of_none "……我们不能——"
+    debbie a_up c_robe e_sw f_calm ob_none of_none "……我们不能再继续了——"
 
 # game/src/plot/deb19.rpy:616
 translate chinese deb19_kitchen_deny1_984a64c3:
 
     # anon "Are you sure?"
-    anon "你确定吗？"
+    anon "你确定？"
 
 # game/src/plot/deb19.rpy:617
 translate chinese deb19_kitchen_deny1_144745e0:
 
     # debbie @ -m_talk "{i}*Gulp*{/i}"
-    debbie @ -m_talk "{i}*咕噜*{/i}"
+    debbie @ -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/deb19.rpy:618
 translate chinese deb19_kitchen_deny1_5104c5d0:
 
     # debbie "That's too much..."
-    debbie "那太多了……"
+    debbie "再往下就太过了……"
 
 # game/src/plot/deb19.rpy:619
 translate chinese deb19_kitchen_deny1_58e243c8:
 
     # debbie "... it wouldn't... be right."
-    debbie "……那不太……合适。"
+    debbie "……这样……不合适。"
 
 # game/src/plot/deb19.rpy:621
 translate chinese deb19_kitchen_deny1_fbdb15cd:
@@ -1426,7 +1426,7 @@ translate chinese deb19_kitchen_deny1_a962f5e4:
 translate chinese deb19_kitchen_deny1_d3584d11:
 
     # debbie "... For respecting my boundaries."
-    debbie "……谢谢你尊重我的界限。"
+    debbie "……谢谢你愿意尊重我的底线。"
 
 # game/src/plot/deb19.rpy:626
 translate chinese deb19_kitchen_deny1_addf0db6:
@@ -1438,19 +1438,19 @@ translate chinese deb19_kitchen_deny1_addf0db6:
 translate chinese deb19_kitchen_deny1_ef71e86c:
 
     # debbie "And for kissing me... on my..."
-    debbie "还有你亲我……在我的……"
+    debbie "还有，谢谢你……亲了我的……"
 
 # game/src/plot/deb19.rpy:630
 translate chinese deb19_kitchen_deny1_2559443c:
 
     # debbie of_blush "... Well, you know."
-    debbie of_blush "……嗯，你懂的。"
+    debbie of_blush "……嗯，你知道的。"
 
 # game/src/plot/deb19.rpy:631
 translate chinese deb19_kitchen_deny1_8511037c:
 
     # anon @ f_happy "Heh, my pleasure!"
-    anon @ f_happy "嘿，我的荣幸！"
+    anon @ f_happy "呵，我很乐意！"
 
 # game/src/plot/deb19.rpy:633
 translate chinese deb19_kitchen_deny1_051c2b55:
@@ -1462,19 +1462,19 @@ translate chinese deb19_kitchen_deny1_051c2b55:
 translate chinese deb19_kitchen_deny1_6fe65b02:
 
     # debbie "Mm, you too."
-    debbie "嗯，你也是。"
+    debbie "唔，你也是。"
 
 # game/src/plot/deb19.rpy:635
 translate chinese deb19_kitchen_deny1_6ecc9708:
 
     # debbie "My wonderful boy."
-    debbie "我亲爱的男孩。"
+    debbie "我的好孩子。"
 
 # game/src/plot/deb19.rpy:645
 translate chinese deb19_kitchen_deny2_ecc0ee9b:
 
     # debbie e_ssw ob_reject_anon_kiss_belly "Whoa, sweetie!"
-    debbie e_ssw ob_reject_anon_kiss_belly "哇，亲爱的！"
+    debbie e_ssw ob_reject_anon_kiss_belly "等等，亲爱的！"
 
 # game/src/plot/deb19.rpy:646
 translate chinese deb19_kitchen_deny2_7871f6f0:
@@ -1492,25 +1492,25 @@ translate chinese deb19_kitchen_deny2_2add17a6:
 translate chinese deb19_kitchen_deny2_3a926ba8:
 
     # debbie "That's too much!"
-    debbie "那太过分了！"
+    debbie "这太过头了！"
 
 # game/src/plot/deb19.rpy:652
 translate chinese deb19_kitchen_deny2_9760ecdd:
 
     # anon "Oh, I umm... you're right."
-    anon "哦，我呃……你说得对。"
+    anon "哦，我……你说得对。"
 
 # game/src/plot/deb19.rpy:653
 translate chinese deb19_kitchen_deny2_0611311c:
 
     # anon "Sorry, I got carried away."
-    anon "抱歉，我太激动了。"
+    anon "对不起，我有点忘乎所以了。"
 
 # game/src/plot/deb19.rpy:654
 translate chinese deb19_kitchen_deny2_6611da3b:
 
     # debbie f_curious "N-no, believe me... I understand."
-    debbie f_curious "不，相信我……我理解。"
+    debbie f_curious "不、不……相信我，我明白的。"
 
 # game/src/plot/deb19.rpy:655
 translate chinese deb19_kitchen_deny2_3f091ebc:
@@ -1522,13 +1522,13 @@ translate chinese deb19_kitchen_deny2_3f091ebc:
 translate chinese deb19_kitchen_deny2_54e277cc:
 
     # debbie f_calm @ f_curious "There are boundaries we shouldn't cross, you know?"
-    debbie f_calm @ f_curious "有些界限我们不该逾越，你明白吗？"
+    debbie f_calm @ f_curious "有些界限，我们还是不该越过去，明白吗？"
 
 # game/src/plot/deb19.rpy:663
 translate chinese deb19_kitchen_deny3_9fb7c2d9:
 
     # debbie a_none ob_reject_anon_insert z_reset "W-what are you doing?"
-    debbie a_none ob_reject_anon_insert z_reset "你、你在干什么？"
+    debbie a_none ob_reject_anon_insert z_reset "你、你这是要做什么？"
 
 # game/src/plot/deb19.rpy:667
 translate chinese deb19_kitchen_deny3_a1f0b75a:
@@ -1546,37 +1546,37 @@ translate chinese deb19_kitchen_deny3_cc0eb674:
 translate chinese deb19_kitchen_deny3_70aec1cc:
 
     # debbie "Sweetie, we can't."
-    debbie "亲爱的，我们不能。"
+    debbie "亲爱的，我们不能这样。"
 
 # game/src/plot/deb19.rpy:671
 translate chinese deb19_kitchen_deny3_b2c5d3ed:
 
     # debbie "I mean, I know you just-"
-    debbie "我是说，我知道你只是——"
+    debbie "我是说，我知道你刚才只是——"
 
 # game/src/plot/deb19.rpy:675
 translate chinese deb19_kitchen_deny3_f33c9314:
 
     # debbie a_side c_robe e_sw f_curious ob_none z_reset "Aand I-"
-    debbie a_side c_robe e_sw f_curious ob_none z_reset "而我——"
+    debbie a_side c_robe e_sw f_curious ob_none z_reset "可我也——"
 
 # game/src/plot/deb19.rpy:677
 translate chinese deb19_kitchen_deny3_383cba1b:
 
     # debbie "B-but sex?"
-    debbie "但、但做爱？"
+    debbie "可、可是做爱？"
 
 # game/src/plot/deb19.rpy:678
 translate chinese deb19_kitchen_deny3_e3a23216:
 
     # debbie a_down "That can never happen."
-    debbie a_down "那永远不可能发生。"
+    debbie a_down "那绝对不行。"
 
 # game/src/plot/deb19.rpy:679
 translate chinese deb19_kitchen_deny3_f4c0268e:
 
     # anon "Oh?"
-    anon "哦？"
+    anon "啊？"
 
 # game/src/plot/deb19.rpy:680
 translate chinese deb19_kitchen_deny3_b14ff0ce:
@@ -1588,19 +1588,19 @@ translate chinese deb19_kitchen_deny3_b14ff0ce:
 translate chinese deb19_kitchen_deny3_5d1f8164:
 
     # debbie "If we-"
-    debbie "如果我们——"
+    debbie "要是我们真的——"
 
 # game/src/plot/deb19.rpy:683
 translate chinese deb19_kitchen_deny3_92a4c44e:
 
     # debbie f_calm @ f_curious "There'd be no coming back from that, you know?"
-    debbie f_calm @ f_curious "那样就没有回头路了，你知道吗？"
+    debbie f_calm @ f_curious "真做了的话，我们就再也回不到从前了，你明白吗？"
 
 # game/src/plot/deb19.rpy:684
 translate chinese deb19_kitchen_deny3_c874248c:
 
     # anon f_calm "Y-yeah, I get it."
-    anon f_calm "是——是的，我明白。"
+    anon f_calm "嗯、嗯，我明白。"
 
 # game/src/plot/deb19.rpy:685
 translate chinese deb19_kitchen_deny3_f3d1c673:
@@ -1612,19 +1612,19 @@ translate chinese deb19_kitchen_deny3_f3d1c673:
 translate chinese deb19_kitchen_deny3_f35932de:
 
     # anon "No, of course not."
-    anon "不，当然没有。"
+    anon "没有，当然没有。"
 
 # game/src/plot/deb19.rpy:687
 translate chinese deb19_kitchen_deny3_ebf3fc8d:
 
     # anon "I know you're just looking out for what's in our best interest."
-    anon "我知道你只是在为我们着想。"
+    anon "我知道你只是在替我们两个考虑。"
 
 # game/src/plot/deb19.rpy:688
 translate chinese deb19_kitchen_deny3_1dda82be:
 
     # anon "That's not something I will ever get mad at you for doing."
-    anon "我永远不会因此生你的气。"
+    anon "我怎么可能因此生你的气。"
 
 # game/src/plot/deb19.rpy:690
 translate chinese deb19_kitchen_deny3_e5cc8256:
@@ -1636,13 +1636,13 @@ translate chinese deb19_kitchen_deny3_e5cc8256:
 translate chinese deb19_kitchen_rails_1eebe376:
 
     # anon @ -m_talk "( I doubt I'll find any warm milk there. )"
-    anon @ -m_talk "(我怀疑在那里找不到热牛奶。)"
+    anon @ -m_talk "（那儿可找不到热牛奶。）"
 
 # game/src/plot/deb19.rpy:698
 translate chinese deb19_kitchen_rails_a183215f:
 
     # anon @ -m_talk "( Maybe try the kitchen? )"
-    anon @ -m_talk "(也许试试厨房？)"
+    anon @ -m_talk "（还是去厨房看看吧。）"
 
 # game/src/plot/deb19.rpy:708
 translate chinese deb19_wake_88ead236:
@@ -1666,7 +1666,7 @@ translate chinese deb19_wake_6de9d5de:
 translate chinese deb19_wake_832e7f39:
 
     # anon @ f_elated "{i}*Yawn*{/i}"
-    anon @ f_elated "{i}*哈欠*{/i}"
+    anon @ f_elated "{i}*打哈欠*{/i}"
 
 # game/src/plot/deb19.rpy:712
 translate chinese deb19_wake_dd71579c:
@@ -1684,79 +1684,79 @@ translate chinese deb19_wake_4ef1d2e9:
 translate chinese deb19_wake_7271c5e1:
 
     # debbie "But you'd probably better get back upstairs to your own bed, just in case [saga.cast.jenny] gets up."
-    debbie "不过你最好还是回楼上的自己床上去，以防[saga.cast.jenny]起床。"
+    debbie "不过你最好回楼上自己的床，免得[saga.cast.jenny]醒来撞见。"
 
 # game/src/plot/deb19.rpy:715
 translate chinese deb19_wake_d8c67d19:
 
     # anon "Mm, yeah... okay."
-    anon "嗯，好吧……"
+    anon "嗯……好吧。"
 
 # game/src/plot/deb19.rpy:716
 translate chinese deb19_wake_8e17a0fc:
 
     # anon "How did you sleep?"
-    anon "你睡得好吗？"
+    anon "你睡得怎么样？"
 
 # game/src/plot/deb19.rpy:717
 translate chinese deb19_wake_b0b6e079:
 
     # debbie "I slept great!"
-    debbie "我睡得好极了！"
+    debbie "睡得好极了！"
 
 # game/src/plot/deb19.rpy:718
 translate chinese deb19_wake_48c1839a:
 
     # debbie "Best sleep I've had since... well..."
-    debbie "这段时间睡得最好的一次……嗯……"
+    debbie "我已经……嗯……"
 
 # game/src/plot/deb19.rpy:719
 translate chinese deb19_wake_fdb5805e:
 
     # debbie "... For a long time."
-    debbie "……很长时间以来。"
+    debbie "……很久没睡得这么好了。"
 
 # game/src/plot/deb19.rpy:720
 translate chinese deb19_wake_25c0e1ff:
 
     # anon "Yeah, me too."
-    anon "是啊，我也是。"
+    anon "嗯，我也是。"
 
 # game/src/plot/deb19.rpy:722
 translate chinese deb19_wake_44a1e2ea:
 
     # anon "I guess, this was a good idea then."
-    anon "看来，这个主意不错。"
+    anon "看来这个主意确实不错。"
 
 # game/src/plot/deb19.rpy:723
 translate chinese deb19_wake_798c1856:
 
     # debbie "I'd say so, yes."
-    debbie "我想是的。"
+    debbie "嗯，我也这么觉得。"
 
 # game/src/plot/deb19.rpy:724
 translate chinese deb19_wake_a2b802b0:
 
     # anon "Does that mean this can be a regular thing?"
-    anon "那是不是意味着可以经常这样？"
+    anon "那我们以后也能经常这样吗？"
 
 # game/src/plot/deb19.rpy:725
 translate chinese deb19_wake_54f23a08:
 
     # debbie "Well, I-"
-    debbie "呃，我——"
+    debbie "这个嘛，我——"
 
 # game/src/plot/deb19.rpy:726
 translate chinese deb19_wake_03bef50a:
 
     # debbie "I suppose, so long as we're careful."
-    debbie "我想，只要我们小心一点就行。"
+    debbie "我想……只要我们小心一点。"
 
 # game/src/plot/deb19.rpy:727
 translate chinese deb19_wake_3719c573:
 
     # debbie "I wouldn't want-"
-    debbie "我不想——"
+    debbie "我可不想——"
 
 # game/src/plot/deb19.rpy:728
 translate chinese deb19_wake_899a3206:
@@ -1768,7 +1768,7 @@ translate chinese deb19_wake_899a3206:
 translate chinese deb19_wake_da455a0e:
 
     # debbie "Heh."
-    debbie "嘿嘿。"
+    debbie "呵呵。"
 
 # game/src/plot/deb19.rpy:730
 translate chinese deb19_wake_3f059666:
@@ -1786,19 +1786,19 @@ translate chinese deb19_wake_701cb583:
 translate chinese deb19_wake_84bf3bd5:
 
     # debbie b_anon p_sleep_peck_01 "Mmm."
-    debbie b_anon p_sleep_peck_01 "嗯。"
+    debbie b_anon p_sleep_peck_01 "唔……"
 
 # game/src/plot/deb19.rpy:735
 translate chinese deb19_wake_93e0a275:
 
     # debbie p_sleep_awake -b_anon "Now get that cute butt upstairs while I get started on breakfast!"
-    debbie p_sleep_awake -b_anon "现在趁我做早饭，赶紧去楼上把你那可爱的小屁股收拾好！"
+    debbie p_sleep_awake -b_anon "现在快把你那可爱的小屁股带回楼上，我也该去做早餐了！"
 
 # game/src/plot/deb19.rpy:736
 translate chinese deb19_wake_1d2b2ff8:
 
     # anon "Yes, ma'am."
-    anon "好的，夫人。"
+    anon "是，夫人。"
 
 # game/src/plot/deb19.rpy:746
 translate chinese deb19_wake_244739f4:
@@ -1810,23 +1810,23 @@ translate chinese deb19_wake_244739f4:
 translate chinese deb19_wake_f17bf076:
 
     # anon f_happy p_stand @ -m_talk "( What a start to the day... )"
-    anon f_happy p_stand @ -m_talk "(真是美好的一天开始了……)"
+    anon f_happy p_stand @ -m_talk "（这一大早可真够精彩的……）"
 
 # game/src/plot/deb19.rpy:753
 translate chinese deb19_wake_22bd3288:
 
     # anon a_cheer e_b m_teeth @ -m_talk "( ... It's put a real spring in my step! )"
-    anon a_cheer e_b m_teeth @ -m_talk "(……整个人都精神焕发了！)"
+    anon a_cheer e_b m_teeth @ -m_talk "（……走起路来都觉得脚下生风！）"
 
 translate chinese strings:
 
     # game/src/plot/deb19.rpy:186
     old "Stop things here."
-    new "在这儿停下"
+    new "到此为止"
 
     # game/src/plot/deb19.rpy:189
     old "Kiss lower."
-    new "亲下面一点"
+    new "往下亲"
 
     # game/src/plot/deb19.rpy:207
     # game/src/plot/deb19.rpy:235
@@ -1835,23 +1835,23 @@ translate chinese strings:
 
     # game/src/plot/deb19.rpy:252
     old "Reach lower."
-    new "再往下点"
+    new "手往下摸"
 
     # game/src/plot/deb19.rpy:279
     old "Grind."
-    new "摩擦"
+    new "顶着她磨"
 
     # game/src/plot/deb19.rpy:315
     old "Cum."
-    new "射精"
+    new "射出来"
 
     # game/src/plot/deb19.rpy:318
     old "Push further."
-    new "再进去点"
+    new "继续深入"
 
     # game/src/plot/deb19.rpy:389
     old "Stop things there."
-    new "就此打住"
+    new "就到这里"
 
     # game/src/plot/deb19.rpy:392
     old "Sex."
