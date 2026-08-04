@@ -4,7 +4,7 @@
 translate chinese deb_utility_836c7c2a:
 
     # anon "Got much left?"
-    anon "还剩很多吗？"
+    anon "还剩多少？"
 
 # game/src/plot/deb_utility.rpy:46
 translate chinese deb_utility_bail_8d202669:
@@ -52,7 +52,7 @@ translate chinese deb_utility_deny_d74b0314:
 translate chinese deb_utility_deny_7c1e8008:
 
     # debbie "O-oh, sweetie."
-    debbie "哦——哦，亲爱的。"
+    debbie "哦、哦，亲爱的。"
 
 # game/src/plot/deb_utility.rpy:77
 translate chinese deb_utility_deny_5799675a:
@@ -70,10 +70,10 @@ translate chinese deb_utility_deny_bf0b76ba:
 translate chinese deb_utility_deny_ca26aab0:
 
     # debbie e_w p_stand "Aww, it's okay..."
-    debbie e_w p_stand "噢，没事的..."
+    debbie e_w p_stand "哎呀，没事的……"
 
 # game/src/plot/deb_utility.rpy:84
 translate chinese deb_utility_deny_75c358e9:
 
     # debbie a_mug e_w f_curious -m_kiss "... What brings you down here?"
-    debbie a_mug e_w f_curious -m_kiss "...你怎么到这儿来了？"
+    debbie a_mug e_w f_curious -m_kiss "你怎么下来了？"
