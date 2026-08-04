@@ -36,6 +36,7 @@
 | `tl/chinese/src/plot/deb11.rpy` | Debbie线；早餐性梦、小丑噩梦、梦遗惊醒及Jenny隔门挖苦 | Anon、Debbie、Jenny | 完成 | 通读 88 个翻译块；理顺Jenny炫耀新裙、Debbie桌下口交、人物变成小丑、阴茎变羊驼及咬伤惊醒的梦境递进；修复连续拆句、口交拟声、食物性双关、梦遗笑点、中文省略号和内心括号，保留梦境欲望与现实关系的区别 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb12.rpy` | Debbie线；借性焦虑请求指导、再次接吻、Jenny撞见及重新划定边界 | Debbie、Anon、Jenny | 完成 | 通读 128 个对话块和 3 个选项；理顺梦境话题转为性焦虑的试探、商场接吻回扣、“纯教学”自我辩护、大学接吻技巧、扁桃体炎掩饰及Jenny的尖刻揭穿；修复代词、连续拆句、中文省略号、双引号与内心括号，区分真实吸引、主动试探和现实边界 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb13.rpy` | Debbie线；汽车发动机损坏、Josie 保修/付款分支、Jiang 上门修车及车内关系推进 | Debbie、Anon、Josie、Jiang | 完成 | 通读 486 个对话块和 4 个选项；理顺车辆损坏、八千美元维修费、延长保修与自费分支，精修 Josie 的电话性暗示和 `bowl cut` 固定挖苦、Jiang 的修车/性双关，以及 Debbie 与 Anon 从责任感安慰推进到独处接吻、触碰勃起但仍拒绝进一步性接触的边界变化；统一中文省略号、双引号、内心括号和车辆术语 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/deb14.rpy` | Debbie线；再次偷拿内裤自慰、Debbie撞见、观看自慰、射精及浴室私下自慰 | Debbie、Anon、Mia（被提及） | 完成 | 通读 193 个对话块和 5 个选项；区分接受、退让及同龄女生建议分支，保留 Debbie 的真实吸引与照顾者边界、Anon 的欲望和越界责任；统一中文省略号、内心括号、菜单标点及 Anon 对 Debbie 的 `ma’am`“夫人”称呼 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -143,16 +144,16 @@
 ## 测试与校验状态
 
 - `python -m py_compile tools/validate_translations.py tools/audit_recurring_terms.py`：通过。
-- `python -X utf8 tools/validate_translations.py --changed`：本批通过，验证 1 个修改过的 Ren’Py 翻译文件；变量、标签、占位符、代码结构和活动译文标点均无异常。
+- `python -X utf8 tools/validate_translations.py --changed`：本批通过，验证 6 个修改过的 Ren’Py 翻译文件；变量、标签、占位符、代码结构和活动译文标点均无异常。
 - `python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch`：本批涉及的已登记重复称呼、口癖、关系身份、连续笑点、专名和术语全部通过，零不一致。
 - `python tools/validate_translations.py --no-compare`：报告 26 个仓库既有问题，已登记于上方队列。
 - GitHub Actions 使用 Ren’Py 8.5.3 编译并运行 `tools/build_rpa.py`。
 - 本机 PATH 中未发现 Ren’Py SDK；Ren’Py compile/lint 尚未运行。
-- `python -X utf8 tools/build_rpa.py`：成功打包并校验 328 个文件（`dist/chinese.rpa`，42,285,105 字节；构建产物由 `.gitignore` 忽略）。
+- `python -X utf8 tools/build_rpa.py`：成功打包并校验 328 个文件（`dist/chinese.rpa`，42,287,207 字节；构建产物由 `.gitignore` 忽略）。
 
 ## 下一步
 
-1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb13.rpy` 已完成；下一批继续完整通读并精修 `deb14.rpy`。
+1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb14.rpy` 已完成；下一批继续完整通读并精修 `deb15.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

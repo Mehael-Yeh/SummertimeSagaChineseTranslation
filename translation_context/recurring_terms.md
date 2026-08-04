@@ -58,6 +58,7 @@
 | `The Kidney Shifter` | 性行为招式名 | 移肾术 | `mar_dark.rpy` | 保留 Tony 夸张粗俗的命名方式 |
 | `batter` / `little guys` / `cannoli` | 造人与食物连续双关 | 面糊／小家伙们／意式奶油甜馅卷 | `mar_dark.rpy` | 三组表达共同服务受孕与食物双关，需整体理解 |
 | Debbie 的 `sweetie` | 高频亲昵称呼 | 亲爱的；歌曲/明确母性语境可译“宝贝” | 639 处 / 66 个文件 | 普通对话保持“亲爱的”，关系阶段由整句语气体现；`deb22.rpy`、`deb26.rpy`、`deb_lobby.rpy`、`deb_visit.rpy`、`jen11.rpy` 的 5 处异常列入后续完整场景复核 |
+| Anon 对 Debbie 的 `ma’am` | 关系称谓 | 夫人 | Debbie 线多个文件 | 体现房东与房客之间带亲近感的礼貌；已统一明确命中，不与“女士”“长官”交替 |
 | `bowl cut` / `bowl-` | Josie 对 Anon 的固定挖苦称呼 | 锅盖头／锅盖—— | `deb13.rpy`、Josie 相关文件 | 已确认多文件重复；`jos_trade.rpy` 的旧译“西瓜头”留待通读完整文件时统一，不做脱离上下文的全局替换 |
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 

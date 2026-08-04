@@ -4150,7 +4150,7 @@ translate chinese deb26_kitchen_1ca2a0ff:
 translate chinese deb26_kitchen_c8e5c5a9:
 
     # anon a_salute "Yes, ma'am."
-    anon a_salute "是的，女士。"
+    anon a_salute "好的，夫人。"
 
 # game/src/plot/deb26.rpy:2331
 translate chinese deb26_kitchen_9766794d:
@@ -4198,7 +4198,7 @@ translate chinese deb26_pause_debbie_1965e609:
 
 
     # anon a_point "It's been a very long time since anyone's taken me out some place nice."
-    anon a_point "嗯，你值得的，[saga.cast.debbie]。"
+    anon a_point "已经很久没人带我去什么好地方了。"
 
 translate chinese deb26_delay_debbie_8c314642:
 
@@ -5195,7 +5195,7 @@ translate chinese deb26_shop_sushi_c2f9334d:
 
 
     # extend "{nw=.3}"
-    extend "{nw=2}"
+    extend "{nw=.3}"
 
 translate chinese deb26_shop_sushi_9bcdee24:
 
@@ -5279,7 +5279,7 @@ translate chinese deb26_shop_sushi_442b700d:
 translate chinese deb26_shop_sushi_ce22a4fa:
 
     # debbie e_w f_surprised "SWEETIE!!"
-    debbie e_w f_surprised "甜心！！"
+    debbie e_w f_surprised "亲爱的！！"
 
 translate chinese deb26_shop_sushi_b960c0ce:
 
@@ -5485,7 +5485,7 @@ translate chinese deb26_kitchen_244739f4:
 
 
     # mono "Yes, ma'am."
-    mono ""
+    mono "好的，夫人。"
 
 translate chinese deb26_pause_debbie_28f426da:
 

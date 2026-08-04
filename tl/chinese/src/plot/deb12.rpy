@@ -514,7 +514,7 @@ translate chinese deb12_debbie_merge_67aaa756:
 translate chinese deb12_debbie_merge_e9e66a0a:
 
     # jenny "What part of, \"I don't care.\" did you not understand?"
-    jenny "“我不在乎”这四个字，你到底哪儿没听懂？"
+    jenny "“我才懒得管”这句话，你到底哪儿没听懂？"
 
 # game/src/plot/deb12.rpy:221
 translate chinese deb12_debbie_merge_f867a1be:

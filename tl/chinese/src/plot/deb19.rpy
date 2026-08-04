@@ -490,7 +490,7 @@ translate chinese deb19_kitchen_reuse_01e17953:
 translate chinese deb19_kitchen_reuse_11345db7:
 
     # anon "( Wow, this is a lot more than a \"goodnight kiss\". )"
-    anon "(哇，这可比「晚安吻」要深入得多。)"
+    anon "（哇，这可比“晚安吻”深入多了。）"
 
 # game/src/plot/deb19.rpy:178
 translate chinese deb19_kitchen_reuse_91207b03_1:
@@ -1798,7 +1798,7 @@ translate chinese deb19_wake_93e0a275:
 translate chinese deb19_wake_1d2b2ff8:
 
     # anon "Yes, ma'am."
-    anon "是，夫人。"
+    anon "好的，夫人。"
 
 # game/src/plot/deb19.rpy:746
 translate chinese deb19_wake_244739f4:

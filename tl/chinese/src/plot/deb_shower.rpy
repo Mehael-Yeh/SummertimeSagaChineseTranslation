@@ -460,7 +460,7 @@ translate chinese deb_shower_merge_4902a067:
 translate chinese deb_shower_merge_c8e5c5a9:
 
     # anon a_salute "Yes, ma'am."
-    anon a_salute "是的长官。"
+    anon a_salute "好的，夫人。"
 
 # game/src/plot/deb_shower.rpy:243
 translate chinese deb_shower_anal_57b3d422:

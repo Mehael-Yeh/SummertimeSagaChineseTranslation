@@ -208,7 +208,7 @@ translate chinese deb_sleep_wake1_7d2c8340:
 translate chinese deb_sleep_wake1_1d2b2ff8:
 
     # anon "Yes, ma'am."
-    anon "是的，夫人。"
+    anon "好的，夫人。"
 
 # game/src/plot/deb_sleep.rpy:115
 translate chinese deb_sleep_wake1_c3793835:
