@@ -4,10 +4,10 @@
 translate chinese car_lounge_block_d2d7d437:
 
     # anon @ -m_talk "( Pretty sure I'm not meant to be here... )"
-    anon @ -m_talk "(我确定我不该待在这里...)"
+    anon @ -m_talk "(我好像不该待在这儿……)"
 
 # game/src/plot/car_lounge.rpy:9
 translate chinese car_lounge_block_e0e18470:
 
     # anon @ -m_talk "( ... Definitely getting strong {i}employee only{/i} vibes. )"
-    anon @ -m_talk "(...绝对有强烈的{i}员工专属{/i}感觉。)"
+    anon @ -m_talk "(……这里一看就是{i}员工专用{/i}区。)"

@@ -4,10 +4,10 @@
 translate chinese tech_gamepad_lock_b67b489e:
 
     # anon "( Man, [saga.cast.erik] and I used to have so much fun with this thing... )"
-    anon "(伙计，[saga.cast.erik]我们以前可没少拿这家伙找乐子...)"
+    anon "(唉，以前我和[saga.cast.erik]用这玩意儿玩得可开心了……)"
 
 # game/src/plot/tech_gamepad.rpy:9
 translate chinese tech_gamepad_lock_c95e8f20:
 
     # anon "( ... We don't really play it any more, but those are some great memories. )"
-    anon "(...我们现在不怎么玩了，但那些回忆真美好。)"
+    anon "(……虽然现在不怎么玩了，但那真是一段美好的回忆。)"

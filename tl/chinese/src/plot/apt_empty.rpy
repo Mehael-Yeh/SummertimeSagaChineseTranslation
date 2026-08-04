@@ -4,7 +4,7 @@
 translate chinese apt_empty_dark_10536a19:
 
     # anon @ -m_talk "( It's pretty late to be bothering people... )"
-    anon @ -m_talk "(这么晚去打扰别人...不太合适吧...)"
+    anon @ -m_talk "(这么晚了，还是别去打扰人家了……)"
 
 # game/src/plot/apt_empty.rpy:10
 translate chinese apt_empty_dark_39b613eb:
@@ -16,10 +16,10 @@ translate chinese apt_empty_dark_39b613eb:
 translate chinese apt_empty_self_eebbd6e0:
 
     # anon @ -m_talk "( I don't want to just show up uninvited... )"
-    anon @ -m_talk "(我不想不请自来...)"
+    anon @ -m_talk "(没打招呼就直接上门不太好吧……)"
 
 # game/src/plot/apt_empty.rpy:21
 translate chinese apt_empty_self_badb633e:
 
     # anon f_surprised @ -m_talk "( That'd be suuuper awkward. )"
-    anon f_surprised @ -m_talk "(那会超级尴尬的。)"
+    anon f_surprised @ -m_talk "(那也太尴尬了。)"

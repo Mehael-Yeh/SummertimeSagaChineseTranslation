@@ -1,0 +1,300 @@
+{
+  "version": 1,
+  "updated": "2026-08-04",
+  "terms": [
+    {
+      "id": "tony_champ",
+      "source_regex": "\\bchamp\\b",
+      "target_regexes": [
+        "冠军"
+      ],
+      "category": "character_address",
+      "speaker": "Tony",
+      "addressee": "Anon",
+      "translation": "冠军",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "Tony 对 Anon 的固定专属称呼；不得与普通 kid/kiddo 混用。"
+    },
+    {
+      "id": "tina_babyface",
+      "source_regex": "\\bbabyface\\b",
+      "target_regexes": [
+        "小帅哥"
+      ],
+      "category": "character_address",
+      "speaker": "Tina / Maria（转述称呼）",
+      "addressee": "Anon",
+      "translation": "小帅哥",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "Tina 对 Anon 的专属称呼；Tony 客观描述外貌的复数 babyfaces 排除在本称呼规则外。"
+    },
+    {
+      "id": "maria_dollface",
+      "source_regex": "\\bdollface\\b",
+      "target_regexes": [
+        "美人儿"
+      ],
+      "category": "character_address",
+      "speaker": "Maria / Tony",
+      "translation": "美人儿",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "老派亲昵称呼，不是人物姓名；跨文件保持“美人儿”。"
+    },
+    {
+      "id": "vehicle_blue_falcon",
+      "source_regex": "\\b(?:The\\s+)?Blue Falcon\\b",
+      "target_regexes": [
+        "蓝色猎鹰号"
+      ],
+      "category": "proper_name",
+      "translation": "蓝色猎鹰号",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "Tony 为车辆提出并由 Anon 采用的名字。"
+    },
+    {
+      "id": "vehicle_sapphire_stallion",
+      "source_regex": "\\b(?:The\\s+)?Sapphire Stallion\\b",
+      "target_regexes": [
+        "蓝宝石种马号"
+      ],
+      "category": "proper_name",
+      "translation": "蓝宝石种马号",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "与 Blue Falcon 并列的夸张车辆候选名。"
+    },
+    {
+      "id": "vehicle_overcompensator",
+      "source_regex": "\\bThe\\s+Overcompensator\\b",
+      "target_regexes": [
+        "过度补偿者"
+      ],
+      "category": "proper_name",
+      "translation": "过度补偿者",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "豪华车的戏谑名称；已跨到 jos_trade.rpy。"
+    },
+    {
+      "id": "tony_capisce",
+      "source_regex": "\\bcapisce\\b",
+      "target_regexes": [
+        "懂(?:了)?没",
+        "明白(?:了)?(?:吗|没)",
+        "懂吗"
+      ],
+      "category": "catchphrase",
+      "speaker": "Tony",
+      "translation": "懂了没？／明白吗？（按语气）",
+      "first_seen": "tl/chinese/src/plot/ano06.rpy",
+      "note": "Tony 的意大利裔口头禅；允许按场景微调，但必须保留确认、催促或警告功能。"
+    },
+    {
+      "id": "tony_protege",
+      "source_regex": "\\bprotégé\\b",
+      "target_regexes": [
+        "徒弟"
+      ],
+      "category": "relationship_term",
+      "speaker": "Tony / Maria / Tina",
+      "addressee": "Anon",
+      "translation": "徒弟",
+      "first_seen": "tl/chinese/src/plot/ano10.rpy",
+      "note": "Tony 把 Anon 视为后辈和接班人的固定定位；不得漂移为“门徒”。"
+    },
+    {
+      "id": "food_cannoli",
+      "source_regex": "(?<!Holy )\\bcannolis?\\b",
+      "target_regexes": [
+        "意式奶油甜馅卷"
+      ],
+      "category": "food_term",
+      "translation": "意式奶油甜馅卷",
+      "first_seen": "tl/chinese/src/plot/ano10.rpy",
+      "note": "食品名称；排除感叹习语 Holy cannoli。成人双关场景仍保持同一核心食品译名。"
+    },
+    {
+      "id": "tony_mustache_ride",
+      "source_regex": "\\bmustache ride\\b",
+      "target_regexes": [
+        "骑(?:着我这两撇)?胡子"
+      ],
+      "category": "adult_wordplay",
+      "speaker": "Tony / Anon",
+      "translation": "骑胡子",
+      "first_seen": "tl/chinese/src/plot/ano10.rpy",
+      "note": "成人双关；`ano10.rpy` 和 `ano15.rpy` 已统一为“骑胡子”，保留 Anon 早期不懂含义的喜剧节奏。"
+    },
+    {
+      "id": "tony_the_plumber",
+      "source_regex": "\\bThe\\s+Plumber\\b",
+      "target_regexes": [
+        "The\\s+Plumber"
+      ],
+      "category": "proper_name",
+      "speaker": "Tony",
+      "translation": "The Plumber",
+      "first_seen": "tl/chinese/src/plot/ano11.rpy",
+      "note": "Tony 的旧黑帮绰号；人物专名保持英文原状。"
+    },
+    {
+      "id": "eddie_four_fingers",
+      "source_regex": "\\b(?:Eddie\\s+)?Four-Fingers\\b",
+      "target_regexes": [
+        "(?:Eddie\\s+)?Four-Fingers"
+      ],
+      "category": "proper_name",
+      "translation": "Eddie Four-Fingers / Four-Fingers",
+      "first_seen": "tl/chinese/src/plot/ano11.rpy",
+      "note": "旧黑帮人物的姓名与绰号；按原文出现形式保持英文。"
+    },
+    {
+      "id": "dimitri_little_bunny",
+      "source_regex": "\\blittle bunny\\b",
+      "target_regexes": [
+        "小兔子"
+      ],
+      "category": "character_address",
+      "speaker": "Dimitri",
+      "addressee": "Anon",
+      "translation": "小兔子",
+      "first_seen": "tl/chinese/src/plot/ano03.rpy",
+      "note": "Dimitri 对 Anon 的戏谑性固定称呼；不得漂移成其他兔子称谓。"
+    },
+    {
+      "id": "food_borscht",
+      "source_regex": "\\bborscht\\b",
+      "target_regexes": [
+        "罗宋汤"
+      ],
+      "category": "food_term",
+      "translation": "罗宋汤",
+      "first_seen": "tl/chinese/src/plot/ano11.rpy",
+      "note": "Igor 反复提到的俄式食品；跨文件保持核心译名。"
+    },
+    {
+      "id": "food_prosciutto",
+      "source_regex": "\\bprosciutto\\b",
+      "target_regexes": [
+        "意式风干火腿"
+      ],
+      "category": "food_term",
+      "translation": "意式风干火腿",
+      "first_seen": "tl/chinese/src/plot/ano13.rpy",
+      "note": "特殊披萨配料；不得泛化成普通“火腿”。"
+    },
+    {
+      "id": "food_gorgonzola",
+      "source_regex": "\\bgorgonzola\\b",
+      "target_regexes": [
+        "戈贡佐拉奶酪"
+      ],
+      "category": "food_term",
+      "translation": "戈贡佐拉奶酪",
+      "first_seen": "tl/chinese/src/plot/ano13.rpy",
+      "note": "特殊披萨配料；跨重复台词保持同一中文名称。"
+    },
+    {
+      "id": "food_calzone",
+      "source_regex": "\\bcalzones?\\b",
+      "target_regexes": [
+        "意式烤饺"
+      ],
+      "category": "food_term",
+      "translation": "意式烤饺",
+      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "note": "Maria 后厨食品及 Tony 的越狱笑话使用同一核心译名；`ano09.rpy`、`ano13.rpy`、`ano15.rpy` 已复核。"
+    },
+    {
+      "id": "place_beachside_apartments",
+      "source_regex": "\\bBeachside Apartments\\b",
+      "target_regexes": [
+        "海滨公寓"
+      ],
+      "category": "place_name",
+      "translation": "海滨公寓",
+      "first_seen": "tl/chinese/base_box/sets.rpy",
+      "note": "公寓地点专名；房号单独保留。"
+    },
+    {
+      "id": "ui_moderate_affection",
+      "source_regex": "\\bmoderate affection points\\b",
+      "target_regexes": [
+        "好感度中幅提升"
+      ],
+      "category": "ui_term",
+      "translation": "好感度中幅提升",
+      "first_seen": "tl/chinese/src/plot/ano12.rpy",
+      "note": "第四面墙随机奖励 UI；ano12.rpy 与 ano14.rpy 保持同一显示层级，并原样保留角色和随机数变量。"
+    },
+    {
+      "id": "tony_hydration_key",
+      "source_regex": "\\bhydration is key\\b",
+      "target_regexes": [
+        "补水最重要"
+      ],
+      "category": "catchphrase",
+      "speaker": "Tony / Anon（引述）",
+      "translation": "补水最重要",
+      "first_seen": "tl/chinese/src/plot/ano13.rpy",
+      "note": "Tony 的运动补水口号；`ano13.rpy` 与 `ano15.rpy` 保持一致。"
+    },
+    {
+      "id": "food_capicola",
+      "source_regex": "\\bcapicola\\b",
+      "target_regexes": [
+        "卡皮科拉火腿"
+      ],
+      "category": "food_term",
+      "translation": "卡皮科拉火腿",
+      "first_seen": "tl/chinese/src/plot/ano15.rpy",
+      "note": "Tony 的意大利式熟食比喻；保留食物和性双关。"
+    },
+    {
+      "id": "tony_very_tall_boy",
+      "source_regex": "Boy,\\s*boy,\\s*boy\\.\\.\\.\\s*very tall boy\\.",
+      "target_regexes": [
+        "男孩，男孩，男孩……长得高高的男孩。"
+      ],
+      "category": "coded_phrase",
+      "speaker": "Tony",
+      "translation": "男孩，男孩，男孩……长得高高的男孩。",
+      "first_seen": "tl/chinese/src/plot/ano15.rpy",
+      "note": "Tony 给 Maria 的拙劣暗号；保留三次重复和停顿。"
+    },
+    {
+      "id": "relationship_godfather",
+      "source_regex": "\\bgodfather\\b",
+      "target_regexes": [
+        "教父"
+      ],
+      "category": "relationship_term",
+      "speaker": "Tony / Anon",
+      "translation": "教父",
+      "first_seen": "tl/chinese/src/plot/ano16.rpy",
+      "note": "Anon 与 Tony/Maria 孩子的固定关系身份；同时承接 Tony 的黑帮背景和《教父》笑点，不改成“干爹”。"
+    },
+    {
+      "id": "tony_workplace_seminar",
+      "source_regex": "\\b(?:workplace seminar|the seminar)\\b",
+      "target_regexes": [
+        "职场性骚扰培训",
+        "别再让我去培训"
+      ],
+      "category": "recurring_joke",
+      "speaker": "Maria / Tony",
+      "translation": "职场性骚扰培训",
+      "first_seen": "tl/chinese/src/plot/ano15.rpy",
+      "note": "Maria 因 Tony 对员工说露骨话而威胁送他参加的职场性骚扰培训；Tony 的恐惧来自曾被强制培训，不是两人的性交暗语。"
+    },
+    {
+      "id": "place_consum_r",
+      "source_regex": "\\bConsum-R\\b",
+      "target_regexes": [
+        "Consum-R"
+      ],
+      "category": "proper_name",
+      "translation": "Consum-R",
+      "first_seen": "tl/chinese/src/plot/ano01.rpy",
+      "note": "商场店名；保持英文原拼写、大小写和连字符，不翻译、不插入中文音译。"
+    }
+  ]
+}
