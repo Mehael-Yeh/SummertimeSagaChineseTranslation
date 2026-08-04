@@ -65,6 +65,16 @@
 | `masturbation` / `masturbate` | 自慰 | 直接、中性地表达行为，不净化为“解决需求”等含糊说法 |
 | `panties` / `underwear` | 内裤 | 按单复数和指代自然组织中文；`mom panties` 可译“妈妈穿的内裤”，不使用生硬的“妈妈内裤” |
 
+## Debbie 线商场专名与调侃
+
+| 英文 | 统一中文 | 说明 |
+|---|---|---|
+| Cupid | Cupid | 商场女装精品店名称，保持英文 |
+| FunBiz Pizzeria Pub | FunBiz披萨酒吧 | Debbie 十六岁时第一份工作的地点；`FunBiz` 保持英文 |
+| Billy-bear | Billy-bear | FunBiz 舞台吉祥物名称，保持英文拼写和连字符 |
+| Rock-a-Billy Pants Explosion | Rock-a-Billy Pants Explosion | FunBiz 的拟人动物乐队名称，保持英文原名 |
+| Casanova（Kassy 调侃 Anon） | 情圣 | 泛称式调侃，不使用中文音译“卡萨诺瓦” |
+
 ## Ren’Py 特殊内容
 
 - `[变量]`、`{标签}`、`%(变量)s`、`%s`、`%d`、转义字符和文本标签必须与英文源字符串保持同一集合和拼写。
