@@ -289,7 +289,7 @@ translate chinese strings:
     new "我越快找到301越好，这怪物开始闻起来都香了！"
     # game/res/meta/step.rpym:232
     old "I can't believe [saga.cast.tony] set me up with an \"extra sausage\" order for [saga.cast.tina]—and that she's [saga.cast.becca]'s mom! Does this mean I'm some kind of pizza gigolo now?!"
-    new "真不敢相信[saga.cast.tony]给我安排了给[saga.cast.tina]的「额外香肠」订单——而且她还是[saga.cast.becca]的妈妈！难道我现在成了披萨小白脸了？！"
+    new "真不敢相信[saga.cast.tony]给我安排了给[saga.cast.tina]的“额外香肠”订单——而且她还是[saga.cast.becca]的妈妈！难道我现在成了披萨小白脸了？！"
     # game/res/meta/step.rpym:235
     old "I hope the adoption meeting is going well for [saga.cast.tony] and [saga.cast.maria]."
     new "希望[saga.cast.tony]和[saga.cast.maria]的领养会面进展顺利。"
@@ -502,7 +502,7 @@ translate chinese strings:
     new "不知道[saga.cast.barb]为我的参赛作品准备了什么主题？"
     # game/res/meta/step.rpym:395
     old "I'll bet \"prep\" is code for more annoying busy work."
-    new "我敢打赌「准备」就是更多烦人杂务的代号。"
+    new "我敢打赌“准备”就是更多烦人杂务的代号。"
     # game/res/meta/step.rpym:398
     old "I wonder if [saga.cast.mia] will be helping this afternoon?"
     new "不知道今天下午[saga.cast.mia]会不会来帮忙？"
@@ -1579,7 +1579,7 @@ translate chinese strings:
     new "与[saga.cast.judith]谈谈长笛。"
     # game/res/meta/step.rpym:1338
     old "Judith plays the flute? She really is full of surprises that one."
-    new "朱迪丝会吹长笛？她可真是让人捉摸不透。"
+    new "Judith会吹长笛？她还真是总能让人意外。"
     # game/res/meta/step.rpym:1341
     old "Oh well, I guess I'll check in with her later and hope she remembers it."
     new "算了，我还是晚点再找她吧，希望她还记得。"
@@ -2053,7 +2053,7 @@ translate chinese strings:
     new "可怜的[saga.cast.viv]。没人想被叫到校长办公室，连老师也不例外！"
     # game/res/meta/step.rpym:1698
     old "Fromage means cheese... I wonder what's French for boobies?"
-    new "Fromage是奶酪的意思……我想知道法语里「咪咪」怎么说？"
+    new "Fromage是奶酪的意思……我想知道法语里“咪咪”怎么说？"
     # game/res/meta/step.rpym:1703
     old "Enter the library in the afternoon."
     new "下午进入图书馆。"

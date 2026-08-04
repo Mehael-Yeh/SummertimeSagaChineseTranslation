@@ -3,8 +3,8 @@ translate chinese strings:
 
     # game/src/game.rpy:2
     old "anon"
-    new "匿名"
+    new "anon"
 
     # game/src/game.rpy:2
     old "Anon"
-    new "匿名"
+    new "Anon"

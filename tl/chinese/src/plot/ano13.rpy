@@ -33,35 +33,35 @@ translate chinese ano13_delay1_155de1e3:
 
 
     # anon @ -m_talk "( Ooh, it's time! )"
-    anon @ -m_talk "(哦，是时候了！)"
+    anon @ -m_talk "(哦，到时间了！)"
 
 # game/src/plot/ano13.rpy:34
 translate chinese ano13_delay1_e3b5298a:
 
 
     # anon f_calm @ -m_talk "( I should ask [saga.cast.tony] about that job he was on about... )"
-    anon f_calm @ -m_talk "(我应该问问[saga.cast.tony]他说的那个活儿...)"
+    anon f_calm @ -m_talk "(我该去问问[saga.cast.tony]之前说的那个活儿……)"
 
 # game/src/plot/ano13.rpy:36
 translate chinese ano13_delay1_86c1b2cb:
 
 
     # anon f_calm @ -m_talk "( I should get back to the pizzeria for that job [saga.cast.tony] was on about... )"
-    anon f_calm @ -m_talk "(我应该回披萨店去干[saga.cast.tony]说的那个活儿...)"
+    anon f_calm @ -m_talk "(我该回披萨店，去做[saga.cast.tony]之前说的那个活儿……)"
 
 # game/src/plot/ano13.rpy:38
 translate chinese ano13_delay1_51bf3a53:
 
 
     # anon a_think e_nw f_pensive @ -m_talk "( ... Wonder what it could be? )"
-    anon a_think e_nw f_pensive @ -m_talk "(...不知道会是什么？)"
+    anon a_think e_nw f_pensive @ -m_talk "(……会是什么事呢？)"
 
 # game/src/plot/ano13.rpy:45
 translate chinese ano13_delay1_maria_e5c6cb39:
 
 
     # anon f_confused "You know anything about this job [saga.cast.tony] has lined up for me?"
-    anon f_confused "你知道[saga.cast.tony]给我安排的这个活儿是什么吗？"
+    anon f_confused "你知道[saga.cast.tony]给我安排的是什么活儿吗？"
 
 # game/src/plot/ano13.rpy:46
 translate chinese ano13_delay1_maria_793c9df7:
@@ -75,21 +75,21 @@ translate chinese ano13_delay1_maria_49031f67:
 
 
     # anon a_wtf "I don't know, he's just being real cryptic about it."
-    anon a_wtf "我不知道，他就是对这事守口如瓶。"
+    anon a_wtf "不知道，他只把这事说得神神秘秘的。"
 
 # game/src/plot/ano13.rpy:48
 translate chinese ano13_delay1_maria_7ba8d488:
 
 
     # maria a_side "Tsk, what is that silly man up to now?"
-    maria a_side "啧，那个傻男人又在搞什么鬼？"
+    maria a_side "啧，那傻男人这回又在搞什么鬼？"
 
 # game/src/plot/ano13.rpy:50
 translate chinese ano13_delay1_maria_c470f332:
 
 
     # maria "He knows we got-"
-    maria "他知道我们——"
+    maria "他明知道我们还得——"
 
 # game/src/plot/ano13.rpy:52
 translate chinese ano13_delay1_maria_2a164cf2:
@@ -103,28 +103,28 @@ translate chinese ano13_delay1_maria_ae670be0:
 
 
     # maria a_fold_whatever e_b f_calm "No, I'm not stressin' over anything else..."
-    maria a_fold_whatever e_b f_calm "不，我不会为别的事烦心……"
+    maria a_fold_whatever e_b f_calm "不，别再为别的事操心了……"
 
 # game/src/plot/ano13.rpy:54
 translate chinese ano13_delay1_maria_36632f2e:
 
 
     # maria a_fold e_w "... Whatever it is, just do your best, okay?"
-    maria a_fold e_w "……不管是什么，尽力而为，好吗？"
+    maria a_fold e_w "……不管是什么，你尽力就好，行吗？"
 
 # game/src/plot/ano13.rpy:55
 translate chinese ano13_delay1_maria_20a07653:
 
 
     # maria f_shy "Do it for me?"
-    maria f_shy "为了我？"
+    maria f_shy "就当是为了我？"
 
 # game/src/plot/ano13.rpy:56
 translate chinese ano13_delay1_maria_204a1d54:
 
 
     # anon f_shy "Y-yeah, of course."
-    anon f_shy "是——是的，当然。"
+    anon f_shy "当、当然。"
 
 # game/src/plot/ano13.rpy:57
 translate chinese ano13_delay1_maria_297ab6e5:
@@ -138,28 +138,28 @@ translate chinese ano13_delay1_tony_0f266755:
 
 
     # anon f_curious "You mentioned something about a job?"
-    anon f_curious "你提到过工作的事？"
+    anon f_curious "你之前说有个活儿要我做？"
 
 # game/src/plot/ano13.rpy:63
 translate chinese ano13_delay1_tony_1f85460d:
 
 
     # tony "Yeah, this evening."
-    tony "嗯，今晚吧。"
+    tony "对，今晚。"
 
 # game/src/plot/ano13.rpy:64
 translate chinese ano13_delay1_tony_4ee84efc:
 
 
     # tony "Come back once the sun starts goin' down, champ."
-    tony "等太阳下山了再回来吧，冠军。"
+    tony "太阳开始下山时再回来，冠军。"
 
 # game/src/plot/ano13.rpy:72
 translate chinese ano13_shop1_d8c4acaa:
 
 
     # maria "Tsk, we should have gotten you a nice dress shirt and tie."
-    maria "啧，我们应该给你买件好衬衫和领带的。"
+    maria "啧，早知道就该给你买件像样的正装衬衫，再配条领带。"
 
 # game/src/plot/ano13.rpy:73
 translate chinese ano13_shop1_3747e427:
@@ -173,7 +173,7 @@ translate chinese ano13_shop1_aece7794:
 
 
     # tony a_wide "Darlin', it's a meetin' with the adoption agency, not the Pope."
-    tony a_wide "亲爱的，这是去领养机构见面，不是见教皇。"
+    tony a_wide "亲爱的，这是去见领养机构的人，又不是去见教皇。"
 
 # game/src/plot/ano13.rpy:75
 translate chinese ano13_shop1_a7e99680:
@@ -187,7 +187,7 @@ translate chinese ano13_shop1_d6d88043:
 
 
     # maria "If these people don't like us, we'll never get a kid."
-    maria "如果这些人不喜欢我们，我们永远领养不到孩子。"
+    maria "要是他们不喜欢我们，我们就永远领养不到孩子了。"
 
 # game/src/plot/ano13.rpy:78
 translate chinese ano13_shop1_0dffec10:
@@ -229,14 +229,14 @@ translate chinese ano13_shop1_27177c04:
 
 
     # anon "I didn't realize you guys had decided."
-    anon "我不知道你们已经决定了。"
+    anon "我还不知道你们已经决定要领养了。"
 
 # game/src/plot/ano13.rpy:87
 translate chinese ano13_shop1_921723b4:
 
 
     # tony a_calm_down "Whoa, now!"
-    tony a_calm_down "哇，慢着！"
+    tony a_calm_down "等等！"
 
 # game/src/plot/ano13.rpy:88
 translate chinese ano13_shop1_1d54f3c9:
@@ -250,14 +250,14 @@ translate chinese ano13_shop1_3e12567c:
 
 
     # tony a_wtf "We're just checkin' the place out, you know?"
-    tony a_wtf "我们只是去看看情况，你懂吧？"
+    tony a_wtf "我们只是先去看看情况，懂吧？"
 
 # game/src/plot/ano13.rpy:90
 translate chinese ano13_shop1_f2fbebd0:
 
 
     # tony "Lettin' em give us the sales pitch."
-    tony "听听他们怎么推销。"
+    tony "先听听他们那套说辞。"
 
 # game/src/plot/ano13.rpy:92
 translate chinese ano13_shop1_bcf45361:
@@ -285,21 +285,21 @@ translate chinese ano13_shop1_a9b1ef18:
 
 
     # tony f_sad o_left "Tsk, you're bein' ridiculous."
-    tony f_sad o_left "啧，你真是不可理喻。"
+    tony f_sad o_left "啧，你这是瞎担心。"
 
 # game/src/plot/ano13.rpy:96
 translate chinese ano13_shop1_084502d6:
 
 
     # tony f_calm "I ain't never met a person that'd make a better mother than you."
-    tony f_calm "我从来没见过比你更适合当妈的人。"
+    tony f_calm "我就没见过比你更适合当妈妈的人。"
 
 # game/src/plot/ano13.rpy:97
 translate chinese ano13_shop1_60a448b1:
 
 
     # tony e_e "Back me up here, champ!"
-    tony e_e "帮我说话啊，冠军！"
+    tony e_e "你也帮我劝劝她，冠军！"
 
 # game/src/plot/ano13.rpy:98
 translate chinese ano13_shop1_7fe6a8f9:
@@ -313,14 +313,14 @@ translate chinese ano13_shop1_00b43e50:
 
 
     # anon f_happy "Oh, yeah... totally!"
-    anon f_happy "哦，对……完全同意！"
+    anon f_happy "哦，对……当然了！"
 
 # game/src/plot/ano13.rpy:100
 translate chinese ano13_shop1_87b62236:
 
 
     # anon "You're going to make a great mom, [saga.cast.maria]!"
-    anon "你会成为一个好妈妈的，[saga.cast.maria]！"
+    anon "你一定会成为一个好妈妈的，[saga.cast.maria]！"
 
 # game/src/plot/ano13.rpy:102
 translate chinese ano13_shop1_dc455c30:
@@ -355,7 +355,7 @@ translate chinese ano13_shop1_613fe461:
 
 
     # tony "You got all that paperwork they requested?"
-    tony "你要的文件都准备好了吗？"
+    tony "他们要求的那些材料，你都带齐了吧？"
 
 # game/src/plot/ano13.rpy:107
 translate chinese ano13_shop1_9fad012f:
@@ -383,7 +383,7 @@ translate chinese ano13_shop1_bca9df79:
 
 
     # tony "Well, why don't you double-check while I get [saga.cast.anon] set up for his final delivery, eh?"
-    tony "好吧，不如你趁我给[saga.cast.anon]准备最后交货前再确认一遍，嗯？"
+    tony "这样吧，你再检查一遍，我去给[saga.cast.anon]准备最后一趟送餐，好吗？"
 
 # game/src/plot/ano13.rpy:111
 translate chinese ano13_shop1_d4be013a:
@@ -418,7 +418,7 @@ translate chinese ano13_shop1_422cff17:
 
 
     # tony "The appointment ain't even 'til tomorrow morning!"
-    tony "预约又不是明天早上！"
+    tony "面谈明早才开始呢！"
 
 # game/src/plot/ano13.rpy:127
 translate chinese ano13_shop1_ab4396d8:
@@ -446,7 +446,7 @@ translate chinese ano13_shop1_acbd5a01:
 
 
     # tony "Heh, you have no idea."
-    tony "呵，你根本不懂。"
+    tony "呵，你根本想象不到。"
 
 # game/src/plot/ano13.rpy:131
 translate chinese ano13_shop1_ea96b54e:
@@ -474,14 +474,14 @@ translate chinese ano13_shop1_0cf36bb8:
 
 
     # tony "But she wants it so bad, ain't much of what I say gettin' through."
-    tony "可她太想要了，我说的话她根本听不进去。"
+    tony "可她太想要个孩子了，我说什么都听不进去。"
 
 # game/src/plot/ano13.rpy:135
 translate chinese ano13_shop1_4c15e406:
 
 
     # tony f_sceptical "Then we had the whole hotel debacle."
-    tony f_sceptical "然后还有那整场酒店闹剧。"
+    tony f_sceptical "后来订酒店又折腾了一通。"
 
 # game/src/plot/ano13.rpy:136
 translate chinese ano13_shop1_83b13e2c:
@@ -495,14 +495,14 @@ translate chinese ano13_shop1_5201f427:
 
 
     # tony "Yeah, the only appointment they had was first thing in the mornin', so we had to scramble and book a room."
-    tony "是啊，他们只有早上有空，所以我们手忙脚乱地订了个房间。"
+    tony "对方只剩明早第一场面谈有空，我们只好临时抢订了一间房。"
 
 # game/src/plot/ano13.rpy:138
 translate chinese ano13_shop1_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:139
 translate chinese ano13_shop1_48e96490:
@@ -516,7 +516,7 @@ translate chinese ano13_shop1_25ab825b:
 
 
     # tony "It'll all work out..."
-    tony "一切都会解决的……"
+    tony "一切都会顺利的……"
 
 # game/src/plot/ano13.rpy:142
 translate chinese ano13_shop1_9cf64f11:
@@ -530,7 +530,7 @@ translate chinese ano13_shop1_9565aece:
 
 
     # tony "This first meeting is mostly a formality anyways."
-    tony "反正第一次会议基本上只是走个形式。"
+    tony "反正第一次面谈主要就是走个过场。"
 
 # game/src/plot/ano13.rpy:144
 translate chinese ano13_shop1_00c3d85e:
@@ -544,7 +544,7 @@ translate chinese ano13_shop1_0f851c13:
 
 
     # anon "You two are great, and you deserve a family."
-    anon "你们两个很棒，值得拥有一个家庭。"
+    anon "你们人这么好，理应拥有一个完整的家。"
 
 # game/src/plot/ano13.rpy:147
 translate chinese ano13_shop1_281387df:
@@ -572,7 +572,7 @@ translate chinese ano13_shop1_83e40848:
 
 
     # anon "Any kid would be lucky to have you as a dad."
-    anon "有你这样当爸爸，哪个孩子都会很幸运。"
+    anon "谁能有你这样的爸爸，肯定很幸运。"
 
 # game/src/plot/ano13.rpy:152
 translate chinese ano13_shop1_d95b4693:
@@ -586,7 +586,7 @@ translate chinese ano13_shop1_f37628cb:
 
 
     # tony "Ya tryin' to get all mushy on me?"
-    tony "你是想让我变得肉麻兮兮的吗？"
+    tony "非得把我弄得这么肉麻吗？"
 
 # game/src/plot/ano13.rpy:157
 translate chinese ano13_shop1_6695179e:
@@ -600,7 +600,7 @@ translate chinese ano13_shop1_cbd88c1a:
 
 
     # tony "Get outta here!"
-    tony "快别说了！"
+    tony "去去去！"
 
 # game/src/plot/ano13.rpy:162
 translate chinese ano13_shop1_4aa387dd:
@@ -642,35 +642,35 @@ translate chinese ano13_shop1_aebbbb33:
 
 
     # tony "While we're off jumpin' through hoops for this adoption business..."
-    tony "趁我们忙着办领养手续的时候……"
+    tony "趁我们忙着办领养手续……"
 
 # game/src/plot/ano13.rpy:172
 translate chinese ano13_shop1_7e664699:
 
 
     # tony "... I need you to handle a special job for me."
-    tony "我需要你帮我处理一件特殊的任务。"
+    tony "……你得替我办一件特殊的差事。"
 
 # game/src/plot/ano13.rpy:173
 translate chinese ano13_shop1_32808e9c:
 
 
     # anon a_rub c_casual "Special job?"
-    anon a_rub c_casual "特殊的任务？"
+    anon a_rub c_casual "特殊差事？"
 
 # game/src/plot/ano13.rpy:174
 translate chinese ano13_shop1_05f1e2ab:
 
 
     # anon "S-sure."
-    anon "好……好的。"
+    anon "好、好。"
 
 # game/src/plot/ano13.rpy:175
 translate chinese ano13_shop1_5762f28a:
 
 
     # anon a_salute "I mean, anything you need, [saga.cast.tony]."
-    anon a_salute "我的意思是，你需要什么都可以，[saga.cast.tony]。"
+    anon a_salute "我是说，只要你开口，什么都行，[saga.cast.tony]。"
 
 # game/src/plot/ano13.rpy:176
 translate chinese ano13_shop1_8074b2ac:
@@ -691,7 +691,7 @@ translate chinese ano13_shop1_7f1feaf6:
 
 
     # tony "You see, we got a special order in for a custom pie."
-    tony "你看，我们接到了一份特别的订单，要做一个定制披萨。"
+    tony "事情是这样，我们接了份特殊订单，要做张定制披萨。"
 
 # game/src/plot/ano13.rpy:183
 translate chinese ano13_shop1_63089e37:
@@ -705,14 +705,14 @@ translate chinese ano13_shop1_24cd3335:
 
 
     # tony "Mhmm, it's a pear, prosciutto, and gorgonzola pizza."
-    tony "嗯哼，是一个梨、意式火腿和戈贡佐拉奶酪披萨。"
+    tony "嗯哼，是梨、意式风干火腿和戈贡佐拉奶酪披萨。"
 
 # game/src/plot/ano13.rpy:188
 translate chinese ano13_shop1_fce438f0:
 
 
     # anon f_sceptical @ e_wsw "Pears and stinky cheese?!"
-    anon f_sceptical @ e_wsw "梨子和臭奶酪？！"
+    anon f_sceptical @ e_wsw "梨和臭奶酪？！"
 
 # game/src/plot/ano13.rpy:192
 translate chinese ano13_shop1_2a86da29:
@@ -733,7 +733,7 @@ translate chinese ano13_shop1_32babd25:
 
 
     # tony a_point_up "But this customer is a regular for us, and just so happens to know where my old pal, Eddie Four-Fingers, is hidin' out."
-    tony a_point_up "不过这位顾客是我们的熟客，而且正好知道我的老伙计Eddie·四指藏在哪里。"
+    tony a_point_up "不过这位客人是我们的熟客，碰巧还知道我的老伙计Eddie Four-Fingers躲在哪儿。"
 
 # game/src/plot/ano13.rpy:197
 translate chinese ano13_shop1_a0a82e5f:
@@ -768,14 +768,14 @@ translate chinese ano13_shop1_91ed1a20:
 
 
     # tony f_calm "Heh, I thought you'd like that."
-    tony f_calm "嘿，我就知道你会喜欢。"
+    tony f_calm "呵，我就知道你会高兴。"
 
 # game/src/plot/ano13.rpy:202
 translate chinese ano13_shop1_0b894233:
 
 
     # tony "And it's why I think it's only fittin' you make the delivery."
-    tony "所以我觉得让你去送货最合适。"
+    tony "所以我觉得，这一趟由你来送最合适。"
 
 # game/src/plot/ano13.rpy:203
 translate chinese ano13_shop1_61a4d5e9:
@@ -803,14 +803,14 @@ translate chinese ano13_shop1_38414fd2:
 
 
     # anon "So what's the play?!"
-    anon "那计划是什么？！"
+    anon "那具体怎么做？！"
 
 # game/src/plot/ano13.rpy:216
 translate chinese ano13_shop1_93adedf2:
 
 
     # anon "Do I gotta interrogate 'em or something?!"
-    anon "我得审问他们还是什么？！"
+    anon "我要审问对方什么的吗？！"
 
 # game/src/plot/ano13.rpy:217
 translate chinese ano13_shop1_0f7f14fc:
@@ -824,21 +824,21 @@ translate chinese ano13_shop1_5c3c4938:
 
 
     # anon "Yeah, you know..."
-    anon "是啊，你知道的..."
+    anon "对啊，就是……"
 
 # game/src/plot/ano13.rpy:219
 translate chinese ano13_shop1_10204ee7:
 
 
     # anon "... I'll put the screws to them!"
-    anon "...我会给他们点颜色看看！"
+    anon "……给对方上点手段！"
 
 # game/src/plot/ano13.rpy:220
 translate chinese ano13_shop1_817e8421:
 
 
     # tony f_surprised @ -m_talk "..."
-    tony f_surprised @ -m_talk "..."
+    tony f_surprised @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:222
 translate chinese ano13_shop1_19f4951b:
@@ -852,7 +852,7 @@ translate chinese ano13_shop1_430a4d76:
 
 
     # tony "What do you think this is champ, a mob movie?"
-    tony "你觉得这是什么，冠军，黑帮电影吗？"
+    tony "冠军，你当这是黑帮电影呢？"
 
 # game/src/plot/ano13.rpy:226
 translate chinese ano13_shop1_229b3d5c:
@@ -866,21 +866,21 @@ translate chinese ano13_shop1_eb780b0f_1:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:228
 translate chinese ano13_shop1_4de20a45:
 
 
     # tony e_w -m_laugh "All you gotta do is deliver the pie and then follow their directions..."
-    tony e_w -m_laugh "你只需要把披萨送到，然后听他们的指示就行..."
+    tony e_w -m_laugh "你只管把披萨送到，然后照对方说的做……"
 
 # game/src/plot/ano13.rpy:230
 translate chinese ano13_shop1_1200d996:
 
 
     # tony "... Piece of cake."
-    tony "...小菜一碟。"
+    tony "……就这么简单。"
 
 # game/src/plot/ano13.rpy:231
 translate chinese ano13_shop1_1aa1cca1:
@@ -894,7 +894,7 @@ translate chinese ano13_shop1_2db705c8:
 
 
     # anon e_s "Y-yeah, okay."
-    anon e_s "好...好吧。"
+    anon e_s "好、好吧。"
 
 # game/src/plot/ano13.rpy:233
 translate chinese ano13_shop1_25e51078:
@@ -922,21 +922,21 @@ translate chinese ano13_shop1_830a0399:
 
 
     # tony a_hips "You know that new housing complex on the south side of town?"
-    tony a_hips "你认识镇南边那个新住宅区吗？"
+    tony a_hips "镇南边那个新建的公寓区，你知道吧？"
 
 # game/src/plot/ano13.rpy:238
 translate chinese ano13_shop1_4c45fedf:
 
 
     # tony "Apartment 301."
-    tony "301号公寓。"
+    tony "301室。"
 
 # game/src/plot/ano13.rpy:239
 translate chinese ano13_shop1_75cee5c7:
 
 
     # anon "Housing complex. South side of town. Apartment 301."
-    anon "住宅区。镇南边。301号公寓。"
+    anon "镇南边的新公寓区，301室。"
 
 # game/src/plot/ano13.rpy:240
 translate chinese ano13_shop1_7f83e673:
@@ -950,21 +950,21 @@ translate chinese ano13_shop1_73fab975:
 
 
     # tony "And remember, champ..."
-    tony "记住，冠军..."
+    tony "记住，冠军……"
 
 # game/src/plot/ano13.rpy:245
 translate chinese ano13_shop1_2ba04e42:
 
 
     # tony "... Whatever they ask, capisce?"
-    tony "...不管他们问什么，懂吗？"
+    tony "……不管对方提什么要求，都照办，明白吗？"
 
 # game/src/plot/ano13.rpy:246
 translate chinese ano13_shop1_99a5fb0c:
 
 
     # anon "You got it."
-    anon "你懂的。"
+    anon "明白。"
 
 # game/src/plot/ano13.rpy:250
 translate chinese ano13_shop1_a00f7ca0:
@@ -992,28 +992,28 @@ translate chinese ano13_shop1_4ac8f8d6:
 
 
     # tony "Trust me, hydration is key!"
-    tony "相信我，补水很重要！"
+    tony "相信我，补水最重要！"
 
 # game/src/plot/ano13.rpy:256
 translate chinese ano13_shop1_40dc6657:
 
 
     # anon f_sceptical @ -m_talk "..."
-    anon f_sceptical @ -m_talk "..."
+    anon f_sceptical @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:257
 translate chinese ano13_shop1_6f17e6b7:
 
 
     # tony @ e_b_w f_horny "You'll thank me later."
-    tony @ e_b_w f_horny "你以后会感谢我的。"
+    tony @ e_b_w f_horny "过后你会感谢我的。"
 
 # game/src/plot/ano13.rpy:258
 translate chinese ano13_shop1_292517ff:
 
 
     # anon f_confused "O-kay?"
-    anon f_confused "好吧？"
+    anon f_confused "好、好吧？"
 
 # game/src/plot/ano13.rpy:259
 translate chinese ano13_shop1_93881f3d:
@@ -1027,21 +1027,21 @@ translate chinese ano13_shop1_13e3af24:
 
 
     # anon @ -m_talk "( Oh man, this is so awesome! )"
-    anon @ -m_talk "(哦，老天，这太棒了！)"
+    anon @ -m_talk "(天啊，这也太带劲了！)"
 
 # game/src/plot/ano13.rpy:268
 translate chinese ano13_shop1_776ad52c:
 
 
     # anon @ -m_talk "( I wonder who this contact could be? )"
-    anon @ -m_talk "(我想知道这个联系人会是谁？)"
+    anon @ -m_talk "(不知道这位联系人会是什么人？)"
 
 # game/src/plot/ano13.rpy:271
 translate chinese ano13_shop1_bf8c90cd:
 
 
     # anon @ -m_talk "( Maybe it's like, a retired assassin or famous wheelman? )"
-    anon @ -m_talk "(也许是个退休的杀手或者著名的飞车党？)"
+    anon @ -m_talk "(说不定是退休杀手，或是大名鼎鼎的车手？)"
 
 # game/src/plot/ano13.rpy:272
 translate chinese ano13_shop1_63f59407:
@@ -1055,14 +1055,14 @@ translate chinese ano13_shop1_ffa79274:
 
 
     # anon @ -m_talk "( Whoever it is, he has weird taste in pizza. )"
-    anon @ -m_talk "(不管是谁，他对披萨的品味真怪。)"
+    anon @ -m_talk "(不管是谁，口味可真怪。)"
 
 # game/src/plot/ano13.rpy:276
 translate chinese ano13_shop1_8b25fecc:
 
 
     # anon @ -m_talk "( Pear, prosciutto, and gorgonzola on a pizza? )"
-    anon @ -m_talk "(梨子、意大利熏火腿和戈尔根朱勒干酪放在披萨上？)"
+    anon @ -m_talk "(居然把梨、意式风干火腿和戈贡佐拉奶酪放在披萨上？)"
 
 # game/src/plot/ano13.rpy:277
 translate chinese ano13_shop1_3a68b259:
@@ -1076,14 +1076,14 @@ translate chinese ano13_shop1_82c8ee60:
 
 
     # anon e_w f_worried @ -m_talk "( I should head straight there. )"
-    anon e_w f_worried @ -m_talk "(我应该直接去那里。)"
+    anon e_w f_worried @ -m_talk "(得马上赶过去。)"
 
 # game/src/plot/ano13.rpy:280
 translate chinese ano13_shop1_b3ed56de:
 
 
     # anon f_worried_surprised @ -m_talk "( Don't wanna screw up my chance to learn what happened to Dad. )"
-    anon f_worried_surprised @ -m_talk "(我可不想搞砸了解父亲下落的机会。)"
+    anon f_worried_surprised @ -m_talk "(这可是查清爸爸遭遇的机会，绝不能搞砸。)"
 
 # game/src/plot/ano13.rpy:291
 translate chinese ano13_shop1_rails_12b7fccd:
@@ -1097,7 +1097,7 @@ translate chinese ano13_shop1_rails_71c7e830:
 
 
     # anon @ -m_talk "( ... I should go see what's up. )"
-    anon @ -m_talk "(……我该去看看怎么回事。)"
+    anon @ -m_talk "(……我得去看看是什么事。)"
 
 # game/src/plot/ano13.rpy:296
 translate chinese ano13_shop1_rails_18d0aab2:
@@ -1118,14 +1118,14 @@ translate chinese ano13_apts_b38ac833:
 
 
     # anon @ -m_talk "( Here we are. )"
-    anon @ -m_talk "(我们到了。)"
+    anon @ -m_talk "(到了。)"
 
 # game/src/plot/ano13.rpy:308
 translate chinese ano13_apts_7567c2cd:
 
 
     # anon e_sw f_happy "Don't worry Mr. Pizza, I'll have you delivered in a jiffy!"
-    anon e_sw f_happy "别担心，披萨先生，我马上把你送到！"
+    anon e_sw f_happy "别担心，披萨先生，保证马上把你送到！"
 
 # game/src/plot/ano13.rpy:317
 translate chinese ano13_apts_rails_a9ba195e:
@@ -1139,21 +1139,21 @@ translate chinese ano13_apts_rails_a5618a75:
 
 
     # anon e_w @ -m_talk "( I should head over to Beachside Apartments. )"
-    anon e_w @ -m_talk "(我该去海滩公寓。)"
+    anon e_w @ -m_talk "(我该去海滨公寓。)"
 
 # game/src/plot/ano13.rpy:327
 translate chinese ano13_lobby_4c6b775d:
 
 
     # anon @ -m_talk "( This is definitely the place, time to find apartment 301. )"
-    anon @ -m_talk "(肯定是这里，找到301号公寓。)"
+    anon @ -m_talk "(就是这里。该去找301室了。)"
 
 # game/src/plot/ano13.rpy:336
 translate chinese ano13_lobby_rails_df7cd18b:
 
 
     # anon @ -m_talk "( We really need that info, I can't bail now! )"
-    anon @ -m_talk "(我们真的需要那个信息，我现在不能退缩！)"
+    anon @ -m_talk "(情报非拿到不可，现在不能打退堂鼓！)"
 
 # game/src/plot/ano13.rpy:345
 translate chinese ano13_lounge_64ef6c07:
@@ -1167,14 +1167,14 @@ translate chinese ano13_lounge_bca3ac64:
 
 
     # "*Knock* *Knock*"
-    "*敲门声* *敲门声*"
+    "*咚咚*"
 
 # game/src/plot/ano13.rpy:348
 translate chinese ano13_lounge_e35d5eae:
 
 
     # anon a_pizza @ -m_talk "( Hopefully this doesn't take long because I'm starving! )"
-    anon a_pizza @ -m_talk "(希望不会太久，我快饿死了！)"
+    anon a_pizza @ -m_talk "(希望别耽搁太久，我快饿死了！)"
 
 # game/src/plot/ano13.rpy:350
 translate chinese ano13_lounge_ca3a4d62:
@@ -1188,7 +1188,7 @@ translate chinese ano13_lounge_bca3ac64_1:
 
 
     # "*Knock* *Knock*"
-    "*敲门声* *敲门声*"
+    "*咚咚*"
 
 # game/src/plot/ano13.rpy:353
 translate chinese ano13_lounge_27a27cc1:
@@ -1202,14 +1202,14 @@ translate chinese ano13_lounge_28db2891:
 
 
     # anon a_pizza_knock "Is anybody-"
-    anon a_pizza_knock "有——哦，天哪！"
+    anon a_pizza_knock "有、有人吗——"
 
 # game/src/plot/ano13.rpy:358
 translate chinese ano13_lounge_adfda5dc:
 
 
     # anon @ -m_talk "H-OH MY GOD!"
-    anon @ -m_talk "嘿，娃娃脸。"
+    anon @ -m_talk "我、我的天哪！"
 
 # game/src/plot/ano13.rpy:363
 translate chinese ano13_lounge_ac5f9504:
@@ -1223,21 +1223,21 @@ translate chinese ano13_lounge_de5caaa3:
 
 
     # anon "[saga.cast.tina]?!"
-    anon "[saga.cast.tina]?!"
+    anon "[saga.cast.tina]？！"
 
 # game/src/plot/ano13.rpy:365
 translate chinese ano13_lounge_f6ef4111:
 
 
     # tina "Hey there, babyface."
-    tina "嘿，娃娃脸。"
+    tina "嘿，小帅哥。"
 
 # game/src/plot/ano13.rpy:366
 translate chinese ano13_lounge_7d35e67a:
 
 
     # anon "{i}*Gulp*{/i}"
-    anon "{i}*咕噜*{/i}"
+    anon "{i}*咽口水*{/i}"
 
 # game/src/plot/ano13.rpy:367
 translate chinese ano13_lounge_a537a251:
@@ -1258,7 +1258,7 @@ translate chinese ano13_lounge_21e7a4f7:
 
 
     # tina "Pear and prosciutto, gorgonzola?"
-    tina "梨子、意大利熏火腿和戈尔根朱勒干酪？"
+    tina "梨、意式风干火腿和戈贡佐拉奶酪？"
 
 # game/src/plot/ano13.rpy:370
 translate chinese ano13_lounge_0362d4f4:
@@ -1272,7 +1272,7 @@ translate chinese ano13_lounge_eb7bad32:
 
 
     # tina "Extra sausage on the side?"
-    tina "额外加了一份香肠？"
+    tina "另外还加一根“香肠”吗？"
 
 # game/src/plot/ano13.rpy:372
 translate chinese ano13_lounge_b2973f78:
@@ -1314,7 +1314,7 @@ translate chinese ano13_lounge_2d7c094c:
 
 
     # tina f_horny "Why don't you come inside and we'll see if we can work something out."
-    tina f_horny "为什么不进来看看，也许我们能想出个办法。"
+    tina f_horny "进来吧，看看我们能不能商量出个办法。"
 
 # game/src/plot/ano13.rpy:379
 translate chinese ano13_lounge_854630c4:
@@ -1349,7 +1349,7 @@ translate chinese ano13_lounge_333e01ce:
 
 
     # tina "Yeah, well... living in Brooklyn, I became accustomed to a certain standard of living."
-    tina "是啊，不过……住在布鲁克林的时候，我习惯了某种生活标准。"
+    tina "是啊……我在布鲁克林住惯了，对生活条件多少有点要求。"
 
 # game/src/plot/ano13.rpy:395
 translate chinese ano13_lounge_a2d10620:
@@ -1363,7 +1363,7 @@ translate chinese ano13_lounge_3e8d5632:
 
 
     # tina f_calm "But then again, everything seems smaller out here in the sticks."
-    tina f_calm "但话说回来，在这乡下地方，什么都显得小了。"
+    tina f_calm "不过话说回来，这种乡下地方好像什么都小一号。"
 
 # game/src/plot/ano13.rpy:400
 translate chinese ano13_lounge_83e5a8ad:
@@ -1384,7 +1384,7 @@ translate chinese ano13_lounge_5f9f725d:
 
 
     # anon f_shy "Where did you want the pizza?"
-    anon f_shy "你想把披萨放在哪里？"
+    anon f_shy "披萨要放哪儿？"
 
 # game/src/plot/ano13.rpy:407
 translate chinese ano13_lounge_96f2220a:
@@ -1412,28 +1412,28 @@ translate chinese ano13_lounge_a87529b2:
 
 
     # anon a_pocket e_w f_confused "I've never heard of pear-prosciutto-gorgonzola pizza before."
-    anon a_pocket e_w f_confused "我从没听说过梨子-意大利熏火腿-戈尔根朱勒干酪披萨。"
+    anon a_pocket e_w f_confused "我从没听说过梨、意式风干火腿和戈贡佐拉奶酪披萨。"
 
 # game/src/plot/ano13.rpy:428
 translate chinese ano13_lounge_caf19084:
 
 
     # tina @ e_b f_happy m_laugh "Heh, it was Luigi's favorite and now it's my daughter's as well."
-    tina @ e_b f_happy m_laugh "呵呵，这是Luigi的最爱，现在也是我女儿的最爱了。"
+    tina @ e_b f_happy m_laugh "呵呵，以前Luigi最爱吃，现在我女儿也爱上了。"
 
 # game/src/plot/ano13.rpy:431
 translate chinese ano13_lounge_69627589:
 
 
     # tina "[saga.cast.maria] makes it better than anyone else I've ever met..."
-    tina "[saga.cast.maria]做的比任何人做的好吃……"
+    tina "[saga.cast.maria]做的，比我吃过的任何一家都好……"
 
 # game/src/plot/ano13.rpy:432
 translate chinese ano13_lounge_2154d342:
 
 
     # tina @ e_b_w f_happy "... But you have to twist her arm to convince her to do it."
-    tina @ e_b_w f_happy "……但你得死缠烂打才能说服她做。"
+    tina @ e_b_w f_happy "……不过每次都得软磨硬泡，她才肯做。"
 
 # game/src/plot/ano13.rpy:433
 translate chinese ano13_lounge_181bf2e5:
@@ -1454,14 +1454,14 @@ translate chinese ano13_lounge_2c34e67e:
 
 
     # tina "It's just you and me."
-    tina "只有你和我。"
+    tina "这里只有你和我。"
 
 # game/src/plot/ano13.rpy:437
 translate chinese ano13_lounge_ee9f1ae1:
 
 
     # anon @ f_shy_surprised -m_talk "{i}*Gulp*{/i}"
-    anon @ f_shy_surprised -m_talk "{i}*咕噜*{/i}"
+    anon @ f_shy_surprised -m_talk "{i}*咽口水*{/i}"
 
 # game/src/plot/ano13.rpy:438
 translate chinese ano13_lounge_4e0d1a95:
@@ -1475,7 +1475,7 @@ translate chinese ano13_lounge_1e4ceb62:
 
 
     # anon "N-no."
-    anon "不……不。"
+    anon "没、没有。"
 
 # game/src/plot/ano13.rpy:441
 translate chinese ano13_lounge_cbb84256:
@@ -1489,14 +1489,14 @@ translate chinese ano13_lounge_1f807736:
 
 
     # tina "I'm not expecting her home for hours."
-    tina "她几小时内不会回来。"
+    tina "她至少还要好几个小时才回来。"
 
 # game/src/plot/ano13.rpy:447
 translate chinese ano13_lounge_9ca6802d:
 
 
     # anon e_wsw @ -m_talk "..."
-    anon e_wsw @ -m_talk "..."
+    anon e_wsw @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:448
 translate chinese ano13_lounge_769d92c0:
@@ -1510,7 +1510,7 @@ translate chinese ano13_lounge_0a88e415:
 
 
     # anon a_uneasy e_w f_shy "Oh, heh... I dunno."
-    anon a_uneasy e_w f_shy "哦，呵呵……我不知道。"
+    anon a_uneasy e_w f_shy "哦，呵……我不太确定。"
 
 # game/src/plot/ano13.rpy:452
 translate chinese ano13_lounge_286abe47:
@@ -1531,35 +1531,35 @@ translate chinese ano13_lounge_e153a8e3:
 
 
     # tina "Tsk, you don't know what you're missing."
-    tina "啧，你不知道你错过了什么。"
+    tina "啧，你根本不知道自己错过了什么。"
 
 # game/src/plot/ano13.rpy:456
 translate chinese ano13_lounge_a06bea42:
 
 
     # tina "I guess, I'll just have to drink it all myself."
-    tina "看来，我只能自己一个人全喝掉了。"
+    tina "看来这瓶只能由我一个人喝光了。"
 
 # game/src/plot/ano13.rpy:460
 translate chinese ano13_lounge_6bceef8f:
 
 
     # tina a_wine_empty e_w f_horny -m_kiss "Ahh."
-    tina a_wine_empty e_w f_horny -m_kiss "啊哈。"
+    tina a_wine_empty e_w f_horny -m_kiss "啊……"
 
 # game/src/plot/ano13.rpy:463
 translate chinese ano13_lounge_7f99af44:
 
 
     # tina a_hips "So, what did [saga.cast.tony] tell you when he sent you over here?"
-    tina a_hips "那么，[saga.cast.tony]派你过来时跟你说了什么？"
+    tina a_hips "说说看，[saga.cast.tony]派你过来时都交代了什么？"
 
 # game/src/plot/ano13.rpy:464
 translate chinese ano13_lounge_d676f167:
 
 
     # anon e_w f_shy "Umm, that the pizza was for a very important customer that had information about his contact."
-    anon e_w f_shy "嗯，说披萨是给一位非常重要的客人，这位客人有关于他联系人的信息。"
+    anon e_w f_shy "说这份披萨是送给一位重要客人的，对方掌握着他那位联系人的消息。"
 
 # game/src/plot/ano13.rpy:465
 translate chinese ano13_lounge_d49906aa:
@@ -1573,7 +1573,7 @@ translate chinese ano13_lounge_444e99f8:
 
 
     # anon a_finger "And that I should follow any instructions they give me and make sure their needs are satisfied."
-    anon a_finger "还说我应该听从客人的任何指示，确保满足他们的需求。"
+    anon a_finger "还说不管客人提什么要求，我都要照办，确保客人满意。"
 
 # game/src/plot/ano13.rpy:467
 translate chinese ano13_lounge_2b5bf2f5:
@@ -1587,7 +1587,7 @@ translate chinese ano13_lounge_425aa493:
 
 
     # anon a_side "No, ma'am."
-    anon a_side "没有，夫人。"
+    anon a_side "没有，女士。"
 
 # game/src/plot/ano13.rpy:469
 translate chinese ano13_lounge_22a55656:
@@ -1601,21 +1601,21 @@ translate chinese ano13_lounge_18aa29c6:
 
 
     # tina "So you just agreed to follow the instructions of some stranger you've never met?"
-    tina "你就这么答应了一个陌生人说的指令？"
+    tina "所以你连对方是谁都没见过，就答应什么指示都听？"
 
 # game/src/plot/ano13.rpy:475
 translate chinese ano13_lounge_43af377a:
 
 
     # anon f_shy "Y-yeah, I guess."
-    anon f_shy "呃...算是吧。"
+    anon f_shy "是、是吧。"
 
 # game/src/plot/ano13.rpy:476
 translate chinese ano13_lounge_58d16c1f:
 
 
     # tina "Eddie must really have something you need badly."
-    tina "Eddie肯定是有什么你急需的东西。"
+    tina "看来Eddie手里有你非常想要的东西。"
 
 # game/src/plot/ano13.rpy:477
 translate chinese ano13_lounge_697b8948:
@@ -1629,14 +1629,14 @@ translate chinese ano13_lounge_4cb38d5b:
 
 
     # tina @ -m_talk "Hmm."
-    tina @ -m_talk "嗯..."
+    tina @ -m_talk "嗯……"
 
 # game/src/plot/ano13.rpy:479
 translate chinese ano13_lounge_4d820994:
 
 
     # tina "Well, I think we can work something out, babyface."
-    tina "好吧，我觉得我们可以谈谈条件，娃娃脸。"
+    tina "那我们应该能谈个条件，小帅哥。"
 
 # game/src/plot/ano13.rpy:483
 translate chinese ano13_lounge_bbeccfd9:
@@ -1650,14 +1650,14 @@ translate chinese ano13_lounge_54eff924:
 
 
     # tina "My first instruction is for you to tell me what you think of my lingerie?"
-    tina "我的第一个指令是——你觉得我的内衣怎么样？"
+    tina "第一项指示：告诉我，你觉得这套内衣怎么样？"
 
 # game/src/plot/ano13.rpy:494
 translate chinese ano13_lounge_596bfe86:
 
 
     # anon a_surprised f_surprised "Y-your lingerie?"
-    anon a_surprised f_surprised "你...你的内衣？"
+    anon a_surprised f_surprised "你、你的内衣？"
 
 # game/src/plot/ano13.rpy:496
 translate chinese ano13_lounge_c1691195:
@@ -1671,7 +1671,7 @@ translate chinese ano13_lounge_a6093899:
 
 
     # tina o_right p_stand_away "I've been told that blue is my color... would you agree?"
-    tina o_right p_stand_away "有人跟我说蓝色很适合我...你觉得呢？"
+    tina o_right p_stand_away "有人跟我说蓝色最衬我……你觉得呢？"
 
 # game/src/plot/ano13.rpy:500
 translate chinese ano13_lounge_550ca59b:
@@ -1685,21 +1685,21 @@ translate chinese ano13_lounge_6d206d40:
 
 
     # tina o_left p_stand "You know, I saw you staring at my tits the other day in the pizzeria."
-    tina o_left p_stand "你知道吗，那天在披萨店我看见你盯着我的胸看。"
+    tina o_left p_stand "你知道吗，那天在披萨店，我看见你一直盯着我的胸。"
 
 # game/src/plot/ano13.rpy:503
 translate chinese ano13_lounge_474f6e8c:
 
 
     # anon e_w f_worried "Oh, umm..."
-    anon e_w f_worried "哦，呃..."
+    anon e_w f_worried "哦，呃……"
 
 # game/src/plot/ano13.rpy:504
 translate chinese ano13_lounge_3e795cd3:
 
 
     # anon a_uneasy e_e "... I'm sorry about that."
-    anon a_uneasy e_e "......不好意思。"
+    anon a_uneasy e_e "……抱歉。"
 
 # game/src/plot/ano13.rpy:505
 translate chinese ano13_lounge_ca90a0a8:
@@ -1741,14 +1741,14 @@ translate chinese ano13_lounge_352b95e3:
 
 
     # tina a_squeeze e_s "I've had these things since I was fourteen years old."
-    tina a_squeeze e_s "我十四岁时就有了这些东西。"
+    tina a_squeeze e_s "我十四岁起，胸就这么大了。"
 
 # game/src/plot/ano13.rpy:515
 translate chinese ano13_lounge_4d49a8b4:
 
 
     # tina "And they have always attracted a lot of attention."
-    tina "它们一直吸引很多人的注意。"
+    tina "从来没少招来目光。"
 
 # game/src/plot/ano13.rpy:518
 translate chinese ano13_lounge_ddbfd0df:
@@ -1769,21 +1769,21 @@ translate chinese ano13_lounge_b06872d7:
 
 
     # tina a_hips c_lingerie o_right p_stand_away "My next instruction is for you to come over here and pull this string."
-    tina a_hips c_lingerie o_right p_stand_away "我的下一个指示是，你过来，拉一下这根绳子。"
+    tina a_hips c_lingerie o_right p_stand_away "下一项指示：过来，把这根带子拉开。"
 
 # game/src/plot/ano13.rpy:525
 translate chinese ano13_lounge_7d35e67a_1:
 
 
     # anon "{i}*Gulp*{/i}"
-    anon "{i}*吞咽*{/i}"
+    anon "{i}*咽口水*{/i}"
 
 # game/src/plot/ano13.rpy:529
 translate chinese ano13_lounge_854630c4_1:
 
 
     # anon "O-okay."
-    anon "好-好吧。"
+    anon "好、好。"
 
 # game/src/plot/ano13.rpy:532
 translate chinese ano13_lounge_f112ac15:
@@ -1804,7 +1804,7 @@ translate chinese ano13_lounge_bfea1fff:
 
 
     # tina p_top_off_away_03 -b_anon "Oh, that's very good."
-    tina p_top_off_away_03 -b_anon "哦，这很好。"
+    tina p_top_off_away_03 -b_anon "嗯，做得真好。"
 
 # game/src/plot/ano13.rpy:539
 translate chinese ano13_lounge_02e1a881:
@@ -1818,7 +1818,7 @@ translate chinese ano13_lounge_8e667bd8:
 
 
     # anon @ e_w "Y-yes."
-    anon @ e_w "是...是的。"
+    anon @ e_w "好、好了。"
 
 # game/src/plot/ano13.rpy:542
 translate chinese ano13_lounge_69224819:
@@ -1839,21 +1839,21 @@ translate chinese ano13_lounge_cbbe947b:
 
 
     # anon f_horny "Just, wow!"
-    anon f_horny "真是，哇！"
+    anon f_horny "我——天啊，太美了！"
 
 # game/src/plot/ano13.rpy:546
 translate chinese ano13_lounge_ee6b7da5:
 
 
     # anon d_hard "Those are perfect!"
-    anon d_hard "它们真完美！"
+    anon d_hard "简直完美！"
 
 # game/src/plot/ano13.rpy:547
 translate chinese ano13_lounge_eeb508d6:
 
 
     # tina a_hips "Perfect huh?"
-    tina a_hips "完美吗？"
+    tina a_hips "完美，是吗？"
 
 # game/src/plot/ano13.rpy:549
 translate chinese ano13_lounge_d1e9ff86:
@@ -1881,14 +1881,14 @@ translate chinese ano13_lounge_b25b3e43:
 
 
     # tina "In fact, that's my next instruction."
-    tina "事实上，这就是我接下来的指令。"
+    tina "这正是你的下一项指示。"
 
 # game/src/plot/ano13.rpy:553
 translate chinese ano13_lounge_615040fb:
 
 
     # anon a_salute f_happy "Yes, ma'am!"
-    anon a_salute f_happy "是的，夫人！"
+    anon a_salute f_happy "遵命，女士！"
 
 # game/src/plot/ano13.rpy:559
 translate chinese ano13_lounge_a0d29dbc:
@@ -1902,35 +1902,35 @@ translate chinese ano13_lounge_dbd9b9de:
 
 
     # anon "They're so... {i}big{/i}."
-    anon "它们这么... {i}大{/i}。"
+    anon "它们真的……{i}好大{/i}。"
 
 # game/src/plot/ano13.rpy:562
 translate chinese ano13_lounge_5c062b03:
 
 
     # tina "Heh, you like?"
-    tina "嘿，你喜欢吗？"
+    tina "呵，喜欢吗？"
 
 # game/src/plot/ano13.rpy:563
 translate chinese ano13_lounge_d852e6b1:
 
 
     # anon "Oh, I definitely like!"
-    anon "哦，我当然喜欢！"
+    anon "当然喜欢！"
 
 # game/src/plot/ano13.rpy:567
 translate chinese ano13_lounge_4f4c16e8:
 
 
     # tina -m_lip "Speaking of big..."
-    tina -m_lip "说到大..."
+    tina -m_lip "说到大……"
 
 # game/src/plot/ano13.rpy:570
 translate chinese ano13_lounge_516238c6:
 
 
     # tina "... It seems you brought that extra sausage after all."
-    tina "...看来你最后还是带了那根额外的香肠。"
+    tina "……看来你还真带了那根额外的“香肠”来。"
 
 # game/src/plot/ano13.rpy:578
 translate chinese ano13_lounge_cf63a42d:
@@ -1965,14 +1965,14 @@ translate chinese ano13_lounge_960ed261:
 
 
     # anon e_b "Mmm, [saga.cast.tina]..."
-    anon e_b "嗯，[saga.cast.tina]..."
+    anon e_b "嗯……[saga.cast.tina]……"
 
 # game/src/plot/ano13.rpy:587
 translate chinese ano13_lounge_dc364a86:
 
 
     # anon "... That feels..."
-    anon "...感觉真..."
+    anon "……这感觉……"
 
 # game/src/plot/ano13.rpy:591
 translate chinese ano13_lounge_5f091c91:
@@ -2000,21 +2000,21 @@ translate chinese ano13_lounge_b6ee7f17:
 
 
     # tina "I want you to fuck me with this."
-    tina "我想让你用这个肏我。"
+    tina "我要你用这根鸡巴肏我。"
 
 # game/src/plot/ano13.rpy:603
 translate chinese ano13_lounge_811f93b2:
 
 
     # anon "Y-you do?"
-    anon "你……真的吗？"
+    anon "你、你真想？"
 
 # game/src/plot/ano13.rpy:604
 translate chinese ano13_lounge_c75e840a:
 
 
     # tina "Oh, yes!"
-    tina "哦，是的！"
+    tina "当然！"
 
 # game/src/plot/ano13.rpy:613
 translate chinese ano13_lounge_3761619d:
@@ -2063,14 +2063,14 @@ translate chinese ano13_lounge_656cb1a1:
 
 
     # anon "Oh my god..."
-    anon "哦，天哪..."
+    anon "哦，天哪……"
 
 # game/src/plot/ano13.rpy:641
 translate chinese ano13_lounge_0eefb923:
 
 
     # anon "I can't believe this is happening."
-    anon "真不敢相信这会发生。"
+    anon "真不敢相信这是真的。"
 
 # game/src/plot/ano13.rpy:642
 translate chinese ano13_lounge_6d2a9174:
@@ -2105,14 +2105,14 @@ translate chinese ano13_lounge_0a7a183c:
 
 
     # anon "Why did you stop?"
-    anon "为什么停下来？"
+    anon "怎么停了？"
 
 # game/src/plot/ano13.rpy:648
 translate chinese ano13_lounge_629f754b:
 
 
     # tina "You are not allowed to cum until I say so!"
-    tina "我没允许你射之前不准射！"
+    tina "我没说可以射，你就不准射！"
 
 # game/src/plot/ano13.rpy:649
 translate chinese ano13_lounge_0938cf4b_1:
@@ -2126,35 +2126,35 @@ translate chinese ano13_lounge_3c648d21:
 
 
     # anon f_nervous "T-that's not-"
-    anon f_nervous "这、这不是——"
+    anon f_nervous "可、可这不——"
 
 # game/src/plot/ano13.rpy:651
 translate chinese ano13_lounge_49efcdca:
 
 
     # tina "It's my next instruction."
-    tina "这就是我下一个指令。"
+    tina "这是我的下一项指示。"
 
 # game/src/plot/ano13.rpy:652
 translate chinese ano13_lounge_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:653
 translate chinese ano13_lounge_61ff9433:
 
 
     # tina "And you're gonna follow my instructions, aren't you, babyface?"
-    tina "你会听我的指令的，对吧，娃娃脸？"
+    tina "你会照我的话做，对吧，小帅哥？"
 
 # game/src/plot/ano13.rpy:654
 translate chinese ano13_lounge_0a4a0a88:
 
 
     # anon f_shy "I mean, I'll try-"
-    anon f_shy "我是说，我会努力——"
+    anon f_shy "我、我会尽量——"
 
 # game/src/plot/ano13.rpy:656
 translate chinese ano13_lounge_d5282dea:
@@ -2175,21 +2175,21 @@ translate chinese ano13_lounge_ce6ebe68:
 
 
     # tina "Say you will follow my instructions!"
-    tina "说你会听从我的指令！"
+    tina "说你会照我的话做！"
 
 # game/src/plot/ano13.rpy:660
 translate chinese ano13_lounge_aba25fbc:
 
 
     # anon "Y-yes!"
-    anon "是...是的！"
+    anon "会、会的！"
 
 # game/src/plot/ano13.rpy:661
 translate chinese ano13_lounge_4e7f278e:
 
 
     # anon "I will follow your-"
-    anon "我会按照您的指令——"
+    anon "我会照你的——"
 
 # game/src/plot/ano13.rpy:663
 translate chinese ano13_lounge_f7cd91c8:
@@ -2203,7 +2203,7 @@ translate chinese ano13_lounge_7055614a:
 
 
     # tina "Good boy."
-    tina "好孩子。"
+    tina "真乖。"
 
 # game/src/plot/ano13.rpy:666
 translate chinese ano13_lounge_2ef01850:
@@ -2224,42 +2224,42 @@ translate chinese ano13_lounge_5fd4acd4:
 
 
     # tina "It's so fucking thick!"
-    tina "它太他妈的粗了！"
+    tina "太他妈粗了！"
 
 # game/src/plot/ano13.rpy:670
 translate chinese ano13_lounge_a017bf75:
 
 
     # anon "You're going too fast!"
-    anon "你太快了！"
+    anon "你弄得太快了！"
 
 # game/src/plot/ano13.rpy:671
 translate chinese ano13_lounge_a4d441fb:
 
 
     # tina s_8 "Focus, babyface!"
-    tina s_8 "集中注意，娃娃脸！"
+    tina s_8 "集中精神，小帅哥！"
 
 # game/src/plot/ano13.rpy:673
 translate chinese ano13_lounge_b4d2c08a:
 
 
     # tina "Just breathe."
-    tina "深呼吸。"
+    tina "呼吸。"
 
 # game/src/plot/ano13.rpy:674
 translate chinese ano13_lounge_f73c941e:
 
 
     # tina "I'm almost..."
-    tina "我快到了..."
+    tina "我快……"
 
 # game/src/plot/ano13.rpy:676
 translate chinese ano13_lounge_7e48b48c:
 
 
     # tina "... Almost there!"
-    tina "……就快到了！"
+    tina "……快到了！"
 
 # game/src/plot/ano13.rpy:677
 translate chinese ano13_lounge_34eb27c7:
@@ -2287,7 +2287,7 @@ translate chinese ano13_lounge_3b838186:
 
 
     # anon "[saga.cast.tina] I can't-"
-    anon "[saga.cast.tina]我不行了——"
+    anon "[saga.cast.tina]，我不行了——"
 
 # game/src/plot/ano13.rpy:684
 translate chinese ano13_lounge_76bb4e1c:
@@ -2301,7 +2301,7 @@ translate chinese ano13_lounge_28f44e5d:
 
 
     # tina "We're gonna cum together!"
-    tina "我们一起高潮！"
+    tina "我们要一起高潮！"
 
 # game/src/plot/ano13.rpy:686
 translate chinese ano13_lounge_bfec4f8a:
@@ -2315,28 +2315,28 @@ translate chinese ano13_lounge_8611924c:
 
 
     # anon "We're gonna cum together."
-    anon "我们一起高潮。"
+    anon "我们要一起高潮。"
 
 # game/src/plot/ano13.rpy:689
 translate chinese ano13_lounge_918765eb:
 
 
     # tina s_13 "HERE!"
-    tina s_13 "来了！"
+    tina s_13 "要！"
 
 # game/src/plot/ano13.rpy:690
 translate chinese ano13_lounge_89931518:
 
 
     # tina s_14 "IT!"
-    tina s_14 "它！"
+    tina s_14 "来！"
 
 # game/src/plot/ano13.rpy:691
 translate chinese ano13_lounge_123b1b00:
 
 
     # tina s_15 "COMES!!!"
-    tina s_15 "要来了！！！"
+    tina s_15 "了！！！"
 
 # game/src/plot/ano13.rpy:702
 translate chinese ano13_lounge_0cf4d269:
@@ -2357,7 +2357,7 @@ translate chinese ano13_lounge_merge_d26561ee:
 
 
     # anon " Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/ano13.rpy:709
 translate chinese ano13_lounge_merge_28eca510:
@@ -2371,14 +2371,14 @@ translate chinese ano13_lounge_merge_ba21a236:
 
 
     # anon "That was..."
-    anon "那是..."
+    anon "刚才真是……"
 
 # game/src/plot/ano13.rpy:711
 translate chinese ano13_lounge_merge_c7c63722:
 
 
     # tina "Vigorous?"
-    tina "爽吗？"
+    tina "很激烈？"
 
 # game/src/plot/ano13.rpy:712
 translate chinese ano13_lounge_merge_c2808c5b:
@@ -2441,7 +2441,7 @@ translate chinese ano13_lounge_merge_4eeb0e87:
 
 
     # tina @ e_b f_happy m_laugh "Well, then buckle up, babyface."
-    tina @ e_b f_happy m_laugh "那就系好安全带吧，娃娃脸。"
+    tina @ e_b f_happy m_laugh "那你可抓稳了，小帅哥。"
 
 # game/src/plot/ano13.rpy:731
 translate chinese ano13_lounge_merge_b48a9eda:
@@ -2455,7 +2455,7 @@ translate chinese ano13_lounge_merge_64bfaa20:
 
 
     # tina "I've got three years of sexual frustration to work through!"
-    tina "我可是积攒了三年的性欲要发泄！"
+    tina "我憋了整整三年，可得好好发泄出来！"
 
 # game/src/plot/ano13.rpy:737
 translate chinese ano13_lounge_merge_778b8330:
@@ -2476,21 +2476,21 @@ translate chinese ano13_lounge_merge_121d6f09:
 
 
     # tina "Now that was some A-plus customer service!"
-    tina "这可真是顶级的客户服务！"
+    tina "这才叫一流的顾客服务！"
 
 # game/src/plot/ano13.rpy:753
 translate chinese ano13_lounge_merge_e1bd9939:
 
 
     # tina "I'd say you more than earned that meeting with Eddie."
-    tina "我觉得你完全值得那场与Eddie的会面。"
+    tina "我看你完全够资格去见Eddie了。"
 
 # game/src/plot/ano13.rpy:754
 translate chinese ano13_lounge_merge_8bf9b01e:
 
 
     # anon f_happy "Glad to hear it."
-    anon f_happy "很高兴听你这么说。"
+    anon f_happy "那就好。"
 
 # game/src/plot/ano13.rpy:755
 translate chinese ano13_lounge_merge_f06aab22:
@@ -2518,7 +2518,7 @@ translate chinese ano13_lounge_merge_dd1d9118:
 
 
     # tina "You know, maybe we can do this again sometime."
-    tina "你知道，也许改天我们可以再这样来一次。"
+    tina "说不定以后还能再来一次。"
 
 # game/src/plot/ano13.rpy:765
 translate chinese ano13_lounge_merge_c8481ccd:
@@ -2539,7 +2539,7 @@ translate chinese ano13_lounge_merge_464d1b94:
 
 
     # missy "{i}*Gasp*{/i}"
-    missy "{i}*喘气*{/i}'}"
+    missy "{i}*倒吸一口气*{/i}"
 
 # game/src/plot/ano13.rpy:772
 translate chinese ano13_lounge_merge_a42f531e:
@@ -2560,7 +2560,7 @@ translate chinese ano13_lounge_merge_df548172:
 
 
     # anon e_e "M-mom?!"
-    anon e_e "妈-妈妈？！"
+    anon e_e "你、你妈妈？！"
 
 # game/src/plot/ano13.rpy:783
 translate chinese ano13_lounge_merge_8a18ca28:
@@ -2574,14 +2574,14 @@ translate chinese ano13_lounge_merge_9b6c6f84:
 
 
     # anon a_side e_w "Rebecca?!"
-    anon a_side e_w "[saga.cast.becca]？！"
+    anon a_side e_w "Rebecca？！"
 
 # game/src/plot/ano13.rpy:787
 translate chinese ano13_lounge_merge_b37fa5d4:
 
 
     # becca "WHAT THE-?!"
-    becca "这怎么回事？！"
+    becca "这他妈是——？！"
 
 # game/src/plot/ano13.rpy:790
 translate chinese ano13_lounge_merge_a69f3ab3:
@@ -2595,7 +2595,7 @@ translate chinese ano13_lounge_merge_dae07928:
 
 
     # tina "Y-you're home early!"
-    tina "你-你回来得真早！"
+    tina "你、你怎么这么早就回来了！"
 
 # game/src/plot/ano13.rpy:794
 translate chinese ano13_lounge_merge_8848f3d9:
@@ -2609,21 +2609,21 @@ translate chinese ano13_lounge_merge_98e5e07f:
 
 
     # missy e_e "Dude, I think [saga.cast.anon] is boning your mom."
-    missy e_e "哥们，我觉得[saga.cast.anon]在肏你妈。"
+    missy e_e "喂，我觉得[saga.cast.anon]在上你妈。"
 
 # game/src/plot/ano13.rpy:797
 translate chinese ano13_lounge_merge_1252ce95:
 
 
     # becca "Shut the fuck up, [saga.cast.missy]!"
-    becca "给老子闭嘴，[saga.cast.missy]！"
+    becca "给我他妈闭嘴，[saga.cast.missy]！"
 
 # game/src/plot/ano13.rpy:800
 translate chinese ano13_lounge_merge_b7dac9b7:
 
 
     # tina f_annoyed "[saga.cast.becca], language!"
-    tina f_annoyed "[saga.cast.becca]，注意言辞！"
+    tina f_annoyed "[saga.cast.becca]，注意你的用词！"
 
 # game/src/plot/ano13.rpy:802
 translate chinese ano13_lounge_merge_af28fdfe:
@@ -2637,7 +2637,7 @@ translate chinese ano13_lounge_merge_46d7abe4:
 
 
     # becca "Are you fucking serious right now?!"
-    becca "你他妈现在是在跟我开玩笑吗？！"
+    becca "你他妈认真的？！"
 
 # game/src/plot/ano13.rpy:806
 translate chinese ano13_lounge_merge_09180c95:
@@ -2651,7 +2651,7 @@ translate chinese ano13_lounge_merge_143beaf3:
 
 
     # becca "No, I'm not gonna calm down!"
-    becca "不，老子冷静不了！"
+    becca "不，我冷静不了！"
 
 # game/src/plot/ano13.rpy:812
 translate chinese ano13_lounge_merge_a2af7f36:
@@ -2665,14 +2665,14 @@ translate chinese ano13_lounge_merge_d8e11d7b:
 
 
     # missy @ e_b m_laugh "{i}*Snort*{/i}"
-    missy @ e_b m_laugh "{i}*哼了一声*{/i}"
+    missy @ e_b m_laugh "{i}*嗤笑*{/i}"
 
 # game/src/plot/ano13.rpy:815
 translate chinese ano13_lounge_merge_656204d0:
 
 
     # becca "Mom, he's like, one of the nerdiest guys at my school!"
-    becca "妈，他差不多是我学校里的头号书呆子！"
+    becca "妈，他可是我们学校最典型的书呆子之一！"
 
 # game/src/plot/ano13.rpy:816
 translate chinese ano13_lounge_merge_94ca9ab7:
@@ -2693,14 +2693,14 @@ translate chinese ano13_lounge_merge_74e1fbe3:
 
 
     # anon a_calm_down @ f_shy "Uhh, this is just a misunderstanding..."
-    anon a_calm_down @ f_shy "呃，这只是一个误会……"
+    anon a_calm_down @ f_shy "呃，这里面有误会……"
 
 # game/src/plot/ano13.rpy:823
 translate chinese ano13_lounge_merge_d8e11d7b_1:
 
 
     # missy @ e_b m_laugh "{i}*Snort*{/i}"
-    missy @ e_b m_laugh "{i}*哼了一声*{/i}"
+    missy @ e_b m_laugh "{i}*嗤笑*{/i}"
 
 # game/src/plot/ano13.rpy:825
 translate chinese ano13_lounge_merge_425ceb47:
@@ -2735,14 +2735,14 @@ translate chinese ano13_lounge_merge_b4eab4a5:
 
 
     # becca a_fold f_angry @ e_r f_bored "Ugh, shut up [saga.cast.missy]!"
-    becca a_fold f_angry @ e_r f_bored "呃，闭嘴[saga.cast.missy]！"
+    becca a_fold f_angry @ e_r f_bored "呃，闭嘴，[saga.cast.missy]！"
 
 # game/src/plot/ano13.rpy:833
 translate chinese ano13_lounge_merge_553e6ce3:
 
 
     # tina f_sceptical "You mean, this is the one you girls have been talking about?"
-    tina f_sceptical "你的意思是，这就是你们女孩们一直在说的那个家伙？"
+    tina f_sceptical "他就是你们几个一直挂在嘴边的那个人？"
 
 # game/src/plot/ano13.rpy:835
 translate chinese ano13_lounge_merge_8de99cc5:
@@ -2756,7 +2756,7 @@ translate chinese ano13_lounge_merge_68ee3a84:
 
 
     # tina f_annoyed "Well, I didn't know that!"
-    tina f_annoyed "嗯，我不知道那个！"
+    tina f_annoyed "我哪知道！"
 
 # game/src/plot/ano13.rpy:839
 translate chinese ano13_lounge_merge_6629f28d:
@@ -2770,14 +2770,14 @@ translate chinese ano13_lounge_merge_305693b5:
 
 
     # becca @ e_r f_bored "Dad's probably rolling in his grave right now."
-    becca @ e_r f_bored "老爸现在大概气得在棺材里打滚吧。"
+    becca @ e_r f_bored "爸现在怕是都气得从坟里跳出来了。"
 
 # game/src/plot/ano13.rpy:844
 translate chinese ano13_lounge_merge_3d911109:
 
 
     # missy "Oh, shit... This just got real!"
-    missy "哦，操……这次来真的了！"
+    missy "我靠……这下玩真的了！"
 
 # game/src/plot/ano13.rpy:849
 translate chinese ano13_lounge_merge_2637cea0:
@@ -2798,7 +2798,7 @@ translate chinese ano13_lounge_merge_ec748a94:
 
 
     # tina "And who I choose to sleep with is none of your business!"
-    tina "我跟谁睡关你屁事！"
+    tina "我跟谁上床还轮不到你管！"
 
 # game/src/plot/ano13.rpy:853
 translate chinese ano13_lounge_merge_c1969034:
@@ -2812,42 +2812,42 @@ translate chinese ano13_lounge_merge_032080a3:
 
 
     # tina "I'm not arguing about this any further in the hallway."
-    tina "我不想再在走廊里争论这件事了。"
+    tina "我不想站在走廊里继续吵。"
 
 # game/src/plot/ano13.rpy:855
 translate chinese ano13_lounge_merge_1ef562c4:
 
 
     # tina "Get inside and we'll discuss it like adults."
-    tina "进来吧，我们像成年人一样谈谈。"
+    tina "进去，我们像成年人一样把话说清楚。"
 
 # game/src/plot/ano13.rpy:856
 translate chinese ano13_lounge_merge_67796a2d:
 
 
     # becca f_annoyed @ -m_talk "..."
-    becca f_annoyed @ -m_talk "..."
+    becca f_annoyed @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:859
 translate chinese ano13_lounge_merge_14be9c0b:
 
 
     # tina a_upset_point_back "RIGHT NOW, REBECCA!!"
-    tina a_upset_point_back "就现在，REBECCA！！"
+    tina a_upset_point_back "现在就进去，REBECCA！！"
 
 # game/src/plot/ano13.rpy:861
 translate chinese ano13_lounge_merge_cad29668:
 
 
     # tina a_upset_point_back "RIGHT NOW!!"
-    tina a_upset_point_back "就现在！！"
+    tina a_upset_point_back "现在！！"
 
 # game/src/plot/ano13.rpy:866
 translate chinese ano13_lounge_merge_c90e3955:
 
 
     # becca "Grr!!"
-    becca "咕！！"
+    becca "可恶！！"
 
 # game/src/plot/ano13.rpy:873
 translate chinese ano13_lounge_merge_5da4187f:
@@ -2889,7 +2889,7 @@ translate chinese ano13_lounge_merge_4672f036:
 
 
     # missy "Aww, man... okay."
-    missy "唉，好吧……行。"
+    missy "唉，真扫兴……好吧。"
 
 # game/src/plot/ano13.rpy:880
 translate chinese ano13_lounge_merge_7e963af2:
@@ -2903,14 +2903,14 @@ translate chinese ano13_lounge_merge_81ac18b4:
 
 
     # anon f_shy @ -m_talk "..."
-    anon f_shy @ -m_talk "..."
+    anon f_shy @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:886
 translate chinese ano13_lounge_merge_279a3b72:
 
 
     # anon f_worried "I'm sorry, I had no idea [saga.cast.becca] was your daughter."
-    anon f_worried "抱歉，我不知道[saga.cast.becca]是你的女儿。"
+    anon f_worried "对不起，我真不知道[saga.cast.becca]是你女儿。"
 
 # game/src/plot/ano13.rpy:887
 translate chinese ano13_lounge_merge_8135c57f:
@@ -2924,28 +2924,28 @@ translate chinese ano13_lounge_merge_d107d374:
 
 
     # tina "Look, I gotta go and deal with... {i}this{/i}."
-    tina "听着，我得去处理……{i}这个{/i}。"
+    tina "我得去处理一下……{i}这件事{/i}。"
 
 # game/src/plot/ano13.rpy:890
 translate chinese ano13_lounge_merge_6f0cb912:
 
 
     # tina f_horny "I'll see you soon, yeah?"
-    tina f_horny "回头见，好吗？"
+    tina f_horny "我们很快再见，好吗？"
 
 # game/src/plot/ano13.rpy:891
 translate chinese ano13_lounge_merge_d9b9d489:
 
 
     # anon a_behind_held f_shy "Y-yeah, sure."
-    anon a_behind_held f_shy "好——好的，当然。"
+    anon a_behind_held f_shy "好、好。"
 
 # game/src/plot/ano13.rpy:892
 translate chinese ano13_lounge_merge_78f672f9:
 
 
     # tina "Later, babyface."
-    tina "下次见，娃娃脸。"
+    tina "回头见，小帅哥。"
 
 # game/src/plot/ano13.rpy:893
 translate chinese ano13_lounge_merge_897f8f0b:
@@ -2973,14 +2973,14 @@ translate chinese ano13_lounge_merge_ec31fc9e:
 
 
     # anon @ -m_talk "( It kinda feels like I just wandered into a minefield! )"
-    anon @ -m_talk "(感觉就像我走进了雷区一样！)"
+    anon @ -m_talk "(感觉自己好像误闯进了一片雷区！)"
 
 # game/src/plot/ano13.rpy:902
 translate chinese ano13_lounge_merge_018eb6cc:
 
 
     # anon a_surprised e_s f_worried_surprised @ -m_talk "( Man, she wasn't kidding about being sexually frustrated either! )"
-    anon a_surprised e_s f_worried_surprised @ -m_talk "(靠，她还真没开玩笑，性欲旺盛得不行！)"
+    anon a_surprised e_s f_worried_surprised @ -m_talk "(天啊，她说自己憋坏了，还真不是开玩笑！)"
 
 # game/src/plot/ano13.rpy:903
 translate chinese ano13_lounge_merge_9d315100:
@@ -3001,14 +3001,14 @@ translate chinese ano13_lounge_merge_c13b8acb:
 
 
     # anon @ -m_talk "( What did he say again... \"hydration is key?\" )"
-    anon @ -m_talk "(他当时说什么来着……「水分补充是关键？」)"
+    anon @ -m_talk "(他当时怎么说来着……“补水最重要？”)"
 
 # game/src/plot/ano13.rpy:917
 translate chinese ano13_lounge_apt_9adef65a:
 
 
     # anon @ -m_talk "( Um... this is not 301! )"
-    anon @ -m_talk "(嗯……这不是301号房！)"
+    anon @ -m_talk "(呃……这里可不是301室！)"
 
 # game/src/plot/ano13.rpy:926
 translate chinese ano13_lounge_creampie_0cf4d269:
@@ -3036,21 +3036,21 @@ translate chinese ano13_lounge_fence_e5ac06f9:
 
 
     # anon @ e_s -m_talk "( [saga.cast.tony] said I have to take this pizza to apartment 301... )"
-    anon @ e_s -m_talk "([saga.cast.tony]说我要把披萨送到301号公寓……)"
+    anon @ e_s -m_talk "([saga.cast.tony]说过，要把披萨送到301室……)"
 
 # game/src/plot/ano13.rpy:941
 translate chinese ano13_lounge_fence_96a51e3a:
 
 
     # anon o_left @ -m_talk "( ... Which should hopefully be somewhere on this floor. )"
-    anon o_left @ -m_talk "(...希望应该在这一层。)"
+    anon o_left @ -m_talk "(……应该就在这一层的某个房间。)"
 
 # game/src/plot/ano13.rpy:943
 translate chinese ano13_lounge_fence_dae03e0e:
 
 
     # anon @ -m_talk "( ... Probably on the third floor. )"
-    anon @ -m_talk "(...可能在三楼。)"
+    anon @ -m_talk "(……很可能在三楼。)"
 
 # game/src/plot/ano13.rpy:957
 translate chinese ano13_pause2_shop_1efab2cf:
@@ -3071,21 +3071,21 @@ translate chinese ano13_delay2_abf4eea4:
 
 
     # anon @ -m_talk "( [saga.cast.tony] and [saga.cast.maria] should be back by now. )"
-    anon @ -m_talk "([saga.cast.tony]和[saga.cast.maria]现在应该回来了。)"
+    anon @ -m_talk "([saga.cast.tony]和[saga.cast.maria]现在应该已经回来了。)"
 
 # game/src/plot/ano13.rpy:970
 translate chinese ano13_delay2_8229698f:
 
 
     # anon @ -m_talk "( I should head inside and see how it went. )"
-    anon @ -m_talk "(我应该进去看看怎么样了。)"
+    anon @ -m_talk "(我该进去看看事情办得怎么样。)"
 
 # game/src/plot/ano13.rpy:972
 translate chinese ano13_delay2_3fb4e906:
 
 
     # anon @ -m_talk "( I should head to the pizzeria and see how it went. )"
-    anon @ -m_talk "(我应该去披萨店看看怎么样了。)"
+    anon @ -m_talk "(我该去披萨店看看事情办得怎么样。)"
 
 # game/src/plot/ano13.rpy:974
 translate chinese ano13_delay2_5a2cb8b5:
@@ -3106,14 +3106,14 @@ translate chinese ano13_delay2_shop_86217914:
 
 
     # anon @ -m_talk "( I'll swing by then and see how their meeting went. )"
-    anon @ -m_talk "(到时候我会顺路过去看看他们的会面怎么样了。)"
+    anon @ -m_talk "(到时候再顺路过去，问问他们面谈得怎么样。)"
 
 # game/src/plot/ano13.rpy:1001
 translate chinese ano13_shop2_25fb4b11:
 
 
     # tony "You don't say..."
-    tony "不会吧..."
+    tony "不会吧……"
 
 # game/src/plot/ano13.rpy:1003
 translate chinese ano13_shop2_f6143f31:
@@ -3127,21 +3127,21 @@ translate chinese ano13_shop2_49e9310c:
 
 
     # tony f_calm @ e_b f_happy m_laugh "Hah, that's exactly what Luigi woulda said!"
-    tony f_calm @ e_b f_happy m_laugh "哈，这正是Luigi会说的话！"
+    tony f_calm @ e_b f_happy m_laugh "呵，这话确实像Luigi会说的！"
 
 # game/src/plot/ano13.rpy:1006
 translate chinese ano13_shop2_43c19d41:
 
 
     # tony "Yeah, she's got his temper... that's for sure."
-    tony "是啊，她确实遗传了他的脾气……这点毫无疑问。"
+    tony "她这脾气倒是跟Luigi一个模子刻出来的……错不了。"
 
 # game/src/plot/ano13.rpy:1008
 translate chinese ano13_shop2_b1041cfe:
 
 
     # tony @ e_e f_surprised "Ahh crap, I gotta go!"
-    tony @ e_e f_surprised "啊，糟了，我得走了！"
+    tony @ e_e f_surprised "糟，我得挂了！"
 
 # game/src/plot/ano13.rpy:1010
 translate chinese ano13_shop2_79cd107d:
@@ -3155,14 +3155,14 @@ translate chinese ano13_shop2_ea02e071:
 
 
     # tony e_w "Yeah, thanks again, [saga.cast.tina]."
-    tony e_w "是啊，再次谢谢你，[saga.cast.tina]。"
+    tony e_w "嗯，再次谢谢你，[saga.cast.tina]。"
 
 # game/src/plot/ano13.rpy:1017
 translate chinese ano13_shop2_8722b73d:
 
 
     # tony "We owe you one."
-    tony "我们欠你一个人情。"
+    tony "我们欠你个人情。"
 
 # game/src/plot/ano13.rpy:1020
 translate chinese ano13_shop2_e48173f1:
@@ -3176,7 +3176,7 @@ translate chinese ano13_shop2_3435fc35:
 
 
     # tony "Well, maybe it's you who owes me one then."
-    tony "嗯，那也许是你欠我一个人情了。"
+    tony "那说不定该算你欠我一个人情了。"
 
 # game/src/plot/ano13.rpy:1026
 translate chinese ano13_shop2_3d572abf:
@@ -3190,14 +3190,14 @@ translate chinese ano13_shop2_b0a3a181:
 
 
     # tony "Later, dollface."
-    tony "回头见，亲爱的。"
+    tony "回头见，美人儿。"
 
 # game/src/plot/ano13.rpy:1033
 translate chinese ano13_shop2_41ce1cb5:
 
 
     # tony "Hey, there's the machine!"
-    tony "嘿，机器就在那儿！"
+    tony "嘿，这不猛男来了吗！"
 
 # game/src/plot/ano13.rpy:1035
 translate chinese ano13_shop2_561d7079:
@@ -3225,7 +3225,7 @@ translate chinese ano13_shop2_a5372ce6:
 
 
     # tony "... And she was singing your praises."
-    tony "……她对你赞不绝口。"
+    tony "……她对你可是赞不绝口。"
 
 # game/src/plot/ano13.rpy:1043
 translate chinese ano13_shop2_7b5b0ff5:
@@ -3246,7 +3246,7 @@ translate chinese ano13_shop2_c3584c46:
 
 
     # tony "You must have really rung her bell good!"
-    tony "你肯定把她肏得很爽！"
+    tony "你肯定把她伺候得够爽！"
 
 # game/src/plot/ano13.rpy:1049
 translate chinese ano13_shop2_c987bc7b:
@@ -3260,14 +3260,14 @@ translate chinese ano13_shop2_5aebfe5f:
 
 
     # anon "... Don't you know you're not supposed to talk about that stuff?"
-    anon "……你不知道不该谈这个吗？"
+    anon "……这种事不是不能到处乱说吗？"
 
 # game/src/plot/ano13.rpy:1052
 translate chinese ano13_shop2_52810a6b:
 
 
     # tony a_belly f_happy @ e_b m_laugh "Heh, and a gentleman to boot!"
-    tony a_belly f_happy @ e_b m_laugh "嘿，还是个绅士呢！"
+    tony a_belly f_happy @ e_b m_laugh "呵，还是个绅士！"
 
 # game/src/plot/ano13.rpy:1053
 translate chinese ano13_shop2_89ea58f7:
@@ -3302,14 +3302,14 @@ translate chinese ano13_shop2_4868c17b:
 
 
     # tony @ e_r f_annoyed "Turns out, Eddie got caught with his four-fingered hand in the wrong cookie jar."
-    tony @ e_r f_annoyed "结果发现Eddie的四根手指伸错了饼干罐。"
+    tony @ e_r f_annoyed "结果Eddie把他那只四指手伸进了不该伸的地方，被逮了个正着。"
 
 # game/src/plot/ano13.rpy:1058
 translate chinese ano13_shop2_b9b7d77a:
 
 
     # tony "They got him serving a ten stretch upstate."
-    tony "他们让他在北边服十年刑。"
+    tony "他正在州北边的监狱蹲十年。"
 
 # game/src/plot/ano13.rpy:1059
 translate chinese ano13_shop2_e24dc0d8:
@@ -3358,7 +3358,7 @@ translate chinese ano13_shop2_01049181:
 
 
     # tony @ e_b_w f_horny "I might even take him a calzone with a file baked in it, eh?"
-    tony @ e_b_w f_horny "说不定我还会带个藏了锉刀的卡佐尼馅饼给他，嗯？"
+    tony @ e_b_w f_horny "说不定我还会给他带个藏着锉刀的意式烤饺，怎么样？"
 
 # game/src/plot/ano13.rpy:1068
 translate chinese ano13_shop2_4e50f4de:
@@ -3379,56 +3379,56 @@ translate chinese ano13_shop2_285c439e:
 
 
     # tony "It's a bit of a trek, so it'll take three or four days to make the trip, but yeah..."
-    tony "路程有点远，开车大概要三四天，不过没错……"
+    tony "这一趟路不近，来回得三四天……"
 
 # game/src/plot/ano13.rpy:1071
 translate chinese ano13_shop2_1b0042c4:
 
 
     # tony "... Simple as that."
-    tony "...就这么简单。"
+    tony "……不过没错，就这么简单。"
 
 # game/src/plot/ano13.rpy:1073
 translate chinese ano13_shop2_02124754:
 
 
     # tony a_hip_single "I'll find out what he knows concernin' [saga.cast.raz] and the rest of those dirty Russkies, I promise."
-    tony a_hip_single "我会查明他知道关于[saga.cast.raz]和其他那些肮脏的俄国佬的事情，我保证。"
+    tony a_hip_single "我一定会查清他知道多少[saga.cast.raz]和那帮俄国杂种的事。"
 
 # game/src/plot/ano13.rpy:1074
 translate chinese ano13_shop2_501dbce9:
 
 
     # anon "Oh, thank you so much, [saga.cast.tony]..."
-    anon "哦，太感谢你了，[saga.cast.tony]..."
+    anon "真的太谢谢你了，[saga.cast.tony]……"
 
 # game/src/plot/ano13.rpy:1076
 translate chinese ano13_shop2_b5162ec1:
 
 
     # anon f_shy "... I don't know how I'm ever gonna repay you for all of this, but-"
-    anon f_shy "...我真不知道该怎么报答你这一切，但是——"
+    anon f_shy "……我真不知道该怎么报答你为我做的这些，可是——"
 
 # game/src/plot/ano13.rpy:1077
 translate chinese ano13_shop2_c61f3411:
 
 
     # tony "Meh, don't worry about it."
-    tony "嗯，别担心。"
+    tony "哎，别放在心上。"
 
 # game/src/plot/ano13.rpy:1079
 translate chinese ano13_shop2_213f1c21:
 
 
     # tony "You're as good as family, champ."
-    tony "你就跟家人一样，冠军。"
+    tony "你跟自家人没两样，冠军。"
 
 # game/src/plot/ano13.rpy:1081
 translate chinese ano13_shop2_de378fd7:
 
 
     # tony a_hips "And we take care of family, remember?"
-    tony a_hips "我们照顾家人，记得吗？"
+    tony a_hips "一家人就该互相照应，记得吧？"
 
 # game/src/plot/ano13.rpy:1082
 translate chinese ano13_shop2_7652e64c:
@@ -3442,7 +3442,7 @@ translate chinese ano13_shop2_b90ca40e:
 
 
     # anon a_palm "Hey, speaking of family; how did things go with the adoption agency?"
-    anon a_palm "嘿，说到家人；领养机构那边怎么样了？"
+    anon a_palm "嘿，说到家人，领养机构那边怎么样了？"
 
 # game/src/plot/ano13.rpy:1085
 translate chinese ano13_shop2_8eaf9fd7:
@@ -3463,7 +3463,7 @@ translate chinese ano13_shop2_35611bfc:
 
 
     # tony f_sceptical "They wouldn't give us approval to adopt."
-    tony f_sceptical "他们不会批准我们领养。"
+    tony f_sceptical "他们没批准我们的领养申请。"
 
 # game/src/plot/ano13.rpy:1088
 translate chinese ano13_shop2_f02eac6b:
@@ -3491,14 +3491,14 @@ translate chinese ano13_shop2_fda50c31:
 
 
     # tony e_sw f_sad p_slump "{i}*Sigh*{/i} The head of the agency knew who I was..."
-    tony e_sw f_sad p_slump "{i}*叹气*{/i} 那个机构负责人知道我是谁……"
+    tony e_sw f_sad p_slump "{i}*叹气*{/i} 那个领养机构的负责人认出了我……"
 
 # game/src/plot/ano13.rpy:1093
 translate chinese ano13_shop2_1a4bf87d:
 
 
     # tony a_wide e_w p_stand "... Or who I used to be anyways."
-    tony a_wide e_w p_stand "……或者说，知道我过去是谁。"
+    tony a_wide e_w p_stand "……或者该说，认出了以前的我。"
 
 # game/src/plot/ano13.rpy:1094
 translate chinese ano13_shop2_4f4b7a47:
@@ -3526,14 +3526,14 @@ translate chinese ano13_shop2_0046a88b:
 
 
     # anon a_rub "Ah, man... That sucks, [saga.cast.tony]!"
-    anon a_rub "唉，老兄……真倒霉，[saga.cast.tony]！"
+    anon a_rub "唉……这也太糟了，[saga.cast.tony]！"
 
 # game/src/plot/ano13.rpy:1099
 translate chinese ano13_shop2_f26c0e90:
 
 
     # tony e_sw "Yeah, it's a real crap shoot."
-    tony e_sw "是啊，这真是碰运气。"
+    tony e_sw "是啊，这事真他妈没谱。"
 
 # game/src/plot/ano13.rpy:1103
 translate chinese ano13_shop2_5757d5db:
@@ -3575,14 +3575,14 @@ translate chinese ano13_shop2_6e24731c:
 
 
     # tony a_wtf "Well, the only option left is sperm donation..."
-    tony a_wtf "嗯，唯一剩下的办法就是捐精……"
+    tony a_wtf "嗯，现在只剩找人捐精这个办法了……"
 
 # game/src/plot/ano13.rpy:1111
 translate chinese ano13_shop2_01f869c3:
 
 
     # tony "... But [saga.cast.maria] ain't too happy at the idea."
-    tony "……但[saga.cast.maria]对这主意不太高兴。"
+    tony "……可[saga.cast.maria]一想到这事就很难接受。"
 
 # game/src/plot/ano13.rpy:1112
 translate chinese ano13_shop2_0ce77409:
@@ -3596,14 +3596,14 @@ translate chinese ano13_shop2_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano13.rpy:1114
 translate chinese ano13_shop2_bb130ce2:
 
 
     # tony "To be honest, I don't even think we can afford it."
-    tony "老实说，我甚至觉得我们负担不起。"
+    tony "而且说实话，我们恐怕也付不起那笔钱。"
 
 # game/src/plot/ano13.rpy:1115
 translate chinese ano13_shop2_e9d34834:
@@ -3624,14 +3624,14 @@ translate chinese ano13_shop2_6f659050:
 
 
     # anon "I mean, maybe I could go talk to this adoption lady and-"
-    anon "我是说，也许我可以去和那个领养负责人谈谈——"
+    anon "我是说，也许我能去跟那个领养机构的负责人谈谈——"
 
 # game/src/plot/ano13.rpy:1121
 translate chinese ano13_shop2_2edfcf7c:
 
 
     # anon "I mean, I've got money if you-"
-    anon "我是说，我有钱，如果你——"
+    anon "我也有些钱，要是你们——"
 
 # game/src/plot/ano13.rpy:1123
 translate chinese ano13_shop2_f8205f9e:
@@ -3673,7 +3673,7 @@ translate chinese ano13_shop2_8e89504b:
 
 
     # tony "... Maybe... there is something..."
-    tony "...也许...有点什么..."
+    tony "……也许……还真有件事……"
 
 # game/src/plot/ano13.rpy:1131
 translate chinese ano13_shop2_de3aeb1a:
@@ -3687,14 +3687,14 @@ translate chinese ano13_shop2_0ee3668b:
 
 
     # tony a_hips e_w f_calm "Meeeeh, I'mma need to stew on it for a bit."
-    tony a_hips e_w f_calm "唔——，我得再好好琢磨琢磨。"
+    tony a_hips e_w f_calm "嗯……我得先琢磨一阵。"
 
 # game/src/plot/ano13.rpy:1134
 translate chinese ano13_shop2_c57f7516:
 
 
     # tony "Maybe we'll discuss it once I'm back from visitin' Eddie, eh?"
-    tony "等我拜访完Eddie回来再谈，行吧？"
+    tony "等我见完Eddie回来，我们再谈，怎么样？"
 
 # game/src/plot/ano13.rpy:1135
 translate chinese ano13_shop2_6300b9bd:
@@ -3715,14 +3715,14 @@ translate chinese ano13_shop2_b29fa55b:
 
 
     # tony "I'll be setting out first thing [saga.time.dow + when] morning..."
-    tony "我会一大早就出发[saga.time.dow + when]早上……"
+    tony "我会在[saga.time.dow + when]一大早出发……"
 
 # game/src/plot/ano13.rpy:1142
 translate chinese ano13_shop2_1369941a:
 
 
     # tony "... And while I'm gone, I trust you'll help [saga.cast.maria] in keepin' this place afloat."
-    tony "...我不在的时候，我相信你会帮[saga.cast.maria]把这个地方撑下去。"
+    tony "……我走以后，这家店就拜托你帮[saga.cast.maria]撑着了。"
 
 # game/src/plot/ano13.rpy:1143
 translate chinese ano13_shop2_4c1f5b95:
@@ -3743,14 +3743,14 @@ translate chinese ano13_shop2_9483e19f:
 
 
     # tony "I should be back very late on [saga.time.dow + when + 3]..."
-    tony "我应该会在[saga.time.dow + when + 3]很晚才回来..."
+    tony "我应该会在[saga.time.dow + when + 3]深夜回来……"
 
 # game/src/plot/ano13.rpy:1147
 translate chinese ano13_shop2_1e787de0:
 
 
     # tony "... Come see me sometime after."
-    tony "... 改天来找我吧。"
+    tony "……之后找个时间来见我。"
 
 # game/src/plot/ano13.rpy:1148
 translate chinese ano13_shop2_725ecb2e:

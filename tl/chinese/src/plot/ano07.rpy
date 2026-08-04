@@ -4,235 +4,235 @@
 translate chinese ano07_intro_3bb9211d:
 
     # anon @ -m_talk "( I should really go and meet up with that guy who rescued me. )"
-    anon @ -m_talk "(我真该去见见那个救了我的人。)"
+    anon @ -m_talk "（我真该去见见那个救了我的人。）"
 
 # game/src/plot/ano07.rpy:8
 translate chinese ano07_intro_dcd431d4:
 
     # anon @ -m_talk "( I should really go and meet up with [saga.cast.tony]. )"
-    anon @ -m_talk "(我真该去见见[saga.cast.tony]。)"
+    anon @ -m_talk "（我真该去见见[saga.cast.tony]。）"
 
 # game/src/plot/ano07.rpy:10
 translate chinese ano07_intro_1c5b18ba:
 
     # anon @ -m_talk "( He might be able to help us with these Russians... )"
-    anon @ -m_talk "(他也许能帮我们对付那些俄国佬……)"
+    anon @ -m_talk "（他也许能帮我们对付那些俄国佬……）"
 
 # game/src/plot/ano07.rpy:11
 translate chinese ano07_intro_f3adc237:
 
     # anon @ -m_talk "( ... And even if he can't, he mentioned something about a job for me. )"
-    anon @ -m_talk "(……就算他帮不上忙，他也提到过有份工作给我。)"
+    anon @ -m_talk "（……就算他帮不上忙，他也提过可以给我一份工作。）"
 
 # game/src/plot/ano07.rpy:13
 translate chinese ano07_intro_ca220923:
 
     # anon f_worried @ -m_talk "( On the other hand, [saga.cast.debbie] seems really worried about this loan she took out with the bank. )"
-    anon f_worried @ -m_talk "(另一方面，[saga.cast.debbie]似乎很担心她从银行借的那笔贷款。)"
+    anon f_worried @ -m_talk "（另一方面，[saga.cast.debbie]好像很担心她从银行借的那笔钱。）"
 
 # game/src/plot/ano07.rpy:14
 translate chinese ano07_intro_25de1236:
 
     # anon a_think e_nw f_pensive @ -m_talk "( My time might be better spent heading down to Saga Financial and sorting things out. )"
-    anon a_think e_nw f_pensive @ -m_talk "(我的时间也许更适合去传说金融公司把事情处理清楚。)"
+    anon a_think e_nw f_pensive @ -m_talk "（或许我更该去一趟传说金融，把贷款的事处理好。）"
 
 # game/src/plot/ano07.rpy:15
 translate chinese ano07_intro_a869ffb2:
 
     # anon @ -m_talk "( I'm sure one of Dad's old coworkers will help me. )"
-    anon @ -m_talk "(我相信爸爸的老同事会帮我的。)"
+    anon @ -m_talk "（爸爸以前的同事里，总该有人愿意帮我。）"
 
 # game/src/plot/ano07.rpy:16
 translate chinese ano07_intro_0caeae82:
 
     # anon @ -m_talk "( I might be able to learn more about what he got mixed up in. )"
-    anon @ -m_talk "(我或许能了解更多他卷入的事情。)"
+    anon @ -m_talk "（说不定还能查清爸爸当初究竟卷进了什么事。）"
 
 # game/src/plot/ano07.rpy:20
 translate chinese ano07_intro_0f1d51a0:
 
     # anon f_worried @ -m_talk "( Then again, it might be unwise to keep this [saga.cast.tony] character waiting... )"
-    anon f_worried @ -m_talk "(不过，让这个[saga.cast.tony]角色等太久可能也不是明智之举……)"
+    anon f_worried @ -m_talk "（不过，让[saga.cast.tony]这个人等太久恐怕也不明智……）"
 
 # game/src/plot/ano07.rpy:22
 translate chinese ano07_intro_c22d7d69:
 
     # anon f_worried @ -m_talk "( Then again, it might be unwise to keep [saga.cast.tony] waiting... )"
-    anon f_worried @ -m_talk "(不过，让[saga.cast.tony]等太久可能也不是明智之举……)"
+    anon f_worried @ -m_talk "（不过，让[saga.cast.tony]等太久恐怕也不明智……）"
 
 # game/src/plot/ano07.rpy:24
 translate chinese ano07_intro_9a50b21c:
 
     # anon a_pocket e_w f_calm @ -m_talk "( Maybe I should head there first. )"
-    anon a_pocket e_w f_calm @ -m_talk "(也许我应该先去那里。)"
+    anon a_pocket e_w f_calm @ -m_talk "（也许我该先去找他。）"
 
 # game/src/plot/ano07.rpy:34
 translate chinese ano07_shop_71f4268e:
 
     # tony "Look, that Gino was a lazy bum..."
-    tony "听着，那个Gino就是个懒鬼……"
+    tony "听着，Gino那家伙就是个懒鬼……"
 
 # game/src/plot/ano07.rpy:35
 translate chinese ano07_shop_b507532e:
 
     # tony "I should have canned his ass months ago."
-    tony "我几个月前就该炒了他。"
+    tony "我几个月前就该把他开了。"
 
 # game/src/plot/ano07.rpy:36
 translate chinese ano07_shop_0c6681c4:
 
     # maria @ e_r f_annoyed "Yeah, no shit."
-    maria @ e_r f_annoyed "是啊，可不是嘛。"
+    maria @ e_r f_annoyed "废话。"
 
 # game/src/plot/ano07.rpy:37
 translate chinese ano07_shop_661a7d30:
 
     # maria "I coulda told ya that after his first day, [saga.cast.tony]."
-    maria "他第一天上班后我就想跟你说了，[saga.cast.tony]。"
+    maria "他上班头一天我就跟你说过了，[saga.cast.tony]。"
 
 # game/src/plot/ano07.rpy:38
 translate chinese ano07_shop_b1561984:
 
     # maria a_finger_02 "It don't change the fact that we need more than two people to run this place!"
-    maria a_finger_02 "但改变不了我们至少需要三个人才能撑得起这家店的事实！"
+    maria a_finger_02 "可这改变不了店里不能只有咱俩！"
 
 # game/src/plot/ano07.rpy:41
 translate chinese ano07_shop_1c00fd8b:
 
     # tony f_sad "{i}*Sigh*{/i} I know, darlin'... I'm sorry!"
-    tony f_sad "{i}*叹气*{/i}我知道，亲爱的……抱歉！"
+    tony f_sad "{i}*叹气*{/i}我知道，亲爱的……是我不对！"
 
 # game/src/plot/ano07.rpy:42
 translate chinese ano07_shop_ec674b7e:
 
     # tony "I'm gonna find somebody soon, okay?"
-    tony "我会尽快找到人的，好吗？"
+    tony "我会尽快找到人手，行了吧？"
 
 # game/src/plot/ano07.rpy:43
 translate chinese ano07_shop_b73b2515:
 
     # maria a_fold "We should just go back to being dine in or pick up only."
-    maria a_fold "我们应该只做堂食或自取。"
+    maria a_fold "咱们干脆只做堂食和到店自取。"
 
 # game/src/plot/ano07.rpy:44
 translate chinese ano07_shop_1bfc4fad:
 
     # tony a_wtf "We're not doin' that!"
-    tony a_wtf "我们才不那样做！"
+    tony a_wtf "那可不行！"
 
 # game/src/plot/ano07.rpy:45
 translate chinese ano07_shop_6c753ac4:
 
     # tony "Deliveries bring in too much money."
-    tony "外卖带来的钱太多了。"
+    tony "送餐这块太赚钱了。"
 
 # game/src/plot/ano07.rpy:47
 translate chinese ano07_shop_2cb4eb83:
 
     # maria a_point "Well then, you better start locking the door when you leave to make deliveries."
-    maria a_point "那你最好在出去送外卖时锁好门。"
+    maria a_point "那你出去送餐时最好把门锁上。"
 
 # game/src/plot/ano07.rpy:48
 translate chinese ano07_shop_4a10fb4d:
 
     # maria "I can't keep workin' the kitchen and the counter at the same time..."
-    maria "我不能同时兼顾厨房和柜台……"
+    maria "我不可能一边守后厨，一边还顾着柜台……"
 
 # game/src/plot/ano07.rpy:49
 translate chinese ano07_shop_bfc3caf8:
 
     # maria "My feet are killin' me!"
-    maria "我的脚疼死了！"
+    maria "我两条腿都快站断了！"
 
 # game/src/plot/ano07.rpy:51
 translate chinese ano07_shop_92d35f20:
 
     # maria a_fold "And besides, what if someone came in here lookin' to make trouble, eh?"
-    maria a_fold "再说了，万一有人进来找麻烦怎么办，嗯？"
+    maria a_fold "再说，要是有人进来找麻烦呢？"
 
 # game/src/plot/ano07.rpy:52
 translate chinese ano07_shop_5b2a3341:
 
     # maria "What am I supposed to do then, all by my lonesome?"
-    maria "到时候我一个人该怎么办？"
+    maria "到时候就我一个人，你让我怎么办？"
 
 # game/src/plot/ano07.rpy:53
 translate chinese ano07_shop_efdc19b7:
 
     # tony a_point_back f_happy "I don't know, sell 'em a pizza?"
-    tony a_point_back f_happy "我不知道，卖他们一张披萨？"
+    tony a_point_back f_happy "我哪知道，卖他们份披萨？"
 
 # game/src/plot/ano07.rpy:54
 translate chinese ano07_shop_dc5cfc4f:
 
     # maria a_hips "That ain't funny, [saga.cast.tony]!"
-    maria a_hips "这一点都不好笑，[saga.cast.tony]！"
+    maria a_hips "一点都不好笑，[saga.cast.tony]！"
 
 # game/src/plot/ano07.rpy:55
 translate chinese ano07_shop_68b141cd:
 
     # tony f_sceptical "Tsk, come on..."
-    tony f_sceptical "啧，拜托..."
+    tony f_sceptical "啧，得了吧……"
 
 # game/src/plot/ano07.rpy:57
 translate chinese ano07_shop_58344a57:
 
     # tony a_point_hands f_sad "Ain't nobody comin' in here lookin' for trouble!"
-    tony a_point_hands f_sad "没人会来这儿找麻烦的！"
+    tony a_point_hands f_sad "根本不会有人来这里找麻烦！"
 
 # game/src/plot/ano07.rpy:58
 translate chinese ano07_shop_f873bf24:
 
     # tony "We left all that business behind us."
-    tony "我们把那些破事都抛在脑后了。"
+    tony "那些破事我们早就不干了。"
 
 # game/src/plot/ano07.rpy:60
 translate chinese ano07_shop_197b502a:
 
     # maria @ a_fold_whatever "I'm talkin' about somebody tryin' to rob the place, you dunce!"
-    maria @ a_fold_whatever "我是说有人想抢劫这儿，你这蠢货！"
+    maria @ a_fold_whatever "我是说有人来抢店，你个蠢货！"
 
 # game/src/plot/ano07.rpy:64
 translate chinese ano07_shop_fc10fc14:
 
     # tony "Ugh, sheesh [saga.cast.maria], you worry too much!"
-    tony "呃，天哪[saga.cast.maria]，你太操心了！"
+    tony "唉，[saga.cast.maria]，你就是操心太多！"
 
 # game/src/plot/ano07.rpy:65
 translate chinese ano07_shop_48c14a03:
 
     # maria "No, you don't worry enough!"
-    maria "不，是你操心不够！"
+    maria "不，是你根本不够上心！"
 
 # game/src/plot/ano07.rpy:68
 translate chinese ano07_shop_905e96b6:
 
     # maria a_up f_annoyed "Tch, I'm not arguin' no more."
-    maria a_up f_annoyed "切，我不跟你吵了。"
+    maria a_up f_annoyed "切，不跟你吵了。"
 
 # game/src/plot/ano07.rpy:69
 translate chinese ano07_shop_35f22463:
 
     # maria "I got pizzas to make."
-    maria "我还有披萨要做呢。"
+    maria "我还得做披萨。"
 
 # game/src/plot/ano07.rpy:75
 translate chinese ano07_shop_722797a1:
 
     # tony "That's the spirit darlin'."
-    tony "这才对嘛，亲爱的。"
+    tony "这就对了，亲爱的。"
 
 # game/src/plot/ano07.rpy:76
 translate chinese ano07_shop_c72c176a:
 
     # tony "You make them pizzas!"
-    tony "去做你的披萨吧！"
+    tony "你安心做披萨！"
 
 # game/src/plot/ano07.rpy:78
 translate chinese ano07_shop_93d7f3d1:
 
     # tony "I'll find somebody real soon, I promise."
-    tony "我很快就会找到命中注定的那个人的，我保证。"
+    tony "我保证，很快就会找到人手。"
 
 # game/src/plot/ano07.rpy:79
 translate chinese ano07_shop_11e6690f:
@@ -244,19 +244,19 @@ translate chinese ano07_shop_11e6690f:
 translate chinese ano07_shop_4b54cf59:
 
     # tony a_hips f_happy "Everything's gonna be great, you'll see."
-    tony a_hips f_happy "一切都会好起来的，你看着吧。"
+    tony a_hips f_happy "一切都会顺顺利利的，你等着瞧吧。"
 
 # game/src/plot/ano07.rpy:84
 translate chinese ano07_shop_005b1419:
 
     # tony "Oh hey, speak of the devil!"
-    tony "哦嘿，说曹操曹操到！"
+    tony "嘿，说人就到！"
 
 # game/src/plot/ano07.rpy:86
 translate chinese ano07_shop_2a55240f:
 
     # tony "You're still breathin', eh?"
-    tony "你还活着呢，嗯？"
+    tony "还喘气呢，嗯？"
 
 # game/src/plot/ano07.rpy:87
 translate chinese ano07_shop_808fe128:
@@ -286,85 +286,85 @@ translate chinese ano07_shop_65741076:
 translate chinese ano07_shop_d224cb64:
 
     # tony "I'm happy to help, buddy."
-    tony "很高兴能帮上忙，兄弟。"
+    tony "能帮上忙我也高兴，小兄弟。"
 
 # game/src/plot/ano07.rpy:93
 translate chinese ano07_shop_c8eff6b9:
 
     # tony "You here about the job?"
-    tony "你是来应聘工作的吗？"
+    tony "你是为那份工作来的？"
 
 # game/src/plot/ano07.rpy:94
 translate chinese ano07_shop_f948ac0c:
 
     # anon "Oh, umm... Yeah, I am."
-    anon "哦，嗯……是的，我是。"
+    anon "哦，呃……对。"
 
 # game/src/plot/ano07.rpy:95
 translate chinese ano07_shop_16d217f7:
 
     # anon "Assuming it's still available?"
-    anon "如果这个职位还在的话？"
+    anon "职位还空着吧？"
 
 # game/src/plot/ano07.rpy:96
 translate chinese ano07_shop_4144f173:
 
     # tony @ e_b f_happy m_laugh "Well, of course it's still available..."
-    tony @ e_b f_happy m_laugh "当然还在……"
+    tony @ e_b f_happy m_laugh "那当然还空着……"
 
 # game/src/plot/ano07.rpy:97
 translate chinese ano07_shop_3fd93e36:
 
     # tony "Were you not payin' attention when ya walked in here?"
-    tony "你走进来的时候没注意看吗？"
+    tony "你进门时没听见我们在吵什么吗？"
 
 # game/src/plot/ano07.rpy:98
 translate chinese ano07_shop_5eacf343:
 
     # tony @ a_point_back "My wife is all up in my ass about hiring a new delivery boy."
-    tony @ a_point_back "我老婆一直催着我招个新的送货员。"
+    tony @ a_point_back "我老婆为了招送餐员都快念叨死我了。"
 
 # game/src/plot/ano07.rpy:99
 translate chinese ano07_shop_9e8b391f:
 
     # anon f_surprised @ a_point "That was your wife?"
-    anon f_surprised @ a_point "那是你老婆？"
+    anon f_surprised @ a_point "刚才那是你老婆？"
 
 # game/src/plot/ano07.rpy:100
 translate chinese ano07_shop_f2ec4b10:
 
     # tony a_point e_b_w f_horny "That's right, buddy."
-    tony a_point e_b_w f_horny "没错，伙计。"
+    tony a_point e_b_w f_horny "没错，小兄弟。"
 
 # game/src/plot/ano07.rpy:101
 translate chinese ano07_shop_da6ac3b4:
 
     # tony a_hips e_w f_calm "Nice, eh?"
-    tony a_hips e_w f_calm "漂亮吧？"
+    tony a_hips e_w f_calm "不错吧？"
 
 # game/src/plot/ano07.rpy:102
 translate chinese ano07_shop_8f79bc54:
 
     # anon f_calm "Very."
-    anon f_calm "非常漂亮。"
+    anon f_calm "很漂亮。"
 
 # game/src/plot/ano07.rpy:103
 translate chinese ano07_shop_df01857b:
 
     # tony "She's a firecracker too, I tell ya what..."
-    tony "她也是个火爆的小辣椒，我跟你说..."
+    tony "脾气也够火爆的，我跟你说……"
 
 # game/src/plot/ano07.rpy:104
 translate chinese ano07_shop_d2bf1e45:
 
     # tony "You play your cards right and work real hard for me, you're gonna end up with one just like her..."
-    tony "只要你好好表现，为我卖力干活，你也能得到像她这样的女人..."
+    tony "只要你会做人，再踏踏实实替我干活，以后也能找到像她这么好的女人……"
 
 # game/src/plot/ano07.rpy:105
 translate chinese ano07_shop_15f07ccf:
 
     # anon "I'll definitely work hard for you, sir."
-    anon "我一定为您好好努力，先生。"
+    anon "我一定会好好干的，先生。"
 
 # game/src/plot/ano07.rpy:106
 translate chinese ano07_shop_8074b2ac:
@@ -376,13 +376,13 @@ translate chinese ano07_shop_8074b2ac:
 translate chinese ano07_shop_8bda154c:
 
     # tony "I knew you was an enterprising young man the second I laid eyes on ya."
-    tony "我第一眼看到你，就知道你是个有出息的年轻人。"
+    tony "我第一眼就看出你是个有闯劲的年轻人。"
 
 # game/src/plot/ano07.rpy:108
 translate chinese ano07_shop_0465bd50:
 
     # tony "Now, I want ya to hurry along and get these pizzas delivered, capisce?"
-    tony "现在，赶紧去把这些披萨送完，懂吗？"
+    tony "现在赶紧把这些披萨送出去，懂了没？"
 
 # game/src/plot/ano07.rpy:109
 translate chinese ano07_shop_3606cebd:
@@ -412,43 +412,43 @@ translate chinese ano07_shop_bb59ccd3:
 translate chinese ano07_shop_bced0bd1:
 
     # tony f_sceptical "Jesus, kid."
-    tony f_sceptical "天啊，孩子。"
+    tony f_sceptical "老天，小子。"
 
 # game/src/plot/ano07.rpy:125
 translate chinese ano07_shop_bcb813f1:
 
     # tony "You certainly ain't getting a girl like my [saga.cast.maria], walkin' around town like a bum!"
-    tony "你这样子邋里邋遢地在镇上晃荡，肯定找不到我的[saga.cast.maria]这样的姑娘！"
+    tony "你跟个流浪汉似的在镇上到处走，肯定找不到像我家[saga.cast.maria]这样的姑娘！"
 
 # game/src/plot/ano07.rpy:128
 translate chinese ano07_shop_cd85a1f7:
 
     # anon "But [saga.cast.tony], I {i}do{/i} have a-"
-    anon "不过[saga.cast.tony]，我{i}确实{/i}有个——"
+    anon "可[saga.cast.tony]，我{i}真的{/i}有——"
 
 # game/src/plot/ano07.rpy:129
 translate chinese ano07_shop_f1aafdda:
 
     # tony "Nah, nah... It's fine, I've got ya."
-    tony "算了，算了……没事，我懂了。"
+    tony "不用不用……没事，我来帮你。"
 
 # game/src/plot/ano07.rpy:135
 translate chinese ano07_shop_425fd633:
 
     # tony a_money_count "Let's see here..."
-    tony a_money_count "让我看看……"
+    tony a_money_count "我找找看……"
 
 # game/src/plot/ano07.rpy:136
 translate chinese ano07_shop_12fbe587:
 
     # anon e_w "W-what are you-"
-    anon e_w "你、你这是要——"
+    anon e_w "你、你这是——"
 
 # game/src/plot/ano07.rpy:138
 translate chinese ano07_shop_b2d1f728:
 
     # tony a_money e_w "Take this."
-    tony a_money e_w "拿着这个。"
+    tony a_money e_w "拿着。"
 
 # game/src/plot/ano07.rpy:139
 translate chinese ano07_shop_4bc52c63:
@@ -466,19 +466,19 @@ translate chinese ano07_shop_30530d10:
 translate chinese ano07_shop_faf512d6:
 
     # tony "Get yer skinny butt down to the mall and buy one of them cheap bicycles they got."
-    tony "赶紧去商场买辆便宜自行车吧，就那种的。"
+    tony "麻溜去商场，买辆他们那儿的便宜自行车。"
 
 # game/src/plot/ano07.rpy:143
 translate chinese ano07_shop_b77d27c2:
 
     # tony a_hips "And hurry up, will ya?!"
-    tony a_hips "快点行不行？！"
+    tony a_hips "给我快点，行不行？！"
 
 # game/src/plot/ano07.rpy:145
 translate chinese ano07_shop_2ceb4b8b:
 
     # tony "I need these pizzas delivered yesterday."
-    tony "这些披萨昨天就该送到了。"
+    tony "这些披萨早就该送出去了。"
 
 # game/src/plot/ano07.rpy:146
 translate chinese ano07_shop_dc2cfe1b:
@@ -496,49 +496,49 @@ translate chinese ano07_shop_951ca665:
 translate chinese ano07_shop_bike_d48a57ba:
 
     # anon f_confused "Yes?"
-    anon f_confused "嗯？"
+    anon f_confused "有啊？"
 
 # game/src/plot/ano07.rpy:157
 translate chinese ano07_shop_bike_e0800ae2:
 
     # anon "But I've also-"
-    anon "但是我还——"
+    anon "不过我还有——"
 
 # game/src/plot/ano07.rpy:159
 translate chinese ano07_shop_bike_b0261e27:
 
     # tony f_calm "Ahh, great... you're all set then!"
-    tony f_calm "啊，太好了……那你全准备好了！"
+    tony f_calm "啊，那好极了……那就没问题了！"
 
 # game/src/plot/ano07.rpy:162
 translate chinese ano07_shop_bike_a1b1f260:
 
     # anon "B-but, do I really need to use a bike if-"
-    anon "但、但是我非得用自行车吗——"
+    anon "可、可我真的非得骑自行车吗，要是——"
 
 # game/src/plot/ano07.rpy:166
 translate chinese ano07_shop_reuse_d6c1bf0f:
 
     # tony a_point_under f_calm "Take these pizzas and see they get delivered to the right place!"
-    tony a_point_under f_calm "拿着这些披萨，确保送到正确的地方！"
+    tony a_point_under f_calm "拿上这些披萨，一份都别送错地方！"
 
 # game/src/plot/ano07.rpy:171
 translate chinese ano07_shop_reuse_2d8181da:
 
     # tony a_hips e_w f_sceptical "Don't go screwing around now, you hear me?"
-    tony a_hips e_w f_sceptical "别给我搞砸了，听见没？"
+    tony a_hips e_w f_sceptical "别在路上瞎磨蹭，听见没？"
 
 # game/src/plot/ano07.rpy:172
 translate chinese ano07_shop_reuse_483d9090:
 
     # anon "I won't."
-    anon "我不会。"
+    anon "不会的。"
 
 # game/src/plot/ano07.rpy:173
 translate chinese ano07_shop_reuse_29e5127d:
 
     # tony f_calm "When you get back, I'll pay you real nice."
-    tony f_calm "等你回来，我会给你一笔不错的薪水的。"
+    tony f_calm "等你回来，工钱肯定少不了你的。"
 
 # game/src/plot/ano07.rpy:174
 translate chinese ano07_shop_reuse_e3f38f22:
@@ -550,13 +550,13 @@ translate chinese ano07_shop_reuse_e3f38f22:
 translate chinese ano07_shop_reuse_4bd35ad4:
 
     # anon a_hips f_happy @ e_b m_laugh "I'll be back in a flash, you'll see."
-    anon a_hips f_happy @ e_b m_laugh "我马上回来，你瞧着吧。"
+    anon a_hips f_happy @ e_b m_laugh "我转眼就回来，等着瞧吧。"
 
 # game/src/plot/ano07.rpy:176
 translate chinese ano07_shop_reuse_8c06f885:
 
     # tony f_happy @ a_wave "Ahh, get out of here, ya knucklehead!"
-    tony f_happy @ a_wave "啊，快去吧，你个傻瓜！"
+    tony f_happy @ a_wave "行了，快去吧，你个笨小子！"
 
 # game/src/plot/ano07.rpy:190
 translate chinese ano07_leave1_rails_30468326:
@@ -568,7 +568,7 @@ translate chinese ano07_leave1_rails_30468326:
 translate chinese ano07_leave1_rails_7d22ee9d:
 
     # tony "These pizzas ain't gonna deliver themselves, ya knucklehead!"
-    tony "这些披萨可不会自己送上门，你个傻瓜！"
+    tony "这些披萨可不会长腿自己送出去，你个笨蛋！"
 
 # game/src/plot/ano07.rpy:192
 translate chinese ano07_leave1_rails_9df05904:
@@ -580,61 +580,61 @@ translate chinese ano07_leave1_rails_9df05904:
 translate chinese ano07_leave2_fence_aed3f3a3:
 
     # anon @ -m_talk "( I just lied to [saga.cast.tony]'s face about not having a bike! )"
-    anon @ -m_talk "(我刚刚对[saga.cast.tony]撒谎说没有自行车！)"
+    anon @ -m_talk "（我居然当着[saga.cast.tony]的面谎称自己没自行车！）"
 
 # game/src/plot/ano07.rpy:206
 translate chinese ano07_leave2_fence_07c5f58d:
 
     # anon a_rub f_worried_surprised -m_teeth @ -m_talk "( Why did I do that? )"
-    anon a_rub f_worried_surprised -m_teeth @ -m_talk "(我为什么要那样做？)"
+    anon a_rub f_worried_surprised -m_teeth @ -m_talk "（我为什么要这么做？）"
 
 # game/src/plot/ano07.rpy:208
 translate chinese ano07_leave2_fence_fdf3dd78:
 
     # anon a_think e_sw f_pensive @ -m_talk "( In any case I can't waltz back in with one now... )"
-    anon a_think e_sw f_pensive @ -m_talk "(反正我现在也不能带着一辆回去……)"
+    anon a_think e_sw f_pensive @ -m_talk "（不管怎样，我现在也不能骑着自行车大摇大摆地回去……）"
 
 # game/src/plot/ano07.rpy:209
 translate chinese ano07_leave2_fence_feead783:
 
     # anon @ -m_talk "( ... And there's no way he wouldn't notice me waiting around out here. )"
-    anon @ -m_talk "(……而且他肯定能注意到我在外面徘徊。)"
+    anon @ -m_talk "（……可继续在这里耗着，他肯定也会发现我。）"
 
 # game/src/plot/ano07.rpy:210
 translate chinese ano07_leave2_fence_995b292a:
 
     # anon @ -m_talk "( He seems like a pretty sharp guy, so I guess I'll come back later instead and pretend I bought one. )"
-    anon @ -m_talk "(他看起来是个很精明的人，所以我最好还是晚点再来，假装我已经买了一辆。)"
+    anon @ -m_talk "（他看起来挺精明的，还是晚点再来，装作刚买到自行车吧。）"
 
 # game/src/plot/ano07.rpy:212
 translate chinese ano07_leave2_fence_fcd8c7ff:
 
     # anon a_side e_osw f_sad @ -m_talk "( How do I end up getting myself into these situations. )"
-    anon a_side e_osw f_sad @ -m_talk "(我怎么总是把自己弄到这种境地里。)"
+    anon a_side e_osw f_sad @ -m_talk "（我怎么总把自己坑进这种局面。）"
 
 # game/src/plot/ano07.rpy:223
 translate chinese ano07_bike_take_017f9875:
 
     # anon "( Nothing special, but it'll be more than good enough for delivering a few pizzas. )"
-    anon "(没什么特别的，但送几份披萨绰绰有余了。)"
+    anon "（虽然很普通，但送几份披萨绝对够用了。）"
 
 # game/src/plot/ano07.rpy:224
 translate chinese ano07_bike_take_826cf7e2:
 
     # anon "( Huh, it costs exactly what [saga.cast.tony] gave me, strangely convenient! )"
-    anon "(哈，正好是[saga.cast.tony]给我的钱，真是巧了！)"
+    anon "（咦，价格正好等于[saga.cast.tony]给我的钱，还真巧！）"
 
 # game/src/plot/ano07.rpy:229
 translate chinese ano07_bike_tony_f2d662a1:
 
     # anon a_uneasy f_shy "Um... about that bike."
-    anon a_uneasy f_shy "呃……关于那辆自行车。"
+    anon a_uneasy f_shy "呃……关于自行车的事。"
 
 # game/src/plot/ano07.rpy:230
 translate chinese ano07_bike_tony_e6b33e98:
 
     # tony "You get one yet?"
-    tony "你买了吗？"
+    tony "买到了没？"
 
 # game/src/plot/ano07.rpy:231
 translate chinese ano07_bike_tony_cf2981fd:
@@ -652,7 +652,7 @@ translate chinese ano07_bike_tony_30468326:
 translate chinese ano07_bike_tony_9241c6ec:
 
     # tony a_point_under "These pizzas ain't gonna deliver themselves, ya knucklehead!"
-    tony a_point_under "这些披萨可不会自己送上门，你个傻瓜！"
+    tony a_point_under "这些披萨可不会长腿自己送出去，你个笨蛋！"
 
 # game/src/plot/ano07.rpy:236
 translate chinese ano07_bike_tony_9df05904:
@@ -664,25 +664,25 @@ translate chinese ano07_bike_tony_9df05904:
 translate chinese ano07_tony_212f400e:
 
     # anon f_happy "I got a bike!"
-    anon f_happy "我搞到自行车了！"
+    anon f_happy "自行车买到了！"
 
 # game/src/plot/ano07.rpy:246
 translate chinese ano07_tony_5910803a:
 
     # tony f_happy "Glad to hear it, kid."
-    tony f_happy "很高兴听到这个，孩子。"
+    tony f_happy "好极了，小子。"
 
 # game/src/plot/ano07.rpy:256
 translate chinese ano07_tony_busy_f6bfb3f5:
 
     # tony a_point_under f_sad "These are all for collection though."
-    tony a_point_under f_sad "不过这些都是自取订单。"
+    tony a_point_under f_sad "不过这些都是到店自取订单。"
 
 # game/src/plot/ano07.rpy:260
 translate chinese ano07_tony_busy_312cbe30:
 
     # tony a_hips "'Fraid you'll need to come back later."
-    tony a_hips "恐怕你晚点还得再来一趟。"
+    tony a_hips "恐怕你得晚点再来。"
 
 # game/src/plot/ano07.rpy:261
 translate chinese ano07_tony_busy_37aed4bb:
@@ -694,73 +694,73 @@ translate chinese ano07_tony_busy_37aed4bb:
 translate chinese ano07_tony_busy_a8988b78:
 
     # tony a_wide f_calm "Ey, what ya gonna do, sometimes that's just how it is."
-    tony a_wide f_calm "嘿，有啥办法呢，有时候就这样。"
+    tony a_wide f_calm "唉，没办法，有时就是这么不凑巧。"
 
 # game/src/plot/ano07.rpy:263
 translate chinese ano07_tony_busy_e401c3da:
 
     # anon e_sw f_sad "I guess."
-    anon e_sw f_sad "好吧。"
+    anon e_sw f_sad "也是。"
 
 # game/src/plot/ano07.rpy:266
 translate chinese ano07_tony_busy_525b63b1:
 
     # tony a_wave "Chin up, kid, you'll get yer shot."
-    tony a_wave "打起精神来，孩子，你会有机会的。"
+    tony a_wave "别泄气，小子，总会轮到你的。"
 
 # game/src/plot/ano07.rpy:275
 translate chinese ano07_reset_tony_7a3e5eeb:
 
     # anon f_confused "So I can't do a trial run?"
-    anon f_confused "那我现在不能试跑一趟吗？"
+    anon f_confused "那我不能先试送一趟吗？"
 
 # game/src/plot/ano07.rpy:276
 translate chinese ano07_reset_tony_791b7408:
 
     # tony f_calm "Sure you can, kid."
-    tony f_calm "当然可以，小伙子。"
+    tony f_calm "当然能，小子。"
 
 # game/src/plot/ano07.rpy:277
 translate chinese ano07_reset_tony_eb3bc9d0:
 
     # tony a_point_under f_sad "But right now, all I got is collection orders."
-    tony a_point_under f_sad "不过现在我手头只有收货款的任务。"
+    tony a_point_under f_sad "可我现在手上全是到店自取的单子。"
 
 # game/src/plot/ano07.rpy:281
 translate chinese ano07_reset_tony_4bfa7958:
 
     # tony a_hips "Nothin' to deliver, capisce?"
-    tony a_hips "没什么要送的，明白吗？"
+    tony a_hips "没东西可送，懂了没？"
 
 # game/src/plot/ano07.rpy:282
 translate chinese ano07_reset_tony_6e277125:
 
     # anon a_rub f_shy "Oh, right."
-    anon a_rub f_shy "哦，对。"
+    anon a_rub f_shy "哦，明白了。"
 
 # game/src/plot/ano07.rpy:283
 translate chinese ano07_reset_tony_baaf81e6:
 
     # tony "Come back some other time and we'll see how you do."
-    tony "改天再来，看看你表现如何。"
+    tony "改天再来，到时候让我看看你的本事。"
 
 # game/src/plot/ano07.rpy:289
 translate chinese ano07_retry_b49cef29:
 
     # anon f_happy "I'm ready for my trial run!"
-    anon f_happy "我已经准备好试跑了！"
+    anon f_happy "我准备好试送了！"
 
 # game/src/plot/ano07.rpy:290
 translate chinese ano07_retry_81e18227:
 
     # tony f_happy "That's great, kid."
-    tony f_happy "太好了，小伙子。"
+    tony f_happy "好极了，小子。"
 
 # game/src/plot/ano07.rpy:314
 translate chinese ano07_boxes_3fbc2443:
 
     # tony "Hey, it wasn't in a flash but you were pretty dang close."
-    tony "嘿，虽然没在一瞬间完成，但你离得相当近了。"
+    tony "嘿，虽然算不上转眼就回来，但也差不了多少。"
 
 # game/src/plot/ano07.rpy:315
 translate chinese ano07_boxes_178fc879:
@@ -772,31 +772,31 @@ translate chinese ano07_boxes_178fc879:
 translate chinese ano07_boxes_6db07ad4:
 
     # tony a_money e_w "Heh, not only are you hired but I'm throwing in a bonus for the perfect run!"
-    tony a_money e_w "嘿嘿，你不仅被录用了，我还要给你加个完美的奖金！"
+    tony a_money e_w "呵，你不但被录用了，这趟送得完美，我再给你加份奖金！"
 
 # game/src/plot/ano07.rpy:325
 translate chinese ano07_boxes_2955d834:
 
     # tony "Hey, not bad buddy!"
-    tony "嘿，不错嘛，伙计！"
+    tony "嘿，干得不错，小兄弟！"
 
 # game/src/plot/ano07.rpy:326
 translate chinese ano07_boxes_00c25a61:
 
     # anon f_pensive "Meh, I could have done better."
-    anon f_pensive "切，我本来可以做得更好。"
+    anon f_pensive "唉，我本来还能做得更好。"
 
 # game/src/plot/ano07.rpy:327
 translate chinese ano07_boxes_794ed142:
 
     # tony "Oh, you'll get the hang of it."
-    tony "哦，你会慢慢上手的。"
+    tony "别急，慢慢就熟练了。"
 
 # game/src/plot/ano07.rpy:329
 translate chinese ano07_boxes_48f991e4:
 
     # tony "The important thing is you've earned yourself a job."
-    tony "重要的是你靠自己得到了一份工作。"
+    tony "重要的是，这份工作你挣到手了。"
 
 # game/src/plot/ano07.rpy:330
 translate chinese ano07_boxes_ba0e3f9c:
@@ -814,19 +814,19 @@ translate chinese ano07_boxes_5b8015e9:
 translate chinese ano07_boxes_e707ca90:
 
     # tony "Now I want you to take this money and put it in the bank."
-    tony "现在我要你拿着这笔钱存到银行里。"
+    tony "现在把这些钱拿去存进银行。"
 
 # game/src/plot/ano07.rpy:343
 translate chinese ano07_boxes_63a077f3:
 
     # tony a_point "You're gonna save up everything you earn with that bike and turn it into somethin' better, alright?"
-    tony a_point "你要把骑那辆自行车赚来的每一分钱都存起来，然后换辆更好的，明白吗？"
+    tony a_point "以后骑车送餐赚的钱都存起来，攒够了就换个更好的代步工具，明白吗？"
 
 # game/src/plot/ano07.rpy:344
 translate chinese ano07_boxes_4b9771b3:
 
     # anon f_happy "Alright, I can do that."
-    anon f_happy "好的，我能做到。"
+    anon f_happy "好，我能做到。"
 
 # game/src/plot/ano07.rpy:346
 translate chinese ano07_boxes_095b2621:
@@ -838,19 +838,19 @@ translate chinese ano07_boxes_095b2621:
 translate chinese ano07_boxes_97d859f8:
 
     # tony "You stick with me and you'll go far, you hear?"
-    tony "跟着我干，你前途无量，听到了吗？"
+    tony "跟着我好好干，你会有出息的，听见没？"
 
 # game/src/plot/ano07.rpy:349
 translate chinese ano07_boxes_5dd573bc:
 
     # anon @ -m_talk "Mhmm!"
-    anon @ -m_talk "嗯哼！"
+    anon @ -m_talk "嗯！"
 
 # game/src/plot/ano07.rpy:350
 translate chinese ano07_boxes_852d53e9:
 
     # tony "Now before ya go trottin' off back home for the day, there's one more thing I want from ya."
-    tony "在你今天屁颠屁颠回家之前，我还有一件事要你办。"
+    tony "不过今天收工回家前，我还有一件事要你做。"
 
 # game/src/plot/ano07.rpy:351
 translate chinese ano07_boxes_e65fd64c:
@@ -862,49 +862,49 @@ translate chinese ano07_boxes_e65fd64c:
 translate chinese ano07_boxes_2e0c4cc6:
 
     # anon a_salute "Anything you need, boss."
-    anon a_salute "您尽管吩咐，老板。"
+    anon a_salute "有什么事尽管吩咐，老板。"
 
 # game/src/plot/ano07.rpy:354
 translate chinese ano07_boxes_16fa5620:
 
     # tony "Nah, nah, nah... none of that \"boss\" stuff!"
-    tony "不不不……别叫我「老板」！"
+    tony "别别别……别来“老板”这套！"
 
 # game/src/plot/ano07.rpy:356
 translate chinese ano07_boxes_bea5dca0:
 
     # tony "Just [saga.cast.tony], capisce?"
-    tony "就叫[saga.cast.tony]，懂吗？"
+    tony "叫我[saga.cast.tony]就行，懂了没？"
 
 # game/src/plot/ano07.rpy:357
 translate chinese ano07_boxes_ad1e6602:
 
     # anon "Alright, [saga.cast.tony]. Thanks!"
-    anon "好的，[saga.cast.tony]。谢啦！"
+    anon "好，[saga.cast.tony]。谢谢！"
 
 # game/src/plot/ano07.rpy:358
 translate chinese ano07_boxes_f039e794:
 
     # tony "Good."
-    tony "很好。"
+    tony "这就对了。"
 
 # game/src/plot/ano07.rpy:360
 translate chinese ano07_boxes_86bb3840:
 
     # tony a_point_back "Now, swing back to the kitchen and introduce yerself to the real boss."
-    tony a_point_back "现在，回厨房去，跟真正的老板打个招呼。"
+    tony a_point_back "现在去后厨，跟真正的老板自我介绍一下。"
 
 # game/src/plot/ano07.rpy:361
 translate chinese ano07_boxes_1c7a608c:
 
     # tony "She's the brains of this whole operation..."
-    tony "她可是整个生意的智囊……"
+    tony "这家店全靠她拿主意……"
 
 # game/src/plot/ano07.rpy:362
 translate chinese ano07_boxes_a3bdb788:
 
     # tony a_heart f_happy "... The heart and soul too."
-    tony a_heart f_happy "……也是核心和灵魂。"
+    tony a_heart f_happy "……她也是这家店的主心骨。"
 
 # game/src/plot/ano07.rpy:363
 translate chinese ano07_boxes_f5791538:
@@ -916,13 +916,13 @@ translate chinese ano07_boxes_f5791538:
 translate chinese ano07_boxes_8390e7ef:
 
     # tony a_wtf "[saga.cast.maria]."
-    tony a_wtf "[saga.cast.maria]."
+    tony a_wtf "[saga.cast.maria]。"
 
 # game/src/plot/ano07.rpy:366
 translate chinese ano07_boxes_5cfeb3a1:
 
     # tony a_wide f_confused "Ya know, my wife!"
-    tony a_wide f_confused "你知道的，我老婆！"
+    tony a_wide f_confused "我老婆啊！"
 
 # game/src/plot/ano07.rpy:367
 translate chinese ano07_boxes_d3ae0a57:
@@ -946,19 +946,19 @@ translate chinese ano07_boxes_255ca845:
 translate chinese ano07_boxes_37c6fe3e:
 
     # tony "Just try and make a good impression, eh?"
-    tony "尽量留个好印象，明白吗？"
+    tony "尽量给她留个好印象，听见没？"
 
 # game/src/plot/ano07.rpy:373
 translate chinese ano07_boxes_8af8a9ce:
 
     # tony f_happy @ a_quiet "'Cause if she don't like ya, then yer out of a job, capisce?"
-    tony f_happy @ a_quiet "因为如果她不喜欢你，你就没活干了，懂吗？"
+    tony f_happy @ a_quiet "她要是不喜欢你，这份工作可就没了，懂了没？"
 
 # game/src/plot/ano07.rpy:374
 translate chinese ano07_boxes_3dbb55c1:
 
     # anon a_uneasy f_shy_surprised "{i}*Gulp*{/i} A-alright, I'll do my best."
-    anon a_uneasy f_shy_surprised "{i}*咕咚*{/i} 好、好的，我会尽力的。"
+    anon a_uneasy f_shy_surprised "{i}*咽口水*{/i}好、好的，我会尽力。"
 
 # game/src/plot/ano07.rpy:375
 translate chinese ano07_boxes_9dd72d55:
@@ -970,7 +970,7 @@ translate chinese ano07_boxes_9dd72d55:
 translate chinese ano07_boxes_98586b6d:
 
     # tony "Go on then."
-    tony "那就继续吧。"
+    tony "那就去吧。"
 
 # game/src/plot/ano07.rpy:377
 translate chinese ano07_boxes_98f9b10e:
@@ -982,55 +982,55 @@ translate chinese ano07_boxes_98f9b10e:
 translate chinese ano07_boxes_fail_53add2c5:
 
     # tony "You didn't get a single one right?"
-    tony "你一个都没送对？"
+    tony "你一份都没送对？"
 
 # game/src/plot/ano07.rpy:389
 translate chinese ano07_boxes_fail_99485d21:
 
     # anon e_w f_worried "Sorry, [saga.cast.tony]... I don't know what happened."
-    anon e_w f_worried "抱歉，[saga.cast.tony]……我不知道发生了什么。"
+    anon e_w f_worried "抱歉，[saga.cast.tony]……我也不知道怎么搞的。"
 
 # game/src/plot/ano07.rpy:390
 translate chinese ano07_boxes_fail_67466b08:
 
     # tony a_wtf @ e_n f_pensive "Ugh, you're killin' me, smalls."
-    tony a_wtf @ e_n f_pensive "呃，你真是要了我的命，小屁孩。"
+    tony a_wtf @ e_n f_pensive "唉，你真要了我的命，小子。"
 
 # game/src/plot/ano07.rpy:391
 translate chinese ano07_boxes_fail_258b897f:
 
     # tony f_sad "Get back out there and try again!"
-    tony f_sad "再回去试试！"
+    tony f_sad "再出去试一次！"
 
 # game/src/plot/ano07.rpy:393
 translate chinese ano07_boxes_fail_63a10145:
 
     # anon a_salute "Y-yes, sir!"
-    anon a_salute "是——是的，长官！"
+    anon a_salute "是、是的，先生！"
 
 # game/src/plot/ano07.rpy:397
 translate chinese ano07_boxes_fail_d1cea6b1:
 
     # tony f_sceptical "And this time get it right!"
-    tony f_sceptical "这次可别再搞砸了！"
+    tony f_sceptical "这次给我送对了！"
 
 # game/src/plot/ano07.rpy:404
 translate chinese ano07_boxes_rails_a3ef81b6:
 
     # anon @ -m_talk "( Time to grab these pizzas and show [saga.cast.tony] what I can do. )"
-    anon @ -m_talk "(是时候拿上这些披萨，让[saga.cast.tony]见识见识我的本事了。)"
+    anon @ -m_talk "（该拿上这些披萨，让[saga.cast.tony]看看我的本事了。）"
 
 # game/src/plot/ano07.rpy:405
 translate chinese ano07_boxes_rails_73db1d6b:
 
     # anon a_fists e_b f_happy m_teeth @ -m_talk "( I've so got this! )"
-    anon a_fists e_b f_happy m_teeth @ -m_talk "(我肯定行！)"
+    anon a_fists e_b f_happy m_teeth @ -m_talk "（我肯定没问题！）"
 
 # game/src/plot/ano07.rpy:413
 translate chinese ano07_maria_7aa6cd33:
 
     # maria @ -m_talk "{i}*Sluuuuurp*{/i}"
-    maria @ -m_talk "{i}*嘶溜——*{/i}"
+    maria @ -m_talk "{i}*吸溜——*{/i}"
 
 # game/src/plot/ano07.rpy:416
 translate chinese ano07_maria_290cd239:
@@ -1042,13 +1042,13 @@ translate chinese ano07_maria_290cd239:
 translate chinese ano07_maria_4e08a704:
 
     # maria a_fold e_wsw -m_bite "Magnifico!"
-    maria a_fold e_wsw -m_bite "太棒了！"
+    maria a_fold e_wsw -m_bite "妙极了！"
 
 # game/src/plot/ano07.rpy:420
 translate chinese ano07_maria_cd7f9791:
 
     # maria "Those roasted red peppers were a stroke of genius!"
-    maria "那些烤红椒真是天才般的创意！"
+    maria "烤红甜椒真是神来一笔！"
 
 # game/src/plot/ano07.rpy:421
 translate chinese ano07_maria_37c9d945:
@@ -1078,25 +1078,25 @@ translate chinese ano07_maria_cfbbc0fd:
 translate chinese ano07_maria_45a52c4d:
 
     # maria "[saga.cast.tony!u]!!!"
-    maria "[saga.cast.tony!u]!!!"
+    maria "[saga.cast.tony!u]！！！"
 
 # game/src/plot/ano07.rpy:433
 translate chinese ano07_maria_25d4b5ed:
 
     # maria "There's some weirdo back here in the kitchen!"
-    maria "厨房里有个怪人！"
+    maria "后厨里闯进来个怪人！"
 
 # game/src/plot/ano07.rpy:434
 translate chinese ano07_maria_29135feb:
 
     # anon a_up -m_teeth "N-no, no, no... I'm not-"
-    anon a_up -m_teeth "不、不、不行... 我不是——"
+    anon a_up -m_teeth "不不不……我不是——"
 
 # game/src/plot/ano07.rpy:437
 translate chinese ano07_maria_8bf4cf3b:
 
     # maria f_sceptical "Wait a minute, you look kinda familiar..."
-    maria f_sceptical "等等，你看起来有点眼熟..."
+    maria f_sceptical "等等，你看着有点眼熟……"
 
 # game/src/plot/ano07.rpy:438
 translate chinese ano07_maria_074dc044:
@@ -1108,13 +1108,13 @@ translate chinese ano07_maria_074dc044:
 translate chinese ano07_maria_7d4ba83c:
 
     # maria a_point f_angry "... You're that milk boy that got a sneak peek at my unmentionables, ain'tcha?!"
-    maria a_point f_angry "...你就是那个偷瞄到我私密处的送奶工，对吧？！"
+    maria a_point f_angry "……你就是那个偷看到我贴身衣物的送奶小子，对不对？！"
 
 # game/src/plot/ano07.rpy:441
 translate chinese ano07_maria_fb609f42:
 
     # anon e_w f_worried "{i}*Gulp*{/i} Uhh-unmentionables?"
-    anon e_w f_worried "{i}*咕噜*{/i} 呃...私密处？"
+    anon e_w f_worried "{i}*咽口水*{/i}呃……贴身衣物？"
 
 # game/src/plot/ano07.rpy:442
 translate chinese ano07_maria_476234f5:
@@ -1126,43 +1126,43 @@ translate chinese ano07_maria_476234f5:
 translate chinese ano07_maria_318508dc:
 
     # maria a_hips "[saga.cast.tony!u]!!!"
-    maria a_hips "[saga.cast.tony!u]!!!"
+    maria a_hips "[saga.cast.tony!u]！！！"
 
 # game/src/plot/ano07.rpy:445
 translate chinese ano07_maria_0088d394:
 
     # anon a_up e_w f_surprised -m_teeth "P-please, I'm-"
-    anon a_up e_w f_surprised -m_teeth "求、求你了，我是——"
+    anon a_up e_w f_surprised -m_teeth "请、请听我说，我是——"
 
 # game/src/plot/ano07.rpy:448
 translate chinese ano07_maria_12e38823:
 
     # tony "What are you screamin' about back here?"
-    tony "你在这后面鬼叫什么？"
+    tony "你在后厨嚷嚷什么呢？"
 
 # game/src/plot/ano07.rpy:452
 translate chinese ano07_maria_5bb21291:
 
     # maria "This kid snuck right past you!"
-    maria "这孩子从你眼皮底下溜过去了！"
+    maria "这小子从你眼皮底下溜进来了！"
 
 # game/src/plot/ano07.rpy:453
 translate chinese ano07_maria_3243f12e:
 
     # tony "Nobody snuck past me."
-    tony "没人从我这儿溜过去。"
+    tony "谁也没从我眼皮底下溜进来。"
 
 # game/src/plot/ano07.rpy:454
 translate chinese ano07_maria_4b9c2e07:
 
     # maria "So what the hell is he doin' back here?!"
-    maria "那他妈的来这儿的是谁？！"
+    maria "那他为什么会在后厨？！"
 
 # game/src/plot/ano07.rpy:456
 translate chinese ano07_maria_ac51849a:
 
     # tony a_wide e_e f_calm o_left "He's our new delivery boy!"
-    tony a_wide e_e f_calm o_left "他是我们新来的送货小弟！"
+    tony a_wide e_e f_calm o_left "他是咱们新来的送餐员！"
 
 # game/src/plot/ano07.rpy:463
 translate chinese ano07_maria_0b79fb42:
@@ -1174,19 +1174,19 @@ translate chinese ano07_maria_0b79fb42:
 translate chinese ano07_maria_ab707536:
 
     # tony f_sceptical "Yeah, what's wrong with that?"
-    tony f_sceptical "咋了，有啥问题？"
+    tony f_sceptical "对啊，怎么了？"
 
 # game/src/plot/ano07.rpy:466
 translate chinese ano07_maria_ae9978f7:
 
     # maria a_hips "He's a little young, don'tcha think?"
-    maria a_hips "他是不是有点小，你不觉得？"
+    maria a_hips "他年纪是不是太小了？"
 
 # game/src/plot/ano07.rpy:467
 translate chinese ano07_maria_fc892953:
 
     # tony f_calm "Nah, he's eighteen."
-    tony f_calm "不，他成年了，十八了。"
+    tony f_calm "哪小了，他都十八了。"
 
 # game/src/plot/ano07.rpy:472
 translate chinese ano07_maria_7e024d69:
@@ -1198,25 +1198,25 @@ translate chinese ano07_maria_7e024d69:
 translate chinese ano07_maria_c63ed2d4:
 
     # anon f_shy "Y-yes, sir."
-    anon f_shy "是...是的，先生。"
+    anon f_shy "是、是的，先生。"
 
 # game/src/plot/ano07.rpy:474
 translate chinese ano07_maria_be6da92a:
 
     # tony a_wtf f_happy o_right "There, ya see?"
-    tony a_wtf f_happy o_right "瞧，看见没？"
+    tony a_wtf f_happy o_right "瞧见没？"
 
 # game/src/plot/ano07.rpy:475
 translate chinese ano07_maria_37dee50e:
 
     # tony "He's eighteen..."
-    tony "他十八了..."
+    tony "他十八岁了……"
 
 # game/src/plot/ano07.rpy:476
 translate chinese ano07_maria_09cc8577:
 
     # tony a_hips "... And a good kid too."
-    tony a_hips "……而且还是个乖孩子。"
+    tony a_hips "……而且还是个好小伙。"
 
 # game/src/plot/ano07.rpy:477
 translate chinese ano07_maria_6364a0aa:
@@ -1228,7 +1228,7 @@ translate chinese ano07_maria_6364a0aa:
 translate chinese ano07_maria_7453be74:
 
     # maria a_fold f_annoyed "Yeah, like that's a steep hill to climb."
-    maria a_fold f_annoyed "是啊，那根本不算什么难度。"
+    maria a_fold f_annoyed "说得好像超过Gino有多难似的。"
 
 # game/src/plot/ano07.rpy:481
 translate chinese ano07_maria_76307310:
@@ -1252,13 +1252,13 @@ translate chinese ano07_maria_db85b515:
 translate chinese ano07_maria_490860e5:
 
     # tony a_point e_e f_calm -m_laugh "What'd I tell ya?"
-    tony a_point e_e f_calm -m_laugh "我跟你说的吧？"
+    tony a_point e_e f_calm -m_laugh "我说得没错吧？"
 
 # game/src/plot/ano07.rpy:489
 translate chinese ano07_maria_d215c386:
 
     # tony e_w "She's a firecracker, my [saga.cast.maria]!"
-    tony e_w "她是个火爆的小辣椒，我的[saga.cast.maria]！"
+    tony e_w "我家[saga.cast.maria]就是这么火爆！"
 
 # game/src/plot/ano07.rpy:493
 translate chinese ano07_maria_3080057a:
@@ -1288,31 +1288,31 @@ translate chinese ano07_maria_c887eacc:
 translate chinese ano07_maria_e7a77bbb:
 
     # anon f_worried "Yes, ma'am."
-    anon f_worried "是的，女士。"
+    anon f_worried "是，女士。"
 
 # game/src/plot/ano07.rpy:499
 translate chinese ano07_maria_e04f7e59:
 
     # maria "Well, don't look so concerned."
-    maria "好了，别那么忧心忡忡的。"
+    maria "行了，别这么紧张。"
 
 # game/src/plot/ano07.rpy:501
 translate chinese ano07_maria_a03d81f2:
 
     # maria "It's all pretty straight forward."
-    maria "一切都很简单的。"
+    maria "活儿没什么复杂的。"
 
 # game/src/plot/ano07.rpy:502
 translate chinese ano07_maria_64cc2b6a:
 
     # maria "I cook, he sells, you deliver."
-    maria "我做饭，他卖，你送餐。"
+    maria "我负责做披萨，他负责卖，你负责送。"
 
 # game/src/plot/ano07.rpy:503
 translate chinese ano07_maria_9ff91d1c:
 
     # maria "Just show up on time, double check your orders, maybe mop the floors every once in a while."
-    maria "准时上班，仔细核对订单，偶尔拖拖地板就行。"
+    maria "准时来上班，核对好订单，偶尔拖拖地。"
 
 # game/src/plot/ano07.rpy:504
 translate chinese ano07_maria_9e6692a9:
@@ -1324,49 +1324,49 @@ translate chinese ano07_maria_9e6692a9:
 translate chinese ano07_maria_6e0bcbd0:
 
     # maria a_point f_shy "And most importantly, keep my husband out of trouble!"
-    maria a_point f_shy "还有最重要的，别让我丈夫惹麻烦！"
+    maria a_point f_shy "最重要的是，看住我丈夫，别让他惹麻烦！"
 
 # game/src/plot/ano07.rpy:509
 translate chinese ano07_maria_498a7d0c:
 
     # tony a_wtf e_w o_right "What trouble?!"
-    tony a_wtf e_w o_right "什么麻烦？！"
+    tony a_wtf e_w o_right "我能惹什么麻烦？！"
 
 # game/src/plot/ano07.rpy:512
 translate chinese ano07_maria_7b180e48:
 
     # tony a_point_up f_happy "I think you're forgettin'..."
-    tony a_point_up f_happy "我觉得你忘了……"
+    tony a_point_up f_happy "我看你是忘了……"
 
 # game/src/plot/ano07.rpy:514
 translate chinese ano07_maria_ea9fe9a6:
 
     # tony a_heart @ e_b f_horny "... I solve problems, I don't make em."
-    tony a_heart @ e_b f_horny "……我是解决问题的，不是制造问题的。"
+    tony a_heart @ e_b f_horny "……我一向解决麻烦，从不制造麻烦。"
 
 # game/src/plot/ano07.rpy:516
 translate chinese ano07_maria_509bd959:
 
     # maria "Yeah well, you have a bad habit of tryin' to solve problems that aren't yours."
-    maria "是啊，但你老爱解决不属于你的问题。"
+    maria "可你有个坏毛病，老爱插手本来不关你的事。"
 
 # game/src/plot/ano07.rpy:518
 translate chinese ano07_maria_b6f3eb80:
 
     # maria "Don't act like you dunno what I'm talkin' about."
-    maria "别装得好像你不知道我在说什么。"
+    maria "别装作听不懂我在说什么。"
 
 # game/src/plot/ano07.rpy:520
 translate chinese ano07_maria_da1d587d:
 
     # tony a_wave f_sceptical "Ahh, lay off it, [saga.cast.maria]!"
-    tony a_wave f_sceptical "啊，别管了，[saga.cast.maria]！"
+    tony a_wave f_sceptical "行了，别说了，[saga.cast.maria]！"
 
 # game/src/plot/ano07.rpy:521
 translate chinese ano07_maria_c21b1b3c:
 
     # tony a_point_back "I'm goin' back to the counter."
-    tony a_point_back "我要回柜台了。"
+    tony a_point_back "我回柜台去了。"
 
 # game/src/plot/ano07.rpy:525
 translate chinese ano07_maria_6d9adc62:
@@ -1378,7 +1378,7 @@ translate chinese ano07_maria_6d9adc62:
 translate chinese ano07_maria_e81197fd:
 
     # tony "Yeah, yeah..."
-    tony "是是是……"
+    tony "知道了，知道了……"
 
 # game/src/plot/ano07.rpy:528
 translate chinese ano07_maria_b15db7fc:
@@ -1390,7 +1390,7 @@ translate chinese ano07_maria_b15db7fc:
 translate chinese ano07_maria_81ac18b4:
 
     # anon f_shy @ -m_talk "..."
-    anon f_shy @ -m_talk "..."
+    anon f_shy @ -m_talk "……"
 
 # game/src/plot/ano07.rpy:531
 translate chinese ano07_maria_26f918a6:
@@ -1402,31 +1402,31 @@ translate chinese ano07_maria_26f918a6:
 translate chinese ano07_maria_69220dac:
 
     # anon "N-no, I don't think so."
-    anon "不，不，我觉得没有。"
+    anon "没、没有，应该没有。"
 
 # game/src/plot/ano07.rpy:533
 translate chinese ano07_maria_767d2cdd:
 
     # maria f_calm "Alright."
-    maria f_calm "好的。"
+    maria f_calm "好。"
 
 # game/src/plot/ano07.rpy:535
 translate chinese ano07_maria_633af824:
 
     # maria "If you think of anything, don't be scared to come and ask."
-    maria "如果你想到什么，尽管来问，不要害怕。"
+    maria "要是想起什么，尽管来问我。"
 
 # game/src/plot/ano07.rpy:536
 translate chinese ano07_maria_c8e5c5a9:
 
     # anon a_salute "Yes, ma'am."
-    anon a_salute "是的，女士。"
+    anon a_salute "是，女士。"
 
 # game/src/plot/ano07.rpy:537
 translate chinese ano07_maria_724a3ebc:
 
     # maria "Ride safe out there."
-    maria "路上小心。"
+    maria "路上骑车小心。"
 
 # game/src/plot/ano07.rpy:538
 translate chinese ano07_maria_4db9c526:
@@ -1438,49 +1438,49 @@ translate chinese ano07_maria_4db9c526:
 translate chinese ano07_maria_eaed7657:
 
     # maria f_sad @ -m_talk "..."
-    maria f_sad @ -m_talk "..."
+    maria f_sad @ -m_talk "……"
 
 # game/src/plot/ano07.rpy:544
 translate chinese ano07_maria_65093a6c:
 
     # maria o_right "Tsk, I hope you know what you're doing, [saga.cast.tony]..."
-    maria o_right "啧，希望你知道自己在做什么，[saga.cast.tony]……"
+    maria o_right "啧，希望你知道自己在干什么，[saga.cast.tony]……"
 
 # game/src/plot/ano07.rpy:551
 translate chinese ano07_maria_rails_bf2e36e4:
 
     # anon @ -m_talk "( Geez, [saga.cast.tony]'s wife sounds kinda intimidating... )"
-    anon @ -m_talk "(天啊，[saga.cast.tony]的老婆看起来有点吓人……)"
+    anon @ -m_talk "（天啊，[saga.cast.tony]的老婆听起来有点吓人……）"
 
 # game/src/plot/ano07.rpy:552
 translate chinese ano07_maria_rails_b310889a:
 
     # anon @ -m_talk "( ... I hope I don't embarrass myself with her. )"
-    anon @ -m_talk "(...我希望和她在一起时不会让自己难堪。)"
+    anon @ -m_talk "（……希望我别在她面前出丑。）"
 
 # game/src/plot/ano07.rpy:555
 translate chinese ano07_maria_rails_45b21d55:
 
     # anon @ -m_talk "( He said I'd find her back in the kitchen. )"
-    anon @ -m_talk "他说我能在厨房找到她。"
+    anon @ -m_talk "（他说她就在后厨。）"
 
 # game/src/plot/ano07.rpy:567
 translate chinese ano07_maria_tony_9b68dd2d:
 
     # tony "Don't even think about leavin' without introducin' yerself to [saga.cast.maria]!"
-    tony "别想着不介绍你自己就给[saga.cast.maria]走人！"
+    tony "不先去跟[saga.cast.maria]自我介绍，你就别想走！"
 
 # game/src/plot/ano07.rpy:568
 translate chinese ano07_maria_tony_988790dc:
 
     # tony "She's the brains of this whole operation."
-    tony "她可是我们这整个行动的智囊。"
+    tony "这家店全靠她拿主意。"
 
 # game/src/plot/ano07.rpy:569
 translate chinese ano07_maria_tony_0e4eadc3:
 
     # anon f_shy "Y-yeah, I'll go and do that now."
-    anon f_shy "好...好的，我现在就去。"
+    anon f_shy "好、好的，我这就去。"
 
 # game/src/plot/ano07.rpy:570
 translate chinese ano07_maria_tony_9dd72d55:
@@ -1491,7 +1491,7 @@ translate chinese ano07_maria_tony_9dd72d55:
 translate chinese strings:
     # game/src/plot/ano07.rpy:115
     old "No."
-    new "不"
+    new "没有。"
     # game/src/plot/ano07.rpy:113
     old "Yes."
-    new "是"
+    new "有。"

@@ -478,7 +478,7 @@ translate chinese jos01_yoo_aba12aef:
 translate chinese jos01_yoo_16319bfa:
 
     # anon e_w f_worried o_right @ -m_talk "( I hope this \"intern\" is more polite than him, otherwise I'm taking my future business elsewhere! )"
-    anon e_w f_worried o_right @ -m_talk "(我希望这个「实习生」比他更有礼貌，否则我就把我的未来业务带到别处去！)"
+    anon e_w f_worried o_right @ -m_talk "(我希望这个“实习生”比他更有礼貌，否则我就把我的未来业务带到别处去！)"
 
 # game/src/plot/jos01.rpy:195
 translate chinese jos01_yoo_alt_bcb2b36a:
@@ -1108,7 +1108,7 @@ translate chinese jos01_josie1_9bbaf6b1:
 translate chinese jos01_josie1_5af1e4b4:
 
     # anon a_point_back "And I've been working this delivery job at Tony's Pizza."
-    anon a_point_back "而且我一直在[saga.cast.tony]的披萨店做外卖工作。"
+    anon a_point_back "而且我一直在Tony披萨店送外卖。"
 
 # game/src/plot/jos01.rpy:375
 translate chinese jos01_josie1_ff4933f2:

@@ -4,19 +4,19 @@
 translate chinese ano03_intro_6bbae58d:
 
     # anon @ -m_talk "( Hmm, something smells really good! )"
-    anon @ -m_talk "(嗯，有什么东西闻起来真香！)"
+    anon @ -m_talk "(嗯，好香啊！)"
 
 # game/src/plot/ano03.rpy:5
 translate chinese ano03_intro_d9c38cca:
 
     # anon e_w f_calm -m_teeth @ -m_talk "( [saga.cast.debbie] must be making breakfast downstairs. )"
-    anon e_w f_calm -m_teeth @ -m_talk "([saga.cast.debbie]一定在楼下做早餐。)"
+    anon e_w f_calm -m_teeth @ -m_talk "([saga.cast.debbie]肯定在楼下做早餐。)"
 
 # game/src/plot/ano03.rpy:6
 translate chinese ano03_intro_36723a95:
 
     # anon @ -m_talk "( I should go say good morning to her. )"
-    anon @ -m_talk "(我应该下楼去跟她道早安。)"
+    anon @ -m_talk "(我该下楼跟她道声早安。)"
 
 # game/src/plot/ano03.rpy:17
 translate chinese ano03_debbie_15db0834:
@@ -28,49 +28,49 @@ translate chinese ano03_debbie_15db0834:
 translate chinese ano03_debbie_41a5a0d1:
 
     # anon "Morning, [saga.cast.debbie]."
-    anon "早上好，[saga.cast.debbie]。"
+    anon "早啊，[saga.cast.debbie]。"
 
 # game/src/plot/ano03.rpy:19
 translate chinese ano03_debbie_258ca7ef:
 
     # anon "[saga.cast.jenny]."
-    anon "[saga.cast.jenny]."
+    anon "[saga.cast.jenny]。"
 
 # game/src/plot/ano03.rpy:20
 translate chinese ano03_debbie_31e0e1fc:
 
     # jenny @ e_r "Meh."
-    jenny @ e_r "唔。"
+    jenny @ e_r "哼。"
 
 # game/src/plot/ano03.rpy:22
 translate chinese ano03_debbie_3e170d7a:
 
     # anon "What smells so good?"
-    anon "什么这么香？"
+    anon "什么东西这么香？"
 
 # game/src/plot/ano03.rpy:24
 translate chinese ano03_debbie_92a7e009:
 
     # debbie "Oh, I'm making a sausage and egg casserole."
-    debbie "哦，我在做香肠鸡蛋砂锅。"
+    debbie "哦，我在做香肠鸡蛋焗烤。"
 
 # game/src/plot/ano03.rpy:26
 translate chinese ano03_debbie_6a8d586b:
 
     # anon @ e_b f_happy m_laugh "That sounds amazing!"
-    anon @ e_b f_happy m_laugh "听起来太棒了！"
+    anon @ e_b f_happy m_laugh "听着就好吃！"
 
 # game/src/plot/ano03.rpy:27
 translate chinese ano03_debbie_321a3d5d:
 
     # debbie "Well, there's plenty for everyone."
-    debbie "嗯，足够大家吃的。"
+    debbie "做了不少，大家都有份。"
 
 # game/src/plot/ano03.rpy:28
 translate chinese ano03_debbie_8d803f35:
 
     # debbie "Why don't you two go take a seat at the table and I'll bring you some."
-    debbie "你们俩怎么不去桌子那边坐下，我给你们拿点过来。"
+    debbie "你们俩先去餐桌边坐吧，我给你们端过去。"
 
 # game/src/plot/ano03.rpy:29
 translate chinese ano03_debbie_7914a153:
@@ -82,19 +82,19 @@ translate chinese ano03_debbie_7914a153:
 translate chinese ano03_debbie_b461c389:
 
     # jenny "Ugh, no thanks."
-    jenny "呃，不用了，谢谢。"
+    jenny "呃，免了。"
 
 # game/src/plot/ano03.rpy:31
 translate chinese ano03_debbie_cb1923b0:
 
     # debbie f_sad "You don't want any?"
-    debbie f_sad "你不想吃点吗？"
+    debbie f_sad "你不吃吗？"
 
 # game/src/plot/ano03.rpy:32
 translate chinese ano03_debbie_d35794b1:
 
     # jenny f_angry m_teeth o_right "I just told you I'm doing a juice cleanse!"
-    jenny f_angry m_teeth o_right "我刚说了我在用果汁排毒！"
+    jenny f_angry m_teeth o_right "我刚才不是说了吗，我在做果汁排毒！"
 
 # game/src/plot/ano03.rpy:33
 translate chinese ano03_debbie_37a93edd:
@@ -106,19 +106,19 @@ translate chinese ano03_debbie_37a93edd:
 translate chinese ano03_debbie_a506d712:
 
     # anon "What the heck is that?"
-    anon "那是什么鬼？"
+    anon "那是什么玩意儿？"
 
 # game/src/plot/ano03.rpy:35
 translate chinese ano03_debbie_1beec6a7:
 
     # jenny f_annoyed o_left -m_teeth "It means I'm only drinking juice for the next three days, dummy."
-    jenny f_annoyed o_left -m_teeth "就是说我这三天只喝果汁，笨蛋。"
+    jenny f_annoyed o_left -m_teeth "就是说接下来三天我只喝果汁，笨蛋。"
 
 # game/src/plot/ano03.rpy:36
 translate chinese ano03_debbie_57933d82:
 
     # anon f_worried "O-kay..."
-    anon f_worried "好...吧..."
+    anon f_worried "好——吧……"
 
 # game/src/plot/ano03.rpy:37
 translate chinese ano03_debbie_efcf76ca:
@@ -130,37 +130,37 @@ translate chinese ano03_debbie_efcf76ca:
 translate chinese ano03_debbie_8d86ef0a:
 
     # jenny "I need to get rid of these love handles before beach season."
-    jenny "我得在海滩季之前减掉这些赘肉。"
+    jenny "海滩季来之前，我得把腰上这些赘肉减掉。"
 
 # game/src/plot/ano03.rpy:39
 translate chinese ano03_debbie_e61fba11:
 
     # anon "What love handles?"
-    anon "什么赘肉？"
+    anon "哪有什么赘肉？"
 
 # game/src/plot/ano03.rpy:41
 translate chinese ano03_debbie_b7694b5b:
 
     # anon f_horny "You look fine."
-    anon f_horny "你看起来挺好的。"
+    anon f_horny "你这样就挺好的。"
 
 # game/src/plot/ano03.rpy:42
 translate chinese ano03_debbie_ba35cf01:
 
     # jenny f_disgusted "Don't be gross."
-    jenny f_disgusted "别恶心了。"
+    jenny f_disgusted "少恶心人了。"
 
 # game/src/plot/ano03.rpy:44
 translate chinese ano03_debbie_680b3e85:
 
     # debbie "I don't think people do juice cleanses to lose weight, dear."
-    debbie "亲爱的，我觉得人们喝果汁排毒不是为了减肥。"
+    debbie "亲爱的，我觉得果汁排毒不是用来减肥的。"
 
 # game/src/plot/ano03.rpy:45
 translate chinese ano03_debbie_6b900401:
 
     # jenny e_r f_annoyed o_right "Umm, yes they do..."
-    jenny e_r f_annoyed o_right "嗯，他们就是……"
+    jenny e_r f_annoyed o_right "呃，本来就是……"
 
 # game/src/plot/ano03.rpy:46
 translate chinese ano03_debbie_842340db:
@@ -172,7 +172,7 @@ translate chinese ano03_debbie_842340db:
 translate chinese ano03_debbie_bdf6f198:
 
     # anon "Well, I think it sounds stupid."
-    anon "好吧，我觉得这听起来很蠢。"
+    anon "反正我觉得听起来蠢透了。"
 
 # game/src/plot/ano03.rpy:48
 translate chinese ano03_debbie_8a97a198:
@@ -190,19 +190,19 @@ translate chinese ano03_debbie_ac8f9c55:
 translate chinese ano03_debbie_e879966a:
 
     # debbie "I'm tired of you two fighting all the time!"
-    debbie "我受够你们两个总是吵架了！"
+    debbie "我受够你们俩成天吵个没完了！"
 
 # game/src/plot/ano03.rpy:53
 translate chinese ano03_debbie_e02335ca:
 
     # jenny f_annoyed "He started it."
-    jenny f_annoyed "是他先开始的。"
+    jenny f_annoyed "是他先惹我的。"
 
 # game/src/plot/ano03.rpy:54
 translate chinese ano03_debbie_4c815027:
 
     # anon f_worried "I did not!"
-    anon f_worried "我没有！"
+    anon f_worried "我哪有！"
 
 # game/src/plot/ano03.rpy:55
 translate chinese ano03_debbie_39c3e722:
@@ -220,25 +220,25 @@ translate chinese ano03_debbie_e63def69:
 translate chinese ano03_debbie_d7929a5e:
 
     # debbie f_calm "Oh, that's probably the police lady coming to check in on us."
-    debbie f_calm "哦，可能是那位女警员来查看我们的情况了。"
+    debbie f_calm "哦，应该是那位女警官过来看看我们的情况。"
 
 # game/src/plot/ano03.rpy:60
 translate chinese ano03_debbie_59853fcb:
 
     # jenny "Police lady?"
-    jenny "女警员？"
+    jenny "女警官？"
 
 # game/src/plot/ano03.rpy:61
 translate chinese ano03_debbie_64894ac2:
 
     # debbie "[saga.cast.anon], would you go and let her in please?"
-    debbie "[saga.cast.anon]，能麻烦你去让她进来吗？"
+    debbie "[saga.cast.anon]，麻烦你去给她开门，好吗？"
 
 # game/src/plot/ano03.rpy:62
 translate chinese ano03_debbie_0a01c03b:
 
     # anon "Yeah, okay."
-    anon "好的，知道了。"
+    anon "嗯，好。"
 
 # game/src/plot/ano03.rpy:65
 translate chinese ano03_debbie_ea35f8a3:
@@ -250,7 +250,7 @@ translate chinese ano03_debbie_ea35f8a3:
 translate chinese ano03_debbie_6167392a:
 
     # jenny "Why are the police stopping by to check in on us?"
-    jenny "为什么警察要来我们这儿检查？"
+    jenny "警察为什么要过来问我们的情况？"
 
 # game/src/plot/ano03.rpy:67
 translate chinese ano03_debbie_21e244eb:
@@ -262,13 +262,13 @@ translate chinese ano03_debbie_21e244eb:
 translate chinese ano03_debbie_889b58eb:
 
     # anon @ -m_talk "( A juice cleanse with apple juice... )"
-    anon @ -m_talk "(用果汁来排毒……)"
+    anon @ -m_talk "(用苹果汁排毒……)"
 
 # game/src/plot/ano03.rpy:74
 translate chinese ano03_debbie_737db7af:
 
     # anon e_b f_happy m_laugh @ -m_talk "( What a moron. )"
-    anon e_b f_happy m_laugh @ -m_talk "(真是个白痴。)"
+    anon e_b f_happy m_laugh @ -m_talk "(蠢透了。)"
 
 # game/src/plot/ano03.rpy:75
 translate chinese ano03_debbie_e63def69_1:
@@ -280,43 +280,43 @@ translate chinese ano03_debbie_e63def69_1:
 translate chinese ano03_debbie_59838db9:
 
     # anon e_w f_worried -m_laugh "Yeah, yeah... I'm coming!"
-    anon e_w f_worried -m_laugh "来了来了……我来了！"
+    anon e_w f_worried -m_laugh "知道了知道了……来了！"
 
 # game/src/plot/ano03.rpy:85
 translate chinese ano03_debbie_rails_07c7fda6:
 
     # anon @ -m_talk "( That smell is coming from the kitchen! I can almost taste it! )"
-    anon @ -m_talk "(那香味是从厨房传来的！我几乎能尝到它！)"
+    anon @ -m_talk "(香味是从厨房飘来的！闻着都快让我流口水了！)"
 
 # game/src/plot/ano03.rpy:95
 translate chinese ano03_dimitri_f70252dd:
 
     # mono "When I opened the door, I was greeted not by a police lady\nbut instead a stern and ugly-looking thug all dressed in black." with fade
-    mono "当我打开门，迎接我的不是女警\n而是一个穿着黑色衣服、表情严肃且面目可憎的暴徒。" with fade
+    mono "我开门后，站在我面前的并不是那位女警官，\n而是一个一身黑衣、面相凶狠的恶棍。" with fade
 
 # game/src/plot/ano03.rpy:96
 translate chinese ano03_dimitri_5cfdee59:
 
     # mono "His tattoos and demeanor just screamed bad news."
-    mono "他的纹身和举止都散发着危险的气息。"
+    mono "他那身纹身和做派，一看就不是什么善茬。"
 
 # game/src/plot/ano03.rpy:99
 translate chinese ano03_dimitri_5ff58dec:
 
     # mono "And his greasy smile sent chills up my spine." with fade
-    mono "他那油腻的笑容让我脊背发凉。" with fade
+    mono "而他那油腻腻的笑容更让我背脊发凉。" with fade
 
 # game/src/plot/ano03.rpy:107
 translate chinese ano03_dimitri_44746db4:
 
     # anon "!!!"
-    anon "!!!"
+    anon "！！！"
 
 # game/src/plot/ano03.rpy:109
 translate chinese ano03_dimitri_70894586:
 
     # anon f_worried "C-can I help you?"
-    anon f_worried "我、我能帮你吗？"
+    anon f_worried "请、请问有事吗？"
 
 # game/src/plot/ano03.rpy:110
 translate chinese ano03_dimitri_1c29421e:
@@ -328,19 +328,19 @@ translate chinese ano03_dimitri_1c29421e:
 translate chinese ano03_dimitri_8f3321ec:
 
     # anon "Umm..."
-    anon "嗯..."
+    anon "呃……"
 
 # game/src/plot/ano03.rpy:112
 translate chinese ano03_dimitri_c7ad8eed:
 
     # anon "Thanks?"
-    anon "谢了？"
+    anon "谢谢……？"
 
 # game/src/plot/ano03.rpy:113
 translate chinese ano03_dimitri_4f43204b:
 
     # dimitri "Hmm, I am thinking you're [saga.cast.frank]'s son, yes?"
-    dimitri "嗯，我想你是[saga.cast.frank]的儿子，对吧？"
+    dimitri "嗯，我想，你是[saga.cast.frank]儿子，对？"
 
 # game/src/plot/ano03.rpy:114
 translate chinese ano03_dimitri_3b2b0044:
@@ -358,25 +358,25 @@ translate chinese ano03_dimitri_a977bc24:
 translate chinese ano03_dimitri_0ef4e512:
 
     # dimitri "Yes, you could say this..."
-    dimitri "是的，可以这么说..."
+    dimitri "对，可以这么说……"
 
 # game/src/plot/ano03.rpy:117
 translate chinese ano03_dimitri_eb780b0f:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:118
 translate chinese ano03_dimitri_1727f574:
 
     # dimitri "Where is nice lady who takes care of you?"
-    dimitri "照顾你的那位漂亮女士在哪儿？"
+    dimitri "照顾你的漂亮女士，在哪儿？"
 
 # game/src/plot/ano03.rpy:119
 translate chinese ano03_dimitri_f89a0060:
 
     # anon "Uhh, she's..."
-    anon "呃，她是……"
+    anon "呃，她在……"
 
 # game/src/plot/ano03.rpy:121
 translate chinese ano03_dimitri_9008db8d:
@@ -394,19 +394,19 @@ translate chinese ano03_dimitri_309f2d94:
 translate chinese ano03_dimitri_9fa7745f:
 
     # dimitri "I am man at door."
-    dimitri "我是门口的人。"
+    dimitri "我是门口这个人。"
 
 # game/src/plot/ano03.rpy:125
 translate chinese ano03_dimitri_3c66c8e1:
 
     # dimitri "I am man asking to see nice lady responsible for you..."
-    dimitri "我是来看那个照顾你的漂亮女士的人……"
+    dimitri "我是来找漂亮女士，负责照顾你那个……"
 
 # game/src/plot/ano03.rpy:126
 translate chinese ano03_dimitri_27867a62:
 
     # dimitri "... Lady who owes us big money."
-    dimitri "……那个欠我们一大笔钱的女士。"
+    dimitri "……欠我们很多钱那个女士。"
 
 # game/src/plot/ano03.rpy:127
 translate chinese ano03_dimitri_c000dad2:
@@ -418,79 +418,79 @@ translate chinese ano03_dimitri_c000dad2:
 translate chinese ano03_dimitri_8380336f:
 
     # anon "L-look man, we don't know anything about any of this..."
-    anon "听、听着，我们对此一无所知……"
+    anon "听、听着，老兄，我们根本不知道你在说什么……"
 
 # game/src/plot/ano03.rpy:129
 translate chinese ano03_dimitri_90ba712c:
 
     # anon "I really think you've made a mistake or something."
-    anon "我真的觉得你搞错了什么。"
+    anon "我觉得你肯定是搞错了。"
 
 # game/src/plot/ano03.rpy:130
 translate chinese ano03_dimitri_32a3ac80:
 
     # dimitri "Ahh, talking, talking..."
-    dimitri "啊，说啊，说啊……"
+    dimitri "啊，说个不停，说个不停……"
 
 # game/src/plot/ano03.rpy:131
 translate chinese ano03_dimitri_85f8df67:
 
     # dimitri "Your father like talking too, you know?"
-    dimitri "你父亲也喜欢说话，你知道吧？"
+    dimitri "你父亲也爱说话，知道？"
 
 # game/src/plot/ano03.rpy:132
 translate chinese ano03_dimitri_c0a39b0e:
 
     # dimitri "He talk all the way to the end."
-    dimitri "他一直说到最后。"
+    dimitri "他一直说，直到最后。"
 
 # game/src/plot/ano03.rpy:133
 translate chinese ano03_dimitri_3cdb9813:
 
     # dimitri a_talk f_calm "\"You make mistake.\""
-    dimitri a_talk f_calm "「你搞错了。」"
+    dimitri a_talk f_calm "“你搞错了。”"
 
 # game/src/plot/ano03.rpy:134
 translate chinese ano03_dimitri_1b82e1ec:
 
     # dimitri "\"I no take money!\""
-    dimitri "「我没拿钱！」"
+    dimitri "“我没拿钱！”"
 
 # game/src/plot/ano03.rpy:135
 translate chinese ano03_dimitri_8e52515b:
 
     # dimitri f_smug "Yip, yip, yip."
-    dimitri f_smug "叽，叽，叽。"
+    dimitri f_smug "叽里呱啦，叽里呱啦。"
 
 # game/src/plot/ano03.rpy:136
 translate chinese ano03_dimitri_42750a8b:
 
     # dimitri a_clasp "Like frightened little bunny."
-    dimitri a_clasp "像只受惊的小兔子。"
+    dimitri a_clasp "像只吓坏的小兔子。"
 
 # game/src/plot/ano03.rpy:137
 translate chinese ano03_dimitri_75f365fd:
 
     # anon f_surprised "!!!"
-    anon f_surprised "!!!"
+    anon f_surprised "！！！"
 
 # game/src/plot/ano03.rpy:138
 translate chinese ano03_dimitri_2a79e2da:
 
     # dimitri f_calm "Boss wants no more talking."
-    dimitri f_calm "老板不想再废话了。"
+    dimitri f_calm "老板不想再听废话。"
 
 # game/src/plot/ano03.rpy:139
 translate chinese ano03_dimitri_8c05ba52:
 
     # dimitri a_point "He wants money back!"
-    dimitri a_point "他要你赔钱！"
+    dimitri a_point "他要拿回那笔钱！"
 
 # game/src/plot/ano03.rpy:140
 translate chinese ano03_dimitri_61b1b889:
 
     # dimitri "You tell nice lady to be smart and pay up."
-    dimitri "你让那位漂亮女士识相点，把钱还了。"
+    dimitri "你告诉漂亮女士，识相点，把钱还上。"
 
 # game/src/plot/ano03.rpy:142
 translate chinese ano03_dimitri_d5aa6e80:
@@ -508,67 +508,67 @@ translate chinese ano03_dimitri_ad0c3f35:
 translate chinese ano03_dimitri_92b353cb:
 
     # dimitri f_smug "Heh, so {i}this{/i} little bunny does have spine..."
-    dimitri f_smug "呵，原来{i}这只{/i}小兔子还真有骨气……"
+    dimitri f_smug "呵，原来{i}这只{/i}小兔子还有点骨气……"
 
 # game/src/plot/ano03.rpy:145
 translate chinese ano03_dimitri_73ce88fc:
 
     # dimitri "I guess apple can fall far from tree."
-    dimitri "看来苹果确实可以落在离树很远的地方。"
+    dimitri "看来这颗苹果，也能落得离树很远。"
 
 # game/src/plot/ano03.rpy:148
 translate chinese ano03_dimitri_4df519e1:
 
     # mono "It was at that moment [saga.cast.harold]'s partner, [saga.cast.yumi], pulled up in her squad car." with fade
-    mono "就在那一刻，[saga.cast.harold]的搭档[saga.cast.yumi]开着警车停了下来。" with fade
+    mono "就在这时，[saga.cast.harold]的搭档[saga.cast.yumi]开着警车赶到了。" with fade
 
 # game/src/plot/ano03.rpy:154
 translate chinese ano03_dimitri_d890fe6f:
 
     # dimitri "Tsk, Tsk, police involvement not so good for you..."
-    dimitri "啧，啧，警察掺和进来对你可没好处……"
+    dimitri "啧啧，警察掺和进来，对你没好处……"
 
 # game/src/plot/ano03.rpy:156
 translate chinese ano03_dimitri_d26703da:
 
     # dimitri f_smug "Not so good idea for nice lady either."
-    dimitri f_smug "对那位漂亮的女士也不是什么好主意。"
+    dimitri f_smug "对漂亮女士，也不是好主意。"
 
 # game/src/plot/ano03.rpy:157
 translate chinese ano03_dimitri_eb780b0f_1:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:158
 translate chinese ano03_dimitri_7cdb215c:
 
     # dimitri a_point f_calm "You give her message."
-    dimitri a_point f_calm "你给她带个话。"
+    dimitri a_point f_calm "你替我带话给她。"
 
 # game/src/plot/ano03.rpy:159
 translate chinese ano03_dimitri_c720a886:
 
     # dimitri @ a_throat "You tell her I come back here and things will get ugly."
-    dimitri @ a_throat "告诉她我还会回来的，事情会变得很难看。"
+    dimitri @ a_throat "告诉她，我再回来时，事情就不好看了。"
 
 # game/src/plot/ano03.rpy:160
 translate chinese ano03_dimitri_e0fb31f8:
 
     # dimitri "Da?"
-    dimitri "懂吗？"
+    dimitri "明白吗？"
 
 # game/src/plot/ano03.rpy:161
 translate chinese ano03_dimitri_eb780b0f_2:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:165
 translate chinese ano03_dimitri_670e283a:
 
     # yumi "E-excuse me?"
-    yumi "呃，你说什么？"
+    yumi "等、等一下！"
 
 # game/src/plot/ano03.rpy:168
 translate chinese ano03_dimitri_c53c64e6:
@@ -586,7 +586,7 @@ translate chinese ano03_dimitri_661d3e4d:
 translate chinese ano03_dimitri_701a1ceb:
 
     # dimitri "I am just old friend of family, come to pay respects."
-    dimitri "我只是家里的一个老朋友，来拜访一下。"
+    dimitri "我只是这家的老朋友，来吊唁。"
 
 # game/src/plot/ano03.rpy:171
 translate chinese ano03_dimitri_aaf65df9:
@@ -598,25 +598,25 @@ translate chinese ano03_dimitri_aaf65df9:
 translate chinese ano03_dimitri_9c4d60fc:
 
     # dimitri "Bah, I've no time for questions."
-    dimitri "呸，我没时间回答什么问题。"
+    dimitri "呸，我没空回答问题。"
 
 # game/src/plot/ano03.rpy:173
 translate chinese ano03_dimitri_d6a7f7d0:
 
     # dimitri "Much to do."
-    dimitri "还有很多事要做。"
+    dimitri "事情很多。"
 
 # game/src/plot/ano03.rpy:174
 translate chinese ano03_dimitri_63ec50fd:
 
     # dimitri @ a_stop "I go now."
-    dimitri @ a_stop "我走了。"
+    dimitri @ a_stop "我现在走。"
 
 # game/src/plot/ano03.rpy:176
 translate chinese ano03_dimitri_311b58ae:
 
     # yumi f_angry "Now you hold on just one second!"
-    yumi f_angry "你给我站住！"
+    yumi f_angry "你给我等一下！"
 
 # game/src/plot/ano03.rpy:178
 translate chinese ano03_dimitri_93604d2d:
@@ -628,13 +628,13 @@ translate chinese ano03_dimitri_93604d2d:
 translate chinese ano03_dimitri_ef035e56:
 
     # yumi f_sceptical "N-no, but-"
-    yumi f_sceptical "不，不是，但——"
+    yumi f_sceptical "不、不是，但——"
 
 # game/src/plot/ano03.rpy:180
 translate chinese ano03_dimitri_34ede08f:
 
     # dimitri a_side "Hmm, I did not think so..."
-    dimitri a_side "嗯，我可不这么认为……"
+    dimitri a_side "嗯，我就知道……"
 
 # game/src/plot/ano03.rpy:183
 translate chinese ano03_dimitri_025f553f:
@@ -646,13 +646,13 @@ translate chinese ano03_dimitri_025f553f:
 translate chinese ano03_dimitri_9a7890a9:
 
     # yumi @ -m_talk "..."
-    yumi @ -m_talk "..."
+    yumi @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:188
 translate chinese ano03_dimitri_338e155a:
 
     # yumi f_worried "Lock the door, kid."
-    yumi f_worried "锁好门，小子。"
+    yumi f_worried "把门锁好，小伙子。"
 
 # game/src/plot/ano03.rpy:198
 translate chinese ano03_dimitri_77040586:
@@ -664,49 +664,49 @@ translate chinese ano03_dimitri_77040586:
 translate chinese ano03_dimitri_c15d5df3:
 
     # debbie "W-who was that?"
-    debbie "刚……刚才那是谁？"
+    debbie "刚、刚才那是谁？"
 
 # game/src/plot/ano03.rpy:203
 translate chinese ano03_dimitri_9a8c278a:
 
     # yumi "Bad news, is who that was..."
-    yumi "坏消息，那就是那个人……"
+    yumi "那家伙一看就不是什么好东西……"
 
 # game/src/plot/ano03.rpy:204
 translate chinese ano03_dimitri_63bfc828:
 
     # anon "Pretty sure it's the guy who's been threatening you on the phone."
-    anon "很确定就是那个一直在电话里威胁你的家伙。"
+    anon "八成就是那个一直打电话威胁你的家伙。"
 
 # game/src/plot/ano03.rpy:205
 translate chinese ano03_dimitri_eb0504a8:
 
     # debbie a_shock f_surprised "!!!"
-    debbie a_shock f_surprised "!!!"
+    debbie a_shock f_surprised "！！！"
 
 # game/src/plot/ano03.rpy:206
 translate chinese ano03_dimitri_e3bd44bb:
 
     # yumi "I need to call this in."
-    yumi "我得汇报一下。"
+    yumi "我得把这事报上去。"
 
 # game/src/plot/ano03.rpy:211
 translate chinese ano03_dimitri_a6d73a4d:
 
     # debbie "Oh my goodness, are you alright?!"
-    debbie "哦天哪，你还好吗？！"
+    debbie "天哪，你没事吧？！"
 
 # game/src/plot/ano03.rpy:212
 translate chinese ano03_dimitri_55018a6b:
 
     # debbie "He didn't try and hurt you, did he?"
-    debbie "他没试图伤害你，对吧？"
+    debbie "他没伤到你吧？"
 
 # game/src/plot/ano03.rpy:213
 translate chinese ano03_dimitri_d740e28c:
 
     # anon "N-no, I'm fine."
-    anon "不——不，我没事。"
+    anon "没、没有，我没事。"
 
 # game/src/plot/ano03.rpy:216
 translate chinese ano03_dimitri_0342c27a:
@@ -718,13 +718,13 @@ translate chinese ano03_dimitri_0342c27a:
 translate chinese ano03_dimitri_fb64f451:
 
     # anon "He wanted money and... He..."
-    anon "他要钱，然后……他……"
+    anon "他是来要钱的，还……他……"
 
 # game/src/plot/ano03.rpy:218
 translate chinese ano03_dimitri_b2cf1421:
 
     # anon e_osw f_sad "... Mentioned Dad."
-    anon e_osw f_sad "……提到了爸爸。"
+    anon e_osw f_sad "……还提到了爸爸。"
 
 # game/src/plot/ano03.rpy:219
 translate chinese ano03_dimitri_643572d2:
@@ -754,19 +754,19 @@ translate chinese ano03_dimitri_dae8848b:
 translate chinese ano03_dimitri_42de941d:
 
     # debbie "C'mon, let's go sit down in the living room and see what the police officer can tell us."
-    debbie "来吧，我们去客厅坐下，看看警官能告诉我们什么。"
+    debbie "来，我们去客厅坐下，听听警官怎么说。"
 
 # game/src/plot/ano03.rpy:229
 translate chinese ano03_dimitri_a1f61959:
 
     # anon "Y-yeah, okay."
-    anon "好——好吧。"
+    anon "嗯、嗯，好。"
 
 # game/src/plot/ano03.rpy:240
 translate chinese ano03_dimitri_5af0bd3e:
 
     # yumi "That's correct, sir."
-    yumi "没错，先生。"
+    yumi "没错，长官。"
 
 # game/src/plot/ano03.rpy:242
 translate chinese ano03_dimitri_b7d27d69:
@@ -784,67 +784,67 @@ translate chinese ano03_dimitri_d0c835c3:
 translate chinese ano03_dimitri_46ed05a9:
 
     # yumi "No, I don't understand, sir!"
-    yumi "不，我不明白，先生！"
+    yumi "不，我不明白，长官！"
 
 # game/src/plot/ano03.rpy:248
 translate chinese ano03_dimitri_d64b1eea:
 
     # yumi "We can't just-"
-    yumi "我们不能就这样——"
+    yumi "我们不能就这么——"
 
 # game/src/plot/ano03.rpy:250
 translate chinese ano03_dimitri_40d92ff6:
 
     # yumi f_worried "Y-yes."
-    yumi f_worried "是……是的。"
+    yumi f_worried "是、是的。"
 
 # game/src/plot/ano03.rpy:252
 translate chinese ano03_dimitri_49f71930:
 
     # yumi "{i}*Sigh*{/i} Yes, sir."
-    yumi "{i}*叹气*{/i} 是的，先生。"
+    yumi "{i}*叹气*{/i} 是的，长官。"
 
 # game/src/plot/ano03.rpy:254
 translate chinese ano03_dimitri_88ed54d3:
 
     # yumi "Very well."
-    yumi "好吧。"
+    yumi "明白了。"
 
 # game/src/plot/ano03.rpy:257
 translate chinese ano03_dimitri_bb580519:
 
     # debbie "What's happening?"
-    debbie "发生什么事了？"
+    debbie "怎么回事？"
 
 # game/src/plot/ano03.rpy:259
 translate chinese ano03_dimitri_a42d5c27:
 
     # anon "Yeah, shouldn't you be calling for backup or something?"
-    anon "是啊，你不应该呼叫增援什么的吗？"
+    anon "是啊，你不是该叫增援什么的吗？"
 
 # game/src/plot/ano03.rpy:260
 translate chinese ano03_dimitri_0433dff2:
 
     # yumi "We put out an APB to our patrolmen, they're looking for the car now."
-    yumi "我们向巡逻警员发布了全境通告，他们正在搜寻那辆车。"
+    yumi "我们已经向巡逻警员发布了协查通报，他们正在搜那辆车。"
 
 # game/src/plot/ano03.rpy:261
 translate chinese ano03_dimitri_46894baf:
 
     # yumi "I need to get a statement from you..."
-    yumi "我需要你录一份口供……"
+    yumi "我得给你做份笔录……"
 
 # game/src/plot/ano03.rpy:262
 translate chinese ano03_dimitri_1f58f0fa:
 
     # debbie "A statement?"
-    debbie "口供？"
+    debbie "笔录？"
 
 # game/src/plot/ano03.rpy:263
 translate chinese ano03_dimitri_e3a89c16:
 
     # anon "You mean you're not going after that guy?!"
-    anon "你的意思是你们不去追那个家伙？！"
+    anon "你是说，你不去追那个家伙？！"
 
 # game/src/plot/ano03.rpy:264
 translate chinese ano03_dimitri_a418014c:
@@ -856,13 +856,13 @@ translate chinese ano03_dimitri_a418014c:
 translate chinese ano03_dimitri_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:266
 translate chinese ano03_dimitri_3d3cb698:
 
     # anon "But he was making threats!"
-    anon "可他刚才在威胁我！"
+    anon "可他刚才在威胁我们！"
 
 # game/src/plot/ano03.rpy:267
 translate chinese ano03_dimitri_de955bde:
@@ -880,13 +880,13 @@ translate chinese ano03_dimitri_a8878599:
 translate chinese ano03_dimitri_2499d382:
 
     # yumi "{i}*Sigh*{/i} Look, it's very important that you tell me exactly what he said to you."
-    yumi "{i}*叹气*{/i} 听着，你原原本本的告诉我他对你说了什么，这非常重要。"
+    yumi "{i}*叹气*{/i} 听着，你得把他刚才说过的话原原本本地告诉我，这很重要。"
 
 # game/src/plot/ano03.rpy:271
 translate chinese ano03_dimitri_3789eae4:
 
     # anon "Uhh, I'm not sure..."
-    anon "呃，我不太确定……"
+    anon "呃，我不太记得了……"
 
 # game/src/plot/ano03.rpy:272
 translate chinese ano03_dimitri_3445ff0b:
@@ -898,79 +898,79 @@ translate chinese ano03_dimitri_3445ff0b:
 translate chinese ano03_dimitri_ffd79246:
 
     # yumi "That's understandable."
-    yumi "这是可以理解的。"
+    yumi "这很正常。"
 
 # game/src/plot/ano03.rpy:274
 translate chinese ano03_dimitri_2230c08e:
 
     # yumi "This is a very stressful situation."
-    yumi "这样的情况压力很大。"
+    yumi "这种情况确实很容易让人紧张。"
 
 # game/src/plot/ano03.rpy:277
 translate chinese ano03_dimitri_6390af43:
 
     # yumi "Let's just take a moment to breathe and calm down, alright?"
-    yumi "我们先花点时间呼吸一下，冷静下来，好吗？"
+    yumi "先深呼吸一下，冷静下来，好吗？"
 
 # game/src/plot/ano03.rpy:278
 translate chinese ano03_dimitri_a23c19b3:
 
     # anon @ e_b f_calm m_smoke "Y-yeah, okay."
-    anon @ e_b f_calm m_smoke "是、是的，好吧。"
+    anon @ e_b f_calm m_smoke "好、好。"
 
 # game/src/plot/ano03.rpy:280
 translate chinese ano03_dimitri_116bfcb8:
 
     # yumi a_notes e_ssw f_calm "Very good."
-    yumi a_notes e_ssw f_calm "非常好。"
+    yumi a_notes e_ssw f_calm "很好。"
 
 # game/src/plot/ano03.rpy:281
 translate chinese ano03_dimitri_e1664b23:
 
     # yumi e_w "Now I need you to focus, [saga.cast.anon]."
-    yumi e_w "现在我需要你集中注意力，[saga.cast.anon]。"
+    yumi e_w "现在集中注意力，[saga.cast.anon]。"
 
 # game/src/plot/ano03.rpy:282
 translate chinese ano03_dimitri_1efe6011:
 
     # anon @ -m_talk "Mmhmm."
-    anon @ -m_talk "嗯哼。"
+    anon @ -m_talk "嗯。"
 
 # game/src/plot/ano03.rpy:283
 translate chinese ano03_dimitri_be9b132f:
 
     # yumi "What did the man say to you when you opened the door?"
-    yumi "当你开门时，那个男人对你说了什么？"
+    yumi "你开门后，那个人对你说了什么？"
 
 # game/src/plot/ano03.rpy:284
 translate chinese ano03_dimitri_94c8bfde:
 
     # anon "He said, \"Nice place.\""
-    anon "他说：「不错的地方。」"
+    anon "他说：“地方不错。”"
 
 # game/src/plot/ano03.rpy:285
 translate chinese ano03_dimitri_42755dbc:
 
     # yumi @ e_ssw "Okay, good."
-    yumi @ e_ssw "好吧，好的。"
+    yumi @ e_ssw "好，很好。"
 
 # game/src/plot/ano03.rpy:286
 translate chinese ano03_dimitri_9f1bade5:
 
     # yumi "Then what did he say?"
-    yumi "那他怎么说？"
+    yumi "然后呢？"
 
 # game/src/plot/ano03.rpy:287
 translate chinese ano03_dimitri_11bb2c66:
 
     # anon "He said I looked like my father, and then he asked after [saga.cast.debbie]."
-    anon "他说我长得很像我父亲，然后他问起了[saga.cast.debbie]。"
+    anon "他说我长得像我爸，然后问起了[saga.cast.debbie]。"
 
 # game/src/plot/ano03.rpy:288
 translate chinese ano03_dimitri_97f9eb74:
 
     # yumi @ e_ssw "Good."
-    yumi @ e_ssw "好的。"
+    yumi @ e_ssw "好。"
 
 # game/src/plot/ano03.rpy:289
 translate chinese ano03_dimitri_dc07fc61:
@@ -982,43 +982,43 @@ translate chinese ano03_dimitri_dc07fc61:
 translate chinese ano03_dimitri_bde2cc1b:
 
     # anon "He said his boss was done talking."
-    anon "他说他老板不想废话了。"
+    anon "他说他老板已经不想再谈了。"
 
 # game/src/plot/ano03.rpy:291
 translate chinese ano03_dimitri_cbbbbfa3:
 
     # anon "A-and that they wanted their money back."
-    anon "而——而且他们想要回他们的钱。"
+    anon "还、还说要我们把钱还给他们。"
 
 # game/src/plot/ano03.rpy:292
 translate chinese ano03_dimitri_6aed006a:
 
     # debbie "Pfft, how can we give back something we never took?!"
-    debbie "啧，我们从来没拿过，怎么还？！"
+    debbie "我们根本没拿过，拿什么还？！"
 
 # game/src/plot/ano03.rpy:293
 translate chinese ano03_dimitri_a41c702b:
 
     # yumi "You said he mentioned his boss?"
-    yumi "你说他提到了他的老板？"
+    yumi "你说，他提到了自己的老板？"
 
 # game/src/plot/ano03.rpy:294
 translate chinese ano03_dimitri_ac83e13f:
 
     # anon "Yes."
-    anon "是的。"
+    anon "对。"
 
 # game/src/plot/ano03.rpy:295
 translate chinese ano03_dimitri_4341ebe4:
 
     # yumi "Did he say a name?"
-    yumi "他说了名字吗？"
+    yumi "他说老板叫什么了吗？"
 
 # game/src/plot/ano03.rpy:296
 translate chinese ano03_dimitri_6f19cc34:
 
     # anon e_osw f_sad "N-no."
-    anon e_osw f_sad "没……没有。"
+    anon e_osw f_sad "没、没有。"
 
 # game/src/plot/ano03.rpy:297
 translate chinese ano03_dimitri_85c41e9c:
@@ -1036,19 +1036,19 @@ translate chinese ano03_dimitri_dff39529:
 translate chinese ano03_dimitri_9e5ce9f9:
 
     # anon "Yeah, he said if we didn't pay up, he'd be back..."
-    anon "有，他说如果我们不交钱，他会再回来……"
+    anon "有。他说我们要是不还钱，他还会回来……"
 
 # game/src/plot/ano03.rpy:300
 translate chinese ano03_dimitri_444d8e40:
 
     # anon "... And that next time, things would get ugly."
-    anon "……说下次事情就没这么好看了。"
+    anon "……而且下次就不会这么客气了。"
 
 # game/src/plot/ano03.rpy:303
 translate chinese ano03_dimitri_092516be:
 
     # debbie "!!!"
-    debbie "!!!"
+    debbie "！！！"
 
 # game/src/plot/ano03.rpy:304
 translate chinese ano03_dimitri_aabb1ace:
@@ -1060,7 +1060,7 @@ translate chinese ano03_dimitri_aabb1ace:
 translate chinese ano03_dimitri_bc7120a7:
 
     # anon e_w f_worried "I think so."
-    anon e_w f_worried "我想是的。"
+    anon e_w f_worried "应该就这些。"
 
 # game/src/plot/ano03.rpy:308
 translate chinese ano03_dimitri_8e9e5c7f:
@@ -1072,19 +1072,19 @@ translate chinese ano03_dimitri_8e9e5c7f:
 translate chinese ano03_dimitri_3bb7ed56:
 
     # debbie a_clasp f_sad "Are you going to tell us who that man was?!"
-    debbie a_clasp f_sad "你打算告诉我们那个人是谁吗？！"
+    debbie a_clasp f_sad "你到底打不打算告诉我们，那个人是谁？！"
 
 # game/src/plot/ano03.rpy:310
 translate chinese ano03_dimitri_1f4b1ce1:
 
     # yumi f_worried "{i}*Sigh*{/i} Truthfully ma'am, we don't know who he is."
-    yumi f_worried "{i}*叹气*{/i} 说实话，女士，我们不知道他是谁。"
+    yumi f_worried "{i}*叹气*{/i} 说实话，女士……我们不知道他是谁。"
 
 # game/src/plot/ano03.rpy:311
 translate chinese ano03_dimitri_1509ec70:
 
     # yumi "All I can tell you is that he's part of a criminal organization that's recently set up shop here, in Summerville."
-    yumi "我只能告诉你，他属于一个最近在夏日镇安营扎寨的犯罪组织。"
+    yumi "我只能告诉你们，他属于一个最近才进驻夏日镇的犯罪组织。"
 
 # game/src/plot/ano03.rpy:312
 translate chinese ano03_dimitri_8523a0c8:
@@ -1096,7 +1096,7 @@ translate chinese ano03_dimitri_8523a0c8:
 translate chinese ano03_dimitri_5628371a:
 
     # yumi "We're still trying to get a grip on the situation; but for now, my best advice for you both is to remain calm and stay vigilant."
-    yumi "我们仍在努力掌握情况；但目前，我给你们的建议是保持冷静和警惕。"
+    yumi "我们还在设法摸清情况。不过眼下，我能给你们的最好建议就是保持冷静、提高警惕。"
 
 # game/src/plot/ano03.rpy:314
 translate chinese ano03_dimitri_b4b9677a:
@@ -1108,7 +1108,7 @@ translate chinese ano03_dimitri_b4b9677a:
 translate chinese ano03_dimitri_b3cf6c03:
 
     # yumi "If anyone suspicious comes knocking on your door, do not answer and phone the police immediately."
-    yumi "如果有任何可疑的人来敲你的门，不要开门，立即报警。"
+    yumi "要是有可疑的人来敲门，千万别开门，立刻报警。"
 
 # game/src/plot/ano03.rpy:316
 translate chinese ano03_dimitri_02330653:
@@ -1120,25 +1120,25 @@ translate chinese ano03_dimitri_02330653:
 translate chinese ano03_dimitri_52391532:
 
     # yumi "Lay low and don't give them any incentive."
-    yumi "低调行事，别给他们任何把柄。"
+    yumi "先避避风头，别做任何会刺激他们的事。"
 
 # game/src/plot/ano03.rpy:318
 translate chinese ano03_dimitri_15c52a2a:
 
     # yumi "I'm going to personally be monitoring your neighborhood while my partner [saga.cast.harold] gets to the bottom of all this, okay?"
-    yumi "我会亲自监视你所在的街区，同时我的搭档[saga.cast.harold]会彻底查清这一切，好吗？"
+    yumi "[saga.cast.harold]查清这件事期间，我会亲自在你们这一带巡逻，好吗？"
 
 # game/src/plot/ano03.rpy:319
 translate chinese ano03_dimitri_1cee7a41_1:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:320
 translate chinese ano03_dimitri_882f081e:
 
     # anon f_worried "I don't like this."
-    anon f_worried "我不喜欢这样。"
+    anon f_worried "我一点都不喜欢这样。"
 
 # game/src/plot/ano03.rpy:321
 translate chinese ano03_dimitri_96ede817:
@@ -1150,19 +1150,19 @@ translate chinese ano03_dimitri_96ede817:
 translate chinese ano03_dimitri_2f9c5eef:
 
     # yumi "We'll keep you safe, I assure you."
-    yumi "我们会保证你的安全，我向你保证。"
+    yumi "我保证，我们一定会保护好你们。"
 
 # game/src/plot/ano03.rpy:323
 translate chinese ano03_dimitri_87b1f2cf:
 
     # debbie f_sad @ -m_talk "..."
-    debbie f_sad @ -m_talk "..."
+    debbie f_sad @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:324
 translate chinese ano03_dimitri_9859e938:
 
     # yumi "Ma'am, can you help me set up a schedule?"
-    yumi "女士，你能帮我安排一下日程吗？"
+    yumi "女士，您能帮我整理一份作息表吗？"
 
 # game/src/plot/ano03.rpy:325
 translate chinese ano03_dimitri_b02745fd:
@@ -1174,13 +1174,13 @@ translate chinese ano03_dimitri_b02745fd:
 translate chinese ano03_dimitri_ca2ce116:
 
     # yumi "Just the overview of everyone's weekly routine?"
-    yumi "只是每个人的每周例行概述？"
+    yumi "就是家里每个人一周大致的作息安排。"
 
 # game/src/plot/ano03.rpy:327
 translate chinese ano03_dimitri_d90695b4:
 
     # debbie "Y-yeah, sure."
-    debbie "好——好吧，当然。"
+    debbie "好、好的，没问题。"
 
 # game/src/plot/ano03.rpy:328
 translate chinese ano03_dimitri_494fa561:
@@ -1192,13 +1192,13 @@ translate chinese ano03_dimitri_494fa561:
 translate chinese ano03_dimitri_db519ab6:
 
     # anon e_osw f_sad @ -m_talk "( I don't like this one bit. )"
-    anon e_osw f_sad @ -m_talk "(我一点也不喜欢这样。)"
+    anon e_osw f_sad @ -m_talk "(我一点都不喜欢这样。)"
 
 # game/src/plot/ano03.rpy:334
 translate chinese ano03_dimitri_00c55eb2:
 
     # anon @ -m_talk "( {i}*Sigh*{/i} I need some air. )"
-    anon @ -m_talk "({i}*叹气*{/i}我需要透透气。)"
+    anon @ -m_talk "({i}*叹气*{/i} 我得出去透透气。)"
 
 # game/src/plot/ano03.rpy:343
 translate chinese ano03_dimitri_rails_e63def69:
@@ -1210,19 +1210,19 @@ translate chinese ano03_dimitri_rails_e63def69:
 translate chinese ano03_dimitri_rails_e4dc2ba1:
 
     # anon @ -m_talk "( I should answer the door. )"
-    anon @ -m_talk "(我应该去开门。)"
+    anon @ -m_talk "(我该去开门。)"
 
 # game/src/plot/ano03.rpy:358
 translate chinese ano03_outro_debbie_3ab56936:
 
     # debbie "[saga.cast.jenny] and I have a hair appointment on Tuesday."
-    debbie "[saga.cast.jenny]和我周二约了做头发。"
+    debbie "[saga.cast.jenny]和我周二约了去做头发。"
 
 # game/src/plot/ano03.rpy:359
 translate chinese ano03_outro_debbie_cedcb936:
 
     # yumi "Down at Cindi Kim's?"
-    yumi "在Cindi Kim那儿？"
+    yumi "是在Cindi Kim那里吗？"
 
 # game/src/plot/ano03.rpy:362
 translate chinese ano03_outro_debbie_4cab36c3:
@@ -1234,43 +1234,43 @@ translate chinese ano03_outro_debbie_4cab36c3:
 translate chinese ano03_outro_debbie_aa9b84c1:
 
     # yumi "No, that'll be fine."
-    yumi "不，没问题。"
+    yumi "没问题。"
 
 # game/src/plot/ano03.rpy:365
 translate chinese ano03_outro_debbie_482f8ec8:
 
     # yumi "Does your daughter go out much at night?"
-    yumi "你女儿晚上经常出去吗？"
+    yumi "您女儿晚上经常出门吗？"
 
 # game/src/plot/ano03.rpy:366
 translate chinese ano03_outro_debbie_14a28486:
 
     # yumi "Like dancing with friends or anything?"
-    yumi "比如和朋友跳舞之类的？"
+    yumi "比如和朋友去跳舞什么的？"
 
 # game/src/plot/ano03.rpy:367
 translate chinese ano03_outro_debbie_4793eba5:
 
     # debbie f_calm @ e_b f_happy m_laugh "Oh, goodness no!"
-    debbie f_calm @ e_b f_happy m_laugh "哦，天哪，不！"
+    debbie f_calm @ e_b f_happy m_laugh "哦，当然不！"
 
 # game/src/plot/ano03.rpy:368
 translate chinese ano03_outro_debbie_0f9efe7f:
 
     # debbie "She spends most of her time on the phone, or upstairs with that computer of hers."
-    debbie "她大部分时间都在打电话，或者在她楼上那台电脑前。"
+    debbie "她大部分时间不是在打电话，就是待在楼上摆弄她那台电脑。"
 
 # game/src/plot/ano03.rpy:370
 translate chinese ano03_outro_debbie_2e12dcf1:
 
     # yumi "Okay."
-    yumi "好的。"
+    yumi "好。"
 
 # game/src/plot/ano03.rpy:373
 translate chinese ano03_outro_debbie_562fab03:
 
     # anon "I guess I'm heading to school..."
-    anon "我想我该去学校了..."
+    anon "那我去上学了……"
 
 # game/src/plot/ano03.rpy:375
 translate chinese ano03_outro_debbie_b02745fd:
@@ -1282,19 +1282,19 @@ translate chinese ano03_outro_debbie_b02745fd:
 translate chinese ano03_outro_debbie_01510253:
 
     # debbie "Oh, no you're not!"
-    debbie "哦，不，你不能去！"
+    debbie "不行，你不能去！"
 
 # game/src/plot/ano03.rpy:377
 translate chinese ano03_outro_debbie_3a396500:
 
     # debbie "You're not leaving this house with that maniac running around."
-    debbie "那个疯子还在外面乱跑，你不能离开这房子。"
+    debbie "那个疯子还在外面，你哪儿都不能去。"
 
 # game/src/plot/ano03.rpy:379
 translate chinese ano03_outro_debbie_e6313e05:
 
     # anon "[saga.cast.debbie], I'm already months behind in my classes."
-    anon "[saga.cast.debbie]，我已经落下好几个月的课程了。"
+    anon "[saga.cast.debbie]，我的课已经落下好几个月了。"
 
 # game/src/plot/ano03.rpy:380
 translate chinese ano03_outro_debbie_9cf56c14:
@@ -1306,13 +1306,13 @@ translate chinese ano03_outro_debbie_9cf56c14:
 translate chinese ano03_outro_debbie_b6636214:
 
     # yumi a_side e_w "He's right, ma'am."
-    yumi a_side e_w "他说得对，夫人。"
+    yumi a_side e_w "他说得对，女士。"
 
 # game/src/plot/ano03.rpy:382
 translate chinese ano03_outro_debbie_659e84ab:
 
     # yumi "You can't let these crazies prevent you and your family from living your lives."
-    yumi "你不能让这些疯子阻止你和你的家人过正常的生活。"
+    yumi "您不能让这些疯子妨碍您和家人正常生活。"
 
 # game/src/plot/ano03.rpy:383
 translate chinese ano03_outro_debbie_87891e32:
@@ -1324,19 +1324,19 @@ translate chinese ano03_outro_debbie_87891e32:
 translate chinese ano03_outro_debbie_df990a05:
 
     # yumi "I assure you, we have a lot of patrols out combing the city for this guy."
-    yumi "我向你保证，我们派了很多警力在全市搜捕这个人。"
+    yumi "我向您保证，我们已经出动了大量警力，正在全城搜捕他。"
 
 # game/src/plot/ano03.rpy:385
 translate chinese ano03_outro_debbie_d92187d4:
 
     # yumi "He will be perfectly safe."
-    yumi "他会非常安全的。"
+    yumi "他不会有事的。"
 
 # game/src/plot/ano03.rpy:386
 translate chinese ano03_outro_debbie_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/ano03.rpy:387
 translate chinese ano03_outro_debbie_496c939d:
@@ -1360,7 +1360,7 @@ translate chinese ano03_outro_debbie_65d11640:
 translate chinese ano03_outro_debbie_6734e77d:
 
     # debbie "This whole thing is making me a nervous wreck..."
-    debbie "整件事让我紧张得要命..."
+    debbie "这整件事都快让我紧张得崩溃了……"
 
 # game/src/plot/ano03.rpy:395
 translate chinese ano03_outro_debbie_3bca31dd:
@@ -1372,25 +1372,25 @@ translate chinese ano03_outro_debbie_3bca31dd:
 translate chinese ano03_outro_debbie_1578b2b8:
 
     # yumi a_notes "Now then, where were we?"
-    yumi a_notes "那么，我们说到哪儿了？"
+    yumi a_notes "好了，我们说到哪儿了？"
 
 # game/src/plot/ano03.rpy:403
 translate chinese ano03_outro_debbie_ccb15afe:
 
     # anon @ -m_talk "( I don't like this one bit. )"
-    anon @ -m_talk "(我一点也不喜欢这样。)"
+    anon @ -m_talk "(我一点都不喜欢这样。)"
 
 # game/src/plot/ano03.rpy:404
 translate chinese ano03_outro_debbie_4b631150:
 
     # anon e_osw f_sad @ -m_talk "( {i}*Sigh*{/i} I need some air. )"
-    anon e_osw f_sad @ -m_talk "({i}*叹气*{/i}我需要透透气。)"
+    anon e_osw f_sad @ -m_talk "({i}*叹气*{/i} 我得出去透透气。)"
 
 # game/src/plot/ano03.rpy:414
 translate chinese ano03_outro_jenny_9127e5fe:
 
     # jenny "What's going on down there?"
-    jenny "下面发生什么事了？"
+    jenny "楼下怎么回事？"
 
 # game/src/plot/ano03.rpy:415
 translate chinese ano03_outro_jenny_a1f0b75a:
@@ -1402,13 +1402,13 @@ translate chinese ano03_outro_jenny_a1f0b75a:
 translate chinese ano03_outro_jenny_7a8725c4:
 
     # anon "Oh, some guy was at our door demanding money."
-    anon "哦，有个家伙在咱们门口要钱。"
+    anon "哦，刚才有个家伙堵在咱们门口要钱。"
 
 # game/src/plot/ano03.rpy:417
 translate chinese ano03_outro_jenny_3cb81a8e:
 
     # jenny f_surprised "Huh?!"
-    jenny f_surprised "哈？！"
+    jenny f_surprised "什么？！"
 
 # game/src/plot/ano03.rpy:418
 translate chinese ano03_outro_jenny_9df53af0:
@@ -1426,7 +1426,7 @@ translate chinese ano03_outro_jenny_4f3671b7:
 translate chinese ano03_outro_jenny_b5825bc7:
 
     # anon "Some creepy guy with a bunch of tattoos and a crazy accent."
-    anon "一个浑身纹身、口音怪异的 creepy 家伙。"
+    anon "一个浑身纹身、口音怪得要命的瘆人家伙。"
 
 # game/src/plot/ano03.rpy:421
 translate chinese ano03_outro_jenny_0bdcc7aa:
@@ -1438,19 +1438,19 @@ translate chinese ano03_outro_jenny_0bdcc7aa:
 translate chinese ano03_outro_jenny_e9dbdf15:
 
     # anon "No, the cops showed up and he left."
-    anon "不，警察来了他就走了。"
+    anon "不在了，警察一到，他就走了。"
 
 # game/src/plot/ano03.rpy:423
 translate chinese ano03_outro_jenny_f3aba2cb:
 
     # anon "[saga.cast.debbie] is down there talking to the police officer now."
-    anon "[saga.cast.debbie]现在正在楼下和警察谈话。"
+    anon "[saga.cast.debbie]现在正在楼下和警官谈话。"
 
 # game/src/plot/ano03.rpy:424
 translate chinese ano03_outro_jenny_e5a02144:
 
     # jenny "Do you think it was the same guy who's been calling her on the phone?"
-    jenny "你觉得是那个一直给她打电话的家伙吗？"
+    jenny "你觉得他就是那个一直打电话威胁她的家伙吗？"
 
 # game/src/plot/ano03.rpy:425
 translate chinese ano03_outro_jenny_2e04d020:
@@ -1462,19 +1462,19 @@ translate chinese ano03_outro_jenny_2e04d020:
 translate chinese ano03_outro_jenny_a7f32372:
 
     # jenny a_fold f_annoyed "Ugh, great."
-    jenny a_fold f_annoyed "唉，真棒。"
+    jenny a_fold f_annoyed "哈，真是太好了。"
 
 # game/src/plot/ano03.rpy:428
 translate chinese ano03_outro_jenny_c2dcae79:
 
     # jenny "First your dad dies, sticking us with you..."
-    jenny "先是你的死鬼老爸，害得我们得养着你……"
+    jenny "先是你爸死了，害得我们还得养着你……"
 
 # game/src/plot/ano03.rpy:429
 translate chinese ano03_outro_jenny_46e2d981:
 
     # jenny "... And now we're all going to be murdered."
-    jenny "……现在咱们全都要被杀了。"
+    jenny "……现在我们又全都要被杀了。"
 
 # game/src/plot/ano03.rpy:430
 translate chinese ano03_outro_jenny_dec21455:
@@ -1486,19 +1486,19 @@ translate chinese ano03_outro_jenny_dec21455:
 translate chinese ano03_outro_jenny_c3c20bc5:
 
     # anon "Quit being a bitch."
-    anon "别他妈怂了。"
+    anon "别他妈犯贱了。"
 
 # game/src/plot/ano03.rpy:432
 translate chinese ano03_outro_jenny_4c6c472d:
 
     # jenny @ e_r "Whatever."
-    jenny @ e_r "随便。"
+    jenny @ e_r "随便你。"
 
 # game/src/plot/ano03.rpy:433
 translate chinese ano03_outro_jenny_ad0509ed:
 
     # jenny "I'm going to my room."
-    jenny "我要回房间了。"
+    jenny "我回房了。"
 
 # game/src/plot/ano03.rpy:438
 translate chinese ano03_outro_jenny_5c0d3541:
@@ -1510,11 +1510,11 @@ translate chinese ano03_outro_jenny_5c0d3541:
 translate chinese ano03_outro_jenny_606ecc9d:
 
     # anon "( {i}*Sigh*{/i} I need some air. )"
-    anon "({i}*叹气*{/i} 我需要透透气。)"
+    anon "({i}*叹气*{/i} 我得出去透透气。)"
 
 # game/src/plot/ano03.rpy:448
 translate chinese ano03_outro_kitchen_1b43d89c:
 
     # anon @ -m_talk "( I shouldn't interrupt them.. )"
-    anon @ -m_talk "(我不该打断他们……)"
+    anon @ -m_talk "(还是别打扰她们了……)"
 

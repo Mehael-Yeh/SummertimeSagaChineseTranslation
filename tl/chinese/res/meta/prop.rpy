@@ -266,7 +266,7 @@ translate chinese strings:
     new "我的奶酪和我！"
     # game/res/meta/prop.rpym:117
     old "A thrilling romp though 101 French cheeses. \"It's easy as one, two, brie!\""
-    new "一场穿越101种法国奶酪的欢乐嬉闹。「简单得就像一、二、布里！」"
+    new "一场穿越101种法国奶酪的欢乐嬉闹。“简单得就像一、二、布里！”"
     # game/res/meta/prop.rpym:119
     old "Dictionnaire Français"
     new "法语词典"
@@ -659,7 +659,7 @@ translate chinese strings:
     new "迷你阴户钥匙"
     # game/res/meta/prop.rpym:327
     old "The ignition key to the only vehicle that screams to the world \"I know I'm fabulous, and you should too!\""
-    new "这辆车的点火钥匙，向世界宣告「我知道我美极了，你们也应该知道！」"
+    new "这辆车的点火钥匙，向世界宣告“我知道我美极了，你们也应该知道！”"
     # game/res/meta/prop.rpym:329
     old "Mystery key"
     new "神秘钥匙"
@@ -737,7 +737,7 @@ translate chinese strings:
     new "超猛男杂志"
     # game/res/meta/prop.rpym:366
     old "\"Buff lads in the buff!\" ... Kevin seemed really taken with these, talk about #goals."
-    new "「光膀子的壮汉！」……凯文似乎对它们很着迷，简直是#人生目标。"
+    new "“光膀子的壮汉！”……Kevin似乎特别喜欢这些，简直就是#人生目标。"
     # game/res/meta/prop.rpym:368
     old "Huge stack of magazines"
     new "一大摞杂志"
@@ -863,7 +863,7 @@ translate chinese strings:
     new "乳液"
     # game/res/meta/prop.rpym:432
     old "It's a skin-care lotion. The label reads \"apply liberally\"."
-    new "这是一瓶护肤乳液。标签上写着「大量涂抹」。"
+    new "这是一瓶护肤乳液。标签上写着“大量涂抹”。"
     # game/res/meta/prop.rpym:434
     old "MacGuffin's case"
     new "麦高芬的箱子"
@@ -1166,7 +1166,7 @@ translate chinese strings:
     new "荆棘冠阳具"
     # game/res/meta/prop.rpym:630
     old "The Fappening card for Cock Crown of Thorns."
-    new "「荆棘冠阳具」的Fappening卡牌。"
+    new "“荆棘冠阳具”的Fappening卡牌。"
     # game/res/meta/prop.rpym:632
     old "Dillon"
     new "狄龙"
@@ -1298,7 +1298,7 @@ translate chinese strings:
     new "一个非常大的黑色假阳具。"
     # game/res/meta/prop.rpym:698
     old "The Drilldo \"Fuck-Hammer\""
-    new "钻头阳具「操锤」"
+    new "钻头阳具“操锤”"
     # game/res/meta/prop.rpym:699
     old "A power drill dildo."
     new "一个电动钻头假阳具。"
@@ -1328,13 +1328,13 @@ translate chinese strings:
     new "双头假阳具，双倍乐趣！"
     # game/res/meta/prop.rpym:713
     old "Sex Doll \"Dirty Harold\""
-    new "性爱娃娃「肮脏的哈罗德」"
+    new "性爱娃娃“肮脏的哈罗德”"
     # game/res/meta/prop.rpym:714
     old "A strange sex doll of a man with a moustache."
     new "一个奇怪的留着胡子的男人性爱娃娃。"
     # game/res/meta/prop.rpym:716
     old "Strap-On \"Crusader\""
-    new "穿戴式假阳具「十字军」"
+    new "穿戴式假阳具“十字军”"
     # game/res/meta/prop.rpym:717
     old "A rubber dick fit to be wielded by a warrior."
     new "一根适合战士挥舞的橡胶阳具。"
@@ -1358,7 +1358,7 @@ translate chinese strings:
     new "一款带棱纹内衬的电池驱动振动假阳具。"
     # game/res/meta/prop.rpym:728
     old "Whip \"The Penance\""
-    new "鞭子「苦修」"
+    new "鞭子“苦修”"
     # game/res/meta/prop.rpym:729
     old "A whip to punish sinners."
     new "用来惩罚罪人的鞭子。"

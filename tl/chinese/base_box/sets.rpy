@@ -518,7 +518,7 @@ translate chinese strings:
 
  # game/res/meta/sets.rpym:205
  old "Tony's Pizza"
- new "托尼披萨店"
+ new "Tony披萨店"
 
  # game/res/meta/sets.rpym:206
  old "Pantry"
