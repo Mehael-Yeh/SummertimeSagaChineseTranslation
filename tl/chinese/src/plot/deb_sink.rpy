@@ -22,7 +22,7 @@ translate chinese deb_sink_1136102f:
 translate chinese deb_sink_03cb86ad:
 
     # anon "Beg your pardon, forgot to knock."
-    anon "请原谅，忘了敲门。"
+    anon "抱歉，我忘了敲门。"
 
 # game/src/plot/deb_sink.rpy:26
 translate chinese deb_sink_7e5d61d1:
@@ -82,7 +82,7 @@ translate chinese deb_sink_fe5e4125:
 translate chinese deb_sink_98142152:
 
     # debbie "You wanna fool around?"
-    debbie "你想玩玩吗？"
+    debbie "想不想亲热一下？"
 
 # game/src/plot/deb_sink.rpy:43
 translate chinese deb_sink_65761265:
@@ -94,7 +94,7 @@ translate chinese deb_sink_65761265:
 translate chinese deb_sink_f481e234:
 
     # debbie "I think breakfast can wait."
-    debbie "我想早餐可以再等等。"
+    debbie "早餐晚点吃也行。"
 
 # game/src/plot/deb_sink.rpy:47
 translate chinese deb_sink_c8481ccd:
@@ -148,7 +148,7 @@ translate chinese deb_sink_merge1_319d4373:
 translate chinese deb_sink_merge1_22416cd6:
 
     # debbie "O-okay, I guess we can do that."
-    debbie "好、好吧，我想我们可以那样做。"
+    debbie "好、好吧，那就这样吧。"
 
 # game/src/plot/deb_sink.rpy:83
 translate chinese deb_sink_merge1_a8e1cb05:
@@ -184,7 +184,7 @@ translate chinese deb_sink_merge1_29beb8b0:
 translate chinese deb_sink_merge1_43823c76:
 
     # debbie "You're getting so good at that!"
-    debbie "你越来越熟练了！"
+    debbie "你越来越会了！"
 
 # game/src/plot/deb_sink.rpy:91
 translate chinese deb_sink_merge1_efa404b4:
@@ -220,7 +220,7 @@ translate chinese deb_sink_merge1_4eafb878:
 translate chinese deb_sink_merge1_1040eaee:
 
     # debbie "I'm cumming!!"
-    debbie "我要去了！！"
+    debbie "我要高潮了！！"
 
 # game/src/plot/deb_sink.rpy:99
 translate chinese deb_sink_merge1_eabea26e:
@@ -244,7 +244,7 @@ translate chinese deb_sink_merge1_50e0c166:
 translate chinese deb_sink_merge1_382b7077:
 
     # debbie e_se "That was... so good."
-    debbie e_se "那真是太……爽了。"
+    debbie e_se "刚才……真舒服。"
 
 # game/src/plot/deb_sink.rpy:109
 translate chinese deb_sink_merge1_a9a51510:
@@ -286,7 +286,7 @@ translate chinese deb_sink_merge2_d63c4d06:
 translate chinese deb_sink_merge2_32a83e75:
 
     # debbie @ f_curious "After what we just did?"
-    debbie @ f_curious "在我们刚做完那事之后？"
+    debbie @ f_curious "刚才都那样了，还不行吗？"
 
 # game/src/plot/deb_sink.rpy:128
 translate chinese deb_sink_merge2_69fe3dc0:
@@ -304,7 +304,7 @@ translate chinese deb_sink_merge2_b42f7a06:
 translate chinese deb_sink_merge2_8eaf2600:
 
     # debbie "I'm always ready for you, sweetie."
-    debbie "我随时为你准备着，亲爱的。"
+    debbie "我随时都能满足你，亲爱的。"
 
 # game/src/plot/deb_sink.rpy:133
 translate chinese deb_sink_merge2_340680f6:
@@ -316,13 +316,13 @@ translate chinese deb_sink_merge2_340680f6:
 translate chinese deb_sink_merge2_4c751e21:
 
     # debbie @ e_ssw "Can't you see how wet I am?"
-    debbie @ e_ssw "你没看到我有多湿吗？"
+    debbie @ e_ssw "没看见我都湿成什么样了吗？"
 
 # game/src/plot/deb_sink.rpy:136
 translate chinese deb_sink_merge2_887d4d44:
 
     # anon "We'd better get started then, huh?"
-    anon "那我们最好开始吧，嗯？"
+    anon "那我们还等什么，开始吧？"
 
 # game/src/plot/deb_sink.rpy:137
 translate chinese deb_sink_merge2_c3011927:
@@ -346,7 +346,7 @@ translate chinese deb_sink_merge2_fc03e90e:
 translate chinese deb_sink_merge2_2c2857a9:
 
     # debbie "I want it so bad!"
-    debbie "我太想要了！"
+    debbie "我好想要！"
 
 # game/src/plot/deb_sink.rpy:155
 translate chinese deb_sink_merge2_7f4907c4:
@@ -364,7 +364,7 @@ translate chinese deb_sink_merge2_2701c6bd:
 translate chinese deb_sink_merge2_487e5b91:
 
     # debbie "Such a... big... boy!"
-    debbie "真是个...大...男孩！"
+    debbie "真是个……大……男孩！"
 
 # game/src/plot/deb_sink.rpy:161
 translate chinese deb_sink_merge2_1dbeb6c1:
@@ -394,7 +394,7 @@ translate chinese deb_sink_merge2_c35871f2:
 translate chinese deb_sink_merge2_c4f2e9e3:
 
     # debbie "Goodness, sweetie... I-"
-    debbie "天哪，亲爱的...我——"
+    debbie "天哪，亲爱的……我——"
 
 # game/src/plot/deb_sink.rpy:167
 translate chinese deb_sink_merge2_aa291db5:
@@ -442,13 +442,13 @@ translate chinese deb_sink_merge2_d8f50d3e:
 translate chinese deb_sink_merge2_c3cae749:
 
     # debbie "I can feel you... knocking..."
-    debbie "我能感觉到你...在撞..."
+    debbie "我能感觉到你……在里面顶……"
 
 # game/src/plot/deb_sink.rpy:187
 translate chinese deb_sink_merge2_0fd30f83:
 
     # debbie "... Against my-"
-    debbie "...撞到了我的——"
+    debbie "……顶着我的——"
 
 # game/src/plot/deb_sink.rpy:188
 translate chinese deb_sink_merge2_24b0eca1:
@@ -466,25 +466,25 @@ translate chinese deb_sink_merge2_479b736a:
 translate chinese deb_sink_merge2_515f2e47:
 
     # debbie "I can't... help..."
-    debbie "我...忍不住..."
+    debbie "我……控制不住……"
 
 # game/src/plot/deb_sink.rpy:192
 translate chinese deb_sink_merge2_e948aa41:
 
     # debbie "... Iiiiiittt!!!"
-    debbie "...了！！！"
+    debbie "……了！！！"
 
 # game/src/plot/deb_sink.rpy:194
 translate chinese deb_sink_merge2_fd8bb00a:
 
     # debbie "Sweetie... Oh, sweetie..."
-    debbie "亲爱的...哦，亲爱的..."
+    debbie "亲爱的……哦，亲爱的……"
 
 # game/src/plot/deb_sink.rpy:195
 translate chinese deb_sink_merge2_fcb54231:
 
     # debbie "... You're gonna make me cum!!"
-    debbie "...你要让我高潮了！"
+    debbie "……你要让我高潮了！！"
 
 # game/src/plot/deb_sink.rpy:196
 translate chinese deb_sink_merge2_c29949a0:
@@ -496,7 +496,7 @@ translate chinese deb_sink_merge2_c29949a0:
 translate chinese deb_sink_merge2_1e863ca3:
 
     # anon "Cum for me, [saga.cast.debbie]."
-    anon "对我高潮吧，[saga.cast.debbie]。"
+    anon "为我高潮吧，[saga.cast.debbie]。"
 
 # game/src/plot/deb_sink.rpy:198
 translate chinese deb_sink_merge2_acc559eb_1:
@@ -508,7 +508,7 @@ translate chinese deb_sink_merge2_acc559eb_1:
 translate chinese deb_sink_merge2_1040eaee:
 
     # debbie "I'm cumming!!"
-    debbie "我要去了！！"
+    debbie "我要高潮了！！"
 
 # game/src/plot/deb_sink.rpy:207
 translate chinese deb_sink_merge2_05f5ee39:
@@ -532,13 +532,13 @@ translate chinese deb_sink_merge2_0cf4d269:
 translate chinese deb_sink_merge2_b364fb8d:
 
     # anon a_down od_none p_debbie_bath_sink z_b_f "Haah... haah..."
-    anon a_down od_none p_debbie_bath_sink z_b_f "哈啊...哈啊..."
+    anon a_down od_none p_debbie_bath_sink z_b_f "哈啊……哈啊……"
 
 # game/src/plot/deb_sink.rpy:226
 translate chinese deb_sink_merge2_1beee190:
 
     # debbie "Wow, sweetie..."
-    debbie "哇，亲爱的..."
+    debbie "哇，亲爱的……"
 
 # game/src/plot/deb_sink.rpy:227
 translate chinese deb_sink_merge2_b2bfc862:
@@ -640,7 +640,7 @@ translate chinese deb_sink_merge3_48715964:
 translate chinese deb_sink_merge3_80800221:
 
     # debbie "There's no way I can stand at the stove after lovin' like that!"
-    debbie "做完那种爱后，我根本没法站在炉子边！"
+    debbie "刚才那么一通，我哪还站得住灶台前啊！"
 
 # game/src/plot/deb_sink.rpy:272
 translate chinese deb_sink_merge3_46cefb3b:
@@ -688,7 +688,7 @@ translate chinese deb_sink_merge3_18347175:
 translate chinese deb_sink_merge3_cb62672d:
 
     # anon a_wave f_shy "Thanks again, for... you know."
-    anon a_wave f_shy "再次感谢，为了……你知道的。"
+    anon a_wave f_shy "刚才谢谢你，那个……"
 
 # game/src/plot/deb_sink.rpy:284
 translate chinese deb_sink_merge3_b0aabafb:
@@ -706,7 +706,7 @@ translate chinese deb_sink_alt_d6b7f744:
 translate chinese deb_sink_alt_a47e9286:
 
     # debbie "Mmn... yyeeaaahh!"
-    debbie "嗯……是——的！"
+    debbie "嗯……对……啊……！"
 
 # game/src/plot/deb_sink.rpy:302
 translate chinese deb_sink_alt_8d8caf48:
@@ -778,7 +778,7 @@ translate chinese deb_sink_alt_00db40f4:
 translate chinese deb_sink_alt_b4d40bd4:
 
     # anon f_horny_smug @ -m_talk "..."
-    anon f_horny_smug @ -m_talk "..."
+    anon f_horny_smug @ -m_talk "……"
 
 # game/src/plot/deb_sink.rpy:326
 translate chinese deb_sink_alt_4d112874:
@@ -850,7 +850,7 @@ translate chinese deb_sink_creampie_180536e3:
 translate chinese deb_sink_creampie_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_sink.rpy:362
 translate chinese deb_sink_creampie_59d1ba61:
@@ -958,7 +958,7 @@ translate chinese deb_sink_deny1_d8f50d3e:
 translate chinese deb_sink_deny1_68efa57d:
 
     # debbie f_sad "Ahh, sweetie... I just got nice and clean... now you want to get me all messy again?"
-    debbie f_sad "啊，亲爱的……我刚刚才洗干净……现在你又想把我弄得一团糟？"
+    debbie f_sad "啊，亲爱的……我才刚洗干净……你现在又想把我弄得一团糟？"
 
 # game/src/plot/deb_sink.rpy:400
 translate chinese deb_sink_deny1_b3ac9c86:
@@ -970,7 +970,7 @@ translate chinese deb_sink_deny1_b3ac9c86:
 translate chinese deb_sink_deny1_979f3cf3:
 
     # anon a_uneasy f_shy "I just thought, since you were... you know..."
-    anon a_uneasy f_shy "我只是想，既然你...你知道的..."
+    anon a_uneasy f_shy "我只是觉得，既然你都……你懂的……"
 
 # game/src/plot/deb_sink.rpy:403
 translate chinese deb_sink_deny1_55fdfe9a:
@@ -988,7 +988,7 @@ translate chinese deb_sink_deny1_99dde980:
 translate chinese deb_sink_deny1_2ec2ce8b:
 
     # debbie e_w f_confused "Raincheck?"
-    debbie e_w f_confused "改天？"
+    debbie e_w f_confused "改天再来一次？"
 
 # game/src/plot/deb_sink.rpy:407
 translate chinese deb_sink_deny1_3c1eee16:
@@ -1030,7 +1030,7 @@ translate chinese deb_sink_deny2_85984315:
 translate chinese deb_sink_deny2_b35acb72:
 
     # anon "I mean, you could... I wouldn't mind it."
-    anon "我是说，你可以……我不介意的。"
+    anon "我是说，你要真想坐着也行……我不介意。"
 
 # game/src/plot/deb_sink.rpy:427
 translate chinese deb_sink_deny2_ecbb990e:
@@ -1048,7 +1048,7 @@ translate chinese deb_sink_deny2_cc597f46:
 translate chinese deb_sink_deny2_8c40a53b:
 
     # debbie "There's too many things that need doing in this house."
-    debbie "这房子里有太多事要做了。"
+    debbie "家里还有一大堆事要做呢。"
 
 # game/src/plot/deb_sink.rpy:436
 translate chinese deb_sink_deny2_3b84fa39:
@@ -1060,13 +1060,13 @@ translate chinese deb_sink_deny2_3b84fa39:
 translate chinese deb_sink_deny2_d452bf15:
 
     # debbie e_w f_shy "Thanks for, well..."
-    debbie e_w f_shy "谢谢，呃……"
+    debbie e_w f_shy "刚才谢谢你……"
 
 # game/src/plot/deb_sink.rpy:439
 translate chinese deb_sink_deny2_baa4000e:
 
     # debbie e_se of_blush "... You know."
-    debbie e_se of_blush "……你知道的。"
+    debbie e_se of_blush "……那个。"
 
 # game/src/plot/deb_sink.rpy:441
 translate chinese deb_sink_deny2_61526cd7:
@@ -1084,7 +1084,7 @@ translate chinese deb_sink_deny2_69d55421:
 translate chinese deb_sink_deny2_8e01963f:
 
     # anon @ e_s "Hmm, how about you give me a corner of that towel so I can wipe your juices off my face?"
-    anon @ e_s "嗯，不如你把毛巾分我一点，让我擦擦脸上的汁水？"
+    anon @ e_s "嗯，不如分我一角毛巾，让我把脸上的你的汁水擦掉？"
 
 # game/src/plot/deb_sink.rpy:446
 translate chinese deb_sink_deny2_51647ddf:
@@ -1102,7 +1102,7 @@ translate chinese deb_sink_deny2_6ce370fa:
 translate chinese deb_sink_deny2_b8486f50:
 
     # debbie f_calm "I think you'd better go before you find yourself in a whole heap of trouble, mister!"
-    debbie f_calm "我想你最好还是走吧，否则你会发现麻烦大了，先生！"
+    debbie f_calm "我看你最好赶紧走，不然可就要惹出大麻烦了，先生！"
 
 # game/src/plot/deb_sink.rpy:449
 translate chinese deb_sink_deny2_8c5af117:
@@ -1126,7 +1126,7 @@ translate chinese deb_sink_deny2_88e4fd3b:
 translate chinese deb_sink_deny2_f6a2d663:
 
     # debbie p_stand -b_anon "Now go on!"
-    debbie p_stand -b_anon "现在继续！"
+    debbie p_stand -b_anon "快走吧！"
 
 # game/src/plot/deb_sink.rpy:456
 translate chinese deb_sink_deny2_53848fd0:
