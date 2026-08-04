@@ -904,7 +904,7 @@ translate chinese mar_couch_merge1_80a7e549:
 
 
     # maria "... house calls for me!"
-    maria "……上门来帮我！"
+    maria "……提供上门服务！"
 
 translate chinese mar_couch_merge1_13ce197e:
 
@@ -1013,7 +1013,7 @@ translate chinese mar_couch_merge1_77933e7b:
 translate chinese mar_couch_merge1_95c0c88b:
 
     # maria "I'M GONNA CUM!!!"
-    maria "我、我要射了！！！"
+    maria "我、我要高潮了！！！"
 
 translate chinese mar_couch_merge1_707106a0:
 
