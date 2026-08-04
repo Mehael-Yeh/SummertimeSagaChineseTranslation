@@ -31,6 +31,7 @@
 | `tl/chinese/src/plot/deb06.rpy` | Debbie线早期；按摩回忆、偷拿润肤露、使用内裤自慰被撞见及事后边界谈话 | Debbie、Anon | 完成 | 通读 126 个翻译块；理顺按摩记忆、气味诱发的性冲动、Debbie 撞见后的震惊与自我安慰，以及她理解自慰但明确禁止在卧室或使用内裤的边界；统一 `sweetie`、润肤露、自慰、内裤、中文省略号、中文双引号和全角括号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb07.rpy` | Debbie线早期暧昧推进；夜间共看爱情片、意外触碰勃起及双方首次持续性幻想 | Debbie、Anon | 完成 | 通读 141 个翻译块；理顺选片争论、电影情色转折、脚部误触、Debbie 对尺寸的震惊与幻想、Anon 的尴尬掩饰及温柔告别；以“挺得住”保留 `solid` 的承受/勃起双关，并回扣“巴西 Bum Bum”产品名 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb08.rpy` | Debbie线；商场同行、Cupid试衣、首次接吻与事后回避 | Debbie、Anon、Kassy、Jenny（被提及） | 完成 | 通读 375 个翻译块和 6 个选项；精修购物邀请、童年照片笑点、女装店调侃、更衣室拉链、电影回调、首次接吻及双方不同的事后心理；修复反译、连续拆句、拉链方向和关系阶段，统一省略号、中文双引号与内心括号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/deb09.rpy` | Debbie线；首次接吻后的性梦、Ursula乱入噩梦及关系认知变化 | Debbie、Anon、Ursula | 完成 | 通读 33 个翻译块；理顺 Debbie 安抚与性诱惑的连续拆句、Ursula 的学校羞耻威胁及 Anon 醒后的自我审视；修复称谓误译、机翻语序、ASCII 省略号和半角内心括号，保留梦境露骨强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -147,7 +148,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb08.rpy` 已完成；下一批继续完整通读并精修 `deb09.rpy`。
+1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb09.rpy` 已完成；下一批继续完整通读并精修 `deb10.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
