@@ -47,6 +47,7 @@
 | `tl/chinese/src/plot/deb22.rpy` | Debbie线；深夜进入Anon房间、欲望自辩、主动口交及梦魇分支 | Debbie、Anon、Diane（被提及）、Jenny（被提及）、Ursula（梦境） | 完成 | 通读 121 个对话块和 2 个菜单选项；理顺 Debbie 从房东/照顾者负罪感到接受自身欲望、主动触摸与口交、Anon 醒来后的惊慌逃离，以及追赶/回床分支和 Ursula 梦魇；统一内心括号、省略号、连续拆句与重复台词，并保留 Debbie 成熟照顾口吻和真实成人欲望 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb23.rpy` | Debbie线；深夜口交后的回避、渡鸦山私谈和解及Cupid泳衣试穿 | Debbie、Anon、Kassy | 完成 | 通读完整场景；理顺 Debbie 因趁 Anon 熟睡口交而自责回避、双方在渡鸦山区分熟睡时无法回应与醒来后的真实愿望、和解后再次主动口交，以及Cupid蓝色／紫色／白色泳衣试穿和试衣间“搭扣卡住了”的掩饰；保留 Debbie 的身体不自信、房东身份顾虑与真实欲望 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/deb24.rpy` | Debbie线；泳池裸泳、Diane推动Debbie正视欲望、浴袍搜索及拒绝同床 | Debbie、Diane、Anon、Jenny（浴室分支） | 完成 | 通读 342 个翻译块；修复 Anon 未来家庭归属的指代错译，理顺跨块连续句；精修手淫、口交、乳交、隔衣磨蹭、舔阴／舔肛及泳池挑逗；统一女性复数、中文括号、省略号和浴袍搜索分支口吻 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
+| `tl/chinese/src/plot/deb25.rpy` | Debbie线；泳池挑逗后的欲望失控、夜间游荡、首次主动性交及次日退缩 | Debbie、Anon、Jenny（被提及）、Diane（被提及）、色情片角色 | 完成 | 通读 428 个翻译块；精修 Debbie 在家中转移注意力却不断联想到 Anon 的连续场景、主动口交与首次明确要求插入、性交和高潮、内射／拔出分支、事后爱意及次日因年龄差和房东责任退缩；修复眼镜蛇和 `gotten into` 双关、连续拆句、女性高潮、复述引号及成人表达强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 | `tl/chinese/src/plot/+prologue.rpy` | 序章；父亲葬礼、死亡疑点、债务与开学背景 | Anon、Debbie（叙述中） | 完成 | 重写机翻腔；理顺死亡调查、收留和债务背景；统一叙述语气 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/+tutor.rpy` | 系统教程；HUD、地图、物品栏、手机、时间推进 | tutor、Anon（变量） | 完成 | 统一系统术语；修复 `extend` 连续拆句；改善教程说明的自然度 | `validate_translations.py --changed` 通过 |
 | `tl/chinese/src/plot/ano01.rpy` | 主线；复学第一天及学校角色集中引入 | Anon、Jenny、Debbie、Erik、Tammy、Mia、Roxxy、Ursula、Kevin、Annie、Judith、Bridget、Rhonda、Viv、Eve | 完成 | 精修 609 个翻译块和 3 组菜单文本；修复答非所问、连续拆句、角色口吻、色情游戏双关、ASCII 省略号和菜单术语不一致 | `validate_translations.py --changed`、`git diff --check`、RPA 构建/校验通过 |
@@ -163,7 +164,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb24.rpy` 已完成；下一批继续完整通读并精修 `deb25.rpy`。
+1. Maria 线现有 11 个文件及 Debbie 线 `deb01.rpy` 至 `deb25.rpy` 已完成；下一批继续完整通读并精修 `deb26.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
