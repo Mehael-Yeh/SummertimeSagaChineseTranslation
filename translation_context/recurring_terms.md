@@ -58,6 +58,7 @@
 | `The Kidney Shifter` | 性行为招式名 | 移肾术 | `mar_dark.rpy` | 保留 Tony 夸张粗俗的命名方式 |
 | `batter` / `little guys` / `cannoli` | 造人与食物连续双关 | 面糊／小家伙们／意式奶油甜馅卷 | `mar_dark.rpy` | 三组表达共同服务受孕与食物双关，需整体理解 |
 | Debbie 的 `sweetie` | 高频亲昵称呼 | 亲爱的；歌曲/明确母性语境可译“宝贝” | 639 处 / 66 个文件 | 普通对话保持“亲爱的”，关系阶段由整句语气体现；`deb22.rpy`、`deb26.rpy`、`deb_lobby.rpy`、`deb_visit.rpy`、`jen11.rpy` 的 5 处异常列入后续完整场景复核 |
+| `bowl cut` / `bowl-` | Josie 对 Anon 的固定挖苦称呼 | 锅盖头／锅盖—— | `deb13.rpy`、Josie 相关文件 | 已确认多文件重复；`jos_trade.rpy` 的旧译“西瓜头”留待通读完整文件时统一，不做脱离上下文的全局替换 |
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 
 ## 当前跨文件复查队列
@@ -68,6 +69,7 @@
 - `cannoli`：`ano10.rpy`、`mar_cook.rpy`、`mar_baby.rpy`、`mar_dark.rpy` 已统一为“意式奶油甜馅卷”；`Holy cannoli` 属感叹语，不机械替换。
 - `little bunny`：`deb18.rpy` 3 处待在完整剧情中复核，核心译法保持“小兔子”。
 - `godfather`：`ano16.rpy` 与 `mar_baby.rpy` 已统一为“教父”，并保留与 Tony 黑帮背景相关的《教父》笑点。
+- `bowl cut`：Josie 对 Anon 的固定挖苦称呼统一为“锅盖头”，截断形式译为“锅盖——”；`jos_trade.rpy` 的“西瓜头”待处理对应完整剧情时复核。
 - 上述条目只登记，不在未通读完整文件前批量替换；进入对应文件时结合关系阶段完成统一。
 
 ## 审计命令

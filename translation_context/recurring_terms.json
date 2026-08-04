@@ -333,6 +333,20 @@
       "translation": "移肾术",
       "first_seen": "tl/chinese/src/plot/mar_dark.rpy",
       "note": "Tony 为性交动作提出的夸张招式名。"
+    },
+    {
+      "id": "josie_bowl_cut",
+      "source_regex": "\\bbowl(?:\\s+cut|-)",
+      "target_regexes": [
+        "锅盖头",
+        "锅盖——"
+      ],
+      "category": "character_address",
+      "speaker": "Josie",
+      "addressee": "Anon",
+      "translation": "锅盖头；截断时为锅盖——",
+      "first_seen": "tl/chinese/src/plot/deb13.rpy",
+      "note": "Josie 对 Anon 发型的固定挖苦称呼；完整 bowl cut 译为锅盖头，被打断的 bowl- 译为锅盖——。"
     }
   ]
 }
