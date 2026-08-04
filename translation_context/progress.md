@@ -43,6 +43,12 @@
 | `tl/chinese/src/plot/erik_bed.rpy` | Erik 卧室；检查床底并发现书 | Anon | 完成 | 通读并精修 2 个翻译块；将 `dust bunnies` 自然化为“灰尘团”，保持先检查再发现物品的连续节奏 | 本批 13 个 Ren’Py 文件格式校验通过 |
 | `tl/chinese/src/plot/erik_drawer.rpy` | Erik 卧室；检查凌乱抽屉 | Anon | 完成 | 通读并精修 3 个翻译块；修正 `dresser` 的“梳妆台”误译，保留对污渍的惊讶和嫌弃但不补写来源 | 本批格式校验、`git diff --check` 通过 |
 | `tl/chinese/src/plot/tech_gamepad.rpy` | Erik 卧室；旧游戏手柄与童年回忆 | Anon、Erik（变量） | 完成 | 通读并精修 2 个翻译块；修复缺失主语、ASCII 省略号和生硬回忆表述，保留两人如今已很少一起玩的惋惜 | RPA 成功打包并验证 328 个文件 |
+| `tl/chinese/src/plot/debbie_attic.rpy` | Debbie 家阁楼；借凳子进入与旧物期待 | Anon、Debbie、Dad（叙述中） | 完成 | 通读 4 个翻译块并精修全部译文；自然化进入阁楼与寻找垫脚物的表达，保留明确亲属称谓“爸爸”，修复 ASCII 省略号 | 本批格式校验通过 |
+| `tl/chinese/src/plot/debbie_bed1.rpy` | Debbie 卧室；进入限制、睡眠与潜入状态提示 | Anon、Debbie（变量） | 完成 | 通读 4 个翻译块并精修全部译文；简化重复主语，统一卧室隐私和保持安静的内心独白语气 | 本批格式校验通过 |
+| `tl/chinese/src/plot/debbie_canvas.rpy` | Debbie 家旧画布；回忆其绘画爱好 | Anon、Debbie（变量） | 完成 | 通读并精修 1 个翻译块；将生硬的过去时表达改为自然回忆，确认 Debbie 以前很喜欢画农场动物 | 本批格式校验通过 |
+| `tl/chinese/src/plot/debbie_drawer.rpy` | Debbie 卧室；抽屉与内裤抽屉隐私提示 | Anon、Debbie（变量） | 完成 | 通读 3 个翻译块并精修全部译文；明确 `panty drawer` 为“内裤抽屉”，保留对玩家/自己的共同警告与越界感，不额外扩写 | 本批格式校验通过 |
+| `tl/chinese/src/plot/debbie_landing.rpy` | Debbie 家楼梯平台；浴室门缝偷看提示 | Anon | 完成 | 通读 4 个翻译块并精修 3 处；修复病句和 ASCII 省略号，理顺发现门缝、好奇与自我开脱的心理递进 | 本批格式校验通过 |
+| `tl/chinese/src/plot/photo_debbie_diane.rpy` | Debbie/Diane 夏令营旧照片 | Anon、Debbie、Diane（变量） | 完成 | 通读并精修 2 个翻译块；修复女性复数代词误用，保留两人年轻时共同参加夏令营的时间与情绪信息 | 本批格式校验通过 |
 
 ## 已完成的规则修复（剧情未全面精修）
 
@@ -108,20 +114,21 @@
 - 已补充 Anon 卧室设备交互：椅子脚轮检查、电脑零件/修复/画质升级及手机 Wi-Fi 连点彩蛋；固定 `Consum-R` 保持英文、`cheat menu`→“作弊菜单”、游戏故障 `bugs`→“BUG”，并把手机八条提示作为连续递进场景处理。
 - 已补充公寓、银行与车行的地点进入限制：统一使用简短内心独白表达深夜/未受邀访问、员工区、营业时间、禁止逗留和闭店逻辑，并修复代词、ASCII 省略号及活动译文直角引号。
 - 已补充 Erik 卧室物品检查：床底灰尘与书、凌乱抽屉及旧游戏手柄回忆；保持 Anon/Erik 童年好友语气，不擅自解释抽屉污渍来源。
+- 已补充 Debbie 家中短交互：阁楼旧物、卧室进入限制、绘画爱好、内裤抽屉隐私、浴室门缝与 Debbie/Diane 夏令营旧照片；修复女性复数代词，并补建 Diane 的英文姓名档案。
 
 ## 测试与校验状态
 
 - `python -m py_compile tools/validate_translations.py tools/audit_recurring_terms.py`：通过。
-- `python -X utf8 tools/validate_translations.py --changed`：本批通过，验证 13 个修改过的 Ren’Py 翻译文件；活动译文中的直角引号 `「……」` 已纳入拒绝规则。
+- `python -X utf8 tools/validate_translations.py --changed`：本批通过，验证 6 个修改过的 Ren’Py 翻译文件；变量、标签、占位符、代码结构和活动译文标点均无异常。
 - `python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch`：本批已登记的 25 组重复称呼、口癖、关系身份、连续笑点、专名和术语全部通过，零不一致。
 - `python tools/validate_translations.py --no-compare`：报告 26 个仓库既有问题，已登记于上方队列。
 - GitHub Actions 使用 Ren’Py 8.5.3 编译并运行 `tools/build_rpa.py`。
 - 本机 PATH 中未发现 Ren’Py SDK；Ren’Py compile/lint 尚未运行。
-- `python -X utf8 tools/build_rpa.py`：成功打包并校验 328 个文件（`dist/chinese.rpa`，42,263,327 字节；构建产物由 `.gitignore` 忽略）。
+- `python -X utf8 tools/build_rpa.py`：成功打包并校验 328 个文件（`dist/chinese.rpa`，42,263,335 字节；构建产物由 `.gitignore` 忽略）。
 
 ## 下一步
 
-1. 主线数字序列、首批卧室设备及地点/物品短交互已完成；下一批继续处理同地点关联的短文件，再进入完整角色支线。
+1. 主线数字序列及首批地点/物品短交互已完成；下一批继续处理 Debbie 家中相关短文件，并开始通读 `deb01.rpy` 起的连续剧情。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

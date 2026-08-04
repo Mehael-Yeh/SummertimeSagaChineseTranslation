@@ -4,4 +4,4 @@
 translate chinese debbie_canvas_7523413f:
 
     # anon "( [saga.cast.debbie] used to love painting farm animals... )"
-    anon "([saga.cast.debbie]曾经喜欢画农场动物……)"
+    anon "([saga.cast.debbie]以前很喜欢画农场里的动物……)"
