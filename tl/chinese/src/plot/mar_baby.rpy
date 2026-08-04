@@ -40,7 +40,7 @@ translate chinese mar_baby_wait_cc06bc52:
 
 
     # tony "I need you down here at the pizzeria ASAP!"
-    tony "我需要你尽快到披萨店来！"
+    tony "我需要你马上赶到披萨店来！"
 
 # game/src/plot/mar_baby.rpy:21
 translate chinese mar_baby_wait_d0e50d52:
@@ -61,21 +61,21 @@ translate chinese mar_baby_wait_2629d69a:
 
 
     # tony f_happy "Yeah, I'll explain when you get here."
-    tony f_happy "嗯，等你来了我再解释。"
+    tony f_happy "嗯，等你到了我再解释。"
 
 # game/src/plot/mar_baby.rpy:25
 translate chinese mar_baby_wait_6abfc705:
 
 
     # tony f_calm "Just get ya butt down here, capisce?"
-    tony f_calm "赶紧给我滚过来，明白没？"
+    tony f_calm "赶紧给我滚过来，明白吗？"
 
 # game/src/plot/mar_baby.rpy:26
 translate chinese mar_baby_wait_439774fa:
 
 
     # anon "A-alright."
-    anon "好-好吧。"
+    anon "好、好吧。"
 
 # game/src/plot/mar_baby.rpy:29
 translate chinese mar_baby_wait_merge_09d06ab8:
@@ -89,14 +89,14 @@ translate chinese mar_baby_wait_merge_4d6cda24:
 
 
     # anon f_confused @ -m_talk "( Hmm, I wonder what's going on? )"
-    anon f_confused @ -m_talk "(嗯，我在想发生了什么？)"
+    anon f_confused @ -m_talk "(嗯？到底出什么事了？)"
 
 # game/src/plot/mar_baby.rpy:33
 translate chinese mar_baby_wait_merge_70529fd9:
 
 
     # anon a_pocket e_w o_left @ -m_talk "( I should swing by the pizzeria and find out. )"
-    anon a_pocket e_w o_left @ -m_talk "(我应该顺便去趟披萨店看看。)"
+    anon a_pocket e_w o_left @ -m_talk "(我得去趟披萨店看看。)"
 
 # game/src/plot/mar_baby.rpy:40
 translate chinese mar_baby_wait_redo_e99910ca:
@@ -152,14 +152,14 @@ translate chinese mar_baby_tell_7ab1993f:
 
 
     # tony @ -m_talk "You fuckin' did it!!"
-    tony @ -m_talk "你他妈做到了！！"
+    tony @ -m_talk "你他妈的做到了！！"
 
 # game/src/plot/mar_baby.rpy:61
 translate chinese mar_baby_tell_6904d4fb:
 
 
     # tony "I'm so proud of ya!!!"
-    tony "我太为你骄傲了！！！"
+    tony "我真为你骄傲！！！"
 
 # game/src/plot/mar_baby.rpy:63
 translate chinese mar_baby_tell_a74f039a:
@@ -187,28 +187,28 @@ translate chinese mar_baby_tell_f87f54f6:
 
 
     # tony "We really hit the jackpot when we found you, eh?"
-    tony "找到你真是我们撞大运了，是吧？"
+    tony "咱们找到你，真是走了大运，对吧？"
 
 # game/src/plot/mar_baby.rpy:73
 translate chinese mar_baby_tell_e5434448:
 
 
     # anon a_side f_calm p_stand "I'm so happy for you guys."
-    anon a_side f_calm p_stand "真为你们俩高兴。"
+    anon a_side f_calm p_stand "我真替你们俩高兴。"
 
 # game/src/plot/mar_baby.rpy:74
 translate chinese mar_baby_tell_b47b3677:
 
 
     # tony "Happy for all three of us, right?"
-    tony "应该为咱们仨高兴，对吧？"
+    tony "咱们三个都该高兴，对吧？"
 
 # game/src/plot/mar_baby.rpy:76
 translate chinese mar_baby_tell_3702b5c6:
 
 
     # tony a_hip_single "I mean, you're gonna be the godfather, ain't ya?"
-    tony a_hip_single "我的意思是，你要当教父了，不是吗？"
+    tony a_hip_single "我是说，你马上就要当教父了，对吧？"
 
 # game/src/plot/mar_baby.rpy:77
 translate chinese mar_baby_tell_2c5e7926:
@@ -222,7 +222,7 @@ translate chinese mar_baby_tell_e085b70a:
 
 
     # anon "I'd be honored you guys..."
-    anon "我很荣幸，兄弟们..."
+    anon "我会很荣幸的，你们俩……"
 
 # game/src/plot/mar_baby.rpy:83
 translate chinese mar_baby_tell_37f0a377:
@@ -243,21 +243,21 @@ translate chinese mar_baby_tell_5e90904c:
 
 
     # tony "I love this kid!"
-    tony "我太喜欢这孩子了！"
+    tony "我真喜欢这孩子！"
 
 # game/src/plot/mar_baby.rpy:91
 translate chinese mar_baby_tell_256abd95:
 
 
     # tony "You ever need anything... anything at all..."
-    tony "你如果需要什么... 什么都可以..."
+    tony "你要是有什么需要……什么都行……"
 
 # game/src/plot/mar_baby.rpy:92
 translate chinese mar_baby_tell_6b3922c4:
 
 
     # tony a_point_back "... I'm ya guy, capisce?"
-    tony a_point_back "... 就找我，明白吗？"
+    tony a_point_back "……我随叫随到，明白吗？"
 
 # game/src/plot/mar_baby.rpy:93
 translate chinese mar_baby_tell_65804523:
@@ -271,35 +271,35 @@ translate chinese mar_baby_tell_7c60b775:
 
 
     # maria "We're gonna have to start lookin' for a bigger place soon."
-    maria "我们很快就要开始找个更大的地方了。"
+    maria "我们很快就得开始找更大的住处了。"
 
 # game/src/plot/mar_baby.rpy:97
 translate chinese mar_baby_tell_811a36e3:
 
 
     # tony f_happy "Ain't that the truth!"
-    tony f_happy "说得没错！"
+    tony f_happy "那可不是嘛！"
 
 # game/src/plot/mar_baby.rpy:98
 translate chinese mar_baby_tell_a42abef4:
 
 
     # tony f_horny "Our little shithole apartment wasn't built for a big family like us!"
-    tony f_horny "我们那个小破公寓可不是为了我们这样的大家庭建的！"
+    tony f_horny "我们这间小破公寓，可容不下咱们这么一大家子！"
 
 # game/src/plot/mar_baby.rpy:100
 translate chinese mar_baby_tell_23243e31:
 
 
     # maria "We'll have to make sure we have an extra room for [saga.cast.anon] too."
-    maria "我们也得确保给[saga.cast.anon]多留一个房间。"
+    maria "还得确保也给[saga.cast.anon]留一间。"
 
 # game/src/plot/mar_baby.rpy:101
 translate chinese mar_baby_tell_8a8996d5:
 
 
     # tony "Heh, of course, darlin'."
-    tony "嘿，当然啦，亲爱的。"
+    tony "呵，当然了，亲爱的。"
 
 # game/src/plot/mar_baby.rpy:103
 translate chinese mar_baby_tell_d8302bb3:
@@ -320,14 +320,14 @@ translate chinese mar_baby_tell_484e28e0:
 
 
     # maria "Yes, we do have to and that's the end of it!"
-    maria "没错，我们必须得留，这事儿就这么定了！"
+    maria "没错，必须留——这事就这么定了！"
 
 # game/src/plot/mar_baby.rpy:109
 translate chinese mar_baby_tell_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/mar_baby.rpy:112
 translate chinese mar_baby_tell_7ce8eae5:
@@ -341,7 +341,7 @@ translate chinese mar_baby_tell_431d9232:
 
 
     # tony "We gotta go celebrate!"
-    tony "我们得去庆祝一下！"
+    tony "我们得好好庆祝一下！"
 
 # game/src/plot/mar_baby.rpy:115
 translate chinese mar_baby_tell_0a01c03b:
@@ -355,14 +355,14 @@ translate chinese mar_baby_tell_619b9385:
 
 
     # tony e_e f_calm "Why don't you run back and grab us some champagne and cannolis, eh?"
-    tony e_e f_calm "你跑回去给我们拿点香槟和奶油卷怎么样？"
+    tony e_e f_calm "你回去拿些香槟和意式奶油甜馅卷来，怎么样？"
 
 # game/src/plot/mar_baby.rpy:117
 translate chinese mar_baby_tell_6be74188:
 
 
     # maria "Yeah, alright."
-    maria "嗯，好吧。"
+    maria "嗯，行。"
 
 # game/src/plot/mar_baby.rpy:118
 translate chinese mar_baby_tell_d3dfa632:
@@ -383,14 +383,14 @@ translate chinese mar_baby_tell_rails_1b6d11c6:
 
 
     # anon @ -m_talk "( [saga.cast.tony] doesn't usually call unless it's important... )"
-    anon @ -m_talk "([saga.cast.tony] 通常没事不会打电话……)"
+    anon @ -m_talk "([saga.cast.tony]平时不会没事打电话……)"
 
 # game/src/plot/mar_baby.rpy:133
 translate chinese mar_baby_tell_rails_0989f759:
 
 
     # anon a_side e_w f_calm @ -m_talk "( ... Guess it's time to head to the pizzeria! )"
-    anon a_side e_w f_calm @ -m_talk "(……看来是该去披萨店了！)"
+    anon a_side e_w f_calm @ -m_talk "(……看来该去趟披萨店了！)"
 
 # game/src/plot/mar_baby.rpy:144
 translate chinese mar_baby_late_intro_c9d66d37:
@@ -410,14 +410,14 @@ translate chinese mar_baby_late_maria_lounge_8d5bf6c3:
 translate chinese mar_baby_late_misc1_5c58a4e2:
 
     # anon f_curious "How are you feeling?"
-    anon f_curious "你感觉怎么样？"
+    anon f_curious "你感觉还好吗？"
 
 # game/src/plot/mar_baby.rpy:182
 translate chinese mar_baby_late_misc1_3e3ba253:
 
 
     # maria e_s "The kid's the size of a peanut right now, so it ain't no bother."
-    maria e_s "孩子现在才花生那么大，所以没什么大碍。"
+    maria e_s "宝宝现在还只有花生那么大，所以没什么影响。"
 
 # game/src/plot/mar_baby.rpy:183
 translate chinese mar_baby_late_misc1_55f22bd0:
@@ -430,20 +430,20 @@ translate chinese mar_baby_late_outro_21e91fd1:
 
 
     # anon "Lots of pizza to deliver."
-    anon "还有很多披萨要送。"
+    anon "还有好多披萨要送。"
 
 # game/src/plot/mar_baby.rpy:200
 translate chinese mar_baby_late_outro_c72cb151:
 
 
     # anon "I'll check in again soon."
-    anon "我很快再来看你。"
+    anon "我很快再过来看看。"
 
 # game/src/plot/mar_baby.rpy:203
 translate chinese mar_baby_late_outro_2c23ae82:
 
     # maria "Heh, alright."
-    maria "嘿，好吧。"
+    maria "呵，行。"
 
 # game/src/plot/mar_baby.rpy:205
 translate chinese mar_baby_late_outro_addf0db6:
@@ -497,14 +497,14 @@ translate chinese mar_baby_bump_misc1_f54fb7ae:
 translate chinese mar_baby_bump_misc1_ea6222fc:
 
     # anon "Still no morning sickness?"
-    anon "还是没有晨吐吗？"
+    anon "还是没有孕吐？"
 
 # game/src/plot/mar_baby.rpy:288
 translate chinese mar_baby_bump_misc1_9b5644ec:
 
 
     # maria f_calm "My sense of smell is going a bit wonky but other than that, I feel great."
-    maria f_calm "我的嗅觉有点不对劲，但除此之外，我感觉很好。"
+    maria f_calm "我的嗅觉有点失常，但除此之外感觉都好着呢。"
 
 # game/src/plot/mar_baby.rpy:289
 translate chinese mar_baby_bump_misc1_18fde3bc:
@@ -530,14 +530,14 @@ translate chinese mar_baby_bump_misc1_85c9cabd:
 translate chinese mar_baby_bump_misc1_a97071bc:
 
     # maria f_annoyed "... But right now, I can't fuckin' stand it!"
-    maria f_annoyed "... 但现在，我他妈受不了了！"
+    maria f_annoyed "……但现在我他妈的受不了！"
 
 # game/src/plot/mar_baby.rpy:307
 translate chinese mar_baby_bump_misc1_c1f0d027:
 
 
     # anon @ -m_talk "( Poor [saga.cast.tony]... )"
-    anon @ -m_talk "(可怜的[saga.cast.tony]...)"
+    anon @ -m_talk "(可怜的[saga.cast.tony]……)"
 
 # game/src/plot/mar_baby.rpy:321
 translate chinese mar_baby_bump_pizza_kitchen_bd334944:
@@ -571,14 +571,14 @@ translate chinese mar_baby_costume_7eb11d79:
 
 
     # anon "Y-you're naked."
-    anon "你...你没穿衣服。"
+    anon "你……你没穿衣服。"
 
 # game/src/plot/mar_baby.rpy:342
 translate chinese mar_baby_costume_acdc1f9b:
 
 
     # maria f_happy "Heh, oh... that."
-    maria f_happy "呵呵，哦...这个啊。"
+    maria f_happy "呵呵，哦……这个啊。"
 
 # game/src/plot/mar_baby.rpy:343
 translate chinese mar_baby_costume_e1bbb590:
@@ -765,7 +765,7 @@ translate chinese mar_baby_meet_b7680059:
 
 
     # tony "\"Did I miss it\" he says!"
-    tony "他说「我错过了吗」！"
+    tony "他说“我错过了吗”！"
 
 # game/src/plot/mar_baby.rpy:516
 translate chinese mar_baby_meet_50792458:
@@ -819,20 +819,20 @@ translate chinese mar_baby_meet_be36c0f8:
 
 
     # anon "D-did you say godson?"
-    anon "你——你是说教子？"
+    anon "你、你说教子？"
 
 # game/src/plot/mar_baby.rpy:545
 translate chinese mar_baby_meet_5919d5dc:
 
 
     # anon "D-did you say goddaughter?"
-    anon "你——你是说教女？"
+    anon "你、你说教女？"
 
 # game/src/plot/mar_baby.rpy:547
 translate chinese mar_baby_meet_1c7738a0:
 
     # anon "D-did you say godchildren?"
-    anon "你-你说教子？"
+    anon "你、你说的是教子们？"
 
 # game/src/plot/mar_baby.rpy:558
 translate chinese mar_baby_meet_29df109b:
@@ -859,7 +859,7 @@ translate chinese mar_baby_meet_00edc70e:
 translate chinese mar_baby_meet_50330335:
 
     # tony f_happy "I told ya the visualization thing would work..."
-    tony f_happy "我告诉过你那个想象的方法会管用的……"
+    tony f_happy "我就说那个想象法子管用……"
 
 # game/src/plot/mar_baby.rpy:571
 translate chinese mar_baby_meet_aa01d327:
@@ -873,7 +873,7 @@ translate chinese mar_baby_meet_4d126a32:
 
 
     # maria e_nw "I told ya the visualization thing wouldn't work..."
-    maria e_nw "我早说了那可视化的玩意儿行不通……"
+    maria e_nw "我早说了那个想象法子不管用……"
 
 # game/src/plot/mar_baby.rpy:577
 translate chinese mar_baby_meet_221f9212:
@@ -892,7 +892,7 @@ translate chinese mar_baby_meet_07d946a9:
 translate chinese mar_baby_meet_14d672dd:
 
     # maria "I never, in my wildest dreams, imagined we'd get so lucky..."
-    maria "我做梦都没想到我们会有这么好的运气……"
+    maria "我做梦都没想过咱们能这么走运……"
 
 # game/src/plot/mar_baby.rpy:588
 translate chinese mar_baby_meet_ffd1a55c:
@@ -904,34 +904,34 @@ translate chinese mar_baby_meet_ffd1a55c:
 translate chinese mar_baby_meet_ce01fca2:
 
     # maria "I can't believe I'm actually holding my children right now..."
-    maria "真不敢相信我现在真的抱着我的孩子们……"
+    maria "真不敢相信，我现在居然正抱着自己的孩子……"
 
 # game/src/plot/mar_baby.rpy:600
 translate chinese mar_baby_meet_d8165d45:
 
 
     # maria e_w "We aren't ever gonna be able to repay you for this, [saga.cast.anon]."
-    maria e_w "我们永远无法报答你，[saga.cast.anon]。"
+    maria e_w "我们这辈子都报答不了你，[saga.cast.anon]。"
 
 # game/src/plot/mar_baby.rpy:601
 translate chinese mar_baby_meet_ea38bbf3:
 
 
     # anon a_wave "Nah, don't mention it."
-    anon a_wave "别这么说。"
+    anon a_wave "没事，别放在心上。"
 
 # game/src/plot/mar_baby.rpy:602
 translate chinese mar_baby_meet_ecba1929:
 
 
     # anon "I was happy to help."
-    anon "我很乐意帮忙。"
+    anon "我能帮上忙就好。"
 
 # game/src/plot/mar_baby.rpy:608
 translate chinese mar_baby_meet_c0f32909:
 
     # maria "He's just so beautiful!"
-    maria "他真是太漂亮了！"
+    maria "他真漂亮！"
 
 # game/src/plot/mar_baby.rpy:613
 translate chinese mar_baby_meet_72393f26:
@@ -951,20 +951,20 @@ translate chinese mar_baby_meet_7c474749:
 
 
     # tony "Yeah, she takes after you quite a bit, champ."
-    tony "是啊，她挺随你的，冠军。"
+    tony "是啊，她跟你可真像，冠军。"
 
 # game/src/plot/mar_baby.rpy:640
 translate chinese mar_baby_meet_4a901fc6:
 
 
     # tony "I imagine she'll grow up to be quite the hellcat, eh?!"
-    tony "我猜她长大了会是个小野猫，呃？！"
+    tony "我敢说她长大后一定是个小野猫，对吧？！"
 
 # game/src/plot/mar_baby.rpy:643
 translate chinese mar_baby_meet_f2964c3a:
 
     # tony "Yeah, they take after you quite a bit, champ."
-    tony "是啊，小家伙们挺像你的。"
+    tony "是啊，他们跟你可真像，冠军。"
 
 # game/src/plot/mar_baby.rpy:652
 translate chinese mar_baby_meet_678dbbd7:
@@ -997,7 +997,7 @@ translate chinese mar_baby_meet_bad89337:
 
 
     # tony "You're their godfather after all, ain't ya?!"
-    tony "你到底是他们的教父，不是吗？！"
+    tony "毕竟你是他们的教父，对吧？！"
 
 # game/src/plot/mar_baby.rpy:670
 translate chinese mar_baby_meet_a1f61959:
@@ -1039,14 +1039,14 @@ translate chinese mar_baby_meet_a1d78e68:
 
 
     # anon "Hi, little ones."
-    anon "嗨，娃娃脸们。"
+    anon "嗨，小家伙们。"
 
 # game/src/plot/mar_baby.rpy:691
 translate chinese mar_baby_meet_978382b5:
 
 
     # anon "Hi, little one."
-    anon "嗨，娃娃脸。"
+    anon "嗨，小家伙。"
 
 # game/src/plot/mar_baby.rpy:693
 translate chinese mar_baby_meet_4275956f:
@@ -1060,14 +1060,14 @@ translate chinese mar_baby_meet_b0b9b39e:
 
 
     # anon e_w f_calm "I'm so happy for you guys!"
-    anon e_w f_calm "我真为你们感到高兴！"
+    anon e_w f_calm "我真替你们高兴！"
 
 # game/src/plot/mar_baby.rpy:698
 translate chinese mar_baby_meet_d9b5b546:
 
 
     # tony e_sw "Thanks, champ."
-    tony e_sw "谢了，伙计。"
+    tony e_sw "谢了，冠军。"
 
 # game/src/plot/mar_baby.rpy:702
 translate chinese mar_baby_meet_cb079268:
@@ -1081,39 +1081,39 @@ translate chinese mar_baby_meet_01c8938b:
 
 
     # tony "Ahh, just a few days."
-    tony "啊，就几天。"
+    tony "啊，就待几天。"
 
 # game/src/plot/mar_baby.rpy:707
 translate chinese mar_baby_meet_1df8db92:
 
 
     # tony "It shouldn't be problem."
-    tony "应该没问题。"
+    tony "应该不会有问题。"
 
 # game/src/plot/mar_baby.rpy:708
 translate chinese mar_baby_meet_69c2f4d9:
 
 
     # anon f_curious "Do you need me to get you anything?"
-    anon f_curious "需要我给你拿点什么吗？"
+    anon f_curious "需要我给你们拿点什么吗？"
 
 # game/src/plot/mar_baby.rpy:710
 translate chinese mar_baby_meet_e4eafdcf:
 
     # tony a_side e_sw f_confused o_right "You need anything, darlin'?"
-    tony a_side e_sw f_confused o_right "需要什么吗，亲爱的？"
+    tony a_side e_sw f_confused o_right "你还需要什么吗，亲爱的？"
 
 # game/src/plot/mar_baby.rpy:718
 translate chinese mar_baby_meet_06948d7d:
 
     # tony "We'll be deliverin' pizza again before ya know it!"
-    tony "我们很快又会去送披萨的，你等着瞧！"
+    tony "等你回过神来，我们就又能去送披萨了！"
 
 # game/src/plot/mar_baby.rpy:724
 translate chinese mar_baby_meet_9ea41075:
 
     # tony "I'll be back in action tomorrow."
-    tony "我明天就能重返岗位了。"
+    tony "我明天就能回来干活了。"
 
 # game/src/plot/mar_baby.rpy:729
 translate chinese mar_baby_meet_0a01c03b:
@@ -1127,14 +1127,14 @@ translate chinese mar_baby_meet_rails_32cab796:
 
 
     # anon @ -m_talk "( The recovery ward is on the third floor. )"
-    anon @ -m_talk "(病房在三楼。)"
+    anon @ -m_talk "(康复病房在三楼。)"
 
 # game/src/plot/mar_baby.rpy:741
 translate chinese mar_baby_meet_rails_d15de960:
 
 
     # anon @ -m_talk "( The ward chart says that [saga.cast.maria] is in [saga.cast.maria.where!l]. )"
-    anon @ -m_talk "(病房表显示[saga.cast.maria]在[saga.cast.maria.where!l]。)"
+    anon @ -m_talk "(病房表上写着[saga.cast.maria]在[saga.cast.maria.where!l]。)"
 
 # game/src/plot/mar_baby.rpy:744
 translate chinese mar_baby_meet_rails_748b5fdb:
@@ -1148,27 +1148,27 @@ translate chinese mar_baby_meet_rails_0bcb38a3:
 
 
     # anon o_left @ -m_talk "( ... If only there was an easy way to know which room [saga.cast.maria] is in. )"
-    anon o_left @ -m_talk "(……要是能轻松知道[saga.cast.maria]在哪个房间就好了。)"
+    anon o_left @ -m_talk "(……要是能有个简单办法，直接找到[saga.cast.maria]在哪间房就好了。)"
 
 # game/src/plot/mar_baby.rpy:748
 translate chinese mar_baby_meet_rails_f5d3038f:
 
 
     # anon @ -m_talk "( [saga.cast.tony] wouldn't text unless he wanted me there. )"
-    anon @ -m_talk "([saga.cast.tony]不会发短信除非他想让我去。)"
+    anon @ -m_talk "([saga.cast.tony]不会无缘无故给我发短信，肯定是想让我过去。)"
 
 # game/src/plot/mar_baby.rpy:749
 translate chinese mar_baby_meet_rails_92799a15:
 
     # anon @ -m_talk "( I should get over to the hospital and see them. )"
-    anon @ -m_talk "( 我应该去医院看看他们。 )"
+    anon @ -m_talk "(我应该去医院看看他们。)"
 
 # game/src/plot/mar_baby.rpy:784
 translate chinese mar_baby_rest_intro1_96b8291d:
 
 
     # tony "Hey, champ."
-    tony "嘿，小冠军。"
+    tony "嘿，冠军。"
 
 # game/src/plot/mar_baby.rpy:786
 translate chinese mar_baby_rest_intro1_eff63d65:
@@ -1227,7 +1227,7 @@ translate chinese mar_baby_rest_micoe_2900b2bc:
 translate chinese mar_baby_rest_misc1_f3c94668:
 
     # tony a_wtf e_w f_sceptical "I keep tellin' the fuckin' nurse to bring more pillows, but she says they ain't got any extras."
-    tony a_wtf e_w f_sceptical "我一直跟那该死的护士说多拿些枕头来，但她总说没有多余的。"
+    tony a_wtf e_w f_sceptical "我一直让那该死的护士多拿些枕头来，可她说没有多余的。"
 
 # game/src/plot/mar_baby.rpy:851
 translate chinese mar_baby_rest_misc1_442bfb9e:
@@ -1239,98 +1239,98 @@ translate chinese mar_baby_rest_misc1_442bfb9e:
 translate chinese mar_baby_rest_misc1_351a74e5:
 
     # maria e_s "I swear to god, our child's first word is gonna be cocksucker."
-    maria e_s "我发誓，我们孩子的第一个词会是「混蛋」。"
+    maria e_s "我发誓，咱们孩子的第一个词肯定是“鸡巴佬”。"
 
 # game/src/plot/mar_baby.rpy:862
 translate chinese mar_baby_rest_misc1_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/mar_baby.rpy:863
 translate chinese mar_baby_rest_misc1_ec7d2921:
 
     # tony e_sw f_calm -m_laugh "Just roll over on your side and I'll rub ya back for ya, yeah?"
-    tony e_sw f_calm -m_laugh "翻个身侧躺，我给你揉揉背，好吗？"
+    tony e_sw f_calm -m_laugh "侧身躺下，我给你揉揉背，好吗？"
 
 # game/src/plot/mar_baby.rpy:870
 translate chinese mar_baby_rest_misc1_480804da:
 
     # maria "No, your backrubs are the fuckin' worst!"
-    maria "不，你的背部按摩真是烂到家了！"
+    maria "不，你的背部按摩他妈糟透了！"
 
 # game/src/plot/mar_baby.rpy:875
 translate chinese mar_baby_rest_misc1_f4d428f9:
 
     # maria "It's like you got orangutan hands or somethin'."
-    maria "感觉你的手跟猩猩似的。"
+    maria "你的手简直跟大猩猩一样，什么的。"
 
 # game/src/plot/mar_baby.rpy:879
 translate chinese mar_baby_rest_misc1_e0c04eb7:
 
 
     # anon a_wave f_shy "I could try if you want?"
-    anon a_wave f_shy "我试试看？"
+    anon a_wave f_shy "我要不要试试？"
 
 # game/src/plot/mar_baby.rpy:882
 translate chinese mar_baby_rest_misc1_b7091180:
 
 
     # tony "There ya go!"
-    tony "这就对了！"
+    tony "看，这不就好了！"
 
 # game/src/plot/mar_baby.rpy:884
 translate chinese mar_baby_rest_misc1_01836adf:
 
     # tony a_point_back e_sw "Let the kid give ya a backrub, if I'm so bad at it."
-    tony a_point_back e_sw "让那小子给你按摩背吧，既然我按得那么差。"
+    tony a_point_back e_sw "既然我按得这么差，那就让这小子给你揉背吧。"
 
 # game/src/plot/mar_baby.rpy:889
 translate chinese mar_baby_rest_misc1_7648b5d0:
 
 
     # maria "Go talk to the nurse again, will ya?"
-    maria "再去跟护士谈谈，好吗？"
+    maria "再去跟护士说一声，行吗？"
 
 # game/src/plot/mar_baby.rpy:891
 translate chinese mar_baby_rest_misc1_6ee048b9:
 
 
     # tony a_calm_down f_calm "Alright, alright."
-    tony a_calm_down f_calm "好了，好了。"
+    tony a_calm_down f_calm "好啦，好啦。"
 
 # game/src/plot/mar_baby.rpy:895
 translate chinese mar_baby_rest_misc1_345d50ba:
 
     # tony a_side o_left @ e_b_w f_horny "You better get out of here while you can, champ."
-    tony a_side o_left @ e_b_w f_horny "你最好趁还能走的时候赶紧撤，冠军。"
+    tony a_side o_left @ e_b_w f_horny "你趁现在还能走，赶紧离开吧，冠军。"
 
 # game/src/plot/mar_baby.rpy:907
 translate chinese mar_baby_rest_misc2_5f14d161:
 
     # maria f_sad "Oh, I'm sore!"
-    maria f_sad "哦，我浑身酸痛！"
+    maria f_sad "啊，我浑身酸痛！"
 
 # game/src/plot/mar_baby.rpy:910
 translate chinese mar_baby_rest_misc2_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/mar_baby.rpy:916
 translate chinese mar_baby_rest_misc2_986865ac:
 
     # anon a_side f_confused o_right p_stand "[saga.cast.tony] isn't around?"
-    anon a_side f_confused o_right p_stand "[saga.cast.tony]不在吗？"
+    anon a_side f_confused o_right p_stand "[saga.cast.tony]不在这儿？"
 
 # game/src/plot/mar_baby.rpy:919
 translate chinese mar_baby_rest_misc2_921473ae:
 
 
     # maria e_s f_shy "We're gonna need all the money we can get to support these babies."
-    maria e_s f_shy "我们需要尽可能多的钱来养活这些孩子。"
+    maria e_s f_shy "我们得想办法赚够钱来养活这些孩子。"
 
 # game/src/plot/mar_baby.rpy:920
 translate chinese mar_baby_rest_misc2_e1354d9b:
@@ -1344,14 +1344,14 @@ translate chinese mar_baby_rest_misc2_2642bcc9:
 
 
     # anon e_w f_curious "Can I get you anything?"
-    anon e_w f_curious "需要我给你拿点什么吗？"
+    anon e_w f_curious "要不要我给你拿点什么？"
 
 # game/src/plot/mar_baby.rpy:925
 translate chinese mar_baby_rest_misc2_03b65d73:
 
 
     # maria f_happy "Aww, yer such a sweetheart!"
-    maria f_happy "哎呀，你真是个小亲爱的！"
+    maria f_happy "哎呀，你可真贴心！"
 
 # game/src/plot/mar_baby.rpy:927
 translate chinese mar_baby_rest_misc2_9cdb970f:
@@ -1365,26 +1365,26 @@ translate chinese mar_baby_rest_misc2_a1d89636:
 
 
     # anon a_wtf f_shy "Oh, well... that's nice."
-    anon a_wtf f_shy "哦，那……挺好的。"
+    anon a_wtf f_shy "哦，那就好……"
 
 # game/src/plot/mar_baby.rpy:929
 translate chinese mar_baby_rest_misc2_b6be989f:
 
 
     # maria e_w f_sad "Oh, but you could check in on [saga.cast.tony] and see that he's gettin' on alright at the shop."
-    maria e_w f_sad "哦，不过你可以去看看[saga.cast.tony]，看看他在店里过得怎么样。"
+    maria e_w f_sad "不过你可以去店里看看[saga.cast.tony]，确认他一切都好。"
 
 # game/src/plot/mar_baby.rpy:930
 translate chinese mar_baby_rest_misc2_3d4e47b4:
 
     # anon a_side "Yeah, I can do that."
-    anon a_side "好，我能做。"
+    anon a_side "嗯，我可以去。"
 
 # game/src/plot/mar_baby.rpy:932
 translate chinese mar_baby_rest_misc2_aedb20be:
 
     # maria "It'll put my mind at ease knowin' yer keepin' an eye on him."
-    maria "知道你在照看他，我会放心些。"
+    maria "知道你在帮我照看他，我就放心了。"
 
 # game/src/plot/mar_baby.rpy:934
 translate chinese mar_baby_rest_misc2_3643d996:
@@ -1397,34 +1397,34 @@ translate chinese mar_baby_rest_outro_7a3eab93:
 
 
     # anon e_w "Bye, [saga.cast.maria]."
-    anon e_w "拜，[saga.cast.maria]。"
+    anon e_w "再见，[saga.cast.maria]。"
 
 # game/src/plot/mar_baby.rpy:951
 translate chinese mar_baby_rest_outro_6a08da8f:
 
 
     # tony a_point @ e_b_w f_horny "Later, champ."
-    tony a_point @ e_b_w f_horny "回头见，小子。"
+    tony a_point @ e_b_w f_horny "回头见，冠军。"
 
 # game/src/plot/mar_baby.rpy:954
 translate chinese mar_baby_rest_outro_8bb3c096:
 
 
     # maria "See you soon, [saga.cast.anon]."
-    maria "一会儿见，[saga.cast.anon]。"
+    maria "很快再见，[saga.cast.anon]。"
 
 # game/src/plot/mar_baby.rpy:964
 translate chinese mar_baby_rest_sleep_83ab8156:
 
     # anon @ -m_talk "( I shouldn't wake her... )"
-    anon @ -m_talk "(我不应该吵醒她……)"
+    anon @ -m_talk "(我不该听醒她……)"
 
 # game/src/plot/mar_baby.rpy:970
 translate chinese mar_baby_rest_sleep_71e0dd28:
 
 
     # anon @ -m_talk "( ... And especially not that little one. )"
-    anon @ -m_talk "(……尤其是那个娃娃脸。)"
+    anon @ -m_talk "(……尤其不能听醒那个小家伙。)"
 
 # game/src/plot/mar_baby.rpy:980
 translate chinese mar_baby_home_36a80298:
@@ -1451,7 +1451,7 @@ translate chinese mar_baby_home_918d68b6:
 
 
     # tony e_s f_sad "Oh, Jesus..."
-    tony e_s f_sad "哦，老天..."
+    tony e_s f_sad "哦，老天……"
 
 # game/src/plot/mar_baby.rpy:992
 translate chinese mar_baby_home_67dc2e7e:
@@ -1528,20 +1528,20 @@ translate chinese mar_baby_home_a7d4cf31:
 
 
     # tony e_w f_surprised o_right "Champ!"
-    tony e_w f_surprised o_right "老兄！"
+    tony e_w f_surprised o_right "冠军！"
 
 # game/src/plot/mar_baby.rpy:1011
 translate chinese mar_baby_home_97576398:
 
     # tony f_happy "You sure got some fortuitous timin'!"
-    tony f_happy "你来得可真巧！"
+    tony f_happy "你来得可真是时候！"
 
 # game/src/plot/mar_baby.rpy:1023
 translate chinese mar_baby_home_79ffffc6:
 
 
     # tony "Hold your godchildren for a second, would ya?"
-    tony "帮我抱一下你干孩子们，行吗？"
+    tony "帮我抱一会儿你们的教子，行吗？"
 
 # game/src/plot/mar_baby.rpy:1028
 translate chinese mar_baby_home_70f8efee:
@@ -1560,31 +1560,31 @@ translate chinese mar_baby_home_bf92f689:
 translate chinese mar_baby_home_e94de522:
 
     # anon f_curious "Where's [saga.cast.maria]?"
-    anon f_curious "[saga.cast.maria]在哪里？"
+    anon f_curious "[saga.cast.maria]呢？"
 
 # game/src/plot/mar_baby.rpy:1049
 translate chinese mar_baby_home_b4a86d9a:
 
     # tony "Like puttin' these little stinkers down for a nap."
-    tony "比如哄这些小捣蛋们睡午觉。"
+    tony "比如哄这些小家伙睡午觉。"
 
 # game/src/plot/mar_baby.rpy:1058
 translate chinese mar_baby_home_3bee99ad:
 
     # anon "Your kid looks great, [saga.cast.tony]."
-    anon "你的孩子看起来真好，[saga.cast.tony]。"
+    anon "你的孩子可真漂亮，[saga.cast.tony]。"
 
 # game/src/plot/mar_baby.rpy:1071
 translate chinese mar_baby_home_6f3745fb:
 
     # maria "Why are the babies cryin', [saga.cast.tony]?"
-    maria "宝宝们为什么在哭，[saga.cast.tony]？"
+    maria "宝宝们怎么哭起来了，[saga.cast.tony]？"
 
 # game/src/plot/mar_baby.rpy:1081
 translate chinese mar_baby_home_3d0dd838:
 
     # tony "Ahh, the babies are fine!"
-    tony "啊，宝宝们很好！"
+    tony "啊，宝宝们没事！"
 
 # game/src/plot/mar_baby.rpy:1088
 translate chinese mar_baby_home_18fecd4a:
@@ -1596,42 +1596,42 @@ translate chinese mar_baby_home_18fecd4a:
 translate chinese mar_baby_home_39fabd9b:
 
     # anon "Yeah, I wasn't certain either."
-    anon "是啊，我也不确定。"
+    anon "是啊，我也没把握。"
 
 # game/src/plot/mar_baby.rpy:1104
 translate chinese mar_baby_home_144dfecc:
 
 
     # maria "Here, I'll take her."
-    maria "来，让我带她。"
+    maria "来，我来抱她。"
 
 # game/src/plot/mar_baby.rpy:1106
 translate chinese mar_baby_home_f9157ae4:
 
 
     # maria "Here, I'll take them."
-    maria "来，让我带他们。"
+    maria "来，我来抱他们。"
 
 # game/src/plot/mar_baby.rpy:1112
 translate chinese mar_baby_home_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/mar_baby.rpy:1114
 translate chinese mar_baby_home_35496996:
 
 
     # maria e_w f_happy "I'm sure glad to see ya!"
-    maria e_w f_happy "见到你真是太高兴了！"
+    maria e_w f_happy "见到你我可真高兴！"
 
 # game/src/plot/mar_baby.rpy:1116
 translate chinese mar_baby_home_33369c52:
 
 
     # anon "Yeah, likewise."
-    anon "是啊，我也是。"
+    anon "我也是。"
 
 # game/src/plot/mar_baby.rpy:1118
 translate chinese mar_baby_home_2ef0f852:
@@ -1644,7 +1644,7 @@ translate chinese mar_baby_home_e7cca3b4:
 
 
     # maria "You gave us the greatest gift anyone could ever give!"
-    maria "你给了我们任何人都能给予的最棒的礼物！"
+    maria "你给了我们最珍贵的礼物！"
 
 # game/src/plot/mar_baby.rpy:1121
 translate chinese mar_baby_home_a21e5708:
@@ -1664,7 +1664,7 @@ translate chinese mar_baby_home_6ea1b3b1:
 
 
     # tony a_hip_single "Pfft, of course we need ya, champ!"
-    tony a_hip_single "切，我们当然需要你，冠军！"
+    tony a_hip_single "当然需要你，冠军！"
 
 # game/src/plot/mar_baby.rpy:1129
 translate chinese mar_baby_home_d4e1eb44:
@@ -1692,25 +1692,25 @@ translate chinese mar_baby_home_b354fef3:
 
 
     # tony a_hips "You bet."
-    tony a_hips "当然。"
+    tony a_hips "那当然。"
 
 # game/src/plot/mar_baby.rpy:1136
 translate chinese mar_baby_home_f224376e:
 
     # tony "C'mon, I got some deliveries waitin' for ya."
-    tony "快点，我这儿还有货等着你送呢。"
+    tony "来吧，我这儿还有几单等着你送呢。"
 
 # game/src/plot/mar_baby.rpy:1148
 translate chinese mar_baby_post_intro_f7172271:
 
     # maria "\"If we can't pull you out, we'll just have to push you back in.\""
-    maria "\"如果不能把你拉出来，我们只好把你推回去了。\""
+    maria "“如果不能把你拉出来，我们只好把你推回去了。”"
 
 # game/src/plot/mar_baby.rpy:1150
 translate chinese mar_baby_post_intro_e2f77209:
 
     # maria "Not one bit!"
-    maria "一点儿也不喜欢！"
+    maria "一点儿也没有！"
 
 # game/src/plot/mar_baby.rpy:1162
 translate chinese mar_baby_post_intro_508ba3a9:
@@ -1730,7 +1730,7 @@ translate chinese mar_baby_post_intro_cb6b1edb:
 translate chinese mar_baby_post_intro_c74da6f2:
 
     # maria "\"We'll just have to wait for you to get thin again...\" the kid says."
-    maria "\"那我们只好等你再瘦下来了……\"孩子说。"
+    maria "“那我们只好等你再瘦下来了……”孩子说。"
 
 # game/src/plot/mar_baby.rpy:1190
 translate chinese mar_baby_post_misc1_25329aa9:
@@ -1751,35 +1751,35 @@ translate chinese mar_baby_post_misc1_8626b949:
 
 
     # maria "He seems to like it."
-    maria "它似乎挺喜欢的。"
+    maria "他好像挺喜欢的。"
 
 # game/src/plot/mar_baby.rpy:1199
 translate chinese mar_baby_post_misc1_ad19ada7:
 
 
     # maria "She seems to like it."
-    maria "她似乎喜欢这样。"
+    maria "她好像挺喜欢的。"
 
 # game/src/plot/mar_baby.rpy:1201
 translate chinese mar_baby_post_misc1_0fa523df:
 
 
     # maria "They seem to like it."
-    maria "他们似乎喜欢这样。"
+    maria "他们好像都喜欢。"
 
 # game/src/plot/mar_baby.rpy:1203
 translate chinese mar_baby_post_misc1_d92ea99c:
 
 
     # anon e_w "Aww, that's really sweet, [saga.cast.maria]!"
-    anon e_w "噢，那真的很甜，[saga.cast.maria]！"
+    anon e_w "哎呀，这真温馨，[saga.cast.maria]！"
 
 # game/src/plot/mar_baby.rpy:1204
 translate chinese mar_baby_post_misc1_5952fbba:
 
 
     # maria e_w "You're welcome to stay and listen, if you want."
-    maria e_w "如果你想的话，欢迎留下来听。"
+    maria e_w "你要是愿意，可以留下来听。"
 
 translate chinese mar_baby_late_misc1_82df20f3:
 
@@ -1790,17 +1790,17 @@ translate chinese mar_baby_late_misc1_82df20f3:
 translate chinese mar_baby_late_misc1_ff057e38:
 
     # maria e_w f_curious "Hmm, not really?"
-    maria e_w f_curious "嗯，没什么感觉。"
+    maria e_w f_curious "嗯，不太有感觉？"
 
 translate chinese mar_baby_late_misc1_906cd15b:
 
     # maria f_happy "But I always did have a strong stomach."
-    maria f_happy "不过我的胃一向很好。"
+    maria f_happy "不过我的胃口一向很好。"
 
 translate chinese mar_baby_late_misc1_1333134d:
 
     # anon f_calm "Well, that's a blessing."
-    anon f_calm "嗯，那真是太好了。"
+    anon f_calm "嗯，那就是福气了。"
 
 translate chinese mar_baby_late_outro_13635740:
 
@@ -1812,7 +1812,7 @@ translate chinese mar_baby_late_outro_9eacd4a2:
 
 
     # maria "Be careful out there, [saga.cast.anon]."
-    maria "路上小心，[saga.cast.anon]。"
+    maria "在外面小心点，[saga.cast.anon]。"
 
 translate chinese mar_baby_late_pizza_kitchen_bd334944:
 
@@ -1824,13 +1824,13 @@ translate chinese mar_baby_bump_misc1_37c648be:
 
 
     # maria f_happy "Nope, not a bit!"
-    maria f_happy "没有，一点也不！"
+    maria f_happy "没有，一点都没有！"
 
 translate chinese mar_baby_bump_misc1_0c672077:
 
 
     # maria "My doctor says it's not unusual for a woman's sense of smell or taste to change during pregnancy."
-    maria "我的医生说，女人的嗅觉或味觉在怀孕期间发生变化并不罕见。"
+    maria "我的医生说，女人在怀孕期间嗅觉或味觉变化并不罕见。"
 
 translate chinese mar_baby_bump_misc1_0be188e2:
 
@@ -1845,28 +1845,28 @@ translate chinese mar_baby_bump_misc1_28a296bc:
 translate chinese mar_baby_bump_misc1_ed486472:
 
     # anon f_worried "..."
-    anon f_worried "..."
+    anon f_worried "……"
 
 translate chinese mar_baby_bump_misc1_e87d9080:
 
     # maria "Not a single fuckin' one!"
-    maria "他妈的一道都没有！"
+    maria "一道他妈的都没有！"
 
 translate chinese mar_baby_bump_misc1_bc1bccd8:
 
     # maria "I'm gonna remind [saga.cast.tony] about this when he gets home..."
-    maria "等他回来，我得提醒[saga.cast.tony]这件事..."
+    maria "等[saga.cast.tony]回来后，我得提醒他这事……"
 
 translate chinese mar_baby_bump_misc1_4d0ff52f:
 
     # maria "I'm gonna have to yell at [saga.cast.tony] about this later..."
-    maria "我待会儿非得为这事冲[saga.cast.tony]嚷嚷不可……"
+    maria "晚些时候我非得为这事去骂[saga.cast.tony]一顿不可……"
 
 translate chinese mar_baby_bump_misc1_854630c4:
 
 
     # anon "O-okay."
-    anon "好...好吧。"
+    anon "好、好吧。"
 
 translate chinese mar_baby_costume_5c87c0ea:
 
@@ -1877,23 +1877,23 @@ translate chinese mar_baby_costume_5c87c0ea:
 translate chinese mar_baby_costume_f59332a3:
 
     # maria "[saga.cast.tony] likes seein' me all knocked up like this..."
-    maria "[saga.cast.tony]就喜欢看我这样大着肚子……"
+    maria "[saga.cast.tony]就喜欢看我这副大肚子的样子……"
 
 translate chinese mar_baby_costume_8ab4cb73:
 
 
     # maria e_w f_horny "It really gets his broth boiling, hehe!"
-    maria e_w f_horny "这让他血脉贲张，嘿嘿！"
+    maria e_w f_horny "这可真让他血脉贲张啊，嘿嘿！"
 
 translate chinese mar_baby_costume_f274a09f:
 
     # anon e_w f_shy_surprised "I can see why..."
-    anon e_w f_shy_surprised "我能明白为什么……"
+    anon e_w f_shy_surprised "难怪了……"
 
 translate chinese mar_baby_costume_2753686e:
 
     # maria f_curious "Oh, so you like it too, huh?"
-    maria f_curious "哦，所以你也喜欢这样，是吧？"
+    maria f_curious "哦，所以你也喜欢，是吧？"
 
 translate chinese mar_baby_costume_208f2705:
 
@@ -1910,7 +1910,7 @@ translate chinese mar_baby_belly_maria_lounge_8d5bf6c3:
 translate chinese mar_baby_belly_misc1_854228b0:
 
     # maria e_w f_happy "It's like tryin' to do things with a bag of flour strapped to me!"
-    maria e_w f_happy "就像我身上绑着一袋面粉在做事一样！"
+    maria e_w f_happy "就像身上绑着一袋面粉做事一样！"
 
 translate chinese mar_baby_belly_misc1_1a66d3fa:
 
@@ -1922,7 +1922,7 @@ translate chinese mar_baby_belly_misc2_4d8c3454:
 
 
     # maria f_curious "You want to see under the apron again?"
-    maria f_curious "你又想看围裙底下？"
+    maria f_curious "你又想看围裙底下了？"
 
 translate chinese mar_baby_belly_reuse_45bf1ae5:
 
@@ -1934,7 +1934,7 @@ translate chinese mar_baby_read2_60317d6c:
 
 
     # anon "I really hope everything went smoothly for them."
-    anon "我真希望一切顺利。"
+    anon "真希望他们一切顺利。"
 
 translate chinese mar_baby_read2_rails_b9f1fac4:
 
@@ -1952,13 +1952,13 @@ translate chinese mar_baby_meet_ce7e2b4d:
 
 
     # tony "... But you're right on time to meet your godchildren!"
-    tony "……但你正好赶上了见你的教子们！"
+    tony "……但你正好赶上来见你的教子们！"
 
 translate chinese mar_baby_meet_14ac2cb7:
 
 
     # maria "I don't want you cursin' in front of our children!"
-    maria "我不想你在我们的孩子们面前骂人！"
+    maria "我不想你在我们孩子们面前骂人！"
 
 translate chinese mar_baby_meet_4c9612eb:
 
@@ -1968,7 +1968,7 @@ translate chinese mar_baby_meet_4c9612eb:
 translate chinese mar_baby_meet_75a4a033:
 
     # tony "That's right, champ."
-    tony "没错，小伙子。"
+    tony "没错，冠军。"
 
 translate chinese mar_baby_meet_06f9b03d:
 
@@ -1991,7 +1991,7 @@ translate chinese mar_baby_meet_5f2cb802:
 
 
     # tony "I'm just as happy with a girl."
-    tony "生个女孩我也一样开心。"
+    tony "我要是有个女儿也一样开心。"
 
 translate chinese mar_baby_meet_58a2baf5:
 
@@ -2060,7 +2060,7 @@ translate chinese mar_baby_meet_2942e029:
 translate chinese mar_baby_meet_40134cc5:
 
     # tony "Yeah, he takes after you quite a bit, champ."
-    tony "是啊，小家伙挺像你的。"
+    tony "是啊，他跟你可真像，冠军。"
 
 translate chinese mar_baby_meet_87799fd0:
 
@@ -2208,7 +2208,7 @@ translate chinese mar_baby_rest_misc1_f0b2b779:
 
 
     # maria e_s "I swear to god, our children's first words are gonna be cocksucker and dildo."
-    maria e_s "我向上帝发誓，咱们孩子的第一句话肯定是「叼鸡巴的」和「假鸡巴」。"
+    maria e_s "我向上帝发誓，咱们孩子的第一句话肯定是“叼鸡巴的”和“假鸡巴”。"
 
 translate chinese mar_baby_rest_misc1_e53369f4:
 
@@ -2231,7 +2231,7 @@ translate chinese mar_baby_rest_misc1_f86f0851:
 
 
     # tony @ -m_talk "..."
-    tony @ -m_talk "..."
+    tony @ -m_talk "……"
 
 translate chinese mar_baby_rest_misc1_859736a5:
 
@@ -2423,7 +2423,7 @@ translate chinese mar_baby_post_intro_81f5894a:
 
 
     # maria "So then the kid says, \"Silly old bear...\""
-    maria "然后那孩子说：「傻乎乎的老熊……」"
+    maria "然后那孩子说：“傻乎乎的老熊……”"
 
 translate chinese mar_baby_post_intro_c838cfce:
 
@@ -2441,7 +2441,7 @@ translate chinese mar_baby_post_intro_eb780b0f:
 
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 translate chinese mar_baby_late_maria_bed1_b1dd2f7b:
 

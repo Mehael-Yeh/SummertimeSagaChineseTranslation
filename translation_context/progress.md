@@ -134,3 +134,15 @@
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
+
+
+### Maria storyline: `mar_baby.rpy` (2026-08-04)
+
+- Status: completed full-scene refinement and three-pass review.
+- Scope: Tony announces Maria's pregnancy; single-child/twin birth branches; hospital visits; postpartum recovery; return to the pizza shop; pregnancy smell changes and adult innuendo.
+- Character consistency: Maria's forceful and earthy voice; Tony's warm old-school voice; `champ` consistently follows the established Chinese rendering; Anon's hesitant but affectionate reactions.
+- Terminology: godfather/godson/goddaughter/godchildren, pregnancy and delivery terms, cannoli, single/twin pronouns and number agreement.
+- Formatting: active translations use Chinese ellipses and curved Chinese quotation marks; English source comments, names, variables, tags and Ren'Py structure remain unchanged.
+- Validation: translation validator passed; recurring-term audit passed; `git diff --check` passed; RPA build packed and verified 328 files.
+- Recovery note: temporary line-mapping script changes to English source comments were fully restored from HEAD; temporary pair files were excluded.
+- Next: `mar_cook.rpy`.

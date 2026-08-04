@@ -397,28 +397,28 @@ translate chinese mar01_maria_8cbc8bc8:
 
 
     # anon "You got a couple honey baked hams under that dress, or what?!"
-    anon "你裙子底下该不会藏着两条蜜汁火腿吧？！"
+    anon "你裙子底下那两条大腿，该不会是蜜汁火腿做的吧？！"
 
 # game/src/plot/mar01.rpy:134
 translate chinese mar01_maria_9860bcf2:
 
 
     # maria f_shy "It's big, I know."
-    maria f_shy "我知道，它挺大的。"
+    maria f_shy "我知道……我的腿是挺粗的。"
 
 # game/src/plot/mar01.rpy:135
 translate chinese mar01_maria_d1abd50a:
 
 
     # anon "No, it's perfect!"
-    anon "不，正合适！"
+    anon "不，这样才完美！"
 
 # game/src/plot/mar01.rpy:138
 translate chinese mar01_maria_a590f3b7:
 
 
     # anon "Let's get a better look at this thing."
-    anon "让我好好看看这东西。"
+    anon "来，让我仔细看看。"
 
 # game/src/plot/mar01.rpy:140
 translate chinese mar01_maria_4a085c4d:
@@ -432,14 +432,14 @@ translate chinese mar01_maria_8c20defd:
 
 
     # anon p_pull_02 "Oh, no... that's much more delicious than ham!"
-    anon p_pull_02 "哦，不……这可比火腿美味多了！"
+    anon p_pull_02 "哦，不……这可比火腿诱人多了！"
 
 # game/src/plot/mar01.rpy:143
 translate chinese mar01_maria_91bd666c:
 
 
     # maria f_calm -m_lip "Stop tryin' to make me laugh and put it inside me already!"
-    maria f_calm -m_lip "别逗我笑了，赶紧插进来！"
+    maria f_calm -m_lip "别逗我笑了，赶紧把鸡巴插进来！"
 
 # game/src/plot/mar01.rpy:144
 translate chinese mar01_maria_e632387e:
@@ -495,14 +495,14 @@ translate chinese mar01_maria_reuse_ed89eb7a:
 
 
     # maria "That big cawk..."
-    maria "那根大鸡巴……"
+    maria "这么大的鸡巴……"
 
 # game/src/plot/mar01.rpy:159
 translate chinese mar01_maria_reuse_57dce749:
 
 
     # maria "... All at-"
-    maria "……全都——"
+    maria "……居然一下就——"
 
 # game/src/plot/mar01.rpy:160
 translate chinese mar01_maria_reuse_c0d8e172:
@@ -516,7 +516,7 @@ translate chinese mar01_maria_reuse_6775a9c6:
 
 
     # maria "All at once!!"
-    maria "一下子全进来了！！"
+    maria "整根全插进来了！！"
 
 # game/src/plot/mar01.rpy:162
 translate chinese mar01_maria_reuse_d8f50d3e:
@@ -670,7 +670,7 @@ translate chinese mar01_maria_reuse_8038e502:
 
 
     # maria "I love feelin' you go off!!"
-    maria "我就喜欢感受你射出来！！"
+    maria "我就爱你在我里面射出来的感觉！！"
 
 # game/src/plot/mar01.rpy:192
 translate chinese mar01_maria_reuse_9a305a3a:
@@ -898,22 +898,22 @@ translate chinese mar01_maria_reuse_8f27c61f:
 
 
     # maria "What happened, [saga.cast.anon]?"
-    maria "怎么了，[saga.cast.anon]？"
+    maria "怎么拔出来了，[saga.cast.anon]？"
 
 translate chinese mar01_maria_reuse_d5cc2789:
 
     # anon "The moment came and I just sort-"
-    anon "刚才一到时候，我就有点……"
+    anon "刚才要射的时候，我就下意识地拔了出来——"
 
 translate chinese mar01_maria_reuse_1ef1300c:
 
     # maria f_calm "Aww, it's okay."
-    maria f_calm "哎呀，没事的。"
+    maria f_calm "哎呀，没事。"
 
 translate chinese mar01_maria_reuse_c8481ccd:
 
     # anon "Yeah?"
-    anon "是吗？"
+    anon "真的？"
 
 translate chinese mar01_maria_reuse_b95eb085:
 
