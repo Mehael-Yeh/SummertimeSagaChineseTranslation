@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "terms": [
     {
       "id": "tony_champ",
@@ -347,6 +347,19 @@
       "translation": "锅盖头；截断时为锅盖——",
       "first_seen": "tl/chinese/src/plot/deb13.rpy",
       "note": "Josie 对 Anon 发型的固定挖苦称呼；完整 bowl cut 译为锅盖头，被打断的 bowl- 译为锅盖——。"
+    },
+    {
+      "id": "jenny_perv",
+      "source_regex": "\\bperv(?:ert)?\\b",
+      "target_regexes": [
+        "变态"
+      ],
+      "category": "character_insult",
+      "speaker": "Jenny",
+      "addressee": "Anon",
+      "translation": "变态",
+      "first_seen": "tl/chinese/src/plot/jen01.rpy",
+      "note": "Jenny 对 Anon 的固定辱称；后续按关系阶段调整整句口吻，但核心称呼保持‘变态’。"
     }
   ]
 }

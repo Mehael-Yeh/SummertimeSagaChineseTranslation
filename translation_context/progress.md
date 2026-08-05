@@ -103,6 +103,7 @@
 | `tl/chinese/src/plot/jen01.rpy` | Jenny线；浴室偷窥、被发现及前期敌对关系 | Jenny、Anon、Debbie（被提及） | 完成 | 通读完整场景并精修 31 个翻译块；将 `You! / Little! / PERVERT!!!` 作为被吹风机击打打断的连续辱骂处理，修复“娃娃脸”误译；保留偷窥事实、Jenny 的尖刻攻击性及 Anon 求情逻辑，统一中文省略号与标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen02.rpy` | Jenny线；新衣争执、求职压力、搬家宣言及家庭责任对照 | Jenny、Debbie、Anon | 完成 | 通读完整场景并精修 58 个翻译块；恢复 `Consum-R` 英文专名，理顺 Jenny 的讽刺与负担感、Debbie 的经济压力和安抚、Anon 的挖苦与体谅；统一 `sweetie`“亲爱的”、`good boy`“好男孩”及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen03.rpy` | Jenny线；早餐赌气、借款争执及赚钱计划铺垫 | Jenny、Debbie、Anon、Diane（被提及） | 完成 | 通读完整场景并精修 67 个翻译块；承接 `jen02.rpy` 的家庭争执，理顺 Jenny 拒绝早餐、借六十美元、含糊赚钱计划与学费压力；区分 Jenny 的讽刺、Anon 的反驳和 Debbie 的照顾者语气，统一 `sweetie`“亲爱的”、中文省略号及活动译文标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/chinese/src/plot/jen04.rpy` | Jenny线；夜间色情影片角色扮演、再次偷窥、吹风机反击与勒索 | Jenny、Anon、Debbie（被提及）、影片男声 | 完成 | 通读完整场景并精修 63 个翻译块；理顺 Anon 误以为 Jenny 带男人回家、发现她跟随影片进行角色扮演、暴露后再次挨打及按现金量分支交钱的因果；统一 Jenny 对 Anon 的 `perv/pervert` 为“变态”，将色情角色称谓 `Daddy` 译为“爸爸”并与真实亲属关系区分，保留成人内容强度及中文引号、省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 
 ## 已完成的规则修复（剧情未全面精修）
 
@@ -178,11 +179,11 @@
 - `python tools/validate_translations.py --no-compare`：报告 26 个仓库既有问题，已登记于上方队列。
 - GitHub Actions 使用 Ren’Py 8.5.3 编译并运行 `tools/build_rpa.py`。
 - 本机 PATH 中未发现 Ren’Py SDK；Ren’Py compile/lint 尚未运行。
-- `python -X utf8 tools/build_rpa.py`：成功打包并校验 328 个文件（`dist/chinese.rpa`，42,287,207 字节；构建产物由 `.gitignore` 忽略）。
+- `python -X utf8 tools/build_rpa.py`：成功打包并校验 327 个文件（`dist/chinese.rpa`，42,313,279 字节；构建产物由 `.gitignore` 忽略）。
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen03.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen04.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen04.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen05.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
