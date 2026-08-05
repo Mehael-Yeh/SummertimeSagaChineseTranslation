@@ -4,7 +4,7 @@
 translate chinese deb_visit_fa5e0fa2:
 
     # debbie "S-sweetie?"
-    debbie "亲亲？"
+    debbie "亲、亲爱的？"
 
 # game/src/plot/deb_visit.rpy:17
 translate chinese deb_visit_e80e91b1:
@@ -94,7 +94,7 @@ translate chinese deb_visit_04950900:
 translate chinese deb_visit_559ece68:
 
     # debbie "Haah... haah..."
-    debbie "哈啊...哈啊..."
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:74
 translate chinese deb_visit_aa9c7e2e:
@@ -106,7 +106,7 @@ translate chinese deb_visit_aa9c7e2e:
 translate chinese deb_visit_7a4391f4:
 
     # debbie "Oh, goodness... I-"
-    debbie "哦，天哪...我——"
+    debbie "哦，天哪……我——"
 
 # game/src/plot/deb_visit.rpy:82
 translate chinese deb_visit_a57d84f0:
@@ -274,25 +274,25 @@ translate chinese deb_visit_5b9bcfde:
 translate chinese deb_visit_14d8c830:
 
     # debbie "Big and strong..."
-    debbie "又大又强壮..."
+    debbie "又大又强壮……"
 
 # game/src/plot/deb_visit.rpy:182
 translate chinese deb_visit_31791fe3:
 
     # debbie "... And brave, and handsome, and..."
-    debbie "...而且勇敢，又帅气，还有..."
+    debbie "……又勇敢、又英俊，还有……"
 
 # game/src/plot/deb_visit.rpy:183
 translate chinese deb_visit_12740483:
 
     # debbie "... and..."
-    debbie "...还有..."
+    debbie "……还有……"
 
 # game/src/plot/deb_visit.rpy:184
 translate chinese deb_visit_d4c107aa:
 
     # debbie "... Gaah, thick!!"
-    debbie "...嘎啊，好粗！！"
+    debbie "……啊，好粗！！"
 
 # game/src/plot/deb_visit.rpy:185
 translate chinese deb_visit_a02957dc:
@@ -310,13 +310,13 @@ translate chinese deb_visit_433c7b6b:
 translate chinese deb_visit_c9d8a127:
 
     # debbie "I mean, your..."
-    debbie "我是说，你的…"
+    debbie "我是说，你的……"
 
 # game/src/plot/deb_visit.rpy:188
 translate chinese deb_visit_844abfbf:
 
     # debbie "... Y-your thing."
-    debbie "…你、你的那个东西。"
+    debbie "……你、你的那个东西。"
 
 # game/src/plot/deb_visit.rpy:189
 translate chinese deb_visit_00d490a8:
@@ -358,7 +358,7 @@ translate chinese deb_visit_0eff2beb:
 translate chinese deb_visit_d5335b71:
 
     # debbie "YES!!"
-    debbie "是的！！"
+    debbie "对！！"
 
 # game/src/plot/deb_visit.rpy:197
 translate chinese deb_visit_e58da540:
@@ -412,7 +412,7 @@ translate chinese deb_visit_0ee13647:
 translate chinese deb_visit_559ece68_1:
 
     # debbie "Haah... haah..."
-    debbie "哈……哈……"
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:212
 translate chinese deb_visit_dfefab4d:
@@ -442,7 +442,7 @@ translate chinese deb_visit_dff3ad2a:
 translate chinese deb_visit_559ece68_2:
 
     # debbie "Haah... haah..."
-    debbie "哈啊...哈啊..."
+    debbie "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:218
 translate chinese deb_visit_63165b78:
@@ -502,7 +502,7 @@ translate chinese deb_visit_a67f3101:
 translate chinese deb_visit_a1f6eb08:
 
     # debbie "YES!"
-    debbie "太棒了！"
+    debbie "对！"
 
 # game/src/plot/deb_visit.rpy:236
 translate chinese deb_visit_dc1c6215:
@@ -568,7 +568,7 @@ translate chinese deb_visit_c47f8cd6:
 translate chinese deb_visit_35a1b574:
 
     # debbie s_36 "OH, GOODNESS... NO!"
-    debbie s_36 "哦，天哪...不要！"
+    debbie s_36 "哦，天哪……不要！"
 
 # game/src/plot/deb_visit.rpy:249
 translate chinese deb_visit_f9d747ea:
@@ -598,7 +598,7 @@ translate chinese deb_visit_9094f0b7:
 translate chinese deb_visit_7f9fe113:
 
     # debbie "I'M GONNA-"
-    debbie "我要—"
+    debbie "我、我要——"
 
 # game/src/plot/deb_visit.rpy:254
 translate chinese deb_visit_a52a798c:
@@ -628,7 +628,7 @@ translate chinese deb_visit_aaefe0ad:
 translate chinese deb_visit_d54432bf:
 
     # anon "[saga.cast.debbie]!!"
-    anon "[saga.cast.debbie]!!"
+    anon "[saga.cast.debbie]！！"
 
 # game/src/plot/deb_visit.rpy:271
 translate chinese deb_visit_fe3803f0:
@@ -886,7 +886,7 @@ translate chinese deb_visit_alt_2064f972:
 translate chinese deb_visit_alt_660427ec:
 
     # debbie @ e_sw -m_talk "( !!! )"
-    debbie @ e_sw -m_talk "( !!! )"
+    debbie @ e_sw -m_talk "（！！！）"
 
 # game/src/plot/deb_visit.rpy:380
 translate chinese deb_visit_alt_bd9b522c:
@@ -898,7 +898,7 @@ translate chinese deb_visit_alt_bd9b522c:
 translate chinese deb_visit_alt_4cf5ab1c:
 
     # debbie @ -m_talk "( I have to stop doing this to him! )"
-    debbie @ -m_talk "(我必须停止这样对他！)"
+    debbie @ -m_talk "(我不能再这样对他了！)"
 
 # game/src/plot/deb_visit.rpy:382
 translate chinese deb_visit_alt_aedbb228:
@@ -922,7 +922,7 @@ translate chinese deb_visit_alt_503c759d:
 translate chinese deb_visit_alt_412c1b0b:
 
     # debbie @ -m_talk "( This has to be the last time! )"
-    debbie @ -m_talk "(这必须是最后一次！)"
+    debbie @ -m_talk "(这次一定是最后一次！)"
 
 # game/src/plot/deb_visit.rpy:393
 translate chinese deb_visit_alt_b2e4e8a5:
@@ -952,7 +952,7 @@ translate chinese deb_visit_alt_c3b0233c:
 translate chinese deb_visit_alt_3572cf82:
 
     # anon e_se f_tired @ -m_talk "( Aww, man... she's already gone? )"
-    anon e_se f_tired @ -m_talk "(唉，她已经走了吗……)"
+    anon e_se f_tired @ -m_talk "(哎，她已经走了？)"
 
 # game/src/plot/deb_visit.rpy:399
 translate chinese deb_visit_alt_356c6138:
@@ -976,13 +976,13 @@ translate chinese deb_visit_alt_c81b245c:
 translate chinese deb_visit_baby_a50183f4:
 
     # debbie @ -m_talk "( Ugh, it's been so long... )"
-    debbie @ -m_talk "(呃，已经过去这么久了……)"
+    debbie @ -m_talk "(呃，已经隔了好久……)"
 
 # game/src/plot/deb_visit.rpy:410
 translate chinese deb_visit_baby_5cab2050:
 
     # debbie "( ... I can't wait anymore! )"
-    debbie "(……我不能再等了！)"
+    debbie "(……我再也等不及了！)"
 
 # game/src/plot/deb_visit.rpy:417
 translate chinese deb_visit_baby_d3f65960:
@@ -994,7 +994,7 @@ translate chinese deb_visit_baby_d3f65960:
 translate chinese deb_visit_baby_64559327:
 
     # debbie a_worried "I need you {i}real{/i} bad."
-    debbie a_worried "我{i}真的{/i}很需要你。"
+    debbie a_worried "我{i}好需要你{/i}。"
 
 # game/src/plot/deb_visit.rpy:429
 translate chinese deb_visit_baby_077cb9b1:
@@ -1060,7 +1060,7 @@ translate chinese deb_visit_baby_4e908973:
 translate chinese deb_visit_baby_b3525f9c:
 
     # debbie e_se "With the baby and all these hormones... and you've been so busy lately... I just... I-"
-    debbie e_se "有了孩子和这些激素...而且你最近一直这么忙...我只是...我——"
+    debbie e_se "自从怀了宝宝、激素又乱成这样……而且你最近一直很忙……我只是……我——"
 
 # game/src/plot/deb_visit.rpy:445
 translate chinese deb_visit_baby_01bcd9dc:
@@ -1072,13 +1072,13 @@ translate chinese deb_visit_baby_01bcd9dc:
 translate chinese deb_visit_baby_8a24ab23:
 
     # debbie "I need you, sweetie..."
-    debbie "我需要你，亲爱的..."
+    debbie "我需要你，亲爱的……"
 
 # game/src/plot/deb_visit.rpy:450
 translate chinese deb_visit_baby_4977592f:
 
     # debbie a_robe_off_02 c_naked "... Give it to me, please!"
-    debbie a_robe_off_02 c_naked "...给我吧，求你了！"
+    debbie a_robe_off_02 c_naked "……求你了，给我吧！"
 
 # game/src/plot/deb_visit.rpy:459
 translate chinese deb_visit_baby_0e56449b:
@@ -1090,13 +1090,13 @@ translate chinese deb_visit_baby_0e56449b:
 translate chinese deb_visit_baby_15eb2c6e:
 
     # anon e_ose f_happy @ -m_talk "..."
-    anon e_ose f_happy @ -m_talk "..."
+    anon e_ose f_happy @ -m_talk "……"
 
 # game/src/plot/deb_visit.rpy:466
 translate chinese deb_visit_baby_0340bf14:
 
     # anon a_none d_none e_n p_bed3_visit "Y-you've kinda got a crazy look in your eye tonight, [saga.cast.debbie]."
-    anon a_none d_none e_n p_bed3_visit "你——你今晚眼神有点疯狂，[saga.cast.debbie]。"
+    anon a_none d_none e_n p_bed3_visit "你、你今晚的眼神可真疯狂，[saga.cast.debbie]。"
 
 # game/src/plot/deb_visit.rpy:467
 translate chinese deb_visit_baby_69672b12:
@@ -1108,7 +1108,7 @@ translate chinese deb_visit_baby_69672b12:
 translate chinese deb_visit_baby_8d0160d2:
 
     # debbie "It's probably because my tenant's big cock has been dominating my every thought."
-    debbie "可能是因为我的房客的大鸡巴一直占据着我的全部思绪。"
+    debbie "可能是因为我满脑子都在想我房客那根大鸡巴。"
 
 # game/src/plot/deb_visit.rpy:474
 translate chinese deb_visit_baby_66975bc7:
@@ -1138,7 +1138,7 @@ translate chinese deb_visit_baby_63ebe12b:
 translate chinese deb_visit_baby_d89c07e2:
 
     # debbie "Ngh, I missed this!"
-    debbie "嗯，我想死这个了！"
+    debbie "嗯，我好想念这种感觉！"
 
 # game/src/plot/deb_visit.rpy:480
 translate chinese deb_visit_baby_c8481ccd:
@@ -1168,13 +1168,13 @@ translate chinese deb_visit_baby_02f4a6b6:
 translate chinese deb_visit_baby_da3768c7:
 
     # debbie "My pussy... aches for you..."
-    debbie "我的小穴……好想你……"
+    debbie "我的小穴……想你想得发疼……"
 
 # game/src/plot/deb_visit.rpy:486
 translate chinese deb_visit_baby_276abfa6:
 
     # debbie "... When you're not... inside me!"
-    debbie "……当你没……塞进我里面的时候！"
+    debbie "……尤其是你不在里面的时候！"
 
 # game/src/plot/deb_visit.rpy:487
 translate chinese deb_visit_baby_5502af91:
@@ -1186,13 +1186,13 @@ translate chinese deb_visit_baby_5502af91:
 translate chinese deb_visit_baby_a4da2842:
 
     # debbie "Yess!!"
-    debbie "太棒了！"
+    debbie "对！！"
 
 # game/src/plot/deb_visit.rpy:489
 translate chinese deb_visit_baby_36e142a9:
 
     # anon "Sorry, I didn't realize that I was-"
-    anon "抱歉，我没意识到我是在——"
+    anon "抱歉，我没意识到自己刚才——"
 
 # game/src/plot/deb_visit.rpy:490
 translate chinese deb_visit_baby_0ad78b94:
@@ -1210,13 +1210,13 @@ translate chinese deb_visit_baby_11d0544f:
 translate chinese deb_visit_baby_60d1658a:
 
     # debbie "Fuck your landlady!"
-    debbie "操你的女房东！"
+    debbie "肏你的房东太太！"
 
 # game/src/plot/deb_visit.rpy:499
 translate chinese deb_visit_baby_13dca9a9:
 
     # anon "Man, I love it... watching you like this."
-    anon "天啊，我喜欢……看你这样子。"
+    anon "天啊，我就喜欢看你这样……"
 
 # game/src/plot/deb_visit.rpy:500
 translate chinese deb_visit_baby_b2d96958:
@@ -1234,7 +1234,7 @@ translate chinese deb_visit_baby_17c3b9d4:
 translate chinese deb_visit_baby_e973827f:
 
     # debbie "... Like what..."
-    debbie "……喜欢什么……"
+    debbie "……喜欢我这样哪一点……"
 
 # game/src/plot/deb_visit.rpy:503
 translate chinese deb_visit_baby_6121d888:
@@ -1246,7 +1246,7 @@ translate chinese deb_visit_baby_6121d888:
 translate chinese deb_visit_baby_6a115ba8:
 
     # debbie "... Sweetie?"
-    debbie "...亲爱的？"
+    debbie "……亲爱的？"
 
 # game/src/plot/deb_visit.rpy:505
 translate chinese deb_visit_baby_707fd00a:
@@ -1258,7 +1258,7 @@ translate chinese deb_visit_baby_707fd00a:
 translate chinese deb_visit_baby_89b2c55f:
 
     # anon "You're like, ravenous."
-    anon "你像饿狼一样。"
+    anon "你简直像饿疯了一样。"
 
 # game/src/plot/deb_visit.rpy:507
 translate chinese deb_visit_baby_77d2d6d3:
@@ -1294,7 +1294,7 @@ translate chinese deb_visit_baby_80f72013:
 translate chinese deb_visit_baby_356d93ff:
 
     # debbie "I couldn't... hold back... any longer!"
-    debbie "我实在……忍不住了！"
+    debbie "我、我再也忍不住了！"
 
 # game/src/plot/deb_visit.rpy:515
 translate chinese deb_visit_baby_b6a3143b:
@@ -1306,7 +1306,7 @@ translate chinese deb_visit_baby_b6a3143b:
 translate chinese deb_visit_baby_66c51082:
 
     # debbie "Maybe it's the baby... I don't... know."
-    debbie "也许是宝宝...我不知道..."
+    debbie "也许是宝宝的缘故……我也……不知道。"
 
 # game/src/plot/deb_visit.rpy:517
 translate chinese deb_visit_baby_a194c8f8:
@@ -1318,25 +1318,25 @@ translate chinese deb_visit_baby_a194c8f8:
 translate chinese deb_visit_baby_aecc75dd:
 
     # debbie "I needed it..."
-    debbie "我需要它..."
+    debbie "我需要……"
 
 # game/src/plot/deb_visit.rpy:520
 translate chinese deb_visit_baby_25c13ba0:
 
     # debbie "... So bad!"
-    debbie "...太需要了！"
+    debbie "……需要得不得了！"
 
 # game/src/plot/deb_visit.rpy:521
 translate chinese deb_visit_baby_a51dcdcd:
 
     # debbie "I missed this!"
-    debbie "我怀念这个！"
+    debbie "我好想念这种感觉！"
 
 # game/src/plot/deb_visit.rpy:522
 translate chinese deb_visit_baby_6d7fde40:
 
     # debbie "M-missed you!!"
-    debbie "想——想念你！！"
+    debbie "想、想死你了！！"
 
 # game/src/plot/deb_visit.rpy:523
 translate chinese deb_visit_baby_f645701d:
@@ -1360,7 +1360,7 @@ translate chinese deb_visit_baby_87ac5af4:
 translate chinese deb_visit_baby_9ea90568:
 
     # debbie s_28 "OOOHHH, ILOVEITILOVEITUILOVE-"
-    debbie s_28 "哦哦哦，我爱死它了我爱死它了我爱——"
+    debbie s_28 "哦哦哦，我好喜欢、好喜欢，我好——"
 
 # game/src/plot/deb_visit.rpy:528
 translate chinese deb_visit_baby_96fac3c8:
@@ -1372,37 +1372,37 @@ translate chinese deb_visit_baby_96fac3c8:
 translate chinese deb_visit_baby_df33fd4a:
 
     # anon "Are you close?"
-    anon "你快到了吗？"
+    anon "你快高潮了吗？"
 
 # game/src/plot/deb_visit.rpy:536
 translate chinese deb_visit_baby_d5335b71:
 
     # debbie "YES!!"
-    debbie "是的！！"
+    debbie "对！！"
 
 # game/src/plot/deb_visit.rpy:537
 translate chinese deb_visit_baby_694c73ac:
 
     # anon "Okay, good."
-    anon "好的，不错。"
+    anon "好，那就好。"
 
 # game/src/plot/deb_visit.rpy:538
 translate chinese deb_visit_baby_c0e9038f:
 
     # anon "I don't think I can hold out much longer... this is too intense!"
-    anon "我觉得我撑不了多久了……这太激烈了！"
+    anon "我觉得我快撑不住了……太刺激了！"
 
 # game/src/plot/deb_visit.rpy:539
 translate chinese deb_visit_baby_4a34aef1:
 
     # debbie "Cum in me, sweetie!"
-    debbie "射在我里面，亲爱的！"
+    debbie "射进我里面，亲爱的！"
 
 # game/src/plot/deb_visit.rpy:540
 translate chinese deb_visit_baby_f4114fa7:
 
     # debbie "I need to feel it inside me!!"
-    debbie "我要感受它在里面！！"
+    debbie "我要感受你射进来！！"
 
 # game/src/plot/deb_visit.rpy:541
 translate chinese deb_visit_baby_c6e322d8:
@@ -1420,13 +1420,13 @@ translate chinese deb_visit_baby_19f4554b:
 translate chinese deb_visit_baby_66fec15c:
 
     # anon "Here it..."
-    anon "来了……"
+    anon "要……"
 
 # game/src/plot/deb_visit.rpy:546
 translate chinese deb_visit_baby_ecb2fe48:
 
     # anon "... COMES!!!"
-    anon "...要来了！！！"
+    anon "……来了！！！"
 
 # game/src/plot/deb_visit.rpy:549
 translate chinese deb_visit_baby_8b468a72:
@@ -1450,7 +1450,7 @@ translate chinese deb_visit_baby_af79010c:
 translate chinese deb_visit_baby_e6eea80f:
 
     # debbie @ p_debbie_bed3_edge_cum_02 "Haah... Haah..."
-    debbie @ p_debbie_bed3_edge_cum_02 "哈啊... 哈啊..."
+    debbie @ p_debbie_bed3_edge_cum_02 "哈啊…… 哈啊……"
 
 # game/src/plot/deb_visit.rpy:557
 translate chinese deb_visit_baby_3559a1b0:
@@ -1468,13 +1468,13 @@ translate chinese deb_visit_baby_85d827ea:
 translate chinese deb_visit_baby_eb780b0f:
 
     # anon @ -m_talk "..."
-    anon @ -m_talk "..."
+    anon @ -m_talk "……"
 
 # game/src/plot/deb_visit.rpy:563
 translate chinese deb_visit_baby_2fe67b7f:
 
     # anon "Feel better now?"
-    anon "现在感觉好些了？"
+    anon "现在舒服些了吗？"
 
 # game/src/plot/deb_visit.rpy:565
 translate chinese deb_visit_baby_0b6d7aa6:
@@ -1504,7 +1504,7 @@ translate chinese deb_visit_baby_7fcc45ff:
 translate chinese deb_visit_baby_9c352f15:
 
     # anon a_up c_pants e_ne f_happy "Here, you'll sleep better like this."
-    anon a_up c_pants e_ne f_happy "这样你睡得更舒服些。"
+    anon a_up c_pants e_ne f_happy "来，这样睡会舒服些。"
 
 # game/src/plot/deb_visit.rpy:589
 translate chinese deb_visit_baby_b2e4e8a5:
@@ -1534,7 +1534,7 @@ translate chinese deb_visit_baby_c3b0233c:
 translate chinese deb_visit_baby_3572cf82:
 
     # anon e_se f_tired @ -m_talk "( Aww, man... she's already gone? )"
-    anon e_se f_tired @ -m_talk "(唉，靠……她已经走了？)"
+    anon e_se f_tired @ -m_talk "(哎，她已经走了？)"
 
 # game/src/plot/deb_visit.rpy:595
 translate chinese deb_visit_baby_3014b754:
@@ -1552,7 +1552,7 @@ translate chinese deb_visit_bail_dd73cf9c:
 translate chinese deb_visit_bail_e484359b:
 
     # anon f_shy "... {i}*Ahem*{/i} C-could we... maybe-"
-    anon f_shy "... {i}*咳*{/i}能、能不能……也许——"
+    anon f_shy "…… {i}*咳*{/i}能、能不能……也许——"
 
 # game/src/plot/deb_visit.rpy:610
 translate chinese deb_visit_bail_7294729d:
@@ -1678,7 +1678,7 @@ translate chinese deb_visit_bail_b5394a55:
 translate chinese deb_visit_bail_ee31d607:
 
     # anon f_confused @ -m_talk "..."
-    anon f_confused @ -m_talk "..."
+    anon f_confused @ -m_talk "……"
 
 # game/src/plot/deb_visit.rpy:634
 translate chinese deb_visit_bail_d1d46409:
@@ -1726,7 +1726,7 @@ translate chinese deb_visit_bail_a888309d:
 translate chinese deb_visit_creampie_0cf4d269:
 
     # anon "HNNGGG!!!" with flash
-    anon "嗯嗯嗯！！!" with flash
+    anon "嗯嗯嗯！！！" with flash
 
 # game/src/plot/deb_visit.rpy:664
 translate chinese deb_visit_creampie_ded1ea34:
@@ -1738,7 +1738,7 @@ translate chinese deb_visit_creampie_ded1ea34:
 translate chinese deb_visit_creampie_d165fd93:
 
     # anon "Haah... haah..."
-    anon "哈啊...哈啊..."
+    anon "哈啊……哈啊……"
 
 # game/src/plot/deb_visit.rpy:668
 translate chinese deb_visit_creampie_5eb56d88:
@@ -1769,7 +1769,7 @@ translate chinese strings:
     # game/src/plot/deb_visit.rpy:142
     # game/src/plot/deb_visit.rpy:145
     old "Not tonight, [saga.cast.debbie]."
-    new "今晚不行，[saga.cast.debbie]。"
+    new "今晚不行，[saga.cast.debbie]"
 
     # game/src/plot/deb_visit.rpy:142
     old "Okay, sure!"
