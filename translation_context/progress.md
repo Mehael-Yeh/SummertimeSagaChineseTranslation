@@ -104,13 +104,14 @@
 | `tl/chinese/src/plot/jen02.rpy` | Jenny线；新衣争执、求职压力、搬家宣言及家庭责任对照 | Jenny、Debbie、Anon | 完成 | 通读完整场景并精修 58 个翻译块；恢复 `Consum-R` 英文专名，理顺 Jenny 的讽刺与负担感、Debbie 的经济压力和安抚、Anon 的挖苦与体谅；统一 `sweetie`“亲爱的”、`good boy`“好男孩”及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen03.rpy` | Jenny线；早餐赌气、借款争执及赚钱计划铺垫 | Jenny、Debbie、Anon、Diane（被提及） | 完成 | 通读完整场景并精修 67 个翻译块；承接 `jen02.rpy` 的家庭争执，理顺 Jenny 拒绝早餐、借六十美元、含糊赚钱计划与学费压力；区分 Jenny 的讽刺、Anon 的反驳和 Debbie 的照顾者语气，统一 `sweetie`“亲爱的”、中文省略号及活动译文标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen04.rpy` | Jenny线；夜间色情影片角色扮演、再次偷窥、吹风机反击与勒索 | Jenny、Anon、Debbie（被提及）、影片男声 | 完成 | 通读完整场景并精修 63 个翻译块；理顺 Anon 误以为 Jenny 带男人回家、发现她跟随影片进行角色扮演、暴露后再次挨打及按现金量分支交钱的因果；统一 Jenny 对 Anon 的 `perv/pervert` 为“变态”，将色情角色称谓 `Daddy` 译为“爸爸”并与真实亲属关系区分，保留成人内容强度及中文引号、省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/chinese/src/plot/jen05.rpy` | Jenny线；Sluttygram 赚钱计划、首次合作拍摄性感照片与关系短暂缓和 | Jenny、Anon | 完成 | 通读 129 个翻译块和 7 项拍照选项；理顺粉丝焦虑、社交媒体建议、拒绝回 Consum-R、逐步增加暴露程度及拍完立即赶人的关系变化；恢复 `Sluttygram`、`Consum-R` 英文专名，统一 `perv`“变态”、本场 `wimp`“窝囊废”、连续拆句、拍摄评价和中文省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 
 ## 已完成的规则修复（剧情未全面精修）
 
 | 文件 | 修复内容 | 后续要求 |
 |---|---|---|
 | `tl/chinese/base_box/sets.rpy` | “托尼披萨店”恢复为 `Tony披萨店` | 后续结合资源调用统一地点名称 |
-| `tl/chinese/renpybox_bytecode_strings.rpy` | 四处手机任务提示将字面 `Anon` 按玩家视角改为“你”；玩家可见标签统一为 `{dom=强势}`、`{sub=顺从}`；其他姓名/变量保持原状 | 后续完整复核资源字符串 |
+| `tl/chinese/renpybox_bytecode_strings.rpy` | 四处手机任务提示将字面 `Anon` 按玩家视角改为“你”；玩家可见标签统一为 `{dom=强势}`、`{sub=顺从}`；恢复 `Sluttygram` 英文专名，并补译 Debbie 的洗衣篮手机留言；其他姓名/变量保持原状 | 后续完整复核资源字符串 |
 | `tl/chinese/res/meta/prop.rpy` | “凯文”恢复为 `Kevin`；按界面文本使用中文双引号：“光膀子的壮汉！” | 后续完整复核资源字符串 |
 | `tl/chinese/res/meta/step.rpy` | “朱迪丝”恢复为 `Judith` | 后续完整复核资源字符串 |
 | `tl/chinese/src/game.rpy` | `anon`、`Anon` 保持英文原拼写和大小写 | 后续完整复核全局字符串 |
@@ -183,7 +184,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen04.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen05.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen05.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen06.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

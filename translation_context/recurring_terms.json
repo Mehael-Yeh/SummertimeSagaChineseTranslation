@@ -360,6 +360,17 @@
       "translation": "变态",
       "first_seen": "tl/chinese/src/plot/jen01.rpy",
       "note": "Jenny 对 Anon 的固定辱称；后续按关系阶段调整整句口吻，但核心称呼保持‘变态’。"
+    },
+    {
+      "id": "site_sluttygram",
+      "source_regex": "\\bSluttygram\\b",
+      "target_regexes": [
+        "Sluttygram"
+      ],
+      "category": "proper_name",
+      "translation": "Sluttygram",
+      "first_seen": "tl/chinese/src/plot/jen05.rpy",
+      "note": "成人照片订阅网站专名，保持英文拼写和大小写，不翻译、音译或汉化。"
     }
   ]
 }

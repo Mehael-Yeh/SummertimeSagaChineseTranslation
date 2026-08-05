@@ -66,6 +66,8 @@
 | `Ara Ara` | 餐厅专名／店员招呼 | 保持 `Ara Ara` | `deb26.rpy` 及相关地点文件 | 店名和店员固定招呼均保留英文拼写，不译成“啊啦啊啦”“哎呀哎呀” |
 | `Cowabunga` / `Heroes in a half-shell` | 连续文化笑点 | 卡瓦邦嘎／身披半壳的英雄 | `deb27.rpy` | 前者的喊叫与 Debbie 复述必须一致，后者承接忍者神龟笑点 |
 | Jenny 的 `perv` / `pervert` | 人物固定辱称 | 变态 | `jen01.rpy`、`jen04.rpy` 及后续 Jenny 文件 | 已处理文件统一；后续出现时按关系阶段复核整句语气，不机械全局替换 |
+| `Sluttygram` | 成人照片订阅网站专名 | 保持 `Sluttygram` | 字节码提示、`jen05.rpy`、后续 Jenny 文件 | 保持英文拼写和大小写；已恢复“浪荡格莱姆”“偷情网”等错误汉化 |
+| Jenny 的 `wimp` | 人物挖苦称呼 | 窝囊废 | `jen05.rpy` 及后续 Jenny 文件 | 本场两次保持一致；其他角色也使用普通词义，不建立无说话人范围的全仓替换 |
 
 ## 当前跨文件复查队列
 
@@ -76,7 +78,7 @@
 - `little bunny`：`deb18.rpy` 3 处待在完整剧情中复核，核心译法保持“小兔子”。
 - `godfather`：`ano16.rpy` 与 `mar_baby.rpy` 已统一为“教父”，并保留与 Tony 黑帮背景相关的《教父》笑点。
 - `bowl cut`：Josie 对 Anon 的固定挖苦称呼统一为“锅盖头”，截断形式译为“锅盖——”；`jos_trade.rpy` 的“西瓜头”待处理对应完整剧情时复核。
-- `perv/pervert`：Jenny 对 Anon 的固定辱称核心译为“变态”；`jen01.rpy`、`jen04.rpy` 已统一，`jen05.rpy` 起的后续出现位置待随完整剧情复核。
+- `perv/pervert`：Jenny 对 Anon 的固定辱称核心译为“变态”；`jen01.rpy`、`jen04.rpy`、`jen05.rpy` 已统一，`jen06.rpy` 起继续随完整剧情复核。
 - 上述条目只登记，不在未通读完整文件前批量替换；进入对应文件时结合关系阶段完成统一。
 
 ## 审计命令
