@@ -4,7 +4,7 @@
 translate chinese jen02_lobby_e6f442e0:
 
     # jenny "Why not?!"
-    jenny "为什么不呢？！"
+    jenny "凭什么不行？！"
 
 # game/src/plot/jen02.rpy:7
 translate chinese jen02_lobby_e7106ca8:
@@ -16,19 +16,19 @@ translate chinese jen02_lobby_e7106ca8:
 translate chinese jen02_lobby_83692627:
 
     # debbie "You're not a kid anymore [saga.cast.jenny]..."
-    debbie "你不再是孩子了[saga.cast.jenny]……"
+    debbie "[saga.cast.jenny]，你已经不是小孩子了……"
 
 # game/src/plot/jen02.rpy:9
 translate chinese jen02_lobby_3b82c232:
 
     # debbie "... If you want new clothes then you need to get yourself a job and buy them with your own money."
-    debbie "……如果你想要新衣服，那你就得自己找份工作，用你自己的钱买。"
+    debbie "……想买新衣服，就得自己找工作，用自己的钱买。"
 
 # game/src/plot/jen02.rpy:12
 translate chinese jen02_lobby_7bde8c3a:
 
     # jenny "Ugh, how am I supposed to get a job when I have nothing nice to wear to the interview?"
-    jenny "呃，我连一件像样的面试衣服都没有，怎么找工作啊？"
+    jenny "拜托，我连套像样的面试衣服都没有，要怎么找工作啊？"
 
 # game/src/plot/jen02.rpy:14
 translate chinese jen02_lobby_370352ef:
@@ -40,13 +40,13 @@ translate chinese jen02_lobby_370352ef:
 translate chinese jen02_lobby_2656b757:
 
     # debbie a_mug e_w "[saga.cast.jenny], you have plenty of nice clothes."
-    debbie a_mug e_w "[saga.cast.jenny]，你有很多漂亮的衣服。"
+    debbie a_mug e_w "[saga.cast.jenny]，你有的是体面的衣服。"
 
 # game/src/plot/jen02.rpy:18
 translate chinese jen02_lobby_8a207c77:
 
     # jenny "Not nice enough, not for the job I want!"
-    jenny "不够好，离我想要的工作还差得远！"
+    jenny "可没好到能穿去应聘我想要的工作！"
 
 # game/src/plot/jen02.rpy:19
 translate chinese jen02_lobby_1afa5f6e:
@@ -58,31 +58,31 @@ translate chinese jen02_lobby_1afa5f6e:
 translate chinese jen02_lobby_c0f53d6a:
 
     # jenny e_r "I don't know, something with an office maybe?"
-    jenny e_r "我不知道，也许是办公室之类的？"
+    jenny e_r "我不知道，坐办公室之类的吧？"
 
 # game/src/plot/jen02.rpy:22
 translate chinese jen02_lobby_5737af2b:
 
     # anon e_b f_happy @ m_laugh "Hah, yeah right!"
-    anon e_b f_happy @ m_laugh "哈，说得对！"
+    anon e_b f_happy @ m_laugh "哈，你想得倒美！"
 
 # game/src/plot/jen02.rpy:23
 translate chinese jen02_lobby_8b16992f:
 
     # anon e_w f_snide "I'm sure there's a ton of companies looking for a college dropout with no qualifications and zero experience."
-    anon e_w f_snide "我敢肯定有很多公司会要一个没学历、没资格、没经验的大学辍学生。"
+    anon e_w f_snide "肯定有一大堆公司抢着要一个大学都没读完、没资历又毫无经验的人。"
 
 # game/src/plot/jen02.rpy:24
 translate chinese jen02_lobby_ea22da34:
 
     # jenny "Shut up, turd... Nobody asked for your opinion!"
-    jenny "闭嘴，混蛋……没人问你意见！"
+    jenny "闭嘴，废柴……没人问你意见！"
 
 # game/src/plot/jen02.rpy:26
 translate chinese jen02_lobby_1df906a6:
 
     # debbie f_annoyed "Would you two cut it out?!"
-    debbie f_annoyed "你们两个能不能消停点？！"
+    debbie f_annoyed "你们两个能不能别吵了？！"
 
 # game/src/plot/jen02.rpy:28
 translate chinese jen02_lobby_32d936eb:
@@ -106,19 +106,19 @@ translate chinese jen02_lobby_ef04d002:
 translate chinese jen02_lobby_e4156be3:
 
     # debbie f_tired "Just borrow something out of my closet, [saga.cast.jenny]."
-    debbie f_tired "从我衣柜里借一件吧，[saga.cast.jenny]。"
+    debbie f_tired "去我衣柜里挑一件穿吧，[saga.cast.jenny]。"
 
 # game/src/plot/jen02.rpy:32
 translate chinese jen02_lobby_5a4e6aa1:
 
     # jenny f_annoyed "Fine."
-    jenny f_annoyed "好吧。"
+    jenny f_annoyed "行吧。"
 
 # game/src/plot/jen02.rpy:35
 translate chinese jen02_lobby_25250bbe:
 
     # debbie "You should have never quit your job at Consum-R."
-    debbie "你当初就不该辞掉在消费市场的工扮。"
+    debbie "你当初就不该辞掉Consum-R的工作。"
 
 # game/src/plot/jen02.rpy:37
 translate chinese jen02_lobby_0fcd3042:
@@ -130,7 +130,7 @@ translate chinese jen02_lobby_0fcd3042:
 translate chinese jen02_lobby_197464b9:
 
     # debbie f_sad "Oh, grow up, [saga.cast.jenny]!"
-    debbie f_sad "哦，成熟点吧，[saga.cast.jenny]！"
+    debbie f_sad "你也该懂点事了，[saga.cast.jenny]！"
 
 # game/src/plot/jen02.rpy:40
 translate chinese jen02_lobby_35274c3d:
@@ -142,31 +142,31 @@ translate chinese jen02_lobby_35274c3d:
 translate chinese jen02_lobby_bc37eed1:
 
     # jenny "... No."
-    jenny "……不。"
+    jenny "……不喜欢。"
 
 # game/src/plot/jen02.rpy:43
 translate chinese jen02_lobby_e473b6a8:
 
     # debbie "People do what they have to in order to put food on the table."
-    debbie "人们为了养家糊口，不得不做自己该做的事。"
+    debbie "大家都是为了养家糊口，该做什么就得做什么。"
 
 # game/src/plot/jen02.rpy:45
 translate chinese jen02_lobby_782de1e7:
 
     # debbie "I can't support you forever, you know?"
-    debbie "我不能永远养着你，知道吗？"
+    debbie "我总不能养你一辈子，明白吗？"
 
 # game/src/plot/jen02.rpy:48
 translate chinese jen02_lobby_f05af8a5:
 
     # jenny "Oh, that's real nice, Mom..."
-    jenny "哦，那可真贴心啊，妈……"
+    jenny "说得真好听啊，妈……"
 
 # game/src/plot/jen02.rpy:51
 translate chinese jen02_lobby_0ca39044:
 
     # jenny e_r "... Sorry I'm such a {i}huge{/i} burden on you guys!"
-    jenny e_r "……抱歉我给你们添了{i}这么大{/i}的负担！"
+    jenny e_r "……真是对不起，给你们添了{i}这么大{/i}的负担！"
 
 # game/src/plot/jen02.rpy:54
 translate chinese jen02_lobby_24c94ae5:
@@ -178,19 +178,19 @@ translate chinese jen02_lobby_24c94ae5:
 translate chinese jen02_lobby_c2637ea4:
 
     # jenny "Yeah, well... you might as well have."
-    jenny "是啊，不过……你差不多就是这个意思。"
+    jenny "是啊，反正……你还不如直接这么说呢。"
 
 # game/src/plot/jen02.rpy:57
 translate chinese jen02_lobby_2943c74e:
 
     # jenny "Don't worry, you won't have to suffer me much longer."
-    jenny "别担心，你很快就不用忍受我了。"
+    jenny "别担心，你们也不用再忍我多久了。"
 
 # game/src/plot/jen02.rpy:59
 translate chinese jen02_lobby_14d258b7:
 
     # jenny "The second I get a little money, I'm gone!"
-    jenny "我一拿到点钱，马上就走！"
+    jenny "等我一有钱，立马走人！"
 
 # game/src/plot/jen02.rpy:61
 translate chinese jen02_lobby_ecd73b44:
@@ -202,13 +202,13 @@ translate chinese jen02_lobby_ecd73b44:
 translate chinese jen02_lobby_47550adf:
 
     # debbie "Do you always have to turn everything into a big drama?!"
-    debbie "你非得把每件事都搞得这么戏剧化吗？！"
+    debbie "你非得什么事都闹得跟天塌了一样吗？！"
 
 # game/src/plot/jen02.rpy:64
 translate chinese jen02_lobby_2060eb9d:
 
     # jenny e_w @ -m_talk "..."
-    jenny e_w @ -m_talk "..."
+    jenny e_w @ -m_talk "……"
 
 # game/src/plot/jen02.rpy:65
 translate chinese jen02_lobby_ef04d002_1:
@@ -220,7 +220,7 @@ translate chinese jen02_lobby_ef04d002_1:
 translate chinese jen02_lobby_76271570:
 
     # debbie "You know I love you [saga.cast.jenny] and you're not a burden..."
-    debbie "你知道我爱你[saga.cast.jenny]，你不是负担……"
+    debbie "[saga.cast.jenny]，你知道我爱你，你也从来都不是负担……"
 
 # game/src/plot/jen02.rpy:67
 translate chinese jen02_lobby_3e794dfe:
@@ -232,31 +232,31 @@ translate chinese jen02_lobby_3e794dfe:
 translate chinese jen02_lobby_99dad869:
 
     # debbie "You can't sit upstairs in your room waiting for the perfect opportunity to present itself."
-    debbie "你不能坐在楼上房间里等待完美机会自动出现。"
+    debbie "你不能整天坐在楼上房间里，等着完美的机会自己送上门。"
 
 # game/src/plot/jen02.rpy:69
 translate chinese jen02_lobby_dc82766f:
 
     # debbie "You have to go out and make it happen."
-    debbie "你得走出去，自己去创造机会。"
+    debbie "你得自己走出去争取。"
 
 # game/src/plot/jen02.rpy:71
 translate chinese jen02_lobby_3e1e1604:
 
     # jenny f_annoyed "Yeah, yeah..."
-    jenny f_annoyed "是是是……"
+    jenny f_annoyed "知道了，知道了……"
 
 # game/src/plot/jen02.rpy:74
 translate chinese jen02_lobby_31d32934:
 
     # jenny "... God, I can't wait to leave this stupid town!"
-    jenny "……天啊，我迫不及待想离开这个破小镇了！"
+    jenny "……老天，我真恨不得马上离开这个破镇子！"
 
 # game/src/plot/jen02.rpy:77
 translate chinese jen02_lobby_1cee7a41:
 
     # debbie @ -m_talk "..."
-    debbie @ -m_talk "..."
+    debbie @ -m_talk "……"
 
 # game/src/plot/jen02.rpy:78
 translate chinese jen02_lobby_43557d67:
@@ -268,13 +268,13 @@ translate chinese jen02_lobby_43557d67:
 translate chinese jen02_lobby_06d77a1f:
 
     # anon a_wtf e_w o_left "Eh, not really."
-    anon a_wtf e_w o_left "嗯，也不是。"
+    anon a_wtf e_w o_left "呃，没有吧。"
 
 # game/src/plot/jen02.rpy:80
 translate chinese jen02_lobby_ed04d48e:
 
     # anon "I help out around here and she's older than me, so-"
-    anon "我在这儿帮忙，而且她比我大，所以——"
+    anon "我都知道帮家里做事，她还比我大呢，所以——"
 
 # game/src/plot/jen02.rpy:82
 translate chinese jen02_lobby_989f15cd:
@@ -286,13 +286,13 @@ translate chinese jen02_lobby_989f15cd:
 translate chinese jen02_lobby_8106d343:
 
     # debbie "And I really appreciate it, sweetie."
-    debbie "我真的很感激，亲爱的。"
+    debbie "我真的很感激你，亲爱的。"
 
 # game/src/plot/jen02.rpy:87
 translate chinese jen02_lobby_76afd1ab:
 
     # debbie "You're such a good boy."
-    debbie "你真是个好孩子。"
+    debbie "你真是个好男孩。"
 
 # game/src/plot/jen02.rpy:92
 translate chinese jen02_lobby_b0b7ad4f:
@@ -304,7 +304,7 @@ translate chinese jen02_lobby_b0b7ad4f:
 translate chinese jen02_lobby_87e03f20:
 
     # anon "N-no, that's okay [saga.cast.debbie]..."
-    anon "不、不用了，没事的[saga.cast.debbie]……"
+    anon "不、不用了，[saga.cast.debbie]……"
 
 # game/src/plot/jen02.rpy:94
 translate chinese jen02_lobby_79a3b8ae:
@@ -316,35 +316,35 @@ translate chinese jen02_lobby_79a3b8ae:
 translate chinese jen02_lobby_1a43818c:
 
     # debbie "Oh, alright."
-    debbie "哦，好吧。"
+    debbie "哦，那好吧。"
 
 # game/src/plot/jen02.rpy:96
 translate chinese jen02_lobby_adc55fff:
 
     # debbie "Maybe I'll bake a pie."
-    debbie "也许我会烤个派。"
+    debbie "那我烤个派吧。"
 
 # game/src/plot/jen02.rpy:97
 translate chinese jen02_lobby_ae59410f:
 
     # debbie "Something to help get my mind off all this drama."
-    debbie "好让自己不去想这些破事。"
+    debbie "找点事做，也省得再想这些糟心事。"
 
 # game/src/plot/jen02.rpy:98
 translate chinese jen02_lobby_a8aa9124:
 
     # anon @ e_b f_happy m_laugh "Heh, okay."
-    anon @ e_b f_happy m_laugh "呵，好吧。"
+    anon @ e_b f_happy m_laugh "呵，好啊。"
 
 # game/src/plot/jen02.rpy:103
 translate chinese jen02_lobby_0a2a5c8c:
 
     # anon @ -m_talk "( Poor [saga.cast.debbie]. )"
-    anon @ -m_talk "(可怜的小[saga.cast.debbie]。)"
+    anon @ -m_talk "([saga.cast.debbie]真可怜。)"
 
 # game/src/plot/jen02.rpy:104
 translate chinese jen02_lobby_521e17ec:
 
     # anon f_pensive @ -m_talk "( [saga.cast.jenny] doesn't realize how lucky she is. )"
-    anon f_pensive @ -m_talk "([saga.cast.jenny]不知道自己有多幸运。)"
+    anon f_pensive @ -m_talk "([saga.cast.jenny]根本不知道自己有多幸运。)"
 

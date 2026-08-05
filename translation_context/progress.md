@@ -1,6 +1,6 @@
-﻿# 翻译精修进度
+# 翻译精修进度
 
-更新时间：2026-08-04
+更新时间：2026-08-05
 
 ## 状态说明
 
@@ -100,6 +100,8 @@
 | `tl/chinese/src/plot/debbie_drawer.rpy` | Debbie 卧室；抽屉与内裤抽屉隐私提示 | Anon、Debbie（变量） | 完成 | 通读 3 个翻译块并精修全部译文；明确 `panty drawer` 为“内裤抽屉”，保留对玩家/自己的共同警告与越界感，不额外扩写 | 本批格式校验通过 |
 | `tl/chinese/src/plot/debbie_landing.rpy` | Debbie 家楼梯平台；浴室门缝偷看提示 | Anon | 完成 | 通读 4 个翻译块并精修 3 处；修复病句和 ASCII 省略号，理顺发现门缝、好奇与自我开脱的心理递进 | 本批格式校验通过 |
 | `tl/chinese/src/plot/photo_debbie_diane.rpy` | Debbie/Diane 夏令营旧照片 | Anon、Debbie、Diane（变量） | 完成 | 通读并精修 2 个翻译块；修复女性复数代词误用，保留两人年轻时共同参加夏令营的时间与情绪信息 | 本批格式校验通过 |
+| `tl/chinese/src/plot/jen01.rpy` | Jenny线；浴室偷窥、被发现及前期敌对关系 | Jenny、Anon、Debbie（被提及） | 完成 | 通读完整场景并精修 31 个翻译块；将 `You! / Little! / PERVERT!!!` 作为被吹风机击打打断的连续辱骂处理，修复“娃娃脸”误译；保留偷窥事实、Jenny 的尖刻攻击性及 Anon 求情逻辑，统一中文省略号与标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/chinese/src/plot/jen02.rpy` | Jenny线；新衣争执、求职压力、搬家宣言及家庭责任对照 | Jenny、Debbie、Anon | 完成 | 通读完整场景并精修 58 个翻译块；恢复 `Consum-R` 英文专名，理顺 Jenny 的讽刺与负担感、Debbie 的经济压力和安抚、Anon 的挖苦与体谅；统一 `sweetie`“亲爱的”、`good boy`“好男孩”及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 
 ## 已完成的规则修复（剧情未全面精修）
 
@@ -179,7 +181,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线 `deb01.rpy` 至 `deb27.rpy` 及已登记支线 `deb_baby.rpy`、`deb_island.rpy`、`deb_kitchen.rpy`、`deb_laundry.rpy`、`deb_lobby.rpy`、`deb_mall.rpy`、`deb_pants.rpy`、`deb_pool.rpy`、`deb_shower.rpy`、`deb_sink.rpy`、`deb_sleep.rpy`、`deb_tv.rpy`、`deb_utility.rpy`、`deb_visit.rpy` 已完成；下一批按顺序复查 Debbie 支线与进入后续未完成的文件。
+1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy`、`jen02.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen03.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
