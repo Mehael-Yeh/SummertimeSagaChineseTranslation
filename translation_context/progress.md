@@ -105,6 +105,7 @@
 | `tl/chinese/src/plot/jen03.rpy` | Jenny线；早餐赌气、借款争执及赚钱计划铺垫 | Jenny、Debbie、Anon、Diane（被提及） | 完成 | 通读完整场景并精修 67 个翻译块；承接 `jen02.rpy` 的家庭争执，理顺 Jenny 拒绝早餐、借六十美元、含糊赚钱计划与学费压力；区分 Jenny 的讽刺、Anon 的反驳和 Debbie 的照顾者语气，统一 `sweetie`“亲爱的”、中文省略号及活动译文标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen04.rpy` | Jenny线；夜间色情影片角色扮演、再次偷窥、吹风机反击与勒索 | Jenny、Anon、Debbie（被提及）、影片男声 | 完成 | 通读完整场景并精修 63 个翻译块；理顺 Anon 误以为 Jenny 带男人回家、发现她跟随影片进行角色扮演、暴露后再次挨打及按现金量分支交钱的因果；统一 Jenny 对 Anon 的 `perv/pervert` 为“变态”，将色情角色称谓 `Daddy` 译为“爸爸”并与真实亲属关系区分，保留成人内容强度及中文引号、省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen05.rpy` | Jenny线；Sluttygram 赚钱计划、首次合作拍摄性感照片与关系短暂缓和 | Jenny、Anon | 完成 | 通读 129 个翻译块和 7 项拍照选项；理顺粉丝焦虑、社交媒体建议、拒绝回 Consum-R、逐步增加暴露程度及拍完立即赶人的关系变化；恢复 `Sluttygram`、`Consum-R` 英文专名，统一 `perv`“变态”、本场 `wimp`“窝囊废”、连续拆句、拍摄评价和中文省略号 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/chinese/src/plot/jen06.rpy` | Jenny线；潜入卧室寻找照片、翻看日记、内裤误会及付费看图交易 | Jenny、Anon、Debbie（被提及） | 完成 | 通读 105 个翻译块和 2 项分支选项；理顺潜入卧室、日记与内裤被撞见、六十美元看图交易、还价/央求/拒绝分支及逐张照片评论；修复反译、内心独白括号、ASCII 省略号与连续讽刺，统一本场 `loser`“废柴”、`perv/pervert`“变态”并保留性欲和自慰表达强度 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过 |
 
 ## 已完成的规则修复（剧情未全面精修）
 
@@ -184,7 +185,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen05.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen06.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen06.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen07.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
