@@ -28,7 +28,7 @@ translate chinese jen10_lobby_ccdb4bdf:
 translate chinese jen10_lobby_7b4eb54d:
 
     # jenny e_wsw f_annoyed "Tch, I need to pick up some things from the mall..."
-    jenny e_wsw f_annoyed "啧，我得去商场买点东西..."
+    jenny e_wsw f_annoyed "啧，我得去商场买点东西……"
 
 # game/src/plot/jen10.rpy:15
 translate chinese jen10_lobby_bfa05399:
@@ -40,13 +40,13 @@ translate chinese jen10_lobby_bfa05399:
 translate chinese jen10_lobby_0c7590e4:
 
     # jenny e_r f_annoyed "None of your business, loser!"
-    jenny e_r f_annoyed "关你屁事，废物！"
+    jenny e_r f_annoyed "关你什么事，废柴！"
 
 # game/src/plot/jen10.rpy:17
 translate chinese jen10_lobby_d5e7cd70:
 
     # jenny "I don't know why you've always gotta have your nose in {i}my business{/i}?!"
-    jenny "我不知道你为什么总是要窥探{i}我的事{/i}？"
+    jenny "你为什么什么都非得插手管一管{i}我的事{/i}？！"
 
 # game/src/plot/jen10.rpy:23
 translate chinese jen10_lobby_ae8a8c04:
@@ -70,7 +70,7 @@ translate chinese jen10_lobby_9b346a3f:
 translate chinese jen10_lobby_54154d7d:
 
     # anon @ f_sceptical "No way, I've given you tons of money already!"
-    anon @ f_sceptical "没门，我已经给了你很多钱了！"
+    anon @ f_sceptical "没门，我都给你多少钱了！"
 
 # game/src/plot/jen10.rpy:27
 translate chinese jen10_lobby_611a0d3d:
@@ -82,61 +82,61 @@ translate chinese jen10_lobby_611a0d3d:
 translate chinese jen10_lobby_417a1983:
 
     # jenny e_w "Don't act like I haven't been more than fair with you..."
-    jenny e_w "别装得好像我对你不够公平似的……"
+    jenny e_w "少装得好像我亏待了你似的……"
 
 # game/src/plot/jen10.rpy:33
 translate chinese jen10_lobby_973a0866:
 
     # anon f_snide "Y-yeah, okay, but-"
-    anon f_snide "好、好吧，但是——"
+    anon f_snide "是、是没错，可是——"
 
 # game/src/plot/jen10.rpy:35
 translate chinese jen10_lobby_9c7bdf65:
 
     # jenny "Quit being such a little bitch, [saga.cast.anon]!"
-    jenny "别这么怂包了，[saga.cast.anon]！"
+    jenny "别跟个小娘们似的，[saga.cast.anon]！"
 
 # game/src/plot/jen10.rpy:36
 translate chinese jen10_lobby_d078b3bd:
 
     # jenny "You make plenty of money."
-    jenny "你赚的钱够多了。"
+    jenny "你明明赚了不少钱。"
 
 # game/src/plot/jen10.rpy:37
 translate chinese jen10_lobby_a13d42c5:
 
     # jenny "Besides, you owe me for that little screw up with the toy the other day."
-    jenny "再说了，那天弄坏玩具那事儿你还欠我呢。"
+    jenny "再说，上次买错玩具的账我还没跟你算呢。"
 
 # game/src/plot/jen10.rpy:38
 translate chinese jen10_lobby_d60dcb56:
 
     # anon a_think e_nw f_pensive @ -m_talk "( Ugh, I guess she's right about that... )"
-    anon a_think e_nw f_pensive @ -m_talk "(唉，她说的倒也没错……)"
+    anon a_think e_nw f_pensive @ -m_talk "（唉，这事她说得倒也没错……）"
 
 # game/src/plot/jen10.rpy:39
 translate chinese jen10_lobby_ac2c73e2:
 
     # anon @ -m_talk "( ... And this might be a good opportunity to learn more about what she's doing for that money. )"
-    anon @ -m_talk "(……而且这也许是个好机会，多了解她是怎么挣那笔钱的。)"
+    anon @ -m_talk "（……而且这也许是个好机会，能弄清她到底靠什么赚钱。）"
 
 # game/src/plot/jen10.rpy:40
 translate chinese jen10_lobby_3fa38835:
 
     # jenny "Umm, hello?!"
-    jenny "嗯，你好？！"
+    jenny "喂？！"
 
 # game/src/plot/jen10.rpy:41
 translate chinese jen10_lobby_904fa670:
 
     # jenny "Earth to loser!"
-    jenny "喂，废物！"
+    jenny "喂，废柴，回魂了！"
 
 # game/src/plot/jen10.rpy:42
 translate chinese jen10_lobby_a28427df:
 
     # anon a_pocket e_w f_tired "{i}*Sigh*{/i} Fine."
-    anon a_pocket e_w f_tired "{i}*叹气*{/i}好吧。"
+    anon a_pocket e_w f_tired "{i}*叹气*{/i} 行吧。"
 
 # game/src/plot/jen10.rpy:43
 translate chinese jen10_lobby_14def1dc:
@@ -154,13 +154,13 @@ translate chinese jen10_lobby_54e9b3d5:
 translate chinese jen10_lobby_8b2c47b7:
 
     # anon a_uneasy "Erm, I don't have two hundred right now..."
-    anon a_uneasy "呃，我现在没有两百..."
+    anon a_uneasy "呃，我现在没两百美元……"
 
 # game/src/plot/jen10.rpy:48
 translate chinese jen10_lobby_2c7fdfd1:
 
     # jenny f_annoyed "Ugh, you are worthless..."
-    jenny f_annoyed "啊，你真没用..."
+    jenny f_annoyed "呃，你可真没用……"
 
 # game/src/plot/jen10.rpy:51
 translate chinese jen10_lobby_8d51d92a:
@@ -184,7 +184,7 @@ translate chinese jen10_lobby_3f9918d4:
 translate chinese jen10_lobby_783e3711:
 
     # anon a_side f_tired "*Sigh* Fine, I'll be back."
-    anon a_side f_tired "*叹气* 好吧，我会回来的。"
+    anon a_side f_tired "*叹气* 行吧，我拿到钱就回来。"
 
 # game/src/plot/jen10.rpy:57
 translate chinese jen10_lobby_d611a819:
@@ -202,7 +202,7 @@ translate chinese jen10_lobby_merge1_a457e7c6:
 translate chinese jen10_lobby_merge1_ad1051b8:
 
     # jenny a_money e_w f_annoyed "It's about freaking time..."
-    jenny a_money e_w f_annoyed "真是的，终于来了..."
+    jenny a_money e_w f_annoyed "磨蹭死了……"
 
 # game/src/plot/jen10.rpy:68
 translate chinese jen10_lobby_merge1_43a355fc:
@@ -232,19 +232,19 @@ translate chinese jen10_lobby_merge1_e86594d2:
 translate chinese jen10_lobby_merge1_43702913:
 
     # jenny "I'm not going out in public with a loser like you..."
-    jenny "我可不想跟你这种废物一起出门..."
+    jenny "我才不想跟你这种废柴一起出门……"
 
 # game/src/plot/jen10.rpy:74
 translate chinese jen10_lobby_merge1_d99e514e:
 
     # anon "... But I've given you so much money and-"
-    anon "...但我已经给了你这么多钱，而且——"
+    anon "……可我都给你这么多钱了，而且——"
 
 # game/src/plot/jen10.rpy:75
 translate chinese jen10_lobby_merge1_3ad5be17:
 
     # jenny f_annoyed "You are such a pain in my ass."
-    jenny f_annoyed "你真是我屁股里的刺。"
+    jenny f_annoyed "你可真烦人。"
 
 # game/src/plot/jen10.rpy:76
 translate chinese jen10_lobby_merge1_a48048f2:
@@ -424,7 +424,7 @@ translate chinese jen10_lobby_merge2_a457e7c6:
 translate chinese jen10_lobby_merge2_b4a23d7f:
 
     # anon a_cash_protect f_smug "... But I'm coming with you."
-    anon a_cash_protect f_smug "...但我跟你去。"
+    anon a_cash_protect f_smug "……不过我得跟你一起去。"
 
 # game/src/plot/jen10.rpy:150
 translate chinese jen10_lobby_merge2_bbda68d6:
@@ -448,7 +448,7 @@ translate chinese jen10_lobby_merge2_01de022c:
 translate chinese jen10_lobby_merge2_9ec1dd15:
 
     # jenny a_side f_angry_pouty -m_teeth @ -m_talk "..."
-    jenny a_side f_angry_pouty -m_teeth @ -m_talk "..."
+    jenny a_side f_angry_pouty -m_teeth @ -m_talk "……"
 
 # game/src/plot/jen10.rpy:154
 translate chinese jen10_lobby_merge2_a5835261:
@@ -484,7 +484,7 @@ translate chinese jen10_lobby_merge2_3be4d7cb:
 translate chinese jen10_retry_81ac18b4:
 
     # anon f_shy @ -m_talk "..."
-    anon f_shy @ -m_talk "..."
+    anon f_shy @ -m_talk "……"
 
 # game/src/plot/jen10.rpy:182
 translate chinese jen10_retry_f9bbf50e:
@@ -502,7 +502,7 @@ translate chinese jen10_retry_ffae01ff:
 translate chinese jen10_retry_16aa7bd7:
 
     # jenny f_calm "Fucking finally!"
-    jenny f_calm "操，终于！"
+    jenny f_calm "他妈的，终于拿到了！"
 
 # game/src/plot/jen10.rpy:196
 translate chinese jen10_retry_4382c383:
@@ -520,7 +520,7 @@ translate chinese jen10_retry_d68b26d5:
 translate chinese jen10_retry_ad8a1be4:
 
     # anon f_worried "Hey, you forgot the money!"
-    anon f_worried "喂，你忘了给钱！"
+    anon f_worried "喂，你钱还没拿呢！"
 
 # game/src/plot/jen10.rpy:220
 translate chinese jen10_retry_alt_125d8897:
@@ -574,7 +574,7 @@ translate chinese jen10_retry_busy_8485d911:
 translate chinese jen10_retry_busy_37407d12:
 
     # anon f_confused "What do you mean, \"not today.\"?"
-    anon f_confused "「今天不行」是什么意思？"
+    anon f_confused "“今天不行”是什么意思？"
 
 # game/src/plot/jen10.rpy:241
 translate chinese jen10_retry_busy_ab6528a5:
@@ -616,13 +616,13 @@ translate chinese jen10_retry_busy_a9a27446:
 translate chinese jen10_retry_cash_81ac18b4:
 
     # anon f_shy @ -m_talk "..."
-    anon f_shy @ -m_talk "..."
+    anon f_shy @ -m_talk "……"
 
 # game/src/plot/jen10.rpy:264
 translate chinese jen10_retry_cash_f9bbf50e:
 
     # jenny f_confused "Have you got my money yet?"
-    jenny f_confused "你拿到我的钱了吗?"
+    jenny f_confused "我的钱弄到了吗？"
 
 # game/src/plot/jen10.rpy:265
 translate chinese jen10_retry_cash_cad171cf:
@@ -658,7 +658,7 @@ translate chinese jen10_retry_cash_60fc7611:
 translate chinese jen10_retry_cash_4920f669:
 
     # jenny f_disgusted "Ugh, broke guys are so gross."
-    jenny f_disgusted "呃，穷鬼真恶心。"
+    jenny f_disgusted "呃，没钱的男人真恶心。"
 
 # game/src/plot/jen10.rpy:290
 translate chinese jen10_depart_c2822827:
@@ -688,13 +688,13 @@ translate chinese jen10_depart_0c8b2fdc:
 translate chinese jen10_depart_rails_dfcd4c10:
 
     # anon @ -m_talk "( Did [saga.cast.jenny] seriously just leave without the money? )"
-    anon @ -m_talk "([saga.cast.jenny]真就这么走了，连钱都不要了？)"
+    anon @ -m_talk "（[saga.cast.jenny]真就这么走了，连钱都忘了拿？）"
 
 # game/src/plot/jen10.rpy:309
 translate chinese jen10_depart_rails_58b359cf:
 
     # anon f_shy @ -m_talk "( I suppose I'd better chase her down before she makes an ass out of herself. )"
-    anon f_shy @ -m_talk "(看来我最好在她出丑之前追上她。)"
+    anon f_shy @ -m_talk "（我还是赶紧追上去吧，免得她结账时出丑。）"
 
 # game/src/plot/jen10.rpy:320
 translate chinese jen10_grace_3bcac96a:
@@ -706,7 +706,7 @@ translate chinese jen10_grace_3bcac96a:
 translate chinese jen10_grace_0c3013bf:
 
     # anon f_sceptical "[saga.cast.jenny]!"
-    anon f_sceptical "[saga.cast.jenny]!"
+    anon f_sceptical "[saga.cast.jenny]！"
 
 # game/src/plot/jen10.rpy:323
 translate chinese jen10_grace_3a31f1c9:
@@ -718,7 +718,7 @@ translate chinese jen10_grace_3a31f1c9:
 translate chinese jen10_grace_2e88c507:
 
     # anon f_grumpy "Ugh, why do you always have a stick up your butt?"
-    anon f_grumpy "呃，你怎么老是那么死板？"
+    anon f_grumpy "呃，你怎么老是一副谁都欠你的样子？"
 
 # game/src/plot/jen10.rpy:325
 translate chinese jen10_grace_05eaf47e:
@@ -730,7 +730,7 @@ translate chinese jen10_grace_05eaf47e:
 translate chinese jen10_grace_b0843cae:
 
     # jenny "No, I can't be chill. Not when I have a loser shadowing my every move."
-    jenny "不，我放松不了。尤其是有一个废物一直跟着我。"
+    jenny "不能。有个废柴走到哪儿跟到哪儿，我怎么放松？"
 
 # game/src/plot/jen10.rpy:327
 translate chinese jen10_grace_0e10c2e5:
@@ -754,7 +754,7 @@ translate chinese jen10_grace_83e676fb:
 translate chinese jen10_grace_d901aa57:
 
     # anon f_grumpy "I'm just gonna keep asking, you know?"
-    anon f_grumpy "反正我会一直问的，你知道吧？"
+    anon f_grumpy "你不说我就一直问。"
 
 # game/src/plot/jen10.rpy:335
 translate chinese jen10_grace_17dca50a:
@@ -784,13 +784,13 @@ translate chinese jen10_grace_3ebce01c:
 translate chinese jen10_grace_628c3469:
 
     # jenny "To get my foot surgically removed from your ass."
-    jenny "去把我脚从你屁股里手术取出来。"
+    jenny "去做手术，把我的脚从你屁股里取出来。"
 
 # game/src/plot/jen10.rpy:341
 translate chinese jen10_grace_0d2257f7:
 
     # anon f_pouty @ f_bored "Heh, good one."
-    anon f_pouty @ f_bored "嘿，说得好。"
+    anon f_pouty @ f_bored "呵，真会说。"
 
 # game/src/plot/jen10.rpy:344
 translate chinese jen10_grace_66c0a97e:
@@ -880,7 +880,7 @@ translate chinese jen10_grace_106c4279:
 translate chinese jen10_grace_41516240:
 
     # grace "Sugar Tats."
-    grace "糖渍点心。"
+    grace "Sugar Tats。"
 
 # game/src/plot/jen10.rpy:380
 translate chinese jen10_grace_0cd1e571:
@@ -892,7 +892,7 @@ translate chinese jen10_grace_0cd1e571:
 translate chinese jen10_grace_802eaa51:
 
     # jenny "No."
-    jenny "不了。"
+    jenny "没听过。"
 
 # game/src/plot/jen10.rpy:382
 translate chinese jen10_grace_2913febe:
@@ -910,7 +910,7 @@ translate chinese jen10_grace_f83cca47:
 translate chinese jen10_grace_971e3304:
 
     # jenny "Yeah, no thanks [saga.cast.grace]..."
-    jenny "是啊，不了，谢谢 [saga.cast.grace]……"
+    jenny "嗯，不用了，[saga.cast.grace]……"
 
 # game/src/plot/jen10.rpy:385
 translate chinese jen10_grace_dc9fabb3:
@@ -928,31 +928,31 @@ translate chinese jen10_grace_e47efd05:
 translate chinese jen10_grace_afdc9a68:
 
     # anon f_snide @ e_b f_happy m_laugh "Heh, yeah [saga.cast.jenny]... what are you doing for work?"
-    anon f_snide @ e_b f_happy m_laugh "嘿，是啊 [saga.cast.jenny]……你做什么工作？"
+    anon f_snide @ e_b f_happy m_laugh "呵，是啊，[saga.cast.jenny]……你现在做什么工作？"
 
 # game/src/plot/jen10.rpy:390
 translate chinese jen10_grace_537a5ea3:
 
     # jenny f_sad "I uhh..."
-    jenny f_sad "我呃……"
+    jenny f_sad "我、呃……"
 
 # game/src/plot/jen10.rpy:393
 translate chinese jen10_grace_75e5d4bb:
 
     # jenny f_surprised "I uhh..."
-    jenny f_surprised "我呃……"
+    jenny f_surprised "我、呃……"
 
 # game/src/plot/jen10.rpy:394
 translate chinese jen10_grace_1f058662:
 
     # anon f_worried "H-hi, I'm [saga.cast.anon]."
-    anon f_worried "你、你好，我是 [saga.cast.anon]。"
+    anon f_worried "你、你好，我是[saga.cast.anon]。"
 
 # game/src/plot/jen10.rpy:397
 translate chinese jen10_grace_be920b22:
 
     # grace "Oh, I'm sorry. I didn't know you two were together."
-    grace "哦，抱歉。我不知道你们俩在一起。"
+    grace "哦，抱歉，我不知道你们是一对。"
 
 # game/src/plot/jen10.rpy:398
 translate chinese jen10_grace_3eaee0bb:
@@ -1018,25 +1018,25 @@ translate chinese jen10_grace_4a2b74e5:
 translate chinese jen10_grace_709288bc:
 
     # grace f_surprised "Wait a minute, you two aren't... together, are you?!"
-    grace f_surprised "等等，你俩不是...在一起了吧？！"
+    grace f_surprised "等等，你们俩该不会……在交往吧？！"
 
 # game/src/plot/jen10.rpy:414
 translate chinese jen10_grace_1dd0f1b2:
 
     # anon f_surprised m_teeth @ -m_talk "!!!"
-    anon f_surprised m_teeth @ -m_talk "!!!"
+    anon f_surprised m_teeth @ -m_talk "！！！"
 
 # game/src/plot/jen10.rpy:415
 translate chinese jen10_grace_f519e47c:
 
     # jenny f_disgusted "Umm, fuck no!"
-    jenny f_disgusted "呃，操，怎么可能！"
+    jenny f_disgusted "呃，当然他妈不是！"
 
 # game/src/plot/jen10.rpy:416
 translate chinese jen10_grace_4e4642f4:
 
     # anon e_osw f_sad -m_teeth "..."
-    anon e_osw f_sad -m_teeth "..."
+    anon e_osw f_sad -m_teeth "……"
 
 # game/src/plot/jen10.rpy:417
 translate chinese jen10_grace_5e77d2f1:
@@ -1066,7 +1066,7 @@ translate chinese jen10_grace_6f3af5fa:
 translate chinese jen10_grace_260c59d8:
 
     # grace "So..."
-    grace "那么..."
+    grace "所以……"
 
 # game/src/plot/jen10.rpy:425
 translate chinese jen10_grace_cde1defa:
@@ -1120,7 +1120,7 @@ translate chinese jen10_grace_4a2b74e5_1:
 translate chinese jen10_grace_68e438c3:
 
     # grace f_sad "Wait a minute, you two aren't... together, are you?!"
-    grace f_sad "等等，你们两个不是……在一起了吧？！"
+    grace f_sad "等等，你们俩该不会……在交往吧？！"
 
 # game/src/plot/jen10.rpy:436
 translate chinese jen10_grace_ac6cdb86:
@@ -1210,7 +1210,7 @@ translate chinese jen10_grace_0a907d91:
 translate chinese jen10_grace_b621082b:
 
     # grace "I took my sister in a couple years ago, after our parents died."
-    grace "我父母去世后，我几年前收养了我妹妹。"
+    grace "几年前父母去世后，我就把妹妹接来一起住了。"
 
 # game/src/plot/jen10.rpy:461
 translate chinese jen10_grace_e82a964d:
@@ -1270,7 +1270,7 @@ translate chinese jen10_grace_fd05c978:
 translate chinese jen10_grace_b11c111b:
 
     # grace "You're welcome to come meet her... if you want?"
-    grace "欢迎你来见她……如果你想的话？"
+    grace "你想的话，随时可以来认识她……"
 
 # game/src/plot/jen10.rpy:485
 translate chinese jen10_grace_e198bff2:
@@ -1306,7 +1306,7 @@ translate chinese jen10_grace_ffd394f0:
 translate chinese jen10_grace_41516240_1:
 
     # grace "Sugar Tats."
-    grace "糖刺青。"
+    grace "Sugar Tats。"
 
 # game/src/plot/jen10.rpy:495
 translate chinese jen10_grace_fcc8faf4:
@@ -1324,13 +1324,13 @@ translate chinese jen10_grace_802eaa51_1:
 translate chinese jen10_grace_9b4295be:
 
     # anon f_calm "It's really awesome!"
-    anon f_calm "它真的很棒！"
+    anon f_calm "那家店真的很棒！"
 
 # game/src/plot/jen10.rpy:498
 translate chinese jen10_grace_8654d175:
 
     # grace @ e_b f_happy m_laugh "Hehe, thanks [saga.cast.anon]!"
-    grace @ e_b f_happy m_laugh "嘿嘿，谢啦 [saga.cast.anon]！"
+    grace @ e_b f_happy m_laugh "嘿嘿，谢谢，[saga.cast.anon]！"
 
 # game/src/plot/jen10.rpy:499
 translate chinese jen10_grace_d0c3afbf:
@@ -1348,7 +1348,7 @@ translate chinese jen10_grace_f83cca47_1:
 translate chinese jen10_grace_bb43e3d5:
 
     # grace "Just come with [saga.cast.anon] next time."
-    grace "下次带 [saga.cast.anon] 一起来吧。"
+    grace "下次跟[saga.cast.anon]一起来吧。"
 
 # game/src/plot/jen10.rpy:506
 translate chinese jen10_grace_ee735403:
@@ -1360,7 +1360,7 @@ translate chinese jen10_grace_ee735403:
 translate chinese jen10_grace_971e3304_1:
 
     # jenny "Yeah, no thanks [saga.cast.grace]..."
-    jenny "是啊，不用了 [saga.cast.grace]..."
+    jenny "嗯，不用了，[saga.cast.grace]……"
 
 # game/src/plot/jen10.rpy:509
 translate chinese jen10_grace_dc9fabb3_1:
@@ -1378,7 +1378,7 @@ translate chinese jen10_grace_e47efd05_1:
 translate chinese jen10_grace_b6d0e1ac:
 
     # anon e_b f_happy m_laugh @ -m_talk "Heh, yeah [saga.cast.jenny]... what are you doing for work?"
-    anon e_b f_happy m_laugh @ -m_talk "嘿，是啊 [saga.cast.jenny]... 你在做什么工作？"
+    anon e_b f_happy m_laugh @ -m_talk "呵，是啊，[saga.cast.jenny]……你现在做什么工作？"
 
 # game/src/plot/jen10.rpy:514
 translate chinese jen10_grace_ec2c2e76:
@@ -1414,7 +1414,7 @@ translate chinese jen10_grace_d239fb4f:
 translate chinese jen10_grace_ddd7dcc3:
 
     # grace "I was just trying to catch up."
-    grace "我只是想跟上来。"
+    grace "我只是想跟你叙叙旧。"
 
 # game/src/plot/jen10.rpy:522
 translate chinese jen10_grace_03976ef5:
@@ -1426,7 +1426,7 @@ translate chinese jen10_grace_03976ef5:
 translate chinese jen10_grace_75e5d4bb_1:
 
     # jenny f_surprised "I uhh..."
-    jenny f_surprised "我呃……"
+    jenny f_surprised "我、呃……"
 
 # game/src/plot/jen10.rpy:531
 translate chinese jen10_grace_49d8bb96:
@@ -1516,7 +1516,7 @@ translate chinese jen10_grace_c1baf25a:
 translate chinese jen10_grace_a36b19ae:
 
     # grace @ e_r f_annoyed "Last time she brought home some strawberry flavored off brand... it was awful!"
-    grace @ e_r f_annoyed "上次她带回家一些杂牌草莓味...难吃死了！"
+    grace @ e_r f_annoyed "上次她买了瓶草莓味的杂牌货……糟透了！"
 
 # game/src/plot/jen10.rpy:558
 translate chinese jen10_grace_6b984a12:
@@ -1534,7 +1534,7 @@ translate chinese jen10_grace_03976ef5_1:
 translate chinese jen10_grace_81b58ef3:
 
     # grace f_calm "Oh, that reminds me..."
-    grace f_calm "哦，这倒提醒我了..."
+    grace f_calm "哦，这倒提醒我了……"
 
 # game/src/plot/jen10.rpy:566
 translate chinese jen10_grace_merge_7ad9ed98:
@@ -1558,13 +1558,13 @@ translate chinese jen10_grace_merge_0ba3a7c0:
 translate chinese jen10_grace_merge_ae154807:
 
     # grace "Aww, I always thought he was kinda sweet..."
-    grace "啊，我一直觉得他还挺贴心的..."
+    grace "哎呀，我一直觉得他人还挺好的……"
 
 # game/src/plot/jen10.rpy:571
 translate chinese jen10_grace_merge_93406492:
 
     # grace "... But I imagine you're looking for bigger fish, eh?"
-    grace "...不过我想你在找更好的对象，对吧？"
+    grace "……不过你肯定想钓条更大的鱼，对吧？"
 
 # game/src/plot/jen10.rpy:572
 translate chinese jen10_grace_merge_139e5ec5:
@@ -1630,7 +1630,7 @@ translate chinese jen10_grace_merge_dea7a6b5:
 translate chinese jen10_grace_merge_b457f575:
 
     # jenny "Come on, loser."
-    jenny "走吧， loser。"
+    jenny "走吧，废柴。"
 
 # game/src/plot/jen10.rpy:597
 translate chinese jen10_grace_merge_d6d6d6e2:
@@ -1642,7 +1642,7 @@ translate chinese jen10_grace_merge_d6d6d6e2:
 translate chinese jen10_grace_merge_3f288c64:
 
     # grace f_calm "It's alright. I wasn't expecting anything different."
-    grace f_calm "没事。我也没指望什么不一样的。"
+    grace f_calm "没事，我也没指望她会有什么不同。"
 
 # game/src/plot/jen10.rpy:599
 translate chinese jen10_grace_merge_66f426ee:
@@ -1690,7 +1690,7 @@ translate chinese jen10_grace_merge_c5dc19ba:
 translate chinese jen10_grace_merge_22c85b86:
 
     # grace f_calm "Cool."
-    grace f_calm "酷。"
+    grace f_calm "好啊。"
 
 # game/src/plot/jen10.rpy:615
 translate chinese jen10_grace_merge_9784f230:
@@ -1714,13 +1714,13 @@ translate chinese jen10_grace_merge_e13c7b30:
 translate chinese jen10_grace_merge_4e37ae6b:
 
     # anon @ -m_talk "( Hmm, now where did [saga.cast.jenny] go? )"
-    anon @ -m_talk "(嗯，[saga.cast.jenny]去哪了？)"
+    anon @ -m_talk "（嗯，[saga.cast.jenny]跑哪儿去了？）"
 
 # game/src/plot/jen10.rpy:623
 translate chinese jen10_grace_merge_01fe63d0:
 
     # anon @ -m_talk "( She said she was headed towards, Pink... I should check there. )"
-    anon @ -m_talk "(她说她去了粉色那里……我去那边看看吧。)"
+    anon @ -m_talk "（她说要去Pink……我去那边看看。）"
 
 # game/src/plot/jen10.rpy:635
 translate chinese jen10_grace_rails_3fa38835:
@@ -1744,7 +1744,7 @@ translate chinese jen10_grace_rails_333e0ca9:
 translate chinese jen10_grace_rails_80140316:
 
     # anon f_shy "Yup, I'm right behind you."
-    anon f_shy "要，我就在你后面。"
+    anon f_shy "去啊，我就在你后面。"
 
 # game/src/plot/jen10.rpy:650
 translate chinese jen10_shop_4891efbd:
@@ -1756,7 +1756,7 @@ translate chinese jen10_shop_4891efbd:
 translate chinese jen10_shop_7d5ac8bd:
 
     # jenny @ -m_talk "..."
-    jenny @ -m_talk "..."
+    jenny @ -m_talk "……"
 
 # game/src/plot/jen10.rpy:653
 translate chinese jen10_shop_d3cc6b14:
@@ -1804,7 +1804,7 @@ translate chinese jen10_shop_e8adec68:
 translate chinese jen10_shop_31cc1fe4:
 
     # anon "I mean, you're a broke, boyfriendless, college dropout..."
-    anon "我是说，你一个没钱、没男友、大学辍学的家伙……"
+    anon "我是说，你没钱、没男朋友，还从大学退了学……"
 
 # game/src/plot/jen10.rpy:663
 translate chinese jen10_shop_0e61ad33:
@@ -1816,13 +1816,13 @@ translate chinese jen10_shop_0e61ad33:
 translate chinese jen10_shop_32995b02:
 
     # anon "Who wouldn't be jealous?"
-    anon "谁会不嫉妒呢？"
+    anon "谁能不嫉妒你啊？"
 
 # game/src/plot/jen10.rpy:665
 translate chinese jen10_shop_c5afcb31:
 
     # jenny f_angry m_teeth "{i}*Gasp*{/i} Fuck you!!"
-    jenny f_angry m_teeth "{i}*喘气*{/i} 操你妈！！"
+    jenny f_angry m_teeth "{i}*倒吸一口气*{/i} 去你的！！"
 
 # game/src/plot/jen10.rpy:666
 translate chinese jen10_shop_e38e4e67:
@@ -1834,13 +1834,13 @@ translate chinese jen10_shop_e38e4e67:
 translate chinese jen10_shop_4201931a:
 
     # jenny f_annoyed -m_teeth "Just-"
-    jenny f_annoyed -m_teeth "就——"
+    jenny f_annoyed -m_teeth "你——"
 
 # game/src/plot/jen10.rpy:670
 translate chinese jen10_shop_93307b41:
 
     # anon "[saga.cast.jenny], she was just trying to be friendly..."
-    anon "[saga.cast.jenny]，她只是想要友好一点……"
+    anon "[saga.cast.jenny]，她只是想跟你友好一点……"
 
 # game/src/plot/jen10.rpy:672
 translate chinese jen10_shop_d57a0aca:
@@ -1852,7 +1852,7 @@ translate chinese jen10_shop_d57a0aca:
 translate chinese jen10_shop_a07a4f65:
 
     # jenny f_annoyed -m_teeth "I don't even want to talk about it."
-    jenny f_annoyed -m_teeth "我甚至不想谈这个。"
+    jenny f_annoyed -m_teeth "我根本不想再提她。"
 
 # game/src/plot/jen10.rpy:675
 translate chinese jen10_shop_3910bd7a:
@@ -1870,19 +1870,19 @@ translate chinese jen10_shop_a1f28e9d:
 translate chinese jen10_shop_4cd9e584:
 
     # jenny "I need the UltraVibe 2000 annnnnd..."
-    jenny "我需要UltraVibe 2000和嗯嗯..."
+    jenny "我要一个UltraVibe 2000，然——后……"
 
 # game/src/plot/jen10.rpy:678
 translate chinese jen10_shop_d9834a5e:
 
     # jenny a_toy_plug f_snide "... This!"
-    jenny a_toy_plug f_snide "...这个！"
+    jenny a_toy_plug f_snide "……还有这个！"
 
 # game/src/plot/jen10.rpy:679
 translate chinese jen10_shop_1e57f5e0:
 
     # anon a_surrender e_sw f_shocked m_open @ -m_talk "!!!"
-    anon a_surrender e_sw f_shocked m_open @ -m_talk "!!!"
+    anon a_surrender e_sw f_shocked m_open @ -m_talk "！！！"
 
 # game/src/plot/jen10.rpy:680
 translate chinese jen10_shop_1af8f8f3:
@@ -1894,7 +1894,7 @@ translate chinese jen10_shop_1af8f8f3:
 translate chinese jen10_shop_95f94b0a:
 
     # jenny f_annoyed "Umm, yeah?"
-    jenny f_annoyed "嗯…是啊？"
+    jenny f_annoyed "呃，是啊？"
 
 # game/src/plot/jen10.rpy:683
 translate chinese jen10_shop_18f0439d:
@@ -1930,13 +1930,13 @@ translate chinese jen10_shop_c77840ab:
 translate chinese jen10_shop_5ef3a6d8:
 
     # jenny a_side f_annoyed "Never you mind!"
-    jenny a_side f_annoyed "别管了！"
+    jenny a_side f_annoyed "你少管！"
 
 # game/src/plot/jen10.rpy:694
 translate chinese jen10_shop_88e01cdf:
 
     # jenny "Quit being a nosy perv and go find that UltraVibe 2000!"
-    jenny "别当个爱管闲事的变态了，快去找那个UltraVibe 2000！"
+    jenny "别再像个变态似的瞎打听，快去找UltraVibe 2000！"
 
 # game/src/plot/jen10.rpy:701
 translate chinese jen10_shop_3721d2ee:
@@ -1972,7 +1972,7 @@ translate chinese jen10_shop_dc036f6b:
 translate chinese jen10_shop_106c743e:
 
     # anon a_point_self f_surprised "M-me?!"
-    anon a_point_self f_surprised "我？！"
+    anon a_point_self f_surprised "我、我？！"
 
 # game/src/plot/jen10.rpy:710
 translate chinese jen10_shop_95ab6713:
@@ -1990,25 +1990,25 @@ translate chinese jen10_shop_20b20a4c:
 translate chinese jen10_shop_c4954353:
 
     # jenny e_w f_sad @ -m_talk "( Maybe I {i}should{/i} get more lube while I'm here... )"
-    jenny e_w f_sad @ -m_talk "(既然来了，我{i}或许{/i}该多买点润滑剂……)"
+    jenny e_w f_sad @ -m_talk "（既然来了，我{i}或许{/i}该再买点润滑剂……）"
 
 # game/src/plot/jen10.rpy:729
 translate chinese jen10_shop_rails_bd281fd3:
 
     # anon @ -m_talk "( I should catch up with [saga.cast.jenny]. )"
-    anon @ -m_talk "(我得去找[saga.cast.jenny]聊聊。)"
+    anon @ -m_talk "（我得赶上[saga.cast.jenny]。）"
 
 # game/src/plot/jen10.rpy:730
 translate chinese jen10_shop_rails_66509d12:
 
     # anon @ -m_talk "( She said she was heading towards Pink on the second floor. )"
-    anon @ -m_talk "(她说她去了二楼的Pink。)"
+    anon @ -m_talk "（她说要去二楼的Pink。）"
 
 # game/src/plot/jen10.rpy:740
 translate chinese jen10_toy_0592f92f:
 
     # anon "I think this is the right one?"
-    anon "我想这个是对的？"
+    anon "应该就是这个吧？"
 
 # game/src/plot/jen10.rpy:741
 translate chinese jen10_toy_99a7346b:
@@ -2044,7 +2044,7 @@ translate chinese jen10_toy_merge_778b8330:
 translate chinese jen10_toy_merge_53d4dcef:
 
     # anon "This thing is crazy!"
-    anon "这玩意儿太疯狂了！"
+    anon "这玩意儿也太猛了！"
 
 # game/src/plot/jen10.rpy:760
 translate chinese jen10_toy_merge_c6eba064:
@@ -2062,13 +2062,13 @@ translate chinese jen10_toy_merge_381a1305:
 translate chinese jen10_toy_merge_e016786d:
 
     # anon a_pocket f_worried "What are you doing with all this stuff [saga.cast.jenny]?!"
-    anon a_pocket f_worried "你拿这些东西干什么[saga.cast.jenny]？！"
+    anon a_pocket f_worried "[saga.cast.jenny]，你买这些东西到底要干什么？！"
 
 # game/src/plot/jen10.rpy:763
 translate chinese jen10_toy_merge_ffa9f023:
 
     # jenny "None of your business, loser."
-    jenny "关你屁事，废物。"
+    jenny "关你什么事，废柴。"
 
 # game/src/plot/jen10.rpy:764
 translate chinese jen10_toy_merge_907ff6b9:
@@ -2134,7 +2134,7 @@ translate chinese jen10_toy_merge_1b0d0386:
 translate chinese jen10_toy_merge_d0ff4971:
 
     # ivy "You should really start with something smaller, sweetie..."
-    ivy "亲爱的，你真的应该从小一点的开始..."
+    ivy "亲爱的，你最好先从小一点的开始……"
 
 # game/src/plot/jen10.rpy:798
 translate chinese jen10_toy_merge_613845e0:
@@ -2152,7 +2152,7 @@ translate chinese jen10_toy_merge_a7379481:
 translate chinese jen10_toy_merge_b31ee21a:
 
     # anon m_teeth @ -m_talk "!!!" with hpunch
-    anon m_teeth @ -m_talk "!!!" with hpunch
+    anon m_teeth @ -m_talk "！！！" with hpunch
 
 # game/src/plot/jen10.rpy:806
 translate chinese jen10_toy_merge_425b7ac6:
@@ -2182,7 +2182,7 @@ translate chinese jen10_toy_merge_8f6826c5:
 translate chinese jen10_toy_merge_7961c2b6:
 
     # jenny e_w f_snide o_left -m_laugh "C'mon loser, let's go home."
-    jenny e_w f_snide o_left -m_laugh "走吧，怂包，我们回家。"
+    jenny e_w f_snide o_left -m_laugh "走吧，废柴，回家了。"
 
 # game/src/plot/jen10.rpy:817
 translate chinese jen10_toy_merge_100b6ad2:
@@ -2212,13 +2212,13 @@ translate chinese jen10_toy_ivy_eb780b0f:
 translate chinese jen10_toy_ivy_d4abd5ea:
 
     # ivy "Can I help you find something, cutie?"
-    ivy "需要我帮你找点什么吗，娃娃脸？"
+    ivy "小帅哥，要我帮你找什么吗？"
 
 # game/src/plot/jen10.rpy:830
 translate chinese jen10_toy_ivy_4678f708:
 
     # anon a_uneasy e_w f_shy o_right "Oh, umm... an UltraVibe 2000, please."
-    anon a_uneasy e_w f_shy o_right "哦，嗯……请给我一个UltraVibe 2000。"
+    anon a_uneasy e_w f_shy o_right "哦，呃……我想找UltraVibe 2000。"
 
 # game/src/plot/jen10.rpy:831
 translate chinese jen10_toy_ivy_7f2e9419:
@@ -2272,7 +2272,7 @@ translate chinese jen10_toy_ivy_ae38df52:
 translate chinese jen10_toy_ivy_bfd93aee:
 
     # ivy a_clasp f_happy p_stand "Check the wall just behind you."
-    ivy a_clasp f_happy p_stand "看看你身后的墙壁就知道了。"
+    ivy a_clasp f_happy p_stand "就在你身后的墙上。"
 
 # game/src/plot/jen10.rpy:846
 translate chinese jen10_toy_ivy_1bc4383f:
@@ -2284,47 +2284,47 @@ translate chinese jen10_toy_ivy_1bc4383f:
 translate chinese jen10_toy_ivy_fdf4b3ef:
 
     # anon "R-right, thanks."
-    anon "好，谢谢。"
+    anon "好、好的，谢谢。"
 
 # game/src/plot/jen10.rpy:856
 translate chinese jen10_toy_other_c669cb19:
 
     # anon @ -m_talk "( Man, there's so many toys in here... )"
-    anon @ -m_talk "(天啊，这里玩具真多……)"
+    anon @ -m_talk "（天啊，这里的玩具也太多了……）"
 
 # game/src/plot/jen10.rpy:857
 translate chinese jen10_toy_other_6ffd7627:
 
     # anon a_think e_nw f_pensive o_right @ -m_talk "( ... But which one is the UltraVibe 2000? )"
-    anon a_think e_nw f_pensive o_right @ -m_talk "(……但哪个是UltraVibe 2000？)"
+    anon a_think e_nw f_pensive o_right @ -m_talk "（……可哪个才是UltraVibe 2000？）"
 
 # game/src/plot/jen10.rpy:868
 translate chinese jen10_toy_rails_a36178d0:
 
     # anon @ -m_talk "( Better not dawdle, I get enough shit from [saga.cast.jenny] as it is. )"
-    anon @ -m_talk "(最好别磨蹭，我已经受够[saga.cast.jenny]的气了。)"
+    anon @ -m_talk "（最好别磨蹭，[saga.cast.jenny]平时已经够会找我麻烦了。）"
 
 # game/src/plot/jen10.rpy:869
 translate chinese jen10_toy_rails_aff40550:
 
     # anon @ -m_talk "( Sooner I grab that toy, sooner this ill-advised caper comes to a close! )"
-    anon @ -m_talk "(赶紧拿到那个玩具，这场不明智的闹剧就能结束了！)"
+    anon @ -m_talk "（越早拿到玩具，这趟荒唐差事就能越早结束！）"
 
 # game/src/plot/jen10.rpy:873
 translate chinese jen10_toy_rails_f70e525a:
 
     # anon @ -m_talk "( Much as I would love to leave her hanging... )"
-    anon @ -m_talk "(虽然我很想放她鸽子……)"
+    anon @ -m_talk "（我虽然很想把她晾在这儿……）"
 
 # game/src/plot/jen10.rpy:874
 translate chinese jen10_toy_rails_1a1ae43b:
 
     # anon f_worried @ -m_talk "( ... I really don't need that sort of grief. )"
-    anon f_worried @ -m_talk "(……但我真不想惹那种麻烦。)"
+    anon f_worried @ -m_talk "（……可我实在不想听她没完没了地闹。）"
 
 # game/src/plot/jen10.rpy:875
 translate chinese jen10_toy_rails_5d298b03:
 
     # anon @ -m_talk "( Let's just grab the UltraVibe and chalk this one up to experience. )"
-    anon @ -m_talk "(赶紧拿了UltraVibe，把这事当成一次教训吧。)"
+    anon @ -m_talk "（拿上UltraVibe赶紧走，就当长个教训。）"
 

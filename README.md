@@ -1,27 +1,139 @@
-# SummertimeSagaChineseTranslation
-[Summertime Saga](https://summertimesaga.com/) 中文汉化文件（仅适配v21版本）
-- 所有翻译采用机器翻译，可能存在部分不严谨不准确的地方，如有建议可以自行修改或提交Issues。
-- 原始文本版权属于Kompas，在官方正式汉化前本文件仅做学术探讨使用，不承担相关法律责任。
-### 使用说明
-有两种使用方式，适合不同需求：
-#### 1.懒人包
-将chinese.rpa文件放置在游戏/game目录下，最终游戏目录结构如下：
-```
-游戏根目录/
-├── game/
-│  ├── chinese.rpa
-```
-#### 2.可以手动调整文本
-将解压缩后将tl文件夹放置在游戏/game目录下，最终游戏目录结构如下：
-```
-游戏根目录/
-├── game/
-│  ├── tl/
-│     ├── chinese/
-│        ├──renpybox_sms_fix.rpy
-│        ├──renpybox_bytecode_strings.rpy
-│        ├──set_default_language_at_startup.rpy
-│        ├──hook_add_change_language_entrance.rpy
-│        ├── ...
+# summertime-saga-chinese-translation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Build Chinese RPA](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml/badge.svg)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml)
+
+[Summertime Saga](https://summertimesaga.com/) 的非官方简体中文翻译项目，提供可直接安装的 `chinese.rpa` 汉化包，以及可供修改的 Ren'Py 翻译源文件。
+
+> [!IMPORTANT]
+> 当前翻译仅面向 **Summertime Saga v21 系列版本**。不同游戏版本的脚本和资源可能不兼容，安装前请确认版本并备份存档。
+
+## 项目说明
+
+- 翻译以机器翻译为基础，并持续进行人工校对、术语统一和剧情润色。
+- 仓库只包含中文翻译、适配脚本和构建工具，**不包含游戏本体**。
+- 翻译源文件位于 `tl/chinese/`，发布版汉化包名为 `chinese.rpa`。
+- 项目内置默认切换为中文、语言入口和短信界面适配等辅助脚本。
+- 翻译仍在完善中，可能存在错译、漏译、语气不一致或版本兼容问题。
+
+## 安装方法
+
+请只选择以下一种安装方式，避免 `chinese.rpa` 与散装的 `tl/chinese` 文件重复加载。
+
+### 方法一：安装 `chinese.rpa`（推荐）
+
+1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面下载对应版本的 `chinese.rpa`。
+2. 完全退出游戏。
+3. 将 `chinese.rpa` 放入游戏根目录下的 `game` 文件夹。
+4. 启动游戏并确认界面与对话已切换为中文。
+
+```text
+SummertimeSaga/
+└── game/
+    └── chinese.rpa
 ```
+
+### 方法二：安装翻译源文件
+
+此方式适合需要自行修改译文或参与翻译的用户。
+
+1. 下载或克隆本仓库。
+2. 将仓库中的整个 `tl` 文件夹复制到游戏的 `game` 文件夹中。
+3. 合并目录时保留 `tl/chinese/` 的完整结构。
+
+```text
+SummertimeSaga/
+└── game/
+    └── tl/
+        └── chinese/
+            ├── base_box/
+            ├── fonts/
+            ├── res/
+            ├── src/
+            ├── hook_add_change_language_entrance.rpy
+            ├── renpybox_bytecode_strings.rpy
+            ├── renpybox_sms_fix.rpy
+            └── set_default_language_at_startup.rpy
+```
+
+### 更新与卸载
+
+- **更新：**退出游戏，删除旧版 `chinese.rpa` 后再复制新版文件；使用源文件安装时，请先删除旧的 `game/tl/chinese/`，再复制新版本。
+- **卸载：**删除 `game/chinese.rpa`，或删除手动安装的 `game/tl/chinese/`。
+- 如果卸载后仍显示中文，请在游戏设置中切换语言，并清理可能遗留的重复汉化文件。
+
+## 仓库结构
+
+```text
+.
+├── .github/workflows/       # GitHub Actions 自动构建与发布
+├── tl/chinese/              # Ren'Py 简体中文翻译源文件
+├── tools/                   # 校验、术语审计和 RPA 构建工具
+├── translation_context/     # 角色、剧情、术语、风格和精修进度记录
+├── LICENSE
+└── README.md
+```
+
+重要翻译资料：
+
+- [`translation_context/progress.md`](translation_context/progress.md)：当前精修进度与待处理问题
+- [`translation_context/style_guide.md`](translation_context/style_guide.md)：中文表达和文件处理规范
+- [`translation_context/terminology.md`](translation_context/terminology.md)：角色名、称谓和常用术语
+- [`translation_context/characters.md`](translation_context/characters.md)：角色关系与语言风格
+- [`translation_context/storylines.md`](translation_context/storylines.md)：剧情线与建议处理顺序
+- [`translation_context/recurring_terms.md`](translation_context/recurring_terms.md)：重复称呼、口癖和专名复查记录
+
+## 本地校验
+
+项目工具使用 Python 3，且均为只读校验，不会自动改写翻译文件。
+
+```bash
+# 校验全部翻译文件
+python tools/validate_translations.py
+
+# 仅校验相对 HEAD 发生变化的 Ren'Py 文件
+python tools/validate_translations.py --changed
+
+# 检查本次改动中的重复术语一致性
+python tools/audit_recurring_terms.py --changed --fail-on-mismatch
+
+# 检查空白错误和冲突标记
+git diff --check
+```
+
+`validate_translations.py` 会检查原文与译文配对、占位符、标签、程序结构、编码标记和换行形式；`audit_recurring_terms.py` 会依据 `translation_context/recurring_terms.json` 检查已登记术语的一致性。
+
+## 构建 `chinese.rpa`
+
+自动发布流程使用 **Python 3.12** 和 **Ren'Py 8.5.3 SDK**。完整步骤可参考 [`.github/workflows/build-chinese-rpa.yml`](.github/workflows/build-chinese-rpa.yml)。
+
+1. 创建临时 Ren'Py 项目，并将 `tl` 复制到该项目的 `game/` 目录。
+2. 使用 Ren'Py SDK 编译项目中的翻译脚本。
+3. 在仓库根目录运行：
+
+```bash
+python tools/build_rpa.py --root /path/to/project/game --output dist/chinese.rpa
+python tools/build_rpa.py --root /path/to/project/game --output dist/chinese.rpa --verify-only
+```
+
+构建脚本会生成确定性的 RPA 3.0 归档，并在验证阶段检查文件列表、内容哈希、索引和归档格式。
+
+## 参与贡献
+
+欢迎通过 [Issues](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/issues) 报告错译、漏译、兼容问题或术语建议，也欢迎提交 Pull Request。
+
+提交翻译前请注意：
+
+1. 先阅读风格指南、术语表和相关角色资料。
+2. 只修改译文字符串，不要改动 Ren'Py 标签、变量、占位符或程序结构。
+3. 保持文件原有编码、换行形式和行数结构。
+4. 对连续剧情文件结合上下文复核，避免逐句孤立翻译。
+5. 提交前运行“本地校验”中的命令，并说明适配的游戏版本和测试结果。
+
+## 免责声明
+
+本项目是社区维护的非官方汉化，与 Summertime Saga 官方及其开发团队无隶属或授权关系。游戏名称、原始文本、美术、音频及其他游戏资源的权利归其各自权利人所有。本仓库不提供游戏本体；请通过官方渠道获取游戏，并遵守所在地法律法规。
+
+## 许可证
+
+本仓库中的原创代码与工具按 [`LICENSE`](LICENSE) 中的 MIT License 提供。该许可证不授予对 Summertime Saga 原始内容、商标或其他第三方素材的任何权利。

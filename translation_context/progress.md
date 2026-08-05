@@ -186,7 +186,8 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen07.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen08.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen08.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen09.rpy`。
+| `tl/chinese/src/plot/jen10.rpy` | Jenny线；商场同行、Grace重逢及Pink情趣用品采购 | Jenny、Anon、Grace、Ivy、Eve/Odette（条件分支） | 完成 | 通读 388 个翻译块；精修索要两百美元与普通/强势同行分支、Grace高中同学重逢、工作与住家自卑、Eve/按摩油条件对话、UltraVibe 2000和大型肛塞采购；恢复 `Sugar Tats` 英文店名，统一 `loser`“废柴”、`perv`“变态”、Ivy的 `cutie`“小帅哥”及活动译文标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`通过 |
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。
