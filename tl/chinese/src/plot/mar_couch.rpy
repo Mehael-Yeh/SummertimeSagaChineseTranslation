@@ -988,7 +988,7 @@ translate chinese mar_couch_merge1_530051b7:
 translate chinese mar_couch_merge1_26ec2193:
 
     # anon "O-kay... lemme see here..."
-    anon "好——吧……让我瞧瞧……"
+    anon "好——吧……让我想想……"
 
 translate chinese mar_couch_merge1_6d718e57:
 

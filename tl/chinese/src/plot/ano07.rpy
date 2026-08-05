@@ -1491,7 +1491,7 @@ translate chinese ano07_maria_tony_9dd72d55:
 translate chinese strings:
     # game/src/plot/ano07.rpy:115
     old "No."
-    new "没有。"
+    new "否"
     # game/src/plot/ano07.rpy:113
     old "Yes."
-    new "有。"
+    new "是"
