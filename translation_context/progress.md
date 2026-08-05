@@ -102,6 +102,7 @@
 | `tl/chinese/src/plot/photo_debbie_diane.rpy` | Debbie/Diane 夏令营旧照片 | Anon、Debbie、Diane（变量） | 完成 | 通读并精修 2 个翻译块；修复女性复数代词误用，保留两人年轻时共同参加夏令营的时间与情绪信息 | 本批格式校验通过 |
 | `tl/chinese/src/plot/jen01.rpy` | Jenny线；浴室偷窥、被发现及前期敌对关系 | Jenny、Anon、Debbie（被提及） | 完成 | 通读完整场景并精修 31 个翻译块；将 `You! / Little! / PERVERT!!!` 作为被吹风机击打打断的连续辱骂处理，修复“娃娃脸”误译；保留偷窥事实、Jenny 的尖刻攻击性及 Anon 求情逻辑，统一中文省略号与标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 | `tl/chinese/src/plot/jen02.rpy` | Jenny线；新衣争执、求职压力、搬家宣言及家庭责任对照 | Jenny、Debbie、Anon | 完成 | 通读完整场景并精修 58 个翻译块；恢复 `Consum-R` 英文专名，理顺 Jenny 的讽刺与负担感、Debbie 的经济压力和安抚、Anon 的挖苦与体谅；统一 `sweetie`“亲爱的”、`good boy`“好男孩”及连续拆句 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
+| `tl/chinese/src/plot/jen03.rpy` | Jenny线；早餐赌气、借款争执及赚钱计划铺垫 | Jenny、Debbie、Anon、Diane（被提及） | 完成 | 通读完整场景并精修 67 个翻译块；承接 `jen02.rpy` 的家庭争执，理顺 Jenny 拒绝早餐、借六十美元、含糊赚钱计划与学费压力；区分 Jenny 的讽刺、Anon 的反驳和 Debbie 的照顾者语气，统一 `sweetie`“亲爱的”、中文省略号及活动译文标点 | `validate_translations.py --changed`、`audit_recurring_terms.py --changed --fail-on-mismatch`、`git diff --check`、RPA 构建通过（327 个文件） |
 
 ## 已完成的规则修复（剧情未全面精修）
 
@@ -181,7 +182,7 @@
 
 ## 下一步
 
-1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy`、`jen02.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen03.rpy`。
+1. Maria 线现有 11 个文件、Debbie 主线及已登记支线已完成；Jenny 主线 `jen01.rpy` 至 `jen03.rpy` 已完成，下一批按数字顺序继续完整通读并精修 `jen04.rpy`。
 2. 进入后续文件前先查阅 `recurring_terms.md`；遇到重复表达立即做全仓查询并登记，不再只在当前场景内定译。
 3. 每批继续完成三轮校对、逐文件格式检查、重复术语审计和 RPA 构建校验。
 4. 在进入对应剧情文件时，按完整场景处理全仓校验队列中的 26 个既有格式问题。

@@ -16,7 +16,7 @@ translate chinese jen03_intro_6c06ea64:
 translate chinese jen03_intro_7ce4831e:
 
     # anon @ -m_talk "( I should go check it out. )"
-    anon @ -m_talk "(我应该下去看看。)"
+    anon @ -m_talk "(下去看看吧。)"
 
 # game/src/plot/jen03.rpy:16
 translate chinese jen03_kitchen_dc2c986e:
@@ -34,7 +34,7 @@ translate chinese jen03_kitchen_f3f780ac:
 translate chinese jen03_kitchen_ce22e47b:
 
     # anon "Mmm, breakfast smells wonderful!"
-    anon "嗯，早餐闻起来真棒！"
+    anon "嗯，好香的早餐！"
 
 # game/src/plot/jen03.rpy:23
 translate chinese jen03_kitchen_a74dedd4:
@@ -46,13 +46,13 @@ translate chinese jen03_kitchen_a74dedd4:
 translate chinese jen03_kitchen_f692fb59:
 
     # debbie "Why don't you go sit down at the table and I'll bring it to you?"
-    debbie "你去餐桌旁坐下，我给你端过来好吗？"
+    debbie "你先去餐桌旁坐好，我一会儿给你端过去。"
 
 # game/src/plot/jen03.rpy:25
 translate chinese jen03_kitchen_8f139338:
 
     # anon "That sounds awesome!"
-    anon "听起来太棒了！"
+    anon "太好了！"
 
 # game/src/plot/jen03.rpy:26
 translate chinese jen03_kitchen_ac4caad7:
@@ -64,7 +64,7 @@ translate chinese jen03_kitchen_ac4caad7:
 translate chinese jen03_kitchen_31ad248d:
 
     # anon o_left "( Man, [saga.cast.debbie] makes the best breakfast. )"
-    anon o_left "(天啊，[saga.cast.debbie]做的早餐最好吃了。)"
+    anon o_left "([saga.cast.debbie]做的早餐就是最好吃。)"
 
 # game/src/plot/jen03.rpy:37
 translate chinese jen03_kitchen_1136102f:
@@ -76,13 +76,13 @@ translate chinese jen03_kitchen_1136102f:
 translate chinese jen03_kitchen_5503d856:
 
     # jenny "Meh."
-    jenny "切。"
+    jenny "哼。"
 
 # game/src/plot/jen03.rpy:39
 translate chinese jen03_kitchen_581c76a2:
 
     # anon e_w f_tired "You're eating cereal?"
-    anon e_w f_tired "你在吃麦片？"
+    anon e_w f_tired "你怎么在吃麦片？"
 
 # game/src/plot/jen03.rpy:40
 translate chinese jen03_kitchen_dd9abe66:
@@ -94,13 +94,13 @@ translate chinese jen03_kitchen_dd9abe66:
 translate chinese jen03_kitchen_720f6607:
 
     # jenny f_annoyed @ e_r "Yeah, but I was recently told I need to grow up and support myself, remember?"
-    jenny f_annoyed @ e_r "看到了，但最近有人告诉我该长大自立了，记得吗？"
+    jenny f_annoyed @ e_r "看见了，可最近不是有人教训我，说我该长大、自己养活自己吗？还记得吧？"
 
 # game/src/plot/jen03.rpy:43
 translate chinese jen03_kitchen_a526b269:
 
     # anon f_surprised @ -m_talk "..."
-    anon f_surprised @ -m_talk "..."
+    anon f_surprised @ -m_talk "……"
 
 # game/src/plot/jen03.rpy:44
 translate chinese jen03_kitchen_89deeae2:
@@ -130,19 +130,19 @@ translate chinese jen03_kitchen_0e138e2c:
 translate chinese jen03_kitchen_0ba0c187:
 
     # jenny e_w "Hey, lend me sixty dollars."
-    jenny e_w "嘿，借我六十美元。"
+    jenny e_w "喂，借我六十块钱。"
 
 # game/src/plot/jen03.rpy:50
 translate chinese jen03_kitchen_fd79f33a:
 
     # anon f_worried "Huh?!"
-    anon f_worried "哈？！"
+    anon f_worried "什么？！"
 
 # game/src/plot/jen03.rpy:51
 translate chinese jen03_kitchen_9bb00260:
 
     # jenny "Lend me sixty dollars!"
-    jenny "借我六十美元！"
+    jenny "借我六十块钱！"
 
 # game/src/plot/jen03.rpy:52
 translate chinese jen03_kitchen_5a01f774:
@@ -154,25 +154,25 @@ translate chinese jen03_kitchen_5a01f774:
 translate chinese jen03_kitchen_00ca49a9:
 
     # jenny e_r "Ugh, that's none of your business!"
-    jenny e_r "呃，这不关你的事！"
+    jenny e_r "啧，这不关你的事！"
 
 # game/src/plot/jen03.rpy:55
 translate chinese jen03_kitchen_b2784427:
 
     # anon "Umm, it's my money, so... yes, it kinda is my business."
-    anon "嗯，那是我的钱，所以……当然关我的事。"
+    anon "呃，那是我的钱，所以……当然关我的事。"
 
 # game/src/plot/jen03.rpy:56
 translate chinese jen03_kitchen_a3d02c0d:
 
     # jenny "Look, I know a way I can make some money but I need to buy something first."
-    jenny "听着，我知道一个赚钱的方法，但我得先买点东西。"
+    jenny "听着，我有办法赚钱，只是得先买样东西。"
 
 # game/src/plot/jen03.rpy:57
 translate chinese jen03_kitchen_ed13d4af:
 
     # jenny "I'll pay you back."
-    jenny "我会还给你的。"
+    jenny "我会还你的。"
 
 # game/src/plot/jen03.rpy:58
 translate chinese jen03_kitchen_8ac7da0f:
@@ -184,7 +184,7 @@ translate chinese jen03_kitchen_8ac7da0f:
 translate chinese jen03_kitchen_d2db50c7:
 
     # anon "How are you gonna pay me back?"
-    anon "你打算怎么还我？"
+    anon "你拿什么还我？"
 
 # game/src/plot/jen03.rpy:60
 translate chinese jen03_kitchen_57b14b9f:
@@ -196,49 +196,49 @@ translate chinese jen03_kitchen_57b14b9f:
 translate chinese jen03_kitchen_87549439:
 
     # jenny f_angry m_teeth "Don't be a dick, [saga.cast.anon]!"
-    jenny f_angry m_teeth "别犯贱，[saga.cast.anon]！"
+    jenny f_angry m_teeth "你别这么混蛋，[saga.cast.anon]！"
 
 # game/src/plot/jen03.rpy:62
 translate chinese jen03_kitchen_e9b35bbb:
 
     # jenny f_annoyed -m_teeth "I know [saga.cast.diane] is overpaying you for whatever the hell you're doing at her house."
-    jenny f_annoyed -m_teeth "我知道[saga.cast.diane]为了你在她家做的破事给你付了太多钱。"
+    jenny f_annoyed -m_teeth "我知道，不管[saga.cast.diane]让你去她家干什么，给你的钱都多得离谱。"
 
 # game/src/plot/jen03.rpy:65
 translate chinese jen03_kitchen_fe2c9e95:
 
     # anon f_grumpy "I've not even spoken to her about it yet!"
-    anon f_grumpy "我还没跟她提过这事呢！"
+    anon f_grumpy "我都还没跟她谈过呢！"
 
 # game/src/plot/jen03.rpy:66
 translate chinese jen03_kitchen_4339a182:
 
     # anon "[saga.cast.debbie] just suggested I help tend to her garden."
-    anon "[saga.cast.debbie]只是建议我去帮她打理花园。"
+    anon "[saga.cast.debbie]只是建议我去帮她照料花园。"
 
 # game/src/plot/jen03.rpy:69
 translate chinese jen03_kitchen_db32125f:
 
     # anon "I'm tending her garden."
-    anon "我在打理她的花园。"
+    anon "我只是去照料她的花园。"
 
 # game/src/plot/jen03.rpy:71
 translate chinese jen03_kitchen_49735762:
 
     # jenny f_snide "Yeah, whatever..."
-    jenny f_snide "是啊，随便吧……"
+    jenny f_snide "是是是，随便吧……"
 
 # game/src/plot/jen03.rpy:72
 translate chinese jen03_kitchen_dbb4d448:
 
     # jenny "... Nobody cares."
-    jenny "……没人关心。"
+    jenny "……谁在乎啊。"
 
 # game/src/plot/jen03.rpy:73
 translate chinese jen03_kitchen_7a081440:
 
     # jenny "The point is, you can spare sixty measly dollars."
-    jenny "关键是，你拿得出区区六十美元。"
+    jenny "重点是，区区六十块钱你又不是拿不出来。"
 
 # game/src/plot/jen03.rpy:74
 translate chinese jen03_kitchen_1273946e:
@@ -256,13 +256,13 @@ translate chinese jen03_kitchen_a695eda7:
 translate chinese jen03_kitchen_49196ace:
 
     # anon "Especially now that Dad's gone."
-    anon "尤其是我爸走了之后。"
+    anon "尤其是爸爸已经不在了。"
 
 # game/src/plot/jen03.rpy:77
 translate chinese jen03_kitchen_fe578372:
 
     # jenny f_angry m_teeth "Grr, fine!"
-    jenny f_angry m_teeth "切，好吧！"
+    jenny f_angry m_teeth "啧，行吧！"
 
 # game/src/plot/jen03.rpy:78
 translate chinese jen03_kitchen_3fe7458c:
@@ -274,25 +274,25 @@ translate chinese jen03_kitchen_3fe7458c:
 translate chinese jen03_kitchen_067270b9:
 
     # debbie "Here you go, sweetie."
-    debbie "给你，小亲爱的。"
+    debbie "来，亲爱的。"
 
 # game/src/plot/jen03.rpy:87
 translate chinese jen03_kitchen_825bcc29:
 
     # anon e_w "Thanks, [saga.cast.debbie]."
-    anon e_w "谢了，[saga.cast.debbie]。"
+    anon e_w "谢谢，[saga.cast.debbie]。"
 
 # game/src/plot/jen03.rpy:89
 translate chinese jen03_kitchen_97b79c84:
 
     # debbie e_wsw p_table_stand "You want me to fix you a plate, [saga.cast.jenny]?"
-    debbie e_wsw p_table_stand "要我帮你弄一盘吗，[saga.cast.jenny]？"
+    debbie e_wsw p_table_stand "要不要我也给你盛一盘，[saga.cast.jenny]？"
 
 # game/src/plot/jen03.rpy:91
 translate chinese jen03_kitchen_e781b2b5:
 
     # jenny e_w f_annoyed p_table_rise -m_teeth "No, I do not."
-    jenny e_w f_annoyed p_table_rise -m_teeth "不了，我不想。"
+    jenny e_w f_annoyed p_table_rise -m_teeth "不用，我才不要。"
 
 # game/src/plot/jen03.rpy:98
 translate chinese jen03_kitchen_19e0b75e:
@@ -316,31 +316,31 @@ translate chinese jen03_kitchen_f4fe7242:
 translate chinese jen03_kitchen_e563fa9d:
 
     # debbie e_wsw "I suppose, I'd better go and apologize to her."
-    debbie e_wsw "我想，我还是去跟她道歉吧。"
+    debbie e_wsw "看来我还是该去跟她道个歉。"
 
 # game/src/plot/jen03.rpy:102
 translate chinese jen03_kitchen_9563f6d1:
 
     # anon "No, you shouldn't, [saga.cast.debbie]."
-    anon "不，你不应该，[saga.cast.debbie]。"
+    anon "不用，你没必要道歉，[saga.cast.debbie]。"
 
 # game/src/plot/jen03.rpy:103
 translate chinese jen03_kitchen_1cf5ced1:
 
     # anon "She's being a bitch."
-    anon "她就是个婊子。"
+    anon "她现在就是在犯贱。"
 
 # game/src/plot/jen03.rpy:104
 translate chinese jen03_kitchen_2f22031e:
 
     # debbie f_annoyed "[saga.cast.anon]!"
-    debbie f_annoyed "[saga.cast.anon]!"
+    debbie f_annoyed "[saga.cast.anon]！"
 
 # game/src/plot/jen03.rpy:105
 translate chinese jen03_kitchen_1e419b69:
 
     # debbie "Don't say that about [saga.cast.jenny]!"
-    debbie "不要那样说[saga.cast.jenny]！"
+    debbie "不许这么说[saga.cast.jenny]！"
 
 # game/src/plot/jen03.rpy:106
 translate chinese jen03_kitchen_8515e97f:
@@ -358,13 +358,13 @@ translate chinese jen03_kitchen_fe6a0806:
 translate chinese jen03_kitchen_0c004ae0:
 
     # debbie f_curious "Tsk, just eat your breakfast."
-    debbie f_curious "啧，快吃你的早餐吧。"
+    debbie f_curious "啧，吃你的早餐吧。"
 
 # game/src/plot/jen03.rpy:110
 translate chinese jen03_kitchen_ec6b757e:
 
     # anon f_calm v_normal "Thanks again for this, it's delicious!"
-    anon f_calm v_normal "再次感谢，这很好吃！"
+    anon f_calm v_normal "谢谢你，真的太好吃了！"
 
 # game/src/plot/jen03.rpy:112
 translate chinese jen03_kitchen_dc4d307d:
@@ -382,23 +382,23 @@ translate chinese jen03_kitchen_244739f4:
 translate chinese jen03_kitchen_8d7c77bf:
 
     # anon @ -m_talk "( What in the heck does she need sixty dollars for any way? )"
-    anon @ -m_talk "(她到底需要六十美元干什么？)"
+    anon @ -m_talk "(她到底要六十块钱干什么？)"
 
 # game/src/plot/jen03.rpy:125
 translate chinese jen03_kitchen_68671594:
 
     # anon e_w f_pouty @ -m_talk "( Her broke ass should be out looking for a job. )"
-    anon e_w f_pouty @ -m_talk "(她那穷酸的屁股应该出去找工作。)"
+    anon e_w f_pouty @ -m_talk "(她都穷成这样了，就该出去找份工作。)"
 
 # game/src/plot/jen03.rpy:136
 translate chinese jen03_kitchen_0415ae1a:
 
     # anon @ -m_talk "( Oh well, not my problem. )"
-    anon @ -m_talk "(算了，不是我的问题。)"
+    anon @ -m_talk "(算了，不关我的事。)"
 
 # game/src/plot/jen03.rpy:145
 translate chinese jen03_kitchen_rails_217b075d:
 
     # anon @ -m_talk "( Smells like [saga.cast.debbie] has breakfast going... Let's hurry to the kitchen! )"
-    anon @ -m_talk "(闻起来[saga.cast.debbie]在做早餐……我们快点去厨房吧！)"
+    anon @ -m_talk "(闻这香味，[saga.cast.debbie]肯定在做早餐……赶紧去厨房吧！)"
 
