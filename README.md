@@ -1,7 +1,8 @@
-# summertime-saga-chinese-translation
+# Summertime Saga（夏日传说 重制版）中文汉化补丁
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Build Chinese RPA](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml/badge.svg)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml)
+[![Downloads](https://img.shields.io/github/downloads/Mehael-Yeh/summertime-saga-chinese-translation/total?label=Downloads)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases)
+[![Build zh_hans RPA](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml/badge.svg)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml)
 
 [Summertime Saga](https://summertimesaga.com/) 的非官方简体中文翻译项目，提供可直接安装的 `zh_hans.rpa` 汉化包，以及可供修改的 Ren'Py 翻译源文件。
 
@@ -73,50 +74,6 @@ SummertimeSaga/
 ├── LICENSE
 └── README.md
 ```
-
-重要翻译资料：
-
-- [`translation_context/progress.md`](translation_context/progress.md)：当前精修进度与待处理问题
-- [`translation_context/style_guide.md`](translation_context/style_guide.md)：中文表达和文件处理规范
-- [`translation_context/terminology.md`](translation_context/terminology.md)：角色名、称谓和常用术语
-- [`translation_context/characters.md`](translation_context/characters.md)：角色关系与语言风格
-- [`translation_context/storylines.md`](translation_context/storylines.md)：剧情线与建议处理顺序
-- [`translation_context/recurring_terms.md`](translation_context/recurring_terms.md)：重复称呼、口癖和专名复查记录
-
-## 本地校验
-
-项目工具使用 Python 3，且均为只读校验，不会自动改写翻译文件。
-
-```bash
-# 校验全部翻译文件
-python tools/validate_translations.py
-
-# 仅校验相对 HEAD 发生变化的 Ren'Py 文件
-python tools/validate_translations.py --changed
-
-# 检查本次改动中的重复术语一致性
-python tools/audit_recurring_terms.py --changed --fail-on-mismatch
-
-# 检查空白错误和冲突标记
-git diff --check
-```
-
-`validate_translations.py` 会检查原文与译文配对、占位符、标签、程序结构、编码标记和换行形式；`audit_recurring_terms.py` 会依据 `translation_context/recurring_terms.json` 检查已登记术语的一致性。
-
-## 构建 `zh_hans.rpa`
-
-自动发布流程使用 **Python 3.12** 和 **Ren'Py 8.5.3 SDK**。完整步骤可参考 [`.github/workflows/build-chinese-rpa.yml`](.github/workflows/build-chinese-rpa.yml)。
-
-1. 创建临时 Ren'Py 项目，并将 `tl` 复制到该项目的 `game/` 目录。
-2. 使用 Ren'Py SDK 编译项目中的翻译脚本。
-3. 在仓库根目录运行：
-
-```bash
-python tools/build_rpa.py --root /path/to/project/game --output dist/zh_hans.rpa
-python tools/build_rpa.py --root /path/to/project/game --output dist/zh_hans.rpa --verify-only
-```
-
-构建脚本会生成确定性的 RPA 3.0 归档，并在验证阶段检查文件列表、内容哈希、索引和归档格式。
 
 ## 参与贡献
 
