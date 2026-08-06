@@ -910,7 +910,7 @@ translate zh_hans tin_dusk_lounge_merge_c083a5eb:
 translate zh_hans tin_dusk_lounge_merge_2a36311e:
 
     # anon "... At the end."
-    anon "……结束了。"
+    anon "……尤其是最后那一下。"
 
 # game/src/plot/tin_dusk.rpy:340
 translate zh_hans tin_dusk_lounge_merge_e53cdec4:

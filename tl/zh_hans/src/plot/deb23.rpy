@@ -1858,13 +1858,13 @@ translate zh_hans deb23_car_11a223b8:
 translate zh_hans deb23_car_4dac9402:
 
     # anon @ e_b f_shy m_blow "... Good..."
-    anon @ e_b f_shy m_blow "……太会……"
+    anon @ e_b f_shy m_blow "……含得……"
 
 # game/src/plot/deb23.rpy:719
 translate zh_hans deb23_car_5fc096b0:
 
     # anon "... At this!"
-    anon "……含了！"
+    anon "……太好了！！"
 
 # game/src/plot/deb23.rpy:722
 translate zh_hans deb23_car_5a9af48a:

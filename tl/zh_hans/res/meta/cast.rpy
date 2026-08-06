@@ -16,7 +16,7 @@ translate zh_hans strings:
     new "[self.clan]上将"
     # game/res/meta/cast.rpym:19
     old "Master [self.clan]"
-    new "[self.clan]主人"
+    new "[self.clan]大师"
     # game/res/meta/cast.rpym:20
     old "Mayor [self.clan]"
     new "[self.clan]市长"

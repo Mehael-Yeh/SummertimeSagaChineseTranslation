@@ -646,13 +646,13 @@ translate zh_hans ano01_erik_6bc22aa8:
 translate zh_hans ano01_erik_1527ec43:
 
     # anon f_calm "And your landlady is okay with you having this?"
-    anon f_calm "你房东准你玩这种东西？"
+    anon f_calm "你房东允许你玩这种东西？"
 
 # game/src/plot/ano01.rpy:254
 translate zh_hans ano01_erik_a2b2c9c1:
 
     # erik f_worried "Oh, definitely not!"
-    erik f_worried "哦，当然不准！"
+    erik f_worried "哦，当然不允许！"
 
 # game/src/plot/ano01.rpy:255
 translate zh_hans ano01_erik_10c2b081:
@@ -1522,7 +1522,7 @@ translate zh_hans ano01_roxxy_6d0922fd:
 translate zh_hans ano01_roxxy_6058c193:
 
     # ursula f_calm "Ah, [saga.cast.anon]! Finally returned to us I see..."
-    ursula f_calm "啊，[saga.cast.anon]！终于舍得回来了……"
+    ursula f_calm "啊，[saga.cast.anon]！终于回来了啊……"
 
 # game/src/plot/ano01.rpy:575
 translate zh_hans ano01_roxxy_09a61ea7:

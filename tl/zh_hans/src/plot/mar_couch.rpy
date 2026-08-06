@@ -3313,7 +3313,7 @@ translate zh_hans mar_couch_noon2a_077700df:
 translate zh_hans mar_couch_noon2a_6948b0f3:
 
     # maria "... Something..."
-    maria "……一些东西……"
+    maria "……一件……"
 
 translate zh_hans mar_couch_noon2a_2c0e7fe0:
 

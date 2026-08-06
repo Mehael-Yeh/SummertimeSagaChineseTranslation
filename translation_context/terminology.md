@@ -748,3 +748,15 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | Outlood Express | Outlood快递 | 游戏中的恶搞专名，保留 `Outlood`。 |
 | Waning Crescent / Waxing Crescent / Third Quarter | 残月／娥眉月／下弦月 | 月相 UI 统一译法。 |
 | Gym. | 体育馆 | 本项目中学校场景既有译法；不机械改为“健身房”。 |
+
+
+
+## 跨行断句精修专项（2026-08-06）
+
+| 英文表达 | 推荐中文 | 说明 |
+|---|---|---|
+| Your big... / ... Thing. | 你的……／……大家伙。 | Debbie 直播场景中的欲言又止；中文合并后应为“你的……大家伙”，不能译成“你的大家伙……的东西”。 |
+| desirable（Debbie 直播自述） | 很有魅力 | Debbie 说自己因 Anon 的谈论而重新感到有吸引力；不译成对外施加意味的“令人渴望”。 |
+| bearing down ... at the end | 可真用力……／尤其是最后那一下 | Tina 高潮时身体用力的性爱语境；at the end 指“尤其是最后那一下”，不是“结束了”。 |
+| Something... Priceless!! | 一件……／……无价之宝！！ | Maria 对 Anon 带给家庭的意义表示感谢；用量词“一件”使跨行名词结构自然衔接。 |
+| My brain's... not really... | 我的脑子……还没转过来…… | Tina 性行为后的余韵表达；补足中文谓语，避免“我的脑子……还没……操，真爽”的悬空句。 |

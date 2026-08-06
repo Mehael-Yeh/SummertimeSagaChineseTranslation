@@ -400,13 +400,13 @@ translate zh_hans ano03_dimitri_9fa7745f:
 translate zh_hans ano03_dimitri_3c66c8e1:
 
     # dimitri "I am man asking to see nice lady responsible for you..."
-    dimitri "我是来找漂亮女士，负责照顾你那个……"
+    dimitri "我是来找负责照顾你的那位漂亮女士……"
 
 # game/src/plot/ano03.rpy:126
 translate zh_hans ano03_dimitri_27867a62:
 
     # dimitri "... Lady who owes us big money."
-    dimitri "……欠我们很多钱那个女士。"
+    dimitri "……也就是欠我们一大笔钱的那位。"
 
 # game/src/plot/ano03.rpy:127
 translate zh_hans ano03_dimitri_c000dad2:

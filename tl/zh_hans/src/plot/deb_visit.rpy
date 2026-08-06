@@ -310,7 +310,7 @@ translate zh_hans deb_visit_433c7b6b:
 translate zh_hans deb_visit_c9d8a127:
 
     # debbie "I mean, your..."
-    debbie "我是说，你的……"
+    debbie "我是说……"
 
 # game/src/plot/deb_visit.rpy:188
 translate zh_hans deb_visit_844abfbf:
@@ -1570,7 +1570,7 @@ translate zh_hans deb_visit_bail_b9508a2e:
 translate zh_hans deb_visit_bail_e9b72e1c:
 
     # anon "... I'm just... kinda tired... tonight."
-    anon "……我只是……有点累……今晚。"
+    anon "……我只是……今晚……有点累。"
 
 # game/src/plot/deb_visit.rpy:613
 translate zh_hans deb_visit_bail_6ebff723:

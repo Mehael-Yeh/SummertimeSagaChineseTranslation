@@ -1972,13 +1972,13 @@ translate zh_hans deb_tv_entry2_20956f3d:
 translate zh_hans deb_tv_entry2_05630adc:
 
     # debbie e_sw "Your big..."
-    debbie e_sw "你的大家伙……"
+    debbie e_sw "你的……"
 
 # game/src/plot/deb_tv.rpy:785
 translate zh_hans deb_tv_entry2_302d3d27:
 
     # debbie "... Thing."
-    debbie "……的东西。"
+    debbie "……大家伙。"
 
 # game/src/plot/deb_tv.rpy:786
 translate zh_hans deb_tv_entry2_5aff71a5:
@@ -2932,13 +2932,13 @@ translate zh_hans deb_tv_entry3_aaaca12f:
 translate zh_hans deb_tv_entry3_db606a73:
 
     # debbie "I guess, it just... makes me feel really..."
-    debbie "我想，只是……让我觉得非常……"
+    debbie "我想，只是……让我觉得自己真的……"
 
 # game/src/plot/deb_tv.rpy:1100
 translate zh_hans deb_tv_entry3_c0c28922:
 
     # debbie "... Desirable."
-    debbie "……令人渴望。"
+    debbie "……很有魅力。"
 
 # game/src/plot/deb_tv.rpy:1101
 translate zh_hans deb_tv_entry3_6e6a37b3:

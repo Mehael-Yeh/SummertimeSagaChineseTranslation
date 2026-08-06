@@ -796,7 +796,7 @@ translate zh_hans tin_vault_vault_merge1_8b2d257f:
 translate zh_hans tin_vault_vault_merge1_a64baa4a:
 
     # tina @ e_ese "My brain's... not really..."
-    tina @ e_ese "我的脑子……还没……"
+    tina @ e_ese "我的脑子……还没转过来……"
 
 # game/src/plot/tin_vault.rpy:300
 translate zh_hans tin_vault_vault_merge1_0820ecff:
