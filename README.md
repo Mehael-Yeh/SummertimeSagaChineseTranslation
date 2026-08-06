@@ -69,7 +69,7 @@ SummertimeSaga/
 ```text
 .
 ├── .github/workflows/       # GitHub Actions 自动构建与发布
-├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件（内含sex_speed_control.rpy原版速度控制Mod）
+├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件（内含sex_speed_control.rpy仿原版速度控制Mod）
 ├── tools/                   # 校验、术语审计和 RPA 构建工具
 ├── translation_context/     # 角色、剧情、术语、风格和精修进度记录
 ├── LICENSE
