@@ -1,4 +1,4 @@
-# Summertime Saga（夏日传说 重制版）中文汉化补丁
+# 夏日传说 重制版（Summertime Saga）中文汉化补丁
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/Mehael-Yeh/summertime-saga-chinese-translation/total?label=Downloads)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases)
