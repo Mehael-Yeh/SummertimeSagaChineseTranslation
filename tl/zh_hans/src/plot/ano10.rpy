@@ -418,7 +418,7 @@ translate zh_hans ano10_shop1_b7341497:
 
 
     # tony "For now, I need ya to head back to the kitchen with [saga.cast.maria], capisce?"
-    tony "现在，你跟[saga.cast.maria]去后厨，明白吗？"
+    tony "现在，你跟[saga.cast.maria]去后厨，capisce?（懂了没？）"
 
 # game/src/plot/ano10.rpy:121
 translate zh_hans ano10_shop1_30d228de:
@@ -2196,7 +2196,7 @@ translate zh_hans ano10_shop2_459ea4f9:
 
 
     # tony "So you'd better keep savin' up, capisce?"
-    tony "所以你得接着攒钱，明白吗？"
+    tony "所以你得接着攒钱，capisce?（懂了没？）"
 
 # game/src/plot/ano10.rpy:597
 translate zh_hans ano10_shop2_2c879c16:

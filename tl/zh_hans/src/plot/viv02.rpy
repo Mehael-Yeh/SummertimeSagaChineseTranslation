@@ -58,8 +58,7 @@ translate zh_hans viv02_french_5f78f3ba:
 translate zh_hans viv02_french_17d8ec4d:
 
     # viv "Oui, Madame [saga.cast.ursula.clan]. I've devised a new method to inspire the students."
-    viv "是的，[saga.cast.ursula.clan]夫人。我想出了一个激励学生的新方法。"
-
+    viv "Oui（是的），Madame [saga.cast.ursula.clan]（夫人）。我想出了一个激励学生的新方法。"
 # game/src/plot/viv02.rpy:34
 translate zh_hans viv02_french_ac85e583:
 
@@ -76,8 +75,7 @@ translate zh_hans viv02_french_3619ae0e:
 translate zh_hans viv02_french_7ec7efde:
 
     # viv "Mais, madame... Surely you-"
-    viv "但是，夫人……您肯定——"
-
+    viv "Mais, madame（但是，夫人）……您肯定……"
 # game/src/plot/viv02.rpy:43
 translate zh_hans viv02_french_062329af:
 
@@ -94,14 +92,12 @@ translate zh_hans viv02_french_d4f4368e:
 translate zh_hans viv02_french_c4eb0461:
 
     # viv "... O-oui, Madame [saga.cast.ursula.clan]."
-    viv "……是、是的，[saga.cast.ursula.clan]夫人。"
-
+    viv "……O-oui（是、是的），Madame [saga.cast.ursula.clan]（夫人）。"
 # game/src/plot/viv02.rpy:54
 translate zh_hans viv02_french_a2b84011:
 
     # viv "Vieille chienne en colère!"
-    viv "暴躁的老母狗！"
-
+    viv "Vieille chienne en colère!（发怒的老母狗！）"
 # game/src/plot/viv02.rpy:58
 translate zh_hans viv02_french_a7e65172:
 
@@ -112,8 +108,7 @@ translate zh_hans viv02_french_a7e65172:
 translate zh_hans viv02_french_841ed2db:
 
     # viv "Oh mon dieu!"
-    viv "哦，天哪！"
-
+    viv "Oh mon dieu!（哦，天哪！）"
 # game/src/plot/viv02.rpy:65
 translate zh_hans viv02_french_d91a992e:
 
@@ -148,8 +143,7 @@ translate zh_hans viv02_french_8b4cee65:
 translate zh_hans viv02_french_1e5d5cf0:
 
     # viv "Oui. She is just wanting to see you students take more interest in the French."
-    viv "是的。她只是希望你们这些学生能对法语课更上心一些。"
-
+    viv "Oui（是的）。她只是希望你们这些学生能对法语课更上心一些。"
 # game/src/plot/viv02.rpy:80
 translate zh_hans viv02_french_2eddafe1:
 
@@ -232,8 +226,7 @@ translate zh_hans viv02_french_06731ee9:
 translate zh_hans viv02_french_d2832fab:
 
     # viv "Au revoir, [saga.cast.anon]!"
-    viv "再见，[saga.cast.anon]！"
-
+    viv "Au revoir（再见），[saga.cast.anon]！"
 # game/src/plot/viv02.rpy:116
 translate zh_hans viv02_french_72eed6c8:
 
@@ -1079,7 +1072,6 @@ translate zh_hans viv02_give_92aaf97f:
 
     # anon "{i}My cheese and me{/i}..." (show_lang="{i}Mon fromage et moi{/i}...")
     anon "{i}《我与奶酪》{/i}……" (show_lang="{i}Mon fromage et moi{/i}...")
-
 # game/src/plot/viv02.rpy:547
 translate zh_hans viv02_give_72313bd2:
 
@@ -1138,8 +1130,7 @@ translate zh_hans viv02_viv_585e2b97:
 translate zh_hans viv02_viv_c0469664:
 
     # anon "I wrote about fromage."
-    anon "我写的是 fromage。"
-
+    anon "我写的是fromage（奶酪）。"
 # game/src/plot/viv02.rpy:589
 translate zh_hans viv02_viv_03e5d5a5:
 
@@ -1204,8 +1195,7 @@ translate zh_hans viv02_viv_09a61ea7:
 translate zh_hans viv02_viv_ab14455a:
 
     # viv "Oh, and before you sit down, add fromage to the blackboard."
-    viv "哦，坐下之前，先把 fromage 写到黑板上。"
-
+    viv "哦，对了，坐下之前，把fromage（奶酪）写到黑板上。"
 # game/src/plot/viv02.rpy:614
 translate zh_hans viv02_viv_fe5fb519:
 
@@ -1258,8 +1248,7 @@ translate zh_hans viv02_viv_605bb560:
 translate zh_hans viv02_viv_720bd775:
 
     # viv "I'm sure you did, mon bel homme."
-    viv "我相信你确实下了功夫，我的帅哥。"
-
+    viv "我相信你确实下了功夫，mon bel homme（我的帅哥）。"
 # game/src/plot/viv02.rpy:639
 translate zh_hans viv02_viv_2d617cdd:
 
@@ -1306,8 +1295,7 @@ translate zh_hans viv02_viv_0537da13:
 translate zh_hans viv02_viv_841ed2db:
 
     # viv "Oh mon dieu!"
-    viv "哦，天哪！"
-
+    viv "Oh mon dieu!（哦，天哪！）"
 # game/src/plot/viv02.rpy:659
 translate zh_hans viv02_viv_97c3b20c:
 
@@ -1318,8 +1306,7 @@ translate zh_hans viv02_viv_97c3b20c:
 translate zh_hans viv02_viv_9f3f046a:
 
     # viv "Ce qu'il est énorme ce lapin..."
-    viv "这只小兔子可真大……"
-
+    viv "Ce qu'il est énorme ce lapin（这只兔子真大）……"
 # game/src/plot/viv02.rpy:662
 translate zh_hans viv02_viv_d91a992e:
 
@@ -1378,8 +1365,7 @@ translate zh_hans viv02_viv_55e0c71c:
 translate zh_hans viv02_viv_a7bfd974:
 
     # viv "Oh, oui! Joue avec mes seins, [saga.cast.anon]!"
-    viv "哦，对！玩弄我的胸吧，[saga.cast.anon]！"
-
+    viv "Oh, oui!（哦，对！）Joue avec mes seins（玩弄我的胸部），[saga.cast.anon]！"
 # game/src/plot/viv02.rpy:682
 translate zh_hans viv02_viv_6cb99dfc:
 
@@ -1390,8 +1376,7 @@ translate zh_hans viv02_viv_6cb99dfc:
 translate zh_hans viv02_viv_f87f1b97:
 
     # viv "Oh non! J'ai oublié!"
-    viv "哦不！我忘了！"
-
+    viv "Oh non!（哦不！）J'ai oublié（我忘了！）"
 # game/src/plot/viv02.rpy:687
 translate zh_hans viv02_viv_b78efff3:
 
@@ -1432,14 +1417,12 @@ translate zh_hans viv02_viv_2610dc79:
 translate zh_hans viv02_viv_f942e1d6:
 
     # viv "Au revoir, mon petit lapin!"
-    viv "再见，我的小兔子！"
-
+    viv "Au revoir（再见），mon petit lapin（我的小兔子）！"
 # game/src/plot/viv02.rpy:704
 translate zh_hans viv02_viv_fc597cf7:
 
     # anon "Au revoir."
-    anon "再见。"
-
+    anon "Au revoir（再见）。"
 # game/src/plot/viv02.rpy:711
 translate zh_hans viv02_viv_busy_6221207e:
 
@@ -1451,7 +1434,6 @@ translate zh_hans viv02_viv_busy_685c9cd9:
 
     # viv "Excellent work, [saga.cast.anon]!" (show_lang="Bien joué, [saga.cast.anon]!")
     viv "干得好，[saga.cast.anon]！" (show_lang="Bien joué, [saga.cast.anon]!")
-
 # game/src/plot/viv02.rpy:715
 translate zh_hans viv02_viv_busy_dfc27434:
 
@@ -1601,7 +1583,6 @@ translate zh_hans viv02_outro_office1_6fc8a971:
 
     # viv "Yes, Madame [saga.cast.ursula.clan]." (show_lang="Oui, Madame [saga.cast.ursula.clan].")
     viv "是的，[saga.cast.ursula.clan]夫人。" (show_lang="Oui, Madame [saga.cast.ursula.clan].")
-
 # game/src/plot/viv02.rpy:775
 translate zh_hans viv02_outro_office1_af765d67:
 
@@ -1654,10 +1635,10 @@ translate zh_hans viv02_outro_office1_93db23ee:
 translate zh_hans strings:
 
     old "Bien joué, [saga.cast.anon]!"
-    new "干得好，[saga.cast.anon]！"
+    new "Bien joué, [saga.cast.anon]!（干得好！）"
 
     old "Oui, Madame [saga.cast.ursula.clan]."
-    new "是的，[saga.cast.ursula.clan]夫人。"
+    new "Oui, Madame [saga.cast.ursula.clan].（是的，夫人。）"
 
     old "{i}Mon fromage et moi{/i}..."
-    new "{i}《我与奶酪》{/i}……"
+    new "{i}Mon fromage et moi{/i}...（《我与奶酪》……）"

@@ -61,7 +61,7 @@ translate zh_hans mar_dark_tony_busy_00d41cbd:
 
 
     # tony f_shy "Gotta recharge once in a while, capisce?"
-    tony f_shy "偶尔也得歇一歇、充充电，懂吗？"
+    tony f_shy "偶尔也得歇一歇、充充电，capisce?（懂了没？）"
 
 # game/src/plot/mar_dark.rpy:20
 translate zh_hans mar_dark_tony_busy_b4730b63:

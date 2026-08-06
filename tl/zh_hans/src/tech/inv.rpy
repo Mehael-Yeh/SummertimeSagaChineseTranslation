@@ -9,8 +9,8 @@ translate zh_hans inv_french_poem_bfcf4fec:
 # game/src/tech/inv.rpy:14
 translate zh_hans inv_french_poem_e8273022:
 
-    # anon "( \"You are lying on your stomach, your back welcomes my hand.\" )" (show_lang="( {i}\"Tu es allong? sur le ventre, ton dos accueil ma main.\"{/i} )")
-    anon "你俯卧着，你的背迎接我的手。" (show_lang="( {i}\"Tu es allong? sur le ventre, ton dos accueil ma main.\"{/i} )")
+    # anon "( \"You are lying on your stomach, your back welcomes my hand.\" )" (show_lang="( {i}\"Tu es allong? sur le ventre, ton dos accueille ma main.\"{/i} )")
+    anon "你俯卧着，我的手轻抚你的背。" (show_lang="( {i}\"Tu es allong? sur le ventre, ton dos accueille ma main.\"{/i} )")
 
 # game/src/tech/inv.rpy:15
 translate zh_hans inv_french_poem_39bec282:

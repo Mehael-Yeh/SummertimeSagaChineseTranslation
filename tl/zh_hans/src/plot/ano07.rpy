@@ -382,7 +382,7 @@ translate zh_hans ano07_shop_8bda154c:
 translate zh_hans ano07_shop_0465bd50:
 
     # tony "Now, I want ya to hurry along and get these pizzas delivered, capisce?"
-    tony "现在赶紧把这些披萨送出去，懂了没？"
+    tony "现在赶紧把这些披萨送出去，capisce?（懂了没？）"
 
 # game/src/plot/ano07.rpy:109
 translate zh_hans ano07_shop_3606cebd:
@@ -730,7 +730,7 @@ translate zh_hans ano07_reset_tony_eb3bc9d0:
 translate zh_hans ano07_reset_tony_4bfa7958:
 
     # tony a_hips "Nothin' to deliver, capisce?"
-    tony a_hips "没东西可送，懂了没？"
+    tony a_hips "没东西可送，capisce?（懂了没？）"
 
 # game/src/plot/ano07.rpy:282
 translate zh_hans ano07_reset_tony_6e277125:
@@ -874,7 +874,7 @@ translate zh_hans ano07_boxes_16fa5620:
 translate zh_hans ano07_boxes_bea5dca0:
 
     # tony "Just [saga.cast.tony], capisce?"
-    tony "叫我[saga.cast.tony]就行，懂了没？"
+    tony "叫我[saga.cast.tony]就行，capisce?（懂了没？）"
 
 # game/src/plot/ano07.rpy:357
 translate zh_hans ano07_boxes_ad1e6602:
@@ -952,7 +952,7 @@ translate zh_hans ano07_boxes_37c6fe3e:
 translate zh_hans ano07_boxes_8af8a9ce:
 
     # tony f_happy @ a_quiet "'Cause if she don't like ya, then yer out of a job, capisce?"
-    tony f_happy @ a_quiet "她要是不喜欢你，这份工作可就没了，懂了没？"
+    tony f_happy @ a_quiet "她要是不喜欢你，这份工作可就没了，capisce?（懂了没？）"
 
 # game/src/plot/ano07.rpy:374
 translate zh_hans ano07_boxes_3dbb55c1:

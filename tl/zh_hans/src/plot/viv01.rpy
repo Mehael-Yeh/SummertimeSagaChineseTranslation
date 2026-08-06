@@ -10,7 +10,7 @@ translate zh_hans viv01_intro_6cc4fbef:
 translate zh_hans viv01_intro_7b141aff:
 
     # viv "Oh, oui!"
-    viv "哦，当然！"
+    viv "Oh, oui!（哦，当然！）"
 
 # game/src/plot/viv01.rpy:12
 translate zh_hans viv01_intro_9f3d6a81:
@@ -22,7 +22,7 @@ translate zh_hans viv01_intro_9f3d6a81:
 translate zh_hans viv01_intro_7c856304:
 
     # viv "Impressionnant! You're the first student to inquire about the tutoring!"
-    viv "真让人惊喜！你是第一个来问辅导课的学生！"
+    viv "Impressionnant!（真让人惊喜！）你是第一个来问辅导课的学生！"
 
 # game/src/plot/viv01.rpy:18
 translate zh_hans viv01_intro_4f0da2e7:
@@ -46,7 +46,7 @@ translate zh_hans viv01_intro_a07b9232:
 translate zh_hans viv01_intro_7f5c4f2f:
 
     # viv "Quoi? You are not desiring the reward either?!"
-    viv "什么？你也不想要那个奖励吗？！"
+    viv "Quoi?（什么？）你也不想要那个奖励吗？！"
 
 # game/src/plot/viv01.rpy:30
 translate zh_hans viv01_intro_e8889364:
@@ -58,7 +58,7 @@ translate zh_hans viv01_intro_e8889364:
 translate zh_hans viv01_intro_477583e1:
 
     # viv "Ah superbe!"
-    viv "啊，太棒了！"
+    viv "Ah superbe!（啊，太棒了！）"
 
 # game/src/plot/viv01.rpy:35
 translate zh_hans viv01_intro_4f41bb1f:
@@ -94,7 +94,7 @@ translate zh_hans viv01_intro_a0f7a369:
 translate zh_hans viv01_intro_eca858c7:
 
     # viv "Oui!"
-    viv "是的！"
+    viv "Oui!（是的！）"
 
 # game/src/plot/viv01.rpy:53
 translate zh_hans viv01_intro_cc8a50db:
@@ -124,7 +124,7 @@ translate zh_hans viv01_intro_12f6d54d:
 translate zh_hans viv01_intro_4c07f65c:
 
     # viv "Oh non, this is not good!"
-    viv "哦不，这可不太妙！"
+    viv "Oh non（哦不），这可不太妙！"
 
 # game/src/plot/viv01.rpy:66
 translate zh_hans viv01_intro_3604d697:
@@ -148,7 +148,7 @@ translate zh_hans viv01_intro_64b6088e:
 translate zh_hans viv01_intro_3b25e69a:
 
     # viv "Oui, I go there quite often myself."
-    viv "是呀，我自己也常去那里。"
+    viv "Oui（是呀），我自己也常去那里。"
 
 # game/src/plot/viv01.rpy:76
 translate zh_hans viv01_intro_1e2e57ba:
@@ -166,7 +166,7 @@ translate zh_hans viv01_intro_30ba0211:
 translate zh_hans viv01_intro_a66f4b56:
 
     # viv "C'est le paradis."
-    viv "简直是天堂。"
+    viv "C'est le paradis.（简直是天堂。）"
 
 # game/src/plot/viv01.rpy:81
 translate zh_hans viv01_intro_d91a992e:
@@ -460,7 +460,7 @@ translate zh_hans viv01_viv_merge_2b8bf3dc:
 translate zh_hans viv01_viv_merge_fc43e8b9:
 
     # viv "Tu es le bienvenu, [saga.cast.anon]."
-    viv "不客气，[saga.cast.anon]。"
+    viv "Tu es le bienvenu（不客气），[saga.cast.anon]。"
 
 # game/src/plot/viv01.rpy:237
 translate zh_hans viv01_viv_merge_05f4c500:
@@ -970,7 +970,7 @@ translate zh_hans viv01_outro_95c3ea20:
 translate zh_hans viv01_outro_0b5e8054:
 
     # anon "Oh! Umm, oui?"
-    anon "哦！呃……oui？"
+    anon "哦！呃……oui?（嗯？）"
 
 # game/src/plot/viv01.rpy:543
 translate zh_hans viv01_outro_d6785f5f:
@@ -1012,7 +1012,7 @@ translate zh_hans viv01_outro_0ee14a00:
 translate zh_hans viv01_outro_8432f000:
 
     # viv "Ah, that's vélo or la bicyclette."
-    viv "啊，这个词是“vélo”，也可以说“la bicyclette”。"
+    viv "啊，这个叫vélo（自行车），也可以说la bicyclette（自行车）。"
 
 # game/src/plot/viv01.rpy:559
 translate zh_hans viv01_outro_11f9897e:
@@ -1072,7 +1072,7 @@ translate zh_hans viv01_outro_81bc25ca:
 translate zh_hans viv01_outro_0ee284ad:
 
     # viv "Très bien, mon bel homme!"
-    viv "非常好，我的帅哥！"
+    viv "Très bien（非常好），mon bel homme（我的帅哥）！"
 
 # game/src/plot/viv01.rpy:581
 translate zh_hans viv01_outro_5f3d02a3:
@@ -1138,7 +1138,7 @@ translate zh_hans viv01_outro_05b69499:
 translate zh_hans viv01_outro_3e408440:
 
     # viv "Oui, the time, it flies when you are having such fun!"
-    viv "是呀，开心的时候，时间总是过得特别快！"
+    viv "Oui（是呀），开心的时候，时间总是过得特别快！"
 
 # game/src/plot/viv01.rpy:610
 translate zh_hans viv01_outro_60a4c7fc:
@@ -1204,7 +1204,7 @@ translate zh_hans viv01_outro_fc39210e:
 translate zh_hans viv01_outro_80881421:
 
     # viv "Au revoir!"
-    viv "再见！"
+    viv "Au revoir!（再见！）"
 
 # game/src/plot/viv01.rpy:633
 translate zh_hans viv01_outro_5b5a2b4f:
@@ -1315,7 +1315,7 @@ translate zh_hans strings:
     new "{color=e40002}STR{/color}不足。"
 
     old "Merveilleuse!"
-    new "太棒了！"
+    new "Merveilleuse!（太棒了！）"
 
     old "Quel petit futé ce garçon."
-    new "真是个机灵的孩子。"
+    new "Quel petit futé ce garçon.（真是个机灵的孩子。）"

@@ -5518,7 +5518,7 @@ translate zh_hans strings:
     new "呃，也许改天吧"
 
     old "Irasshaimase!"
-    new "いらっしゃいませ！（欢迎光临）"
+    new "Irasshaimase!（欢迎光临！）"
 
     # game/src/plot/deb26.rpy:196
     old "Absolutely!"

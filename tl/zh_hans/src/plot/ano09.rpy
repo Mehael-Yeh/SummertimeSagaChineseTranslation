@@ -46,7 +46,7 @@ translate zh_hans ano09_shop_a563228a:
 translate zh_hans ano09_shop_04fac17b:
 
     # tony a_point "... And family, looks after one another, capisce?"
-    tony a_point "……家人就该互相照应，懂了没？"
+    tony a_point "……家人就该互相照应，capisce?（懂了没？）"
 
 # game/src/plot/ano09.rpy:18
 translate zh_hans ano09_shop_d9a92728:
@@ -820,7 +820,7 @@ translate zh_hans ano09_shop_9f1c52aa:
 translate zh_hans ano09_shop_46dc4709:
 
     # tony "Start savin' up and buy something more appropriate, capisce?"
-    tony "从现在开始攒钱，买个像样点的交通工具，懂了没？"
+    tony "从现在开始攒钱，买个像样点的交通工具，capisce?（懂了没？）"
 
 # game/src/plot/ano09.rpy:229
 translate zh_hans ano09_shop_30d228de:
@@ -1714,7 +1714,7 @@ translate zh_hans ano09_tony_alt2_a2a54cd9:
 translate zh_hans ano09_tony_alt2_ebb9a4ab:
 
     # tony a_point_up "Just, eh... don't tell [saga.cast.maria], capisce?"
-    tony a_point_up "就是，呃……别告诉[saga.cast.maria]，懂了没？"
+    tony a_point_up "就是，呃……别告诉[saga.cast.maria]，capisce?（懂了没？）"
 
 # game/src/plot/ano09.rpy:585
 translate zh_hans ano09_tony_alt2_c14d5d10:

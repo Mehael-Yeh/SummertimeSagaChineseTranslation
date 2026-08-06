@@ -1084,7 +1084,7 @@ translate zh_hans ano06_debbies_merge_7e7a2ad6:
 translate zh_hans ano06_debbies_merge_7cf7db34:
 
     # tony @ a_point "For now, just call me [saga.cast.tony], capisce?"
-    tony @ a_point "眼下叫我[saga.cast.tony]就行，懂了没？"
+    tony @ a_point "眼下叫我[saga.cast.tony]就行，capisce?（懂了没？）"
 
 # game/src/plot/ano06.rpy:332
 translate zh_hans ano06_debbies_merge_0dcbbc42:

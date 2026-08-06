@@ -52,7 +52,7 @@ translate zh_hans viv05_french_b1127792:
 translate zh_hans viv05_french_8bdd2c1b:
 
     # viv "C'est plutôt facile, non?"
-    viv "还挺简单的，对吧？"
+    viv "C'est plutôt facile, non?（还挺简单的，对吧？）"
 
 # game/src/plot/viv05.rpy:33
 translate zh_hans viv05_french_53d5be83:
@@ -88,7 +88,7 @@ translate zh_hans viv05_french_244739f4:
 translate zh_hans viv05_french_eeeddee4:
 
     # viv "Toutes mes félicitations, [saga.cast.anon]!"
-    viv "祝贺你，[saga.cast.anon]！"
+    viv "Toutes mes félicitations（恭喜你），[saga.cast.anon]！"
 
 # game/src/plot/viv05.rpy:56
 translate zh_hans viv05_french_0e25cfa4:
@@ -160,7 +160,7 @@ translate zh_hans viv05_french_d4107805:
 translate zh_hans viv05_french_4ba5b792:
 
     # viv "Well then, you are in for a real treat, jeune homme!"
-    viv "那你可有口福了，小伙子！"
+    viv "那你可有口福了，jeune homme（小伙子）！"
 
 # game/src/plot/viv05.rpy:90
 translate zh_hans viv05_french_aa3c1e61:
@@ -172,7 +172,7 @@ translate zh_hans viv05_french_aa3c1e61:
 translate zh_hans viv05_french_a0287182:
 
     # viv "Au revoir, [saga.cast.anon]."
-    viv "再见，[saga.cast.anon]。"
+    viv "Au revoir（再见），[saga.cast.anon]。"
 
 # game/src/plot/viv05.rpy:102
 translate zh_hans viv05_french_fail_244739f4:
@@ -244,7 +244,7 @@ translate zh_hans viv05_office5_40a0ac50:
 translate zh_hans viv05_office5_1c39c0b2:
 
     # viv "{i}*Hic*{/i} Oui, mon bel homme!"
-    viv "{i}*嗝*{/i} 对呀，我的帅哥！"
+    viv "{i}*嗝*{/i} Oui, mon bel homme!（对呀，我的帅哥！）"
 
 # game/src/plot/viv05.rpy:146
 translate zh_hans viv05_office5_891c15ce:
@@ -364,7 +364,7 @@ translate zh_hans viv05_office5_reuse_0b0e0a84:
 translate zh_hans viv05_office5_reuse_f276b07e:
 
     # viv "Oh, mon bel homme..."
-    viv "哦，我的帅哥……"
+    viv "Oh, mon bel homme（哦，我的帅哥）……"
 
 # game/src/plot/viv05.rpy:211
 translate zh_hans viv05_office5_reuse_25341d28:
@@ -400,13 +400,13 @@ translate zh_hans viv05_office5_reuse_e65fd64c:
 translate zh_hans viv05_office5_reuse_513445c5:
 
     # viv "Oh mon dieu! Elle est magnifique!"
-    viv "天哪！它真是太壮观了！"
+    viv "Oh mon dieu!（天哪！）Elle est magnifique!（它真是太壮观了！）"
 
 # game/src/plot/viv05.rpy:230
 translate zh_hans viv05_office5_reuse_d77543e9:
 
     # viv "Oh mon dieu! C'est beau..."
-    viv "天哪！真漂亮……"
+    viv "Oh mon dieu!（天哪！）C'est beau…（真漂亮……）"
 
 # game/src/plot/viv05.rpy:232
 translate zh_hans viv05_office5_reuse_b48e4f27:
@@ -514,7 +514,7 @@ translate zh_hans viv05_office5_reuse_895ed550:
 translate zh_hans viv05_office5_reuse_e386f3ad:
 
     # viv "C'est incroyable!"
-    viv "简直难以置信！"
+    viv "C'est incroyable!（简直难以置信！）"
 
 # game/src/plot/viv05.rpy:302
 translate zh_hans viv05_office5_reuse_205b794f:
@@ -550,7 +550,7 @@ translate zh_hans viv05_office5_reuse_0f100236:
 translate zh_hans viv05_office5_reuse_a24f0080:
 
     # anon "Oui oui!"
-    anon "喜欢，喜欢！"
+    anon "Oui oui!（对，对！）"
 
 # game/src/plot/viv05.rpy:320
 translate zh_hans viv05_office5_reuse_59d303f5:
@@ -568,7 +568,7 @@ translate zh_hans viv05_office5_reuse_c59fb785:
 translate zh_hans viv05_office5_merge_7b141aff:
 
     # viv "Oh, oui!"
-    viv "哦，对！"
+    viv "Oh, oui!（哦，对！）"
 
 # game/src/plot/viv05.rpy:325
 translate zh_hans viv05_office5_merge_af418479:
@@ -646,7 +646,7 @@ translate zh_hans viv05_office5_merge_a5e04fcf:
 translate zh_hans viv05_office5_merge_0ee284ad:
 
     # viv "Très bien, mon bel homme!"
-    viv "太好了，我的帅哥！"
+    viv "Très bien, mon bel homme!（太好了，我的帅哥！）"
 
 # game/src/plot/viv05.rpy:393
 translate zh_hans viv05_office5_merge_6abfdacb:
@@ -664,7 +664,7 @@ translate zh_hans viv05_office5_merge_6fb26168:
 translate zh_hans viv05_office5_merge_1fb36947:
 
     # viv "I'll prepare you some fromage to go with your wine..."
-    viv "我去给你准备些奶酪，配着酒一起吃……"
+    viv "我去给你准备些 fromage（奶酪），配着酒一起吃……"
 
 # game/src/plot/viv05.rpy:404
 translate zh_hans viv05_office5_merge_38044d7f:
@@ -706,7 +706,7 @@ translate zh_hans viv05_office5_merge_dc953cae:
 translate zh_hans viv05_office5_merge_d2832fab:
 
     # viv "Au revoir, [saga.cast.anon]!"
-    viv "再见，[saga.cast.anon]！"
+    viv "Au revoir（再见），[saga.cast.anon]！"
 
 # game/src/plot/viv05.rpy:432
 translate zh_hans viv05_office5_merge_c657837a:
@@ -736,13 +736,13 @@ translate zh_hans viv05_office5_merge_e4cc4c66:
 translate zh_hans viv05_office5_merge_3d3b848b:
 
     # viv "Very well. Au revoir, [saga.cast.anon]!"
-    viv "好吧。再见，[saga.cast.anon]！"
+    viv "好吧。Au revoir（再见），[saga.cast.anon]！"
 
 # game/src/plot/viv05.rpy:447
 translate zh_hans viv05_office5_merge_3ebdc998:
 
     # anon "Au revoir, [saga.cast.viv]!"
-    anon "再见，[saga.cast.viv]！"
+    anon "Au revoir（再见），[saga.cast.viv]！"
 
 # game/src/plot/viv05.rpy:456
 translate zh_hans viv05_office5_alt_c2237641:
@@ -760,7 +760,7 @@ translate zh_hans viv05_office5_alt_6941bc7f:
 translate zh_hans viv05_office5_alt_f276b07e:
 
     # viv "Oh, mon bel homme..."
-    viv "哦，我的帅哥……"
+    viv "Oh, mon bel homme（哦，我的帅哥）……"
 
 # game/src/plot/viv05.rpy:464
 translate zh_hans viv05_office5_alt_5d4cba15:
@@ -832,7 +832,7 @@ translate zh_hans viv05_outro_f0e90ba4:
 translate zh_hans viv05_outro_b9ac02c1:
 
     # viv "Bonjour, [saga.cast.anon]."
-    viv "早上好，[saga.cast.anon]。"
+    viv "Bonjour（早上好），[saga.cast.anon]。"
 
 # game/src/plot/viv05.rpy:507
 translate zh_hans viv05_outro_35073fb7:

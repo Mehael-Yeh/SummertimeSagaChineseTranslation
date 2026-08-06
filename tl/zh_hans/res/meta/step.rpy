@@ -82,7 +82,7 @@ translate zh_hans strings:
     new "进入法语课堂。"
     # game/res/meta/step.rpym:58
     old "L'heure du français!"
-    new "法语课时间到！"
+    new "L'heure du français!（法语课时间到！）"
     # game/res/meta/step.rpym:60
     old "Enter the hallway."
     new "进入走廊。"
@@ -2005,7 +2005,7 @@ translate zh_hans strings:
     new "字典完成！该去辅导课了。"
     # game/res/meta/step.rpym:1665
     old "So bicycle in French is bicyclette... I should probably remember that!"
-    new "所以自行车在法语里是 bicyclette……我应该记住这个！"
+    new "所以“自行车”用法语说是 bicyclette（自行车）……我应该记住这个！"
     # game/res/meta/step.rpym:1668
     old "I wonder what [saga.cast.viv] has planned for the next tutoring session."
     new "我想知道[saga.cast.viv]为下次的辅导课准备了什么。"
@@ -2053,7 +2053,7 @@ translate zh_hans strings:
     new "可怜的[saga.cast.viv]。没人想被叫到校长办公室，连老师也不例外！"
     # game/res/meta/step.rpym:1698
     old "Fromage means cheese... I wonder what's French for boobies?"
-    new "Fromage是奶酪的意思……我想知道法语里“咪咪”怎么说？"
+    new "Fromage（奶酪）的意思是“奶酪”……我想知道“奶子”用法语怎么说？"
     # game/res/meta/step.rpym:1703
     old "Enter the library in the afternoon."
     new "下午进入图书馆。"

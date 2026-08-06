@@ -341,7 +341,7 @@ translate zh_hans ano15_shop1_c748af51:
 
 
     # tony "I want you to promise me that you won't go anywhere near this place without me, capisce?"
-    tony "你得答应我，没有我陪着，绝不能靠近那地方，懂了没？"
+    tony "你得答应我，没有我陪着，绝不能靠近那地方，capisce?（懂了没？）"
 
 # game/src/plot/ano15.rpy:87
 translate zh_hans ano15_shop1_eb780b0f:
@@ -1594,7 +1594,7 @@ translate zh_hans ano15_pause_tony_8a6d289a:
 
 
     # tony a_point "All ya' gotta do is show up, capisce?"
-    tony a_point "你只管人到场，懂了没？"
+    tony a_point "你只管人到场，capisce?（懂了没？）"
 
 # game/src/plot/ano15.rpy:484
 translate zh_hans ano15_pause_tony_fe0d36af:
@@ -2686,7 +2686,7 @@ translate zh_hans ano15_kitchen_0934c27a:
 
 
     # tony "Capisce?"
-    tony "懂了没？"
+    tony "Capisce?（懂了没？）"
 
 # game/src/plot/ano15.rpy:861
 translate zh_hans ano15_kitchen_4f1743e4:
@@ -2791,7 +2791,7 @@ translate zh_hans ano15_kitchen_0934c27a_1:
 
 
     # tony "Capisce?"
-    tony "懂了没？"
+    tony "Capisce?（懂了没？）"
 
 # game/src/plot/ano15.rpy:885
 translate zh_hans ano15_kitchen_dd0e1372:
@@ -3358,7 +3358,7 @@ translate zh_hans ano15_pantry_ba759208:
 
 
     # tony a_point_back "I'll just wait outside, capisce?"
-    tony a_point_back "我就在外面等，懂了没？"
+    tony a_point_back "我就在外面等，capisce?（懂了没？）"
 
 # game/src/plot/ano15.rpy:1104
 translate zh_hans ano15_pantry_90f2e00b:
@@ -4457,7 +4457,7 @@ translate zh_hans ano15_pantry_merge3_9a8155f3:
 translate zh_hans ano15_pantry_merge3_b512bc19:
 
     # tony a_fists_up f_confused "You like capicola?"
-    tony a_fists_up f_confused "你喜欢卡皮科拉火腿吗？"
+    tony a_fists_up f_confused "你喜欢 capicola（卡皮科拉火腿）吗？"
 
 # game/src/plot/ano15.rpy:1519
 translate zh_hans ano15_pantry_merge3_e137577b:
@@ -4887,7 +4887,7 @@ translate zh_hans ano15_pantry_merge3_09c64039:
 
 
     # tony "I think I got some salami and capicola in the fridge."
-    tony "我记得冰箱里还有些萨拉米和卡皮科拉火腿。"
+    tony "我记得冰箱里还有些萨拉米和 capicola（卡皮科拉火腿）。"
 
 translate zh_hans ano15_pantry_merge3_23521e05:
 

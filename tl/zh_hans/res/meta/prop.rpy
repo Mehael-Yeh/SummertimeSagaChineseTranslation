@@ -263,16 +263,16 @@ translate zh_hans strings:
     new "一本关于如何像公牛般交配的极为\"深入\"的指南！"
     # game/res/meta/prop.rpym:116
     old "Mon Fromage et Moi!"
-    new "我的奶酪和我！"
+    new "Mon Fromage et Moi!（我的奶酪和我！）"
     # game/res/meta/prop.rpym:117
     old "A thrilling romp though 101 French cheeses. \"It's easy as one, two, brie!\""
     new "一场穿越101种法国奶酪的欢乐嬉闹。“简单得就像一、二、布里！”"
     # game/res/meta/prop.rpym:119
     old "Dictionnaire Français"
-    new "法语词典"
+    new "Dictionnaire Français（法语词典）"
     # game/res/meta/prop.rpym:120
     old "Omelet au fromage!"
-    new "奶酪蛋卷！"
+    new "Omelet au fromage!（只会一句外语）"
     # game/res/meta/prop.rpym:122
     old "[saga.cast.judith]'s French dictionary"
     new "[saga.cast.judith]的法语词典"
@@ -602,7 +602,7 @@ translate zh_hans strings:
     new "法国美食作业"
     # game/res/meta/prop.rpym:297
     old "Sure, it might be a little cheesy, but who doesn't like a good homage to fromage?"
-    new "当然，这也许有点俗气，但谁不喜欢对奶酪的致敬呢？"
+    new "当然，这也许有点俗气，但谁不喜欢向 fromage（奶酪）致敬呢？"
     # game/res/meta/prop.rpym:299
     old "Scanned French pages"
     new "扫描的法语页面"
@@ -713,7 +713,7 @@ translate zh_hans strings:
     new "借书卡"
     # game/res/meta/prop.rpym:354
     old "A pass to Summerville's very own all-you-can-read buffet."
-    new "夏日镇独有的畅读自助餐入场券。"
+    new "夏日镇独有的自助畅读通行证。"
     # game/res/meta/prop.rpym:356
     old "Lure"
     new "诱饵"

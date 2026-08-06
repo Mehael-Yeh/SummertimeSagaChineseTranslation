@@ -4,7 +4,7 @@
 translate zh_hans viv04_office_df684ec0:
 
     # viv "Bonjour, [saga.cast.anon]!"
-    viv "你好，[saga.cast.anon]！"
+    viv "Bonjour（你好），[saga.cast.anon]！"
 
 # game/src/plot/viv04.rpy:8
 translate zh_hans viv04_office_6e9b8009:
@@ -22,7 +22,7 @@ translate zh_hans viv04_office_3dc4686d:
 translate zh_hans viv04_office_326f7d5b:
 
     # viv "Merci beaucoup!"
-    viv "非常感谢！"
+    viv "Merci beaucoup!（非常感谢！）"
 
 # game/src/plot/viv04.rpy:16
 translate zh_hans viv04_office_c8bbfdfe:
@@ -52,7 +52,7 @@ translate zh_hans viv04_office_5d203b8b:
 translate zh_hans viv04_office_6b910402:
 
     # viv "Oui, [saga.cast.anon]! You are by far my best student, and I am so very proud of you!"
-    viv "没错，[saga.cast.anon]！你是我最优秀的学生，我真的为你感到骄傲！"
+    viv "Oui（是的），[saga.cast.anon]，你绝对是我最优秀的学生，我真为你感到骄傲！"
 
 # game/src/plot/viv04.rpy:28
 translate zh_hans viv04_office_ea33f00c:
@@ -70,7 +70,7 @@ translate zh_hans viv04_office_ef2639ca:
 translate zh_hans viv04_office_b0e82317:
 
     # viv "Oui! Assuming she even shows up for the exam, there is no way she will make a passing grade."
-    viv "没错！就算她真的来参加考试，也不可能通过。"
+    viv "Oui!（是的！）就算她真的来参加考试，也不可能及格。"
 
 # game/src/plot/viv04.rpy:37
 translate zh_hans viv04_office_97de6382:
@@ -106,7 +106,7 @@ translate zh_hans viv04_office_ad729004:
 translate zh_hans viv04_office_bac0b9a4:
 
     # viv "Oui..."
-    viv "没错……"
+    viv "Oui（没错）……"
 
 # game/src/plot/viv04.rpy:52
 translate zh_hans viv04_office_d91a992e:
@@ -694,7 +694,7 @@ translate zh_hans viv04_roxxy1_viv_7fb33f74:
 translate zh_hans viv04_roxxy1_viv_e3634d40:
 
     # viv "Oui, I tell her this but-"
-    viv "是啊，我也这么跟她说，可——"
+    viv "Oui（是啊），我也这么跟她说，可——"
 
 # game/src/plot/viv04.rpy:347
 translate zh_hans viv04_roxxy1_viv_2ab17f8b:
@@ -3761,10 +3761,10 @@ translate zh_hans strings:
     new "不付钱。"
 
     old "Merci, [saga.cast.anon]!"
-    new "谢谢，[saga.cast.anon]！"
+    new "Merci, [saga.cast.anon]!（谢谢！）"
 
     old "Magnifique, [saga.cast.anon]!"
-    new "太棒了，[saga.cast.anon]！"
+    new "Magnifique, [saga.cast.anon]!（太棒了！）"
 
     old "Vraiment?"
-    new "真的吗？"
+    new "Vraiment?（真的吗？）"

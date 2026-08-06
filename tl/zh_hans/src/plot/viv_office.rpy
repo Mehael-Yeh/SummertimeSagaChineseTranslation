@@ -16,7 +16,7 @@ translate zh_hans viv_office_979c2098:
 translate zh_hans viv_office_4a35bb0f:
 
     # viv "Dieu merci!"
-    viv "谢天谢地！"
+    viv "Dieu merci!（谢天谢地！）"
 
 # game/src/plot/viv_office.rpy:13
 translate zh_hans viv_office_62e10885:
@@ -34,13 +34,13 @@ translate zh_hans viv_office_9d49eef9:
 translate zh_hans viv_office_0784c34e:
 
     # viv "Come, mon bel homme! Ravage me!"
-    viv "来吧，我的帅哥！狠狠地肏我吧！"
+    viv "来吧，mon bel homme（我的帅哥）！狠狠地肏我吧！"
 
 # game/src/plot/viv_office.rpy:26
 translate zh_hans viv_office_782fc300:
 
     # anon "Avec plaisir!"
-    anon "乐意之至！"
+    anon "Avec plaisir!（乐意之至！）"
 
 # game/src/plot/viv_office.rpy:35
 translate zh_hans viv_office_area_d18d82b7:
@@ -58,7 +58,7 @@ translate zh_hans viv_office_area_cab4619b:
 translate zh_hans viv_office_area_60df57fd:
 
     # viv "Oh, {i}tutoring{/i}. Oui!"
-    viv "哦，{i}补课{/i}啊。好呀！"
+    viv "哦，{i}补课{/i}啊。Oui!（好呀！）"
 
 # game/src/plot/viv_office.rpy:41
 translate zh_hans viv_office_area_29f09570:
@@ -70,13 +70,13 @@ translate zh_hans viv_office_area_29f09570:
 translate zh_hans viv_office_area_39afabff:
 
     # anon "Oui!"
-    anon "好！"
+    anon "Oui!（好！）"
 
 # game/src/plot/viv_office.rpy:47
 translate zh_hans viv_office_area_0ee284ad:
 
     # viv "Très bien, mon bel homme!"
-    viv "非常好，我的帅哥！"
+    viv "Très bien, mon bel homme!（非常好，我的帅哥！）"
 
 # game/src/plot/viv_office.rpy:54
 translate zh_hans viv_office_busy_4ddc0e1b:

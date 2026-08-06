@@ -458,7 +458,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:174
  old "Crèche"
- new "育幼院"
+ new "Crèche（育幼院）"
 
  # game/res/meta/sets.rpym:176
  old "[saga.cast.annie]'s House"

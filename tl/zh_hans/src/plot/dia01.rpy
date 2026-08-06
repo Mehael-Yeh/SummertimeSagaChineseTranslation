@@ -76,7 +76,7 @@ translate zh_hans dia01_intro_650d15a6:
 translate zh_hans dia01_intro_ee26c599:
 
     # diane e_w f_calm -m_laugh "I'm guessing [saga.cast.debbie] told you I'm looking for someone to help me this summer?"
-    diane e_w f_calm -m_laugh "我猜[saga.cast.debbie]告诉你我在找人帮忙过这个夏天？"
+    diane e_w f_calm -m_laugh "我猜[saga.cast.debbie]告诉你我在找人帮忙度过这个夏天？"
 
 # game/src/plot/dia01.rpy:24
 translate zh_hans dia01_intro_eca430db:

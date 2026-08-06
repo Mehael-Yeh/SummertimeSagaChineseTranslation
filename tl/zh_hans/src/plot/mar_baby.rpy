@@ -68,7 +68,7 @@ translate zh_hans mar_baby_wait_6abfc705:
 
 
     # tony f_calm "Just get ya butt down here, capisce?"
-    tony f_calm "赶紧给我滚过来，明白吗？"
+    tony f_calm "赶紧给我滚过来，capisce?（懂了没？）"
 
 # game/src/plot/mar_baby.rpy:26
 translate zh_hans mar_baby_wait_439774fa:
@@ -257,7 +257,7 @@ translate zh_hans mar_baby_tell_6b3922c4:
 
 
     # tony a_point_back "... I'm ya guy, capisce?"
-    tony a_point_back "……我随叫随到，明白吗？"
+    tony a_point_back "……我随叫随到，capisce?（懂了没？）"
 
 # game/src/plot/mar_baby.rpy:93
 translate zh_hans mar_baby_tell_65804523:

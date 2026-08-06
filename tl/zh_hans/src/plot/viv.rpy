@@ -64,7 +64,7 @@ translate zh_hans viv_school_office5_intro1_2f2f93dc:
 translate zh_hans viv_school_office5_intro1_ef814870:
 
     # viv "Oui?"
-    viv "嗯？"
+    viv "Oui?（嗯？）"
 
 # game/src/plot/viv.rpy:99
 translate zh_hans viv_school_office5_intro1_9ed9b518:
@@ -82,7 +82,7 @@ translate zh_hans viv_school_office5_intro1_eee65138:
 translate zh_hans viv_school_office5_intro2_04d166c5:
 
     # anon "Bonjour, [saga.cast.viv]."
-    anon "你好，[saga.cast.viv]。"
+    anon "Bonjour（你好），[saga.cast.viv]。"
 
 # game/src/plot/viv.rpy:110
 translate zh_hans viv_school_office5_intro2_f3ad49fb:
@@ -130,13 +130,13 @@ translate zh_hans viv_school_office5_outro2_c1a8de50:
 translate zh_hans viv_school_office5_outro2_3ec3c7e5:
 
     # viv "C'est la vie!"
-    viv "人生就是这样！"
+    viv "C'est la vie!（人生就是这样！）"
 
 # game/src/plot/viv.rpy:141
 translate zh_hans viv_school_office5_outro2_80881421:
 
     # viv "Au revoir!"
-    viv "再见！"
+    viv "Au revoir!（再见！）"
 
 translate zh_hans strings:
 

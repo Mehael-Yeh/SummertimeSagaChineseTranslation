@@ -88,7 +88,7 @@ translate zh_hans ano16_shop_c5c10a6e:
 translate zh_hans ano16_shop_4628ea97:
 
     # tony @ e_b_w f_horny "It's an offer you can't refuse, capisce?"
-    tony @ e_b_w f_horny "这可是个你没法拒绝的提议，懂了没？"
+    tony @ e_b_w f_horny "这可是个你没法拒绝的提议，capisce?（懂了没？）"
 
 # game/src/plot/ano16.rpy:34
 translate zh_hans ano16_shop_83f3bfc0:
@@ -130,7 +130,7 @@ translate zh_hans ano16_shop_256abd95:
 translate zh_hans ano16_shop_6b3922c4:
 
     # tony a_point_back "... I'm ya guy, capisce?"
-    tony a_point_back "……尽管来找我，懂了没？"
+    tony a_point_back "……尽管来找我，capisce?（懂了没？）"
 
 # game/src/plot/ano16.rpy:52
 translate zh_hans ano16_shop_157b5b90:

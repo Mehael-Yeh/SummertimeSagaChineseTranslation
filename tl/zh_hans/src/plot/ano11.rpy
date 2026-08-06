@@ -768,7 +768,7 @@ translate zh_hans ano11_shop_5001644e:
 
 
     # tony a_pizza p_stand "I'll get the deliveries boxed up for ya in the meantime, capisce?"
-    tony a_pizza p_stand "我先把要送的披萨装盒，懂了没？"
+    tony a_pizza p_stand "我先把要送的披萨装盒，capisce?（懂了没？）"
 
 # game/src/plot/ano11.rpy:205
 translate zh_hans ano11_shop_2ce5941d:
@@ -1860,7 +1860,7 @@ translate zh_hans ano11_flour_merge_f5372e97:
 
 
     # tony a_point "Capisce?"
-    tony a_point "懂了没？"
+    tony a_point "Capisce?（懂了没？）"
 
 # game/src/plot/ano11.rpy:513
 translate zh_hans ano11_flour_merge_6f81ac8d:
@@ -2049,7 +2049,7 @@ translate zh_hans ano11_flour_merge_80ac2049:
 
 
     # tony f_sceptical "You just focus on keepin' your family safe, capisce?"
-    tony f_sceptical "你只管保护好家里人，懂了没？"
+    tony f_sceptical "你只管保护好家里人，capisce?（懂了没？）"
 
 # game/src/plot/ano11.rpy:550
 translate zh_hans ano11_flour_merge_fbdb15cd:

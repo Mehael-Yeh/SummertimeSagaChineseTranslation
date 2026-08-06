@@ -760,3 +760,39 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | bearing down ... at the end | 可真用力……／尤其是最后那一下 | Tina 高潮时身体用力的性爱语境；at the end 指“尤其是最后那一下”，不是“结束了”。 |
 | Something... Priceless!! | 一件……／……无价之宝！！ | Maria 对 Anon 带给家庭的意义表示感谢；用量词“一件”使跨行名词结构自然衔接。 |
 | My brain's... not really... | 我的脑子……还没转过来…… | Tina 性行为后的余韵表达；补足中文谓语，避免“我的脑子……还没……操，真爽”的悬空句。 |
+
+
+
+## Vivienne 法语教学线第三语言显示
+
+| 法语原文／标识 | 推荐中文释义 | 使用规则 |
+|---|---|---|
+| `Merci beaucoup` | 非常感谢 | 无 `show_lang` 时保留法语并在全角括号内补中文释义。 |
+| `Oui` / `Oui!` / `Oui?` | 是的／对／嗯？ | 按语气翻译；无 `show_lang` 时保留法语原文并加括号释义。 |
+| `Magnifique` | 太棒了 | Vivienne 夸奖学生或作品时使用；菜单字符串同样保留法语原文。 |
+| `Vraiment?` | 真的吗？ | 表示惊讶或确认，不弱化问号和感叹号语气。 |
+| `D'accord, OK, je suis désolé!` | 好、好?我错了！ | Vivienne 挨罚时的道歉；无 `show_lang` 的菜单字符串保留法语并加中文释义。 |
+| `Ow, ça fait mal!` | 哎哟?好痛！ | Vivienne 受罚时的疼痛反应；带 `show_lang` 时主对白只显示中文。 |
+| `Pas plus!` | 别再打了！ | Vivienne 请求 Ursula 停手；带 `show_lang` 时主对白只显示中文。 |
+| `Connasse!` | 你个贱货！ | Vivienne 对 Ursula 的失控辱骂；带 `show_lang` 时主对白只显示中文。 |
+| `mon bel homme` / `jeune homme` | 我的帅哥／小伙子 | Vivienne 对 Anon 的法语亲昵称呼?按关系阶段保留暧昧程度。 |
+
+# Third-language presentation rules and terms
+
+- Without `show_lang`: preserve the third-language original and append a Chinese gloss in full-width parentheses.
+- With `show_lang`: keep only natural Chinese in the main line; preserve the third-language text in `show_lang`.
+- `Oui` = 是的／对／是呀（按语境）
+- `Bonjour` = 你好
+- `Au revoir` = 再见
+- `C'est la vie` = 人生就是这样
+- `capisce` = 懂了没
+- `prosciutto` = 意式风干火腿
+- `gorgonzola` = 戈贡佐拉奶酪
+- `capicola` = 卡皮科拉火腿
+- `Irasshaimase` = 欢迎光临
+- `Arigatō gozaimashita` = 非常感谢
+- `hajimemashite` = 初次见面
+- `piña colada` = 椰林飘香
+- `Crèche` = 育幼院
+- `bicyclette` = 自行车
+- `fromage` = 奶酪

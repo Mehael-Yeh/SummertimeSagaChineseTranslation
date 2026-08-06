@@ -4,13 +4,13 @@
 translate zh_hans viv03_french_df684ec0:
 
     # viv "Bonjour, [saga.cast.anon]!"
-    viv "你好，[saga.cast.anon]！"
+    viv "Bonjour（你好），[saga.cast.anon]！"
 
 # game/src/plot/viv03.rpy:16
 translate zh_hans viv03_french_04d166c5:
 
     # anon "Bonjour, [saga.cast.viv]."
-    anon "你好，[saga.cast.viv]。"
+    anon "Bonjour（你好），[saga.cast.viv]。"
 
 # game/src/plot/viv03.rpy:19
 translate zh_hans viv03_french_8628cc5b:
@@ -70,7 +70,7 @@ translate zh_hans viv03_french_fe5e4125:
 translate zh_hans viv03_french_6196c951:
 
     # viv "Oui, beaucoup..."
-    viv "对，会非常喜欢……"
+    viv "Oui（是的），很多……"
 
 # game/src/plot/viv03.rpy:46
 translate zh_hans viv03_french_a6cf358a:
@@ -106,7 +106,7 @@ translate zh_hans viv03_french_4026a85b:
 translate zh_hans viv03_french_df1102d8:
 
     # viv "Oh oui, [saga.cast.anon], it is known!"
-    viv "哦，当然，[saga.cast.anon]，这可是公认的！"
+    viv "Oh oui（哦，当然），[saga.cast.anon]，这可是公认的！"
 
 # game/src/plot/viv03.rpy:61
 translate zh_hans viv03_french_1b741ddc:
@@ -148,7 +148,7 @@ translate zh_hans viv03_french_eb73a751:
 translate zh_hans viv03_french_0ee284ad:
 
     # viv "Très bien, mon bel homme!"
-    viv "太好了，我的帅哥！"
+    viv "Très bien（太好了），mon bel homme（我的帅哥）！"
 
 # game/src/plot/viv03.rpy:79
 translate zh_hans viv03_french_45bc9185:
@@ -196,7 +196,7 @@ translate zh_hans viv03_french_bf1b4bb0:
 translate zh_hans viv03_french_a0287182:
 
     # viv "Au revoir, [saga.cast.anon]."
-    viv "再见，[saga.cast.anon]。"
+    viv "Au revoir（再见），[saga.cast.anon]。"
 
 # game/src/plot/viv03.rpy:100
 translate zh_hans viv03_french_34961cc8:
@@ -346,7 +346,7 @@ translate zh_hans viv03_library_viv_6e72a025:
 translate zh_hans viv03_library_viv_02b6c2b3:
 
     # viv "Don't keep me waiting, mon bel homme."
-    viv "别让我等太久，我的帅哥。"
+    viv "别让我等太久，mon bel homme（我的帅哥）。"
 
 # game/src/plot/viv03.rpy:173
 translate zh_hans viv03_library_viv_4f0ffbdc:
@@ -844,13 +844,13 @@ translate zh_hans viv03_viv_d3b8deda:
 translate zh_hans viv03_viv_28233639:
 
     # viv "Superbe!"
-    viv "棒极了！"
+    viv "Superbe!（棒极了！）"
 
 # game/src/plot/viv03.rpy:479
 translate zh_hans viv03_viv_04154083:
 
     # viv "Oh, comme c'est beau!"
-    viv "哦，写得真美！"
+    viv "Oh, comme c'est beau!（哦，写得真美！）"
 
 # game/src/plot/viv03.rpy:480
 translate zh_hans viv03_viv_fd144eed:
@@ -892,7 +892,7 @@ translate zh_hans viv03_viv_75585c14:
 translate zh_hans viv03_viv_7a3adc26:
 
     # viv "Quoi? Come now, [saga.cast.anon]."
-    viv "什么？别这样，[saga.cast.anon]。"
+    viv "Quoi?（什么？）别这样，[saga.cast.anon]。"
 
 # game/src/plot/viv03.rpy:496
 translate zh_hans viv03_viv_3bf09965:
@@ -988,7 +988,7 @@ translate zh_hans viv03_viv_e4b551c8:
 translate zh_hans viv03_viv_99e6bb88:
 
     # viv "Quoi?! Comment oses-tu!"
-    viv "什么？！你怎么敢！"
+    viv "Quoi?!（什么？！）Comment oses-tu（你怎么敢）！"
 
 # game/src/plot/viv03.rpy:543
 translate zh_hans viv03_viv_0d7f89c8:
@@ -1048,7 +1048,7 @@ translate zh_hans viv03_viv_29119cde:
 translate zh_hans viv03_viv_5120ba6a:
 
     # viv "Do it for me, mon bel homme!"
-    viv "就当是为了我吧，我的帅哥！"
+    viv "就当是为了我吧，mon bel homme（我的帅哥）！"
 
 # game/src/plot/viv03.rpy:571
 translate zh_hans viv03_viv_3c049e76:
@@ -1444,7 +1444,7 @@ translate zh_hans viv03_viv_f6640a44:
 translate zh_hans viv03_viv_a31eafeb:
 
     # viv "Aww, mon bel homme..."
-    viv "哎呀，我的帅哥……"
+    viv "哎呀，mon bel homme（我的帅哥）……"
 
 # game/src/plot/viv03.rpy:765
 translate zh_hans viv03_viv_4c7a7a79:
@@ -1516,7 +1516,7 @@ translate zh_hans viv03_viv_1eed6574:
 translate zh_hans viv03_viv_0b6660dd:
 
     # viv "Oui, they call it the French kiss and everything..."
-    viv "是啊，人们甚至专门把它叫作法式接吻呢……"
+    viv "Oui（是啊），人们甚至专门把它叫作法式接吻呢……"
 
 # game/src/plot/viv03.rpy:787
 translate zh_hans viv03_viv_412eb555:
@@ -1576,7 +1576,7 @@ translate zh_hans viv03_viv_5502af91:
 translate zh_hans viv03_viv_2c62fd0b:
 
     # viv "Oui."
-    viv "是的。"
+    viv "Oui（是的）。"
 
 # game/src/plot/viv03.rpy:818
 translate zh_hans viv03_viv_91bcbada:
@@ -1636,7 +1636,7 @@ translate zh_hans viv03_viv_70cd34fd:
 translate zh_hans viv03_viv_715f9607:
 
     # viv "Mon bel homme..."
-    viv "我的帅哥……"
+    viv "Mon bel homme（我的帅哥）……"
 
 # game/src/plot/viv03.rpy:841
 translate zh_hans viv03_viv_26a50bef:
@@ -1744,7 +1744,7 @@ translate zh_hans viv03_viv_97a83fa7:
 translate zh_hans viv03_viv_2c62fd0b_1:
 
     # viv "Oui."
-    viv "没错。"
+    viv "Oui（是的）。"
 
 # game/src/plot/viv03.rpy:877
 translate zh_hans viv03_viv_103d6b0e:
@@ -1774,7 +1774,7 @@ translate zh_hans viv03_viv_4846e105:
 translate zh_hans viv03_viv_c8ba7e93:
 
     # viv "Au revoir, mon bel homme."
-    viv "再见，我的帅哥。"
+    viv "Au revoir（再见），mon bel homme（我的帅哥）。"
 
 # game/src/plot/viv03.rpy:888
 translate zh_hans viv03_viv_d91a992e_1:
@@ -2122,16 +2122,16 @@ translate zh_hans viv03_outro_office1_980c8dd5:
 translate zh_hans strings:
 
     old "{i}*Sigh*{/i} C'est ridicule."
-    new "{i}*叹气*{/i} 真是荒谬。"
+    new "{i}*Sigh*{/i} C'est ridicule.（*叹气* 真是荒谬。）"
 
     old "Connasse!"
-    new "贱货！"
+    new "Connasse!（贱货！）"
 
     old "D'accord, OK, je suis désolé!"
-    new "好、好，我错了！"
+    new "D'accord, OK, je suis désolé!（好、好，我错了！！）"
 
     old "Ow, ça fait mal!"
-    new "哎哟，好痛！"
+    new "Ow, ça fait mal!（哎哟，好痛！！）"
 
     old "Pas plus!"
-    new "别再打了！"
+    new "Pas plus!（别再打了！）"
