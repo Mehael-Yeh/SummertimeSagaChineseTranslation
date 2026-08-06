@@ -218,7 +218,7 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 
 ## 补充字符串统一项
 
-| English | 类别 | 统一中文 | 适用范围与备注 |
+| ?? | 类别 | 统一中文 | 适用范围与备注 |
 |---|---|---|---|
 | camming career | 成人直播 | 直播事业 | Jenny 直播副业相关内心独白。 |
 | camshow / camshows | 成人直播 | 成人直播 | 任务名和直播场景统一；不使用“摄像头表演”。 |

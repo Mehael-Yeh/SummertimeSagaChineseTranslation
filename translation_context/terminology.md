@@ -734,7 +734,7 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 
 ## bytecode_strings / sms_fix 本轮确认
 
-| English | 中文 | 说明 |
+| 英文 | 中文 | 说明 |
 |---|---|---|
 | camming career | 直播事业 | Jenny 的成人直播副业；不译为“摄像头事业”。 |
 | camshow / camshows | 成人直播 | 带色情表演语境时使用；`on stream` 译为“在直播中”。 |
@@ -750,7 +750,6 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | Gym. | 体育馆 | 本项目中学校场景既有译法；不机械改为“健身房”。 |
 
 
-
 ## 跨行断句精修专项（2026-08-06）
 
 | 英文表达 | 推荐中文 | 说明 |
@@ -762,7 +761,6 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | My brain's... not really... | 我的脑子……还没转过来…… | Tina 性行为后的余韵表达；补足中文谓语，避免“我的脑子……还没……操，真爽”的悬空句。 |
 
 
-
 ## Vivienne 法语教学线第三语言显示
 
 | 法语原文／标识 | 推荐中文释义 | 使用规则 |
@@ -771,28 +769,31 @@ Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不�
 | `Oui` / `Oui!` / `Oui?` | 是的／对／嗯？ | 按语气翻译；无 `show_lang` 时保留法语原文并加括号释义。 |
 | `Magnifique` | 太棒了 | Vivienne 夸奖学生或作品时使用；菜单字符串同样保留法语原文。 |
 | `Vraiment?` | 真的吗？ | 表示惊讶或确认，不弱化问号和感叹号语气。 |
-| `D'accord, OK, je suis désolé!` | 好、好?我错了！ | Vivienne 挨罚时的道歉；无 `show_lang` 的菜单字符串保留法语并加中文释义。 |
-| `Ow, ça fait mal!` | 哎哟?好痛！ | Vivienne 受罚时的疼痛反应；带 `show_lang` 时主对白只显示中文。 |
+| `D'accord, OK, je suis désolé!` | 好、好，我错了！ | Vivienne 挨罚时的道歉；无 `show_lang` 的菜单字符串保留法语并加中文释义。 |
+| `Ow, ça fait mal!` | 哎哟，好痛！ | Vivienne 受罚时的疼痛反应；带 `show_lang` 时主对白只显示中文。 |
 | `Pas plus!` | 别再打了！ | Vivienne 请求 Ursula 停手；带 `show_lang` 时主对白只显示中文。 |
 | `Connasse!` | 你个贱货！ | Vivienne 对 Ursula 的失控辱骂；带 `show_lang` 时主对白只显示中文。 |
-| `mon bel homme` / `jeune homme` | 我的帅哥／小伙子 | Vivienne 对 Anon 的法语亲昵称呼?按关系阶段保留暧昧程度。 |
+| `mon bel homme` / `jeune homme` | 我的帅哥／小伙子 | Vivienne 对 Anon 的法语亲昵称呼，按关系阶段保留暧昧程度。 |
 
-# Third-language presentation rules and terms
+## 第三语言呈现规则与术语
 
-- Without `show_lang`: preserve the third-language original and append a Chinese gloss in full-width parentheses.
-- With `show_lang`: keep only natural Chinese in the main line; preserve the third-language text in `show_lang`.
-- `Oui` = 是的／对／是呀（按语境）
-- `Bonjour` = 你好
-- `Au revoir` = 再见
-- `C'est la vie` = 人生就是这样
-- `capisce` = 懂了没
-- `prosciutto` = 意式风干火腿
-- `gorgonzola` = 戈贡佐拉奶酪
-- `capicola` = 卡皮科拉火腿
-- `Irasshaimase` = 欢迎光临
-- `Arigatō gozaimashita` = 非常感谢
-- `hajimemashite` = 初次见面
-- `piña colada` = 椰林飘香
-- `Crèche` = 育幼院
-- `bicyclette` = 自行车
-- `fromage` = 奶酪
+- 无 `show_lang`：保留第三语言原文，并在后面用全角括号补充中文释义。
+- 有 `show_lang`：主对白只保留自然中文；第三语言文本保留在 `show_lang` 中。
+
+### 通用第三语言词汇
+
+- `Oui`：是的／对／是呀（按语境）
+- `Bonjour`：你好
+- `Au revoir`：再见
+- `C'est la vie`：人生就是这样
+- `capisce`：懂了没
+- `prosciutto`：意式风干火腿
+- `gorgonzola`：戈贡佐拉奶酪
+- `capicola`：卡皮科拉火腿
+- `Irasshaimase`：欢迎光临
+- `Arigatō gozaimashita`：非常感谢
+- `hajimemashite`：初次见面
+- `piña colada`：椰林飘香
+- `Crèche`：育幼院
+- `bicyclette`：自行车
+- `fromage`：奶酪

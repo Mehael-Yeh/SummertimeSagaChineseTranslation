@@ -330,7 +330,6 @@
 - 已补充 `pizza_kitchen.rpy` 的厨房受限入口；将两句内心独白整理为“后厨危险”到“最好别随便闯进去”的递进，统一全角括号，并避免把 `wander in there` 错写成已经进门后的闲逛。
 - 已补充 `tammy_bed2_scope.rpy` 的 Erik 卧室望远镜观察；区分通宵游戏、Jenny 成人内容、润肤露自慰暗示、兽人成人玩具及 Tammy 关系升级分支，并保留 Anon 对新关系发展的惊讶。
 
-
 - 已补充 `tammy_lobby.rpy` 与 `tammy_yard_scope.rpy` 的时段限制、后院瑜伽观察、偷窥关系边界及 `turned on` 成人语义。
 - 已补充 Tenzin 的陌生人定位、格言式书面口吻、`Shoo` 赶人语义，以及服装店单独 `changing room` 统一译“更衣隔间”。
 - 已补充 Titomi 的 Omaha／Nebraska 背景、Ara Ara 英文专名、反讽抬杠口吻，以及 `hospitality stick in her ass` 与 `wear a helmet` 两处连续笑点。
@@ -416,20 +415,18 @@
 ## 最终校验记录
 
 已完成最终校验：`python -X utf8 tools/validate_translations.py --no-compare` 通过（322 个 Ren’Py 翻译文件）；`python -X utf8 tools/audit_recurring_terms.py --fail-on-mismatch` 通过（全部登记术语 0 mismatch）；`git diff --check` 通过；`python -X utf8 tools/build_rpa.py` 及 `--verify-only` 均通过，生成并验证 `dist/zh_hans.rpa`（327 个文件，42,333,816 字节）。
-| `tl/zh_hans/bytecode_strings.rpy`、`tl/zh_hans/sms_fix.rpy` | 补充字符串与短信运行时修复文件重命名并系统性精修 | Anon、Debbie、Jenny、Maria、Daisy、Odette 等 | 完成 | 去除 `旧前缀` 前缀；精修成人直播、直播间观众、孕期任务、分娩短信、冷落条件、Bad Monster、Electro Clit、月相、Outlood Express、cookie jar 和姿势/UI 文本；同步短信映射加载路径及术语表 | 完整翻译校验、重复术语审计、RPA 构建与验证通过后归档 |
-
-
+| `tl/zh_hans/bytecode_strings.rpy`、`tl/zh_hans/sms_fix.rpy` | 补充字符串与短信运行时修复文件重命名并系统性精修 | Anon、Debbie、Jenny、Maria、Daisy、Odette 等 | 完成 | 去除 `renpybox` 前缀；精修成人直播、直播间观众、孕期任务、分娩短信、冷落条件、Bad Monster、Electro Clit、月相、Outlood Express、cookie jar 和姿势/UI 文本；同步短信映射加载路径及术语表 | 完整翻译校验、重复术语审计、RPA 构建与验证通过后归档 |
 
 ### 2026-08-06：跨行断句衔接专项复核
 
 - 对 tl/zh_hans/src/plot/**/*.rpy 中英文原文跨翻译条目断句进行系统筛查，重点复核上一条以 ... 结尾、下一条以 ... 开头的连续对白。
-- 精修 ano03.rpy、deb_tv.rpy、deb_visit.rpy、deb23.rpy、mar_couch.rpy、tin_vault.rpy、tin_dusk.rpy；修正语序、重复指代、中文名词结构、成人场景语气及 at the end 误译。
+- 精修 ano03.rpy、deb_tv.rpy、deb_visit.rpy、deb23.rpy、mar_couch.rpy、tin_vault.rpy、tin_dusk.rpy；修正语序、重复指代、中文名词结构、成人场景语气及 `at the end` 误译。
 - 另修复 ano01.rpy 中 Mrs. [saga.cast.tammy.clan.name[0]]... 被错误断成“太……太”的问题，恢复为自然的“太太……”。
 - 未改动任何英文原文注释、Ren'Py 标签、说话人、变量或占位符；本轮无新增专名术语，相关固定表达已登记在 translation_context/terminology.md 。
 
-### 2026-08-06?????? Vivienne ??????
+### 2026-08-06：Vivienne 法语第三语言显示复核
 
-- ?? `viv03.rpy`?`viv04.rpy` ????????????????????????? UTF-8 ?????? `????` ???
-- ??? `show_lang` ???????????????????????????????? `Merci`?`Magnifique` ????????? `[saga.cast.anon]`?
-- ?? Vivienne ??? Anon ?????????????????????`Truly?!` ??????????? `show_lang` ??????????
-- ???? Vivienne ?????????????? `translation_context/terminology.md`?
+- 对 `viv03.rpy`、`viv04.rpy` 的法语菜单和带 `show_lang` 的对白进行复核，修复此前因 UTF-8 编码问题产生的 `?` 乱码。
+- 按 `show_lang` 规则整理第三语言显示：无 `show_lang` 时保留法语并追加中文释义；有 `show_lang` 时主对白只显示自然中文，同时保留法语小字；同步修复 `Merci`、`Magnifique` 等菜单字符串中的占位符 `[saga.cast.anon]`。
+- 结合 Vivienne 与 Anon 的关系阶段，复核亲昵称呼与 `Truly?!` 等表达的语气，避免提前强化或弱化关系；统一带 `show_lang` 的法语对白处理。
+- 将 Vivienne 法语相关固定表达与第三语言显示规则补充记录到 `translation_context/terminology.md`。
