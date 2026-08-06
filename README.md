@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build Chinese RPA](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml/badge.svg)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml)
 
-[Summertime Saga](https://summertimesaga.com/) 的非官方简体中文翻译项目，提供可直接安装的 `chinese.rpa` 汉化包，以及可供修改的 Ren'Py 翻译源文件。
+[Summertime Saga](https://summertimesaga.com/) 的非官方简体中文翻译项目，提供可直接安装的 `zh_hans.rpa` 汉化包，以及可供修改的 Ren'Py 翻译源文件。
 
 > [!IMPORTANT]
 > 当前翻译仅面向 **Summertime Saga v21 系列版本**。不同游戏版本的脚本和资源可能不兼容，安装前请确认版本并备份存档。
@@ -12,25 +12,25 @@
 
 - 翻译以机器翻译为基础，并持续进行人工校对、术语统一和剧情润色。
 - 仓库只包含中文翻译、适配脚本和构建工具，**不包含游戏本体**。
-- 翻译源文件位于 `tl/chinese/`，发布版汉化包名为 `chinese.rpa`。
+- 翻译源文件位于 `tl/zh_hans/`，发布版汉化包名为 `zh_hans.rpa`。
 - 项目内置默认切换为中文、语言入口和短信界面适配等辅助脚本。
 - 翻译仍在完善中，可能存在错译、漏译、语气不一致或版本兼容问题。
 
 ## 安装方法
 
-请只选择以下一种安装方式，避免 `chinese.rpa` 与散装的 `tl/chinese` 文件重复加载。
+请只选择以下一种安装方式，避免 `zh_hans.rpa` 与散装的 `tl/zh_hans` 文件重复加载。
 
-### 方法一：安装 `chinese.rpa`（推荐）
+### 方法一：安装 `zh_hans.rpa`（推荐）
 
-1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面下载对应版本的 `chinese.rpa`。
+1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面下载对应版本的 `zh_hans.rpa`。
 2. 完全退出游戏。
-3. 将 `chinese.rpa` 放入游戏根目录下的 `game` 文件夹。
+3. 将 `zh_hans.rpa` 放入游戏根目录下的 `game` 文件夹。
 4. 启动游戏并确认界面与对话已切换为中文。
 
 ```text
 SummertimeSaga/
 └── game/
-    └── chinese.rpa
+    └── zh_hans.rpa
 ```
 
 ### 方法二：安装翻译源文件
@@ -39,13 +39,13 @@ SummertimeSaga/
 
 1. 下载或克隆本仓库。
 2. 将仓库中的整个 `tl` 文件夹复制到游戏的 `game` 文件夹中。
-3. 合并目录时保留 `tl/chinese/` 的完整结构。
+3. 合并目录时保留 `tl/zh_hans/` 的完整结构。
 
 ```text
 SummertimeSaga/
 └── game/
     └── tl/
-        └── chinese/
+        └── zh_hans/
             ├── base_box/
             ├── fonts/
             ├── res/
@@ -58,8 +58,8 @@ SummertimeSaga/
 
 ### 更新与卸载
 
-- **更新：**退出游戏，删除旧版 `chinese.rpa` 后再复制新版文件；使用源文件安装时，请先删除旧的 `game/tl/chinese/`，再复制新版本。
-- **卸载：**删除 `game/chinese.rpa`，或删除手动安装的 `game/tl/chinese/`。
+- **更新：**退出游戏，删除旧版 `zh_hans.rpa` 后再复制新版文件；使用源文件安装时，请先删除旧的 `game/tl/zh_hans/`，再复制新版本。
+- **卸载：**删除 `game/zh_hans.rpa`，或删除手动安装的 `game/tl/zh_hans/`。
 - 如果卸载后仍显示中文，请在游戏设置中切换语言，并清理可能遗留的重复汉化文件。
 
 ## 仓库结构
@@ -67,7 +67,7 @@ SummertimeSaga/
 ```text
 .
 ├── .github/workflows/       # GitHub Actions 自动构建与发布
-├── tl/chinese/              # Ren'Py 简体中文翻译源文件
+├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件
 ├── tools/                   # 校验、术语审计和 RPA 构建工具
 ├── translation_context/     # 角色、剧情、术语、风格和精修进度记录
 ├── LICENSE
@@ -103,7 +103,7 @@ git diff --check
 
 `validate_translations.py` 会检查原文与译文配对、占位符、标签、程序结构、编码标记和换行形式；`audit_recurring_terms.py` 会依据 `translation_context/recurring_terms.json` 检查已登记术语的一致性。
 
-## 构建 `chinese.rpa`
+## 构建 `zh_hans.rpa`
 
 自动发布流程使用 **Python 3.12** 和 **Ren'Py 8.5.3 SDK**。完整步骤可参考 [`.github/workflows/build-chinese-rpa.yml`](.github/workflows/build-chinese-rpa.yml)。
 
@@ -112,8 +112,8 @@ git diff --check
 3. 在仓库根目录运行：
 
 ```bash
-python tools/build_rpa.py --root /path/to/project/game --output dist/chinese.rpa
-python tools/build_rpa.py --root /path/to/project/game --output dist/chinese.rpa --verify-only
+python tools/build_rpa.py --root /path/to/project/game --output dist/zh_hans.rpa
+python tools/build_rpa.py --root /path/to/project/game --output dist/zh_hans.rpa --verify-only
 ```
 
 构建脚本会生成确定性的 RPA 3.0 归档，并在验证阶段检查文件列表、内容哈希、索引和归档格式。

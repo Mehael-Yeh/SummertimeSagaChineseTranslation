@@ -1,7 +1,0 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
-
-translate chinese strings:
-
-    # game/src/menu/mvps.rpy:8
-    old "Thank you for all your support!"
-    new "感谢你们所有的支持！"

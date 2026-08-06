@@ -18,8 +18,8 @@ import sys
 from typing import Iterable
 
 STRING_RE = re.compile(r'"(?P<body>(?:\\.|[^"\\])*)"')
-TRANSLATE_RE = re.compile(r'^translate\s+chinese(?:\s+|:)')
-LABEL_RE = re.compile(r'^translate\s+chinese\s+([^:]+):')
+TRANSLATE_RE = re.compile(r'^translate\s+zh_hans(?:\s+|:)')
+LABEL_RE = re.compile(r'^translate\s+zh_hans\s+([^:]+):')
 OLD_RE = re.compile(r'^\s*old\s+"')
 NEW_RE = re.compile(r'^\s*new\s+"')
 SOURCE_COMMENT_RE = re.compile(r'^\s*#\s*(?!game/)(?:[^"\n]*?)"')
@@ -279,7 +279,7 @@ def validate_file(root: Path, path: Path, ref: str, compare: bool) -> list[str]:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root', type=Path, default=Path.cwd())
-    parser.add_argument('--scope', type=Path, default=Path('tl/chinese'))
+    parser.add_argument('--scope', type=Path, default=Path('tl/zh_hans'))
     parser.add_argument('--base-ref', default='HEAD')
     parser.add_argument('--changed', action='store_true', help='check only tracked .rpy files changed from base ref')
     parser.add_argument('--no-compare', action='store_true', help='skip Git structural comparison')

@@ -1,7 +1,0 @@
-﻿# TODO: Translation updated at 2026-06-18 00:52
-
-translate chinese strings:
-
-    # game/src/mini/garden.rpy:26
-    old "Clear [game.hint!it] before the time runs out!"
-    new "在时间耗尽前清理[game.hint!it]！"

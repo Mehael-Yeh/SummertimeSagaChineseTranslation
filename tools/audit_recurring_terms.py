@@ -101,7 +101,7 @@ def print_hits(label: str, hits: list[Hit], show_all: bool) -> int:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--registry", type=Path, default=DEFAULT_REGISTRY)
-    parser.add_argument("--path", type=Path, default=ROOT / "tl" / "chinese")
+    parser.add_argument("--path", type=Path, default=ROOT / "tl" / "zh_hans")
     parser.add_argument("--term", action="append", dest="term_ids",
                         help="Only audit this registry id; may be repeated.")
     parser.add_argument("--query", action="append", default=[],

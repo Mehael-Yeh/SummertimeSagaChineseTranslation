@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "terms": [
     {
       "id": "tony_champ",
@@ -12,7 +12,7 @@
       "speaker": "Tony",
       "addressee": "Anon",
       "translation": "冠军",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "Tony 对 Anon 的固定专属称呼；不得与普通 kid/kiddo 混用。"
     },
     {
@@ -25,7 +25,7 @@
       "speaker": "Tina / Maria（转述称呼）",
       "addressee": "Anon",
       "translation": "小帅哥",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "Tina 对 Anon 的专属称呼；非称呼用法不受本规则约束，应根据具体指代自然翻译，不机械使用“娃娃脸”。"
     },
     {
@@ -37,7 +37,7 @@
       "category": "character_address",
       "speaker": "Maria / Tony",
       "translation": "美人儿",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "老派亲昵称呼，不是人物姓名；跨文件保持“美人儿”。"
     },
     {
@@ -51,7 +51,7 @@
       "speaker": "Debbie（主要）",
       "addressee": "Anon",
       "translation": "亲爱的；歌曲/明确母性语境可译“宝贝”",
-      "first_seen": "tl/chinese/src/plot/deb01.rpy",
+      "first_seen": "tl/zh_hans/src/plot/deb01.rpy",
       "note": "Debbie 的高频照顾型称呼；普通对话保持“亲爱的”，不用“亲亲”“甜心”等漂移译法。关系阶段差异应通过整句语气体现。"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "category": "proper_name",
       "translation": "蓝色猎鹰号",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "Tony 为车辆提出并由 Anon 采用的名字。"
     },
     {
@@ -73,7 +73,7 @@
       ],
       "category": "proper_name",
       "translation": "蓝宝石种马号",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "与 Blue Falcon 并列的夸张车辆候选名。"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "category": "proper_name",
       "translation": "过度补偿者",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "豪华车的戏谑名称；已跨到 jos_trade.rpy。"
     },
     {
@@ -98,7 +98,7 @@
       "category": "catchphrase",
       "speaker": "Tony",
       "translation": "懂了没？／明白吗？（按语气）",
-      "first_seen": "tl/chinese/src/plot/ano06.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano06.rpy",
       "note": "Tony 的意大利裔口头禅；允许按场景微调，但必须保留确认、催促或警告功能。"
     },
     {
@@ -111,7 +111,7 @@
       "speaker": "Tony / Maria / Tina",
       "addressee": "Anon",
       "translation": "徒弟",
-      "first_seen": "tl/chinese/src/plot/ano10.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano10.rpy",
       "note": "Tony 把 Anon 视为后辈和接班人的固定定位；不得漂移为“门徒”。"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "category": "food_term",
       "translation": "意式奶油甜馅卷",
-      "first_seen": "tl/chinese/src/plot/ano10.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano10.rpy",
       "note": "食品名称；排除感叹习语 Holy cannoli。成人双关场景仍保持同一核心食品译名。"
     },
     {
@@ -134,7 +134,7 @@
       "category": "adult_wordplay",
       "speaker": "Tony / Anon",
       "translation": "骑胡子",
-      "first_seen": "tl/chinese/src/plot/ano10.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano10.rpy",
       "note": "成人双关；`ano10.rpy` 和 `ano15.rpy` 已统一为“骑胡子”，保留 Anon 早期不懂含义的喜剧节奏。"
     },
     {
@@ -146,7 +146,7 @@
       "category": "proper_name",
       "speaker": "Tony",
       "translation": "The Plumber",
-      "first_seen": "tl/chinese/src/plot/ano11.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano11.rpy",
       "note": "Tony 的旧黑帮绰号；人物专名保持英文原状。"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "category": "proper_name",
       "translation": "Eddie Four-Fingers / Four-Fingers",
-      "first_seen": "tl/chinese/src/plot/ano11.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano11.rpy",
       "note": "旧黑帮人物的姓名与绰号；按原文出现形式保持英文。"
     },
     {
@@ -170,7 +170,7 @@
       "speaker": "Dimitri",
       "addressee": "Anon",
       "translation": "小兔子",
-      "first_seen": "tl/chinese/src/plot/ano03.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano03.rpy",
       "note": "Dimitri 对 Anon 的戏谑性固定称呼；不得漂移成其他兔子称谓。"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "category": "food_term",
       "translation": "罗宋汤",
-      "first_seen": "tl/chinese/src/plot/ano11.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano11.rpy",
       "note": "Igor 反复提到的俄式食品；跨文件保持核心译名。"
     },
     {
@@ -192,7 +192,7 @@
       ],
       "category": "food_term",
       "translation": "意式风干火腿",
-      "first_seen": "tl/chinese/src/plot/ano13.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano13.rpy",
       "note": "特殊披萨配料；不得泛化成普通“火腿”。"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "category": "food_term",
       "translation": "戈贡佐拉奶酪",
-      "first_seen": "tl/chinese/src/plot/ano13.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano13.rpy",
       "note": "特殊披萨配料；跨重复台词保持同一中文名称。"
     },
     {
@@ -214,7 +214,7 @@
       ],
       "category": "food_term",
       "translation": "意式烤饺",
-      "first_seen": "tl/chinese/src/plot/ano09.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano09.rpy",
       "note": "Maria 后厨食品及 Tony 的越狱笑话使用同一核心译名；`ano09.rpy`、`ano13.rpy`、`ano15.rpy` 已复核。"
     },
     {
@@ -225,7 +225,7 @@
       ],
       "category": "place_name",
       "translation": "海滨公寓",
-      "first_seen": "tl/chinese/base_box/sets.rpy",
+      "first_seen": "tl/zh_hans/base_box/sets.rpy",
       "note": "公寓地点专名；房号单独保留。"
     },
     {
@@ -236,7 +236,7 @@
       ],
       "category": "ui_term",
       "translation": "好感度中幅提升",
-      "first_seen": "tl/chinese/src/plot/ano12.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano12.rpy",
       "note": "第四面墙随机奖励 UI；ano12.rpy 与 ano14.rpy 保持同一显示层级，并原样保留角色和随机数变量。"
     },
     {
@@ -248,7 +248,7 @@
       "category": "catchphrase",
       "speaker": "Tony / Anon（引述）",
       "translation": "补水最重要",
-      "first_seen": "tl/chinese/src/plot/ano13.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano13.rpy",
       "note": "Tony 的运动补水口号；`ano13.rpy` 与 `ano15.rpy` 保持一致。"
     },
     {
@@ -259,7 +259,7 @@
       ],
       "category": "food_term",
       "translation": "卡皮科拉火腿",
-      "first_seen": "tl/chinese/src/plot/ano15.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano15.rpy",
       "note": "Tony 的意大利式熟食比喻；保留食物和性双关。"
     },
     {
@@ -271,7 +271,7 @@
       "category": "coded_phrase",
       "speaker": "Tony",
       "translation": "男孩，男孩，男孩……长得高高的男孩。",
-      "first_seen": "tl/chinese/src/plot/ano15.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano15.rpy",
       "note": "Tony 给 Maria 的拙劣暗号；保留三次重复和停顿。"
     },
     {
@@ -283,7 +283,7 @@
       "category": "relationship_term",
       "speaker": "Tony / Anon",
       "translation": "教父",
-      "first_seen": "tl/chinese/src/plot/ano16.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano16.rpy",
       "note": "Anon 与 Tony/Maria 孩子的固定关系身份；同时承接 Tony 的黑帮背景和《教父》笑点，不改成“干爹”。"
     },
     {
@@ -296,7 +296,7 @@
       "category": "recurring_joke",
       "speaker": "Maria / Tony",
       "translation": "职场性骚扰培训",
-      "first_seen": "tl/chinese/src/plot/ano15.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano15.rpy",
       "note": "Maria 因 Tony 对员工说露骨话而威胁送他参加的职场性骚扰培训；Tony 的恐惧来自曾被强制培训，不是两人的性交暗语。"
     },
     {
@@ -307,7 +307,7 @@
       ],
       "category": "proper_name",
       "translation": "Consum-R",
-      "first_seen": "tl/chinese/src/plot/ano01.rpy",
+      "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
       "note": "商场店名；保持英文原拼写、大小写和连字符，不翻译、不插入中文音译。"
     },
     {
@@ -319,7 +319,7 @@
       "category": "adult_move_name",
       "speaker": "Tony",
       "translation": "恶魔三人行",
-      "first_seen": "tl/chinese/src/plot/mar_dark.rpy",
+      "first_seen": "tl/zh_hans/src/plot/mar_dark.rpy",
       "note": "Tony 为三人性交提出的招式名；保留夸张的老派命名感。"
     },
     {
@@ -331,7 +331,7 @@
       "category": "adult_move_name",
       "speaker": "Tony",
       "translation": "移肾术",
-      "first_seen": "tl/chinese/src/plot/mar_dark.rpy",
+      "first_seen": "tl/zh_hans/src/plot/mar_dark.rpy",
       "note": "Tony 为性交动作提出的夸张招式名。"
     },
     {
@@ -345,7 +345,7 @@
       "speaker": "Josie",
       "addressee": "Anon",
       "translation": "锅盖头；截断时为锅盖——",
-      "first_seen": "tl/chinese/src/plot/deb13.rpy",
+      "first_seen": "tl/zh_hans/src/plot/deb13.rpy",
       "note": "Josie 对 Anon 发型的固定挖苦称呼；完整 bowl cut 译为锅盖头，被打断的 bowl- 译为锅盖——。"
     },
     {
@@ -358,7 +358,7 @@
       "speaker": "Jenny",
       "addressee": "Anon",
       "translation": "变态",
-      "first_seen": "tl/chinese/src/plot/jen01.rpy",
+      "first_seen": "tl/zh_hans/src/plot/jen01.rpy",
       "note": "Jenny 对 Anon 的固定辱称；后续按关系阶段调整整句口吻，但核心称呼保持‘变态’。"
     },
     {
@@ -369,8 +369,899 @@
       ],
       "category": "proper_name",
       "translation": "Sluttygram",
-      "first_seen": "tl/chinese/src/plot/jen05.rpy",
+      "first_seen": "tl/zh_hans/src/plot/jen05.rpy",
       "note": "成人照片订阅网站专名，保持英文拼写和大小写，不翻译、音译或汉化。"
+    },
+    {
+      "id": "jenny_peaches_double_entendre",
+      "source_regex": "\\bpeaches\\b",
+      "target_regexes": [
+        "桃子"
+      ],
+      "category": "recurring_double_entendre",
+      "speaker": "Jenny / Debbie",
+      "translation": "桃子",
+      "first_seen": "tl/zh_hans/src/plot/jen22.rpy",
+      "note": "Jenny 为掩饰成人直播而编造的水果说法；后续“汁水、完事、满脸、头发沾到”同时承接舔屄和高潮场景，必须保持桃子这一核心双关。"
+    },
+    {
+      "id": "jenny_whipping_boy",
+      "source_regex": "\\blittle whipping boy\\b",
+      "target_regexes": [
+        "出气筒"
+      ],
+      "category": "relationship_dynamic",
+      "speaker": "Anon",
+      "addressee": "Jenny",
+      "translation": "出气筒",
+      "first_seen": "tl/zh_hans/src/plot/jen23.rpy",
+      "note": "Anon 拒绝继续成为 Jenny 任意发泄和使唤的对象；jen23.rpy 与 jen_cam.rpy 统一。"
+    },
+    {
+      "id": "jenny_kung_fu_fighting_line_1",
+      "source_regex": "Errmyyoony orhz unnng eeewww iiiiiting\\.",
+      "target_regexes": [
+        "人人嗯嗯都在功夫格斗"
+      ],
+      "category": "recurring_song_line",
+      "speaker": "Anon",
+      "translation": "人人嗯嗯都在功夫格斗",
+      "first_seen": "tl/zh_hans/src/plot/jen23.rpy",
+      "note": "Anon 被 Jenny 坐脸时含混哼唱《Kung Fu Fighting》第一句；两次复述必须完全一致。"
+    },
+    {
+      "id": "jenny_kung_fu_fighting_line_2",
+      "source_regex": "Ooh nunks errr, assst aahh iiiiitning\\.",
+      "target_regexes": [
+        "那些家伙快得就像闪电"
+      ],
+      "category": "recurring_song_line",
+      "speaker": "Anon",
+      "translation": "那些家伙快得就像闪电",
+      "first_seen": "tl/zh_hans/src/plot/jen23.rpy",
+      "note": "Anon 被 Jenny 坐脸时含混哼唱同一首歌第二句；两次复述必须完全一致。"
+    },
+    {
+      "id": "jenny_head_cheerleader",
+      "source_regex": "\\bhead cheerleader\\b",
+      "target_regexes": [
+        "啦啦队长"
+      ],
+      "category": "character_background",
+      "speaker": "Jenny",
+      "translation": "啦啦队长",
+      "first_seen": "tl/zh_hans/src/plot/jen24.rpy",
+      "note": "Jenny在大学时期担任啦啦队长，并在viv04.rpy向Roxxy复述；与普通cheerleader“啦啦队员”区分。"
+    },
+    {
+      "id": "jenny_cheer_uniform",
+      "source_regex": "\\b(?:cheerleading uniform|cheer uniform)\\b",
+      "target_regexes": [
+        "啦啦队制服"
+      ],
+      "category": "recurring_item",
+      "speaker": "Jenny / Anon",
+      "translation": "啦啦队制服",
+      "first_seen": "tl/zh_hans/src/plot/jen24.rpy",
+      "note": "Jenny 的大学旧制服；cheer uniform 与 cheerleading uniform 统一。"
+    },
+    {
+      "id": "cam_tip_ping",
+      "source_regex": "\\bPING\\b",
+      "target_regexes": [
+        "叮"
+      ],
+      "category": "sound_effect",
+      "translation": "叮",
+      "first_seen": "tl/zh_hans/src/plot/jen18.rpy",
+      "note": "成人直播观众打赏提示音；保留星号、等待标签和重复次数。"
+    },
+    {
+      "id": "site_camslut",
+      "source_regex": "(?-i:\\bCAMslut\\b)",
+      "target_regexes": [
+        "CAMslut"
+      ],
+      "category": "proper_name",
+      "translation": "CAMslut",
+      "first_seen": "tl/zh_hans/src/plot/jen12.rpy",
+      "note": "成人直播平台专名，严格保持英文拼写和大小写；与小写泛称 camslut 区分。"
+    },
+    {
+      "id": "jenny_boyfriend",
+      "source_regex": "(?<!ex-)(?<!last )\\bboyfriend\\b",
+      "target_regexes": [
+        "男朋友",
+        "男女朋友"
+      ],
+      "category": "relationship_label",
+      "speaker": "Jenny / Anon / others",
+      "translation": "男朋友",
+      "first_seen": "tl/zh_hans/src/plot/jen10.rpy",
+      "note": "jen25.rpy中为Jenny临时冒认并被Anon反复调侃；jen26.rpy中Zana持续误认，而Jenny在主动性行为后仍否认正式关系。仅固定当前正式关系或冒认语境中的核心称谓；last boyfriend表示前任，不纳入本条。"
+    },
+    {
+      "id": "jenny_stalker",
+      "source_regex": "\\bstalker\\b",
+      "target_regexes": [
+        "跟踪狂"
+      ],
+      "category": "character_description",
+      "translation": "跟踪狂",
+      "first_seen": "tl/zh_hans/src/plot/jen25.rpy",
+      "note": "指反复尾随并偷窥 Jenny 的人物；不约束 stalking/spying 等动作词。"
+    },
+    {
+      "id": "generic_camslut",
+      "source_regex": "(?<![@.])(?-i:\\bcamslut\\b)",
+      "target_regexes": [
+        "成人直播骚货"
+      ],
+      "category": "adult_generic_term",
+      "speaker": "Anon",
+      "translation": "成人直播骚货",
+      "first_seen": "tl/zh_hans/src/plot/jen24.rpy",
+      "note": "小写为成人直播从业者泛称而非平台名；jen24.rpy 中为 Anon 自嘲。"
+    },
+    {
+      "id": "jenny_gummy_worms",
+      "source_regex": "\\bgummy worms\\b",
+      "target_regexes": [
+        "虫形软糖"
+      ],
+      "category": "recurring_food",
+      "speaker": "Jenny / Anon",
+      "translation": "虫形软糖",
+      "first_seen": "tl/zh_hans/src/plot/jen26.rpy",
+      "note": "Jenny 在邀约、确认约会和电影院购买时反复索要的零食；统一为“虫形软糖”。"
+    },
+    {
+      "id": "jenny_lovey_dovey_bullshit",
+      "source_regex": "\\blovey-dovey bullshit\\b",
+      "target_regexes": [
+        "卿卿我我的屁话"
+      ],
+      "category": "relationship_language",
+      "speaker": "Jenny",
+      "translation": "卿卿我我的屁话",
+      "first_seen": "tl/zh_hans/src/plot/jen27.rpy",
+      "note": "Jenny 用于贬低恋爱式亲密和约会诉求的粗俗表达；jen27.rpy 与 jen_gfe.rpy 已按关系阶段统一。"
+    },
+    {
+      "id": "jenny_girlfriend_experience",
+      "source_regex": "\\bgirlfriend experience\\b",
+      "target_regexes": [
+        "女友体验"
+      ],
+      "category": "relationship_arrangement",
+      "speaker": "Jenny / Anon",
+      "translation": "女友体验",
+      "first_seen": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "note": "jen28.rpy 建立一晚五百美元的假女朋友安排，jen_gfe.rpy 正式命名；不得译成“女朋友游戏”，也不得写成真实女友身份。"
+    },
+    {
+      "id": "show_pals",
+      "source_regex": "\\bPals\\b",
+      "target_regexes": [
+        "好友"
+      ],
+      "category": "proper_name",
+      "speaker": "Jenny / Anon",
+      "translation": "《好友》",
+      "first_seen": "tl/zh_hans/src/plot/jen_gfe.rpy",
+      "note": "Jenny 与 Debbie 童年常看的虚构老情景喜剧；正文保留原有斜体标签，Matt、Courtney 等剧中人物姓名保持英文。"
+    },
+    {
+      "id": "jenny_gawked_at",
+      "source_regex": "\\bgawked at\\b",
+      "target_regexes": [
+        "被人围观"
+      ],
+      "category": "relationship_boundary",
+      "speaker": "Jenny",
+      "translation": "被人围观",
+      "first_seen": "tl/zh_hans/src/plot/jen_cam.rpy",
+      "note": "Jenny 拒绝的是面对成人直播观众表演，不代表她没有私人性需求；jen_cam.rpy 两处保持一致。"
+    },
+    {
+      "id": "jenny_debbie_grandmother",
+      "source_regex": "\\b(?:grandmother|nana|grandma)\\b",
+      "target_regexes": [
+        "外婆"
+      ],
+      "category": "family_relationship",
+      "speaker": "Debbie / Jenny",
+      "translation": "外婆",
+      "first_seen": "tl/zh_hans/src/plot/jen_baby.rpy",
+      "note": "Debbie 是 Jenny 的母亲，对 Jenny 的孩子按母系亲属关系称“外婆”；不得译为“奶奶”。"
+    },
+    {
+      "id": "jenny_pool_life_flash",
+      "source_regex": "\\bMy life was flashing before my eyes\\b",
+      "target_regexes": [
+        "人生走马灯"
+      ],
+      "category": "recurring_joke",
+      "speaker": "Anon",
+      "translation": "看见人生走马灯",
+      "first_seen": "tl/zh_hans/src/plot/jen_pool.rpy",
+      "note": "Anon 因在泳池性交时被 Jenny 压入水中、接近溺水而看到人生走马灯；不是因快感而“爽死了”。"
+    },
+    {
+      "id": "jenny_pool_cannonball",
+      "source_regex": "\\bcannonball\\b",
+      "target_regexes": [
+        "炸弹入水"
+      ],
+      "category": "recurring_joke",
+      "speaker": "Anon / Jenny",
+      "translation": "炸弹入水",
+      "first_seen": "tl/zh_hans/src/plot/jen_pool.rpy",
+      "note": "Anon 裸身跳入泳池并故意溅 Jenny 的动作及后续复述，两处保持一致。"
+    },
+    {
+      "id": "skinny_dipping",
+      "source_regex": "\\bskinny dipping\\b",
+      "target_regexes": [
+        "裸泳"
+      ],
+      "category": "adult_activity",
+      "speaker": "Anon",
+      "translation": "裸泳",
+      "first_seen": "tl/zh_hans/src/plot/deb23.rpy",
+      "note": "指不穿泳衣游泳；deb23.rpy 与 jen_pool.rpy 保持一致。"
+    },
+    {
+      "id": "private_fool_around",
+      "source_regex": "\\b(?:You\\s+)?[Ww]anna\\s+fool\\s+around\\b",
+      "target_regexes": [
+        "亲热一下"
+      ],
+      "category": "adult_invitation",
+      "speaker": "Anon / others",
+      "translation": "亲热一下（按句法补“你想／想不想”）",
+      "first_seen": "tl/zh_hans/src/plot/deb_sink.rpy",
+      "note": "明确私人成人语境中的性邀约；Jenny线、deb_sink.rpy与jud_stall.rpy已按完整场景统一使用“亲热一下”，并按句法补“想不想／还想不想”。"
+    },
+    {
+      "id": "jenny_princess_title",
+      "source_regex": "\\bPrincess\\s+\\[saga\\.cast\\.jenny\\]",
+      "target_regexes": [
+        "公主\\[saga\\.cast\\.jenny\\]"
+      ],
+      "category": "adult_role_title",
+      "speaker": "Jenny / Anon",
+      "translation": "公主[saga.cast.jenny]",
+      "first_seen": "tl/zh_hans/src/plot/jen21.rpy",
+      "note": "Jenny 线支配角色称谓；变量保持原样，中文统一为“公主[saga.cast.jenny]”，内部复述使用中文双引号。"
+    },
+    {
+      "id": "jenny_sex_goddess",
+      "source_regex": "\\bsex goddess\\b",
+      "target_regexes": [
+        "性爱女神"
+      ],
+      "category": "adult_role_title",
+      "speaker": "Jenny / Anon",
+      "translation": "性爱女神",
+      "first_seen": "tl/zh_hans/src/plot/jenny_laptop.rpy",
+      "note": "Jenny 在早期个人成人直播、后续共同直播、性交自夸和孕期表演中反复使用的成人角色称谓；统一为“性爱女神”。"
+    },
+    {
+      "id": "adult_camgirl",
+      "source_regex": "\\bcamgirl\\b",
+      "target_regexes": [
+        "成人女主播"
+      ],
+      "category": "adult_role_term",
+      "speaker": "Anon（描述 Jenny）",
+      "translation": "成人女主播",
+      "first_seen": "tl/zh_hans/src/plot/jen15.rpy",
+      "note": "指女性成人直播从业者；jen15.rpy 与 jenny.rpy 统一为“成人女主播”，与平台专名 CAMslut 及泛称 camslut 区分。"
+    },
+    {
+      "id": "josie_tps_reports",
+      "source_regex": "\\bTPS reports?\\b",
+      "target_regexes": [
+        "TPS报告"
+      ],
+      "category": "workplace_document",
+      "speaker": "Yoshi / Josie",
+      "translation": "TPS报告",
+      "first_seen": "tl/zh_hans/src/plot/jos01.rpy",
+      "note": "Yoshi 与 Josie 关于车行文书工作的重复笑点；不要与后面的普通费用报表混写。"
+    },
+    {
+      "id": "josie_t_straps",
+      "source_regex": "\\bT-straps\\b",
+      "target_regexes": [
+        "T字带凉鞋"
+      ],
+      "category": "clothing_item",
+      "speaker": "Josie",
+      "translation": "T字带凉鞋",
+      "first_seen": "tl/zh_hans/src/plot/jos01.rpy",
+      "note": "Josie 在半价促销中反复寻找的露趾鞋款；四处统一。"
+    },
+    {
+      "id": "hattori_hanzo_name",
+      "source_regex": "\\bHattori Hanzō",
+      "target_regexes": [
+        "Hattori Hanzō"
+      ],
+      "category": "person_name",
+      "speaker": "Yoshi / Anon",
+      "translation": "Hattori Hanzō",
+      "first_seen": "tl/zh_hans/src/plot/jos01.rpy",
+      "note": "人物姓名保持英文原状，不翻译为“服部半藏”。"
+    },
+    {
+      "id": "vehicle_mini_vulva",
+      "source_regex": "\\bMini Vulva\\b",
+      "target_regexes": [
+        "迷你外阴"
+      ],
+      "category": "vehicle_name_double_entendre",
+      "speaker": "Josie / Anon",
+      "translation": "迷你外阴",
+      "first_seen": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "note": "小型汽车的色情双关车型名；三处统一，不写成“迷你小穴”或“迷你小阴唇”。"
+    },
+    {
+      "id": "vehicle_crotch_rocket",
+      "source_regex": "\\bSL-700 Crotch Rocket\\b",
+      "target_regexes": [
+        "SL-700 胯下火箭"
+      ],
+      "category": "vehicle_name_double_entendre",
+      "speaker": "Josie",
+      "translation": "SL-700 胯下火箭",
+      "first_seen": "tl/zh_hans/src/plot/jos_trade.rpy",
+      "note": "纯电动踏板车车型名；保留 crotch rocket 的胯下／高速摩托双关，不译成“肌肉摩托”。"
+    },
+    {
+      "id": "yoo_poor_boy",
+      "source_regex": "\\bpoor boy\\b",
+      "target_regexes": [
+        "穷小子",
+        "可怜的孩子"
+      ],
+      "category": "character_insult",
+      "speaker": "Yoo",
+      "addressee": "Anon",
+      "translation": "穷小子",
+      "first_seen": "tl/zh_hans/src/plot/jos01.rpy",
+      "note": "Yoo 针对 Anon 贫穷身份的固定辱称；Diane 在 deb20.rpy 中是叙述性同情语境，允许自然译为“可怜的孩子”。"
+    },
+    {
+      "id": "yoo_employee_month",
+      "source_regex": "\\b(?:Employee|Emproyee) of (?:the )?month\\b",
+      "target_regexes": [
+        "月度最佳员工"
+      ],
+      "category": "workplace_title",
+      "speaker": "Yoo / Anon",
+      "translation": "月度最佳员工",
+      "first_seen": "tl/zh_hans/src/plot/yoo.rpy",
+      "note": "正确拼写、Yoo 的故意错拼和菜单提问均指同一车行业绩头衔；三处统一。"
+    },
+    {
+      "id": "school_boys_locker_room",
+      "source_regex": "\\b(?:boys'|guys') locker room\\b",
+      "target_regexes": [
+        "男生更衣室"
+      ],
+      "category": "school_location",
+      "speaker": "Multiple",
+      "translation": "男生更衣室",
+      "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
+      "note": "学校地点名称与普通指代统一；不缩写为“男更衣室”。tor05.rpy 的旧译留待完整通读该文件时复核。"
+    },
+    {
+      "id": "school_girls_locker_room",
+      "source_regex": "\\bgirls' locker room\\b",
+      "target_regexes": [
+        "女生更衣室"
+      ],
+      "category": "school_location",
+      "speaker": "Multiple",
+      "translation": "女生更衣室",
+      "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
+      "note": "学校地点名称与普通指代统一；不缩写为“女更衣室”。"
+    },
+    {
+      "id": "camila_white_boy",
+      "source_regex": "\\bwhite boy\\b",
+      "target_regexes": [
+        "白人小子"
+      ],
+      "category": "character_insult",
+      "speaker": "Val / Camila",
+      "addressee": "Anon",
+      "translation": "白人小子",
+      "first_seen": "tl/zh_hans/src/plot/jud02.rpy",
+      "note": "Val和Camila针对Anon肤色的种族化辱称；不译成指外貌讨好的“小白脸”。viv02.rpy旧译留待完整通读时复核。"
+    },
+    {
+      "id": "judith_food_exclamations",
+      "source_regex": "(?:wowie waffles|Magnificent muffins|Holy honey buns)",
+      "target_regexes": [
+        "哇哦，华夫饼！",
+        "妙极了，松饼！",
+        "老天，蜂蜜面包！"
+      ],
+      "category": "character_catchphrase",
+      "speaker": "Judith",
+      "translation": "按原句分别译为“哇哦，华夫饼！”／“妙极了，松饼！”／“老天，蜂蜜面包！”",
+      "first_seen": "tl/zh_hans/src/plot/jud02.rpy",
+      "note": "Judith幼稚、押头韵又古怪的食物式感叹；保留具体食物意象，不抹平成普通“太棒了／天哪”。"
+    },
+    {
+      "id": "judith_specs",
+      "source_regex": "(?:\\bSpecs\\.|\\bspectacles\\b)",
+      "target_regexes": [
+        "眼镜"
+      ],
+      "category": "story_item",
+      "speaker": "Menu / Anon",
+      "translation": "眼镜",
+      "first_seen": "tl/zh_hans/src/plot/judith.rpy",
+      "note": "Judith任务菜单的Specs.与specs_judith.rpy中的spectacles均指眼镜；不得误译成“规格”。"
+    },
+    {
+      "id": "judith_bathroom_fun",
+      "source_regex": "\\bBathroom fun\\.",
+      "target_regexes": [
+        "浴室亲热"
+      ],
+      "category": "event_menu",
+      "speaker": "Menu",
+      "translation": "浴室亲热",
+      "first_seen": "tl/zh_hans/src/plot/judith.rpy",
+      "note": "choice=stall指向jud_stall.rpy私下亲热事件；菜单不译成含混的“浴室趣事”。"
+    },
+    {
+      "id": "faptic_engine",
+      "source_regex": "\\bfaptic engine\\b",
+      "target_regexes": [
+        "触觉引擎"
+      ],
+      "category": "fictional_technology",
+      "speaker": "Tori / June / Anon",
+      "translation": "触觉引擎",
+      "first_seen": "tl/zh_hans/src/plot/june.rpy",
+      "note": "Tori与June相关任务中的虚构触觉振动部件；菜单、询问、拆取和交付场景保持统一。"
+    },
+    {
+      "id": "kassy_dress",
+      "source_regex": "\\bDress\\.",
+      "target_regexes": [
+        "连衣裙"
+      ],
+      "category": "event_menu",
+      "speaker": "Menu",
+      "translation": "连衣裙",
+      "first_seen": "tl/zh_hans/src/plot/kassy.rpy",
+      "note": "Kassy／Cupid菜单中的Dress.是女装商品或任务话题，属于名词；不得误译成动作“穿衣服”。"
+    },
+    {
+      "id": "kevin_cafeteria_duty",
+      "source_regex": "\\bcafeteria duty\\b",
+      "target_regexes": [
+        "食堂帮工"
+      ],
+      "category": "story_task",
+      "speaker": "Kevin / Anon",
+      "translation": "食堂帮工",
+      "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
+      "note": "Kevin因科学课成绩不佳受到的固定食堂处罚；ano01.rpy与kevin.rpy保持一致，不译成“食堂值日”。"
+    },
+    {
+      "id": "ursula_mrs_title",
+      "source_regex": "Mrs\\. \\[saga\\.cast\\.ursula\\.clan\\]",
+      "target_regexes": [
+        "\\[saga\\.cast\\.ursula\\.clan\\]夫人"
+      ],
+      "category": "relationship_title",
+      "speaker": "Anon / school staff",
+      "translation": "[saga.cast.ursula.clan]夫人",
+      "first_seen": "tl/zh_hans/src/plot/school_office1.rpy",
+      "note": "Ursula的姓氏敬称；保留变量并使用中文姓氏加夫人的语序。学生直接回应她的ma’am按校长身份另译为校长。"
+    },
+    {
+      "id": "school_master_key",
+      "source_regex": "\\bmaster key\\b",
+      "target_regexes": [
+        "万能钥匙"
+      ],
+      "category": "story_item",
+      "speaker": "Anon / Annie / Ursula",
+      "translation": "万能钥匙",
+      "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
+      "note": "学校内可打开门锁和储物柜的通用钥匙；统一为“万能钥匙”，不得漂移为“主钥匙”。key_school.rpy与school_hall1.rpy中的borrow都表示Anon未经允许擅自拿用钥匙的自我淡化；school_locker.rpy承接同一钥匙线索。"
+    },
+    {
+      "id": "konty_friend_uhh",
+      "source_regex": "\\bFriend-(?:Uhh|uhh)\\b",
+      "target_regexes": [
+        "Friend-Uhh",
+        "Friend-uhh"
+      ],
+      "category": "character_nickname",
+      "speaker": "Konty",
+      "addressee": "Anon",
+      "translation": "按原文保持 Friend-Uhh / Friend-uhh",
+      "first_seen": "tl/zh_hans/src/plot/konty.rpy",
+      "note": "Konty把Anon启动时的迟疑Uhh误识别成称号；英文昵称保持原状，大小写逐句服从原文。"
+    },
+    {
+      "id": "konty_k_bot",
+      "source_regex": "\\bK-bot\\b",
+      "target_regexes": [
+        "K-bot"
+      ],
+      "category": "character_nickname",
+      "speaker": "Anon / Konty",
+      "translation": "K-bot",
+      "first_seen": "tl/zh_hans/src/plot/tor01.rpy",
+      "note": "Anon为Konty取的英文昵称；保持连字符与大小写。"
+    },
+    {
+      "id": "konty_processing_laughter",
+      "source_regex": "\\bProcessing laughter\\.\\.\\.",
+      "target_regexes": [
+        "正在处理笑声……"
+      ],
+      "category": "character_catchphrase",
+      "speaker": "Konty",
+      "translation": "正在处理笑声……",
+      "first_seen": "tl/zh_hans/src/plot/tor01.rpy",
+      "note": "Konty模拟笑声前的系统提示，与下一句机械假笑构成连续笑点。"
+    },
+    {
+      "id": "konty_ack_laugh",
+      "source_regex": "\\bAck ack ack!",
+      "target_regexes": [
+        "啊咔、啊咔、啊咔！"
+      ],
+      "category": "character_catchphrase",
+      "speaker": "Konty",
+      "translation": "啊咔、啊咔、啊咔！",
+      "first_seen": "tl/zh_hans/src/plot/tor01.rpy",
+      "note": "Konty生硬的机械假笑；不抹平成普通哈哈笑。"
+    },
+    {
+      "id": "konty_beep_boop",
+      "source_regex": "\\bBEEP BOOP!",
+      "target_regexes": [
+        "哔——啵！"
+      ],
+      "category": "robot_sound",
+      "speaker": "Konty",
+      "translation": "哔——啵！",
+      "first_seen": "tl/zh_hans/src/plot/tor01.rpy",
+      "note": "Konty的机器人提示音；与BOOP BEEP的音节倒序区分。"
+    },
+    {
+      "id": "konty_boop_beep",
+      "source_regex": "\\bBOOP BEEP!",
+      "target_regexes": [
+        "啵——哔！"
+      ],
+      "category": "robot_sound",
+      "speaker": "Anon",
+      "translation": "啵——哔！",
+      "first_seen": "tl/zh_hans/src/plot/konty.rpy",
+      "note": "Anon模仿机器人语时对BEEP BOOP作出的反向回应；顺序不得写反。"
+    },
+    {
+      "id": "melody_sugar",
+      "source_regex": "\\bsugar\\b(?!\\s+(?:daddy|Tats))",
+      "target_regexes": [
+        "甜心",
+        "糖谷",
+        "“糖”",
+        "血糖"
+      ],
+      "category": "character_address",
+      "speaker": "Melody",
+      "addressee": "Anon",
+      "translation": "甜心",
+      "first_seen": "tl/zh_hans/src/plot/mel01.rpy",
+      "note": "Melody 对 Anon 的高频专属称呼统一译为“甜心”；Sugar Basin 地名译为“糖谷”，deb_baby.rpy 中的暧昧双关保留为“糖”，医学语境的 blood sugar 译为“血糖”；`Sugar Tats` 店名和 `sugar daddy`“金主爸爸”不属于本规则。"
+    },
+    {
+      "id": "melody_skin_flute",
+      "source_regex": "\\bskin flute\\b",
+      "target_regexes": [
+        "肉箫"
+      ],
+      "category": "adult_wordplay",
+      "speaker": "Melody",
+      "translation": "肉箫",
+      "first_seen": "tl/zh_hans/src/plot/mel_office.rpy",
+      "note": "长笛与口交连续双关；与play/blow/master an instrument/private performance共同构成音乐隐喻。"
+    },
+    {
+      "id": "melody_finale",
+      "source_regex": "\\bfinale\\b",
+      "target_regexes": [
+        "压轴"
+      ],
+      "category": "performance_wordplay",
+      "speaker": "Melody / narrator",
+      "translation": "压轴（按句法扩展）",
+      "first_seen": "tl/zh_hans/src/plot/mel02.rpy",
+      "note": "才艺表演或私人舞蹈的最后环节；按句法使用“压轴环节／压轴戏／压轴好戏”，mel03.rpy旧译“终曲”待完整通读时统一。"
+    },
+    {
+      "id": "product_brazilian_bum_bum",
+      "source_regex": "\\bBrazilian\\s+Bum\\s+Bum(?:\\s+Cream)?\\b",
+      "target_regexes": [
+        "巴西\\s+Bum\\s+Bum"
+      ],
+      "category": "product_name",
+      "translation": "巴西 Bum Bum／巴西 Bum Bum 润肤霜",
+      "first_seen": "tl/zh_hans/src/plot/deb06.rpy",
+      "note": "Debbie使用的润肤露产品名；省略Cream时保留“巴西 Bum Bum”，完整名称可写“巴西 Bum Bum 润肤霜”，不得直译成“巴西翘臀”。"
+    },
+    {
+      "id": "tori_horny_toad",
+      "source_regex": "\\bhorny\\s+toad(?:\\s+extract)?\\b",
+      "target_regexes": [
+        "发情蟾蜍"
+      ],
+      "category": "quest_item",
+      "translation": "发情蟾蜍／发情蟾蜍提取物",
+      "first_seen": "tl/zh_hans/src/plot/tor05.rpy",
+      "note": "Tori血清任务材料；horny与繁殖季相呼应，统一保留“发情”笑点，不译成角蟾、角蛙、色蛤蟆或发情的蛤蟆。"
+    },
+    {
+      "id": "cheer_pom_poms",
+      "source_regex": "\\bpom-poms?\\b",
+      "target_regexes": [
+        "啦啦(?:队彩)?球"
+      ],
+      "category": "prop_term",
+      "translation": "啦啦球",
+      "first_seen": "tl/zh_hans/src/plot/roxxy.rpy",
+      "note": "Roxxy啦啦队使用的一对手持彩球；roxxy.rpy与viv04.rpy统一为“啦啦球”，不得漂移为“拉拉球／绒球／彩球”；资源文件待完整通读时复核。"
+    },
+    {
+      "id": "sfx_hurk",
+      "source_regex": "\\bHurk\\b",
+      "target_regexes": [
+        "呃唔"
+      ],
+      "category": "sound_effect",
+      "translation": "呃唔",
+      "first_seen": "tl/zh_hans/src/plot/ano01.rpy",
+      "note": "被物体击中、噎住或受压时的短促闷哼；ano01.rpy与sam_stall.rpy统一，字符串中的{i}标签和星号保持原结构。"
+    },
+    {
+      "id": "school_utility_closet",
+      "source_regex": "\\butility\\s+closet\\b",
+      "target_regexes": [
+        "杂物间"
+      ],
+      "category": "location_term",
+      "translation": "杂物间",
+      "first_seen": "tl/zh_hans/src/plot/mel05.rpy",
+      "note": "学校走廊内存放工具、清洁用品或设备的小房间；mel05.rpy与school_boiler.rpy统一，不译成售卖杂货的“杂货间”。"
+    },
+    {
+      "id": "school_summerville_college",
+      "source_regex": "\\bSummerville\\s+College\\b",
+      "target_regexes": [
+        "夏日学院"
+      ],
+      "category": "location_name",
+      "translation": "夏日学院",
+      "first_seen": "tl/zh_hans/src/plot/+prologue.rpy",
+      "note": "学校正式名称；school_pa.rpy四处广播统一，不译成夏日大学。"
+    },
+    {
+      "id": "vehicle_conda_hivic",
+      "source_regex": "\\bConda\\s+Hivic\\b",
+      "target_regexes": [
+        "Conda\\s+Hivic"
+      ],
+      "category": "vehicle_name",
+      "translation": "Conda Hivic",
+      "first_seen": "tl/zh_hans/src/plot/school_pa.rpy",
+      "note": "虚构车型，影射Honda Civic；保持英文拼写，两次重复播报完全一致，不音译。"
+    },
+    {
+      "id": "school_main_office",
+      "source_regex": "\\bmain\\s+office\\b",
+      "target_regexes": [
+        "校务办公室"
+      ],
+      "category": "location_term",
+      "translation": "校务办公室",
+      "first_seen": "tl/zh_hans/src/plot/school_pa.rpy",
+      "note": "学校处理紧急情况和失物的校务地点；与Ursula的私人校长办公室区分。"
+    },
+    {
+      "id": "tammy_exercise_ball",
+      "source_regex": "\\b(?:bouncing|exercise)\\s+ball\\b",
+      "target_regexes": [
+        "健身球"
+      ],
+      "category": "adult_prop",
+      "translation": "健身球",
+      "first_seen": "tl/zh_hans/src/plot/tammy_bed1_scope.rpy",
+      "note": "Tammy裸体展示场景中的同一道具；tammy_bed1_scope.rpy称bouncing ball，jen23.rpy称exercise ball，中文统一为健身球。"
+    },
+    {
+      "id": "tool_dads_old_drill",
+      "source_regex": "(?:Dad's\\s+old\\s+drill|old\\s+drill\\s+of\\s+Dad's)",
+      "target_regexes": [
+        "旧电钻"
+      ],
+      "category": "quest_item",
+      "speaker": "Anon",
+      "translation": "爸爸以前用的那把旧电钻／爸爸那把旧电钻",
+      "first_seen": "tl/zh_hans/src/plot/bar04.rpy",
+      "note": "Anon已故父亲留在Debbie家车库的充电式电钻；完整工具统一写“旧电钻”，不得误译成只指钻头的“钻头”。"
+    },
+    {
+      "id": "diane_garden_shovel",
+      "source_regex": "\\bshovel\\b",
+      "target_regexes": [
+        "铲子"
+      ],
+      "category": "quest_item",
+      "translation": "铲子",
+      "first_seen": "tl/zh_hans/src/plot/dia01.rpy",
+      "note": "Diane菜园任务所需的完整园艺铲子；tool_shovel.rpy、dia01.rpy、diane.rpy及相关资源文本统一，不漂移为铁锹。"
+    },
+    {
+      "id": "tori_vegetable_stock",
+      "source_regex": "\\bvegetable\\s+stock\\b",
+      "target_regexes": [
+        "蔬菜高汤"
+      ],
+      "category": "quest_item",
+      "translation": "蔬菜高汤",
+      "first_seen": "tl/zh_hans/src/plot/tor05.rpy",
+      "note": "Tori血清任务使用的温和基底；tor05.rpy与vee.rpy菜单和询问场景统一，不漂移为蔬菜汤底。"
+    },
+    {
+      "id": "church_art_linens",
+      "source_regex": "\\blinens\\b",
+      "target_regexes": [
+        "亚麻布",
+        "白色亚麻布"
+      ],
+      "category": "quest_item",
+      "translation": "亚麻布／白色亚麻布",
+      "first_seen": "tl/zh_hans/src/plot/ang.rpy",
+      "note": "教堂为学校艺术项目提供的画布材料；ang.rpy菜单用‘亚麻布’，bar05.rpy具体场景应统一为‘白色亚麻布’，实际交付物为旧洗礼袍。"
+    },
+    {
+      "id": "viv_mon_bel_homme",
+      "source_regex": "\\bmon\\s+bel\\s+homme\\b",
+      "target_regexes": [
+        "我的帅哥"
+      ],
+      "category": "character_address",
+      "speaker": "Viv",
+      "translation": "我的帅哥",
+      "first_seen": "tl/zh_hans/src/plot/viv01.rpy",
+      "note": "Viv对Anon的法语昵称；viv01-05.rpy与viv_office.rpy已按完整场景统一，保持成熟、主动的法式调情口吻。"
+    },
+    {
+      "id": "viv_special_reward",
+      "source_regex": "\\bspecial\\s+reward\\b",
+      "target_regexes": [
+        "特殊奖励",
+        "特别奖励"
+      ],
+      "category": "relationship_term",
+      "speaker": "Viv",
+      "translation": "特殊奖励",
+      "first_seen": "tl/zh_hans/src/plot/viv01.rpy",
+      "note": "Viv 从首次一对一辅导开始给出的递进暧昧承诺统一译为“特殊奖励”；Maria 在 mar_cook.rpy 中的普通奖励语境允许自然译为“特别奖励”。"
+    },
+    {
+      "id": "viv_french_kiss",
+      "source_regex": "\\bFrench\\s+kiss(?:ing)?\\b",
+      "target_regexes": [
+        "法式接吻",
+        "法国人有独特的接吻方式"
+      ],
+      "category": "relationship_term",
+      "speaker": "Viv / Anon",
+      "translation": "法式接吻",
+      "first_seen": "tl/zh_hans/src/plot/viv03.rpy",
+      "note": "Viv第三次辅导中的接吻教学和特殊奖励；固定术语使用‘法式接吻’，完整问句可自然译为‘法国人有独特的接吻方式’，不漂移为法式热吻。"
+    },
+    {
+      "id": "barbara_clay_slab",
+      "source_regex": "\\bslab\\s+of\\s+clay\\b",
+      "target_regexes": [
+        "一块陶土",
+        "陶土"
+      ],
+      "category": "class_material",
+      "speaker": "Barbara / Anon",
+      "translation": "一块陶土",
+      "first_seen": "tl/zh_hans/src/plot/bar01.rpy",
+      "note": "Barbara美术课的塑形材料；指整块陶土，不误译成预先成板状的黏土板或泥板。"
+    },
+    {
+      "id": "barbara_art_pad",
+      "source_regex": "\\bart\\s*pad\\b",
+      "target_regexes": [
+        "画板"
+      ],
+      "category": "class_material",
+      "translation": "画板",
+      "first_seen": "tl/zh_hans/src/plot/bar02.rpy",
+      "note": "Barbara美术线的便携绘画工具；同一任务不得漂移成画册。"
+    },
+    {
+      "id": "barbara_mia_cutie_pie",
+      "source_regex": "\\bcutie\\s+pie\\b",
+      "target_regexes": [
+        "小可爱"
+      ],
+      "category": "character_address",
+      "speaker": "Barbara",
+      "translation": "小可爱",
+      "first_seen": "tl/zh_hans/src/plot/bar02.rpy",
+      "note": "Barbara对Mia的热情亲昵称呼；保留欣赏和轻度调情，不提前写成稳定成人关系。"
+    },
+    {
+      "id": "barbara_collage",
+      "source_regex": "\\bcollages?\\b",
+      "target_regexes": [
+        "拼贴画",
+        "“拼贴画”",
+        "“电击拼贴”"
+      ],
+      "category": "class_project",
+      "speaker": "Barbara / Anon / Mia / Melody / Kevin",
+      "translation": "拼贴画",
+      "first_seen": "tl/zh_hans/src/plot/bar03.rpy",
+      "note": "Barbara 美术线的 collage 普通用法固定译为“拼贴画”；Anon 将 electoral collage 误听成带电击意味的词时使用“电击拼贴”，保留 Jenny 线的误听双关。"
+    },
+    {
+      "id": "barbara_easel",
+      "source_regex": "\\beasels?\\b",
+      "target_regexes": [
+        "画架"
+      ],
+      "category": "class_equipment",
+      "speaker": "Barbara / Anon",
+      "translation": "画架",
+      "first_seen": "tl/zh_hans/src/plot/bar04.rpy",
+      "note": "Barbara裸模写生课使用的旧画架与Anon制作的新画架；统一译“画架”，不漂移为“支架”。"
+    },
+    {
+      "id": "cuntech_name",
+      "source_regex": "\\bCuntech\\b",
+      "target_regexes": [
+        "Cuntech"
+      ],
+      "category": "company_name",
+      "speaker": "Tori / Anon",
+      "translation": "Cuntech",
+      "first_seen": "tl/zh_hans/src/plot/tor01.rpy",
+      "note": "虚构公司专名保持英文原状，不音译、不汉化；中文助词可直接附着在英文专名后。"
+    },
+    {
+      "id": "talent_show",
+      "source_regex": "\\btalent show\\b",
+      "target_regexes": [
+        "才艺表演"
+      ],
+      "category": "school_event",
+      "speaker": "Various",
+      "translation": "才艺表演",
+      "first_seen": "tl/zh_hans/src/plot/mel01.rpy",
+      "note": "学校活动名称全仓统一为“才艺表演”。"
     }
   ]
 }

@@ -86,7 +86,7 @@ def verify(root: Path, archive_path: Path) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path.cwd())
-    parser.add_argument("--output", type=Path, default=Path("dist/chinese.rpa"))
+    parser.add_argument("--output", type=Path, default=Path("dist/zh_hans.rpa"))
     parser.add_argument("--verify-only", action="store_true")
     args = parser.parse_args()
 
