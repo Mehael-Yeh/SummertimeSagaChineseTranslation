@@ -731,3 +731,20 @@
 | sugar（Melody 对 Anon） | 甜心 | Melody 后期成人关系中的固定称呼；不与 Sugar Tats 或 sugar daddy 等普通词组混用。 |
 
 Tori 血清线的关系阶段必须保持清晰：第一种血清让 Ursula 不再反对实验，但鸡汤基底造成母鸡副作用；第二种血清用于处理 Tori 的低性欲／无性欲状态。只有后者完成后，Anon 与 Tori 才进入明确的成人关系，不能把两种血清的作用或时间顺序混写。
+
+## bytecode_strings / sms_fix 本轮确认
+
+| English | 中文 | 说明 |
+|---|---|---|
+| camming career | 直播事业 | Jenny 的成人直播副业；不译为“摄像头事业”。 |
+| camshow / camshows | 成人直播 | 带色情表演语境时使用；`on stream` 译为“在直播中”。 |
+| chat（成人直播语境） | 直播间观众 | 指观看直播并留言的观众群体。 |
+| deprive ... of attention | 冷落…… | 任务条件是暂时不理会角色，不是吸引注意。 |
+| foul play（调查语境） | 人为犯罪／他杀迹象 | 不译为“犯规行为”。 |
+| The Electro Clit / ElectroClit | 电击阴蒂棒 | Pink 出售的情趣玩具；轻量版为“电击阴蒂棒轻量版”。 |
+| Bad Monster | 坏怪物 | Pink 出售的大型情趣玩具名称。 |
+| cookie jar | 角色图鉴 | 解锁角色图鉴变体或场景。 |
+| Half wind-relieving pose | 半排气式 | 瑜伽姿势名称。 |
+| Outlood Express | Outlood快递 | 游戏中的恶搞专名，保留 `Outlood`。 |
+| Waning Crescent / Waxing Crescent / Third Quarter | 残月／娥眉月／下弦月 | 月相 UI 统一译法。 |
+| Gym. | 体育馆 | 本项目中学校场景既有译法；不机械改为“健身房”。 |

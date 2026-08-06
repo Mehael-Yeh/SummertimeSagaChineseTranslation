@@ -51,8 +51,8 @@ SummertimeSaga/
             ├── res/
             ├── src/
             ├── hook_add_change_language_entrance.rpy
-            ├── renpybox_bytecode_strings.rpy
-            ├── renpybox_sms_fix.rpy
+            ├── bytecode_strings.rpy
+            ├── sms_fix.rpy
             └── set_default_language_at_startup.rpy
 ```
 

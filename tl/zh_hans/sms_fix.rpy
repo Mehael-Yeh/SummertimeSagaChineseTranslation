@@ -1,15 +1,15 @@
-# zz_renpybox_sms_fix.rpy
+# sms_fix.rpy
 # ============================================================
 # 短信/UI 文本翻译修复（纯 tl 目录方案，不改游戏本体脚本）
 # ------------------------------------------------------------
 # 背景：游戏短信在 tel_chat 界面用 `text '[mesg.what!i]'` 渲染。
 #   Ren'Py 的 `!i` 转换只做插值、不做字符串翻译（只有 `!t`
-#   才会调用 translate_string），所以 zz_renpybox_bytecode_strings.rpy
+#   才会调用 translate_string），所以 bytecode_strings.rpy
 #   里带 [saga.cast.X] 占位符的 old/new 对永远无法命中，短信
 #   始终显示英文。
 #
-# 方案：chinese 语言激活时，
-#   1. 读取 zz_renpybox_bytecode_strings.rpy 的全部 old/new 对；
+# 方案：zh_hans 语言激活时，
+#   1. 读取 bytecode_strings.rpy 的全部 old/new 对；
 #   2. 对占位符全部为 [saga.cast.X] 的纯文本条目，用 Ren'Py 插值
 #      把 old 还原成运行时实际显示的英文；
 #   3. 把「插值后的英文 -> 插值后的中文」注册进 config.replace_text，
@@ -51,7 +51,7 @@ init -1 python:
     def _rb_rebuild_sms_map():
         renpy.store._rb_sms_map = {}
         try:
-            _rb_f = renpy.loader.load('tl/zh_hans/renpybox_bytecode_strings.rpy')
+            _rb_f = renpy.loader.load('tl/zh_hans/bytecode_strings.rpy')
             try:
                 _rb_raw = _rb_f.read()
             finally:

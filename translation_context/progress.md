@@ -236,7 +236,7 @@
 | 文件 | 修复内容 | 后续要求 |
 |---|---|---|
 | `tl/zh_hans/base_box/sets.rpy` | “托尼披萨店”恢复为 `Tony披萨店` | 后续结合资源调用统一地点名称 |
-| `tl/zh_hans/renpybox_bytecode_strings.rpy` | 四处手机任务提示将字面 `Anon` 按玩家视角改为“你”；玩家可见标签统一为 `{dom=强势}`、`{sub=顺从}`；恢复 `Sluttygram` 英文专名，并补译 Debbie 的洗衣篮手机留言；其他姓名/变量保持原状 | 后续完整复核资源字符串 |
+| `tl/zh_hans/bytecode_strings.rpy` | 四处手机任务提示将字面 `Anon` 按玩家视角改为“你”；玩家可见标签统一为 `{dom=强势}`、`{sub=顺从}`；恢复 `Sluttygram` 英文专名，并补译 Debbie 的洗衣篮手机留言；其他姓名/变量保持原状 | 后续完整复核资源字符串 |
 | `tl/zh_hans/res/meta/prop.rpy` | “凯文”恢复为 `Kevin`；按界面文本使用中文双引号：“光膀子的壮汉！” | 后续完整复核资源字符串 |
 | `tl/zh_hans/res/meta/step.rpy` | “朱迪丝”恢复为 `Judith` | 后续完整复核资源字符串 |
 | `tl/zh_hans/src/game.rpy` | `anon`、`Anon` 保持英文原拼写和大小写 | 后续完整复核全局字符串 |
@@ -416,3 +416,4 @@
 ## 最终校验记录
 
 已完成最终校验：`python -X utf8 tools/validate_translations.py --no-compare` 通过（322 个 Ren’Py 翻译文件）；`python -X utf8 tools/audit_recurring_terms.py --fail-on-mismatch` 通过（全部登记术语 0 mismatch）；`git diff --check` 通过；`python -X utf8 tools/build_rpa.py` 及 `--verify-only` 均通过，生成并验证 `dist/zh_hans.rpa`（327 个文件，42,333,816 字节）。
+| `tl/zh_hans/bytecode_strings.rpy`、`tl/zh_hans/sms_fix.rpy` | 补充字符串与短信运行时修复文件重命名并系统性精修 | Anon、Debbie、Jenny、Maria、Daisy、Odette 等 | 完成 | 去除 `renpybox` 前缀；精修成人直播、直播间观众、孕期任务、分娩短信、冷落条件、Bad Monster、Electro Clit、月相、Outlood Express、cookie jar 和姿势/UI 文本；同步短信映射加载路径及术语表 | 完整翻译校验、重复术语审计、RPA 构建与验证通过后归档 |

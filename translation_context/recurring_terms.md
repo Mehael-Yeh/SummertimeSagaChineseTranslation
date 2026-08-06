@@ -215,3 +215,18 @@ python -X utf8 tools/audit_recurring_terms.py --changed --fail-on-mismatch
 | jenny_cheer_uniform | cheer uniform / cheerleading uniform | 啦啦队制服 | 资源名和剧情道具统一使用“啦啦队制服”。 |
 | vehicle_mini_vulva | Mini Vulva key | 迷你外阴钥匙 | 保留道具的“钥匙”功能，不简化为仅“迷你外阴”。 |
 | vehicle_crotch_rocket | SL-700 Crotch Rocket key | SL-700 胯下火箭钥匙 | 保留车型编号和钥匙功能，统一双关译法。 |
+
+## 补充字符串统一项
+
+| English | 类别 | 统一中文 | 适用范围与备注 |
+|---|---|---|---|
+| camming career | 成人直播 | 直播事业 | Jenny 直播副业相关内心独白。 |
+| camshow / camshows | 成人直播 | 成人直播 | 任务名和直播场景统一；不使用“摄像头表演”。 |
+| on stream | 成人直播 | 在直播中 | 直播进行时的固定表达。 |
+| chat（直播语境） | 成人直播 | 直播间观众 | 不直译为“聊天”。 |
+| deprive ... of attention | 任务条件 | 冷落…… | 表示暂时不理会角色。 |
+| foul play | 调查 | 人为犯罪／他杀迹象 | 调查死亡原因时使用。 |
+| Outlood Express | 专名 | Outlood快递 | 保留恶搞专名的英文部分。 |
+| cookie jar | UI | 角色图鉴 | 解锁角色变体或场景。 |
+| Third Quarter | 月相 | 下弦月 | 与 `First Quarter`“上弦月”配对。 |
+| Waning Crescent / Waxing Crescent | 月相 | 残月／娥眉月 | 月相 UI 固定译法。 |
