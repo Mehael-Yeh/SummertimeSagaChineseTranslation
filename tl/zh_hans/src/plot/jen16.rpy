@@ -154,7 +154,7 @@ translate zh_hans jen16_scope_4e579376:
 translate zh_hans jen16_scope_8e1d5808:
 
     # jenny "Does it get you hard?"
-    jenny "看了会让你硬起来吗？"
+    jenny "看硬了没有？"
 
 # game/src/plot/jen16.rpy:80
 translate zh_hans jen16_scope_2e861f8c:

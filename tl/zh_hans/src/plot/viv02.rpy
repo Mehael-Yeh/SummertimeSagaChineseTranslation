@@ -4,7 +4,7 @@
 translate zh_hans viv02_setup_viv_d03760e5:
 
     # anon f_confused "Ready for another one-on-one tutoring session, [saga.cast.viv]?"
-    anon f_confused "准备好再上一节一对一辅导课了吗，[saga.cast.viv]？"
+    anon f_confused "准备好再进行一次一对一的辅导课了吗，[saga.cast.viv]？"
 
 # game/src/plot/viv02.rpy:7
 translate zh_hans viv02_setup_viv_d4fa1d6d:
@@ -255,13 +255,13 @@ translate zh_hans viv02_french_de9d675f:
 translate zh_hans viv02_french_7dc2baba:
 
     # anon "( That librarian was really helpful. Maybe she could find a book about French food for me? )"
-    anon "（那位图书管理员真的很热心。也许她能帮我找本讲法国菜的书？）"
+    anon "（那位图书管理员真的很热心。也许她能帮我找到一本关于法国食物的书？）"
 
 # game/src/plot/viv02.rpy:130
 translate zh_hans viv02_jane_8379677d:
 
     # anon "I was wondering if you had any books in French about food?"
-    anon "我在找用法语写的食物类书，你们这儿有吗？"
+    anon "我想知道你们有没有法语的食物书籍？"
 
 # game/src/plot/viv02.rpy:133
 translate zh_hans viv02_jane_6a7ede6d:
@@ -273,13 +273,13 @@ translate zh_hans viv02_jane_6a7ede6d:
 translate zh_hans viv02_jane_55f44c8e:
 
     # anon "Yeah, I need it for a school assignment."
-    anon "对，学校作业要用。"
+    anon "是的，我为了学校的作业需要它。"
 
 # game/src/plot/viv02.rpy:138
 translate zh_hans viv02_jane_12da53ee:
 
     # jane "Alright, let me look and see what we have."
-    jane "好，我查查馆里有没有。"
+    jane "好的，让我看看我们有什么。"
 
 # game/src/plot/viv02.rpy:139
 translate zh_hans viv02_jane_048f954c:
@@ -315,7 +315,7 @@ translate zh_hans viv02_jane_b1540678:
 translate zh_hans viv02_jane_82477d62:
 
     # jane "It's saying our sister branch has a French book about cheese."
-    jane "系统显示我们姐妹分馆有本讲奶酪的法语书。"
+    jane "系统显示我们的姐妹分馆有一本法语书是关于奶酪的。"
 
 # game/src/plot/viv02.rpy:150
 translate zh_hans viv02_jane_dcd945a6:
@@ -339,7 +339,7 @@ translate zh_hans viv02_jane_3185fa15:
 translate zh_hans viv02_jane_3c622f08:
 
     # jane "In the meantime, I wonder if you could you help me out with something?"
-    jane "趁这工夫，能不能请你帮我个忙？"
+    jane "与此同时，我想知道你能不能帮我个忙？"
 
 # game/src/plot/viv02.rpy:157
 translate zh_hans viv02_jane_80524824:
@@ -495,7 +495,7 @@ translate zh_hans viv02_jane_viv_3b030969:
 translate zh_hans viv02_jane_viv_7969e23d:
 
     # anon @ -m_talk "( ... Maybe she could find a book about French food for me. )"
-    anon @ -m_talk "（……也许她能帮我找本讲法国菜的书。）"
+    anon @ -m_talk "（……也许她能帮我找到一本关于法国食物的书。）"
 
 # game/src/plot/viv02.rpy:228
 translate zh_hans viv02_jane_viv_49176e15:
@@ -1100,7 +1100,7 @@ translate zh_hans viv02_give_23b48358:
 translate zh_hans viv02_work_a0715d67:
 
     # mono "The book contained anything anyone could ever want to know about cheese. Everything from making, to preparing, to cooking, and even eating all kinds of cheeses..." with fade
-    mono "那本书几乎包含了所有与奶酪有关的知识：从制作、处理、烹饪，到品尝各种奶酪……" with fade
+    mono "那本书包含了任何人想了解的关于奶酪的一切。从制作、准备、烹饪，甚至到品尝各种奶酪……" with fade
 
 # game/src/plot/viv02.rpy:566
 translate zh_hans viv02_work_835295c5:

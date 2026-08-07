@@ -70,7 +70,7 @@
 | `Consum-R` | 商店专名 | 保持 `Consum-R` | 跨多个剧情与资源文件 | 电脑零件和购物任务统一保留英文原拼写、大小写及连字符 |
 
 | Diane 对 Anon 的 `stud` | 人物调侃称呼 | 帅哥 | Diane 相关文件 | `deb26.rpy` 两处已统一；只在 Diane 直接称呼 Anon 时采用，普通名词含义按场景处理 |
-| `Ara Ara` | 餐厅专名／店员招呼 | 保持 `Ara Ara` | `deb26.rpy` 及相关地点文件 | 店名、任务和地点描述仅保留英文拼写；无 `show_lang` 的单独招呼写作 `Ara Ara!（哎呀呀！）`，不直接改成纯中文 |
+| `Ara Ara` | 餐厅专名／店员招呼 | 保持 `Ara Ara` | `deb26.rpy` 及相关地点文件 | 店名和店员固定招呼均保留英文拼写，不译成“啊啦啊啦”“哎呀哎呀” |
 | `Cowabunga` / `Heroes in a half-shell` | 连续文化笑点 | 卡瓦邦嘎／身披半壳的英雄 | `deb27.rpy` | 前者的喊叫与 Debbie 复述必须一致，后者承接忍者神龟笑点 |
 | Jenny 的 `perv` / `pervert` | 人物固定辱称 | 变态 | `jen01.rpy`、`jen04.rpy` 及后续 Jenny 文件 | 已处理文件统一；后续出现时按关系阶段复核整句语气，不机械全局替换 |
 | Jenny 的 `loser` | 人物固定辱称 | 废柴 | `jen06.rpy` 至 `jen08.rpy` 及后续 Jenny 文件 | 已处理文件统一；只约束 Jenny 对 Anon 的辱称，不套用其他角色或普通名词用法 |

@@ -190,7 +190,7 @@ translate zh_hans deb_sink_merge1_43823c76:
 translate zh_hans deb_sink_merge1_efa404b4:
 
     # anon "Angh Eug."
-    anon "啊……呃。"
+    anon "安格·尤。"
 
 # game/src/plot/deb_sink.rpy:93
 translate zh_hans deb_sink_merge1_3ae4b11a:

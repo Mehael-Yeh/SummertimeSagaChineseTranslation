@@ -642,7 +642,7 @@ translate zh_hans strings:
 
  # game/res/meta/sets.rpym:246
  old "Ara Ara"
- new "Ara Ara"
+ new "哎呀呀"
 
  # game/res/meta/sets.rpym:249
  old "Den"

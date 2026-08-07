@@ -992,7 +992,7 @@ translate zh_hans deb26_kassy_ef969467:
 
 
     # anon f_shy "About that dress my landlady tried on a while back..."
-    anon f_shy "说到我房东之前试穿的那件裙子……"
+    anon f_shy "关于我房东之前试穿的那件裙子……"
 
 # game/src/plot/deb26.rpy:219
 translate zh_hans deb26_kassy_788b0f2e:
@@ -2231,7 +2231,7 @@ translate zh_hans deb26_shop_8617b057:
 
 
     # hana "Welcome!" (show_lang="Irasshaimase!")
-    hana "欢迎光临！" (show_lang="Irasshaimase!")
+    hana "欢迎！" (show_lang="Irasshaimase!")
 
 # game/src/plot/deb26.rpy:866
 translate zh_hans deb26_shop_82309b92:
@@ -3130,7 +3130,7 @@ translate zh_hans deb26_shop_merge1_c19e9274:
 
 
     # titomi p_ara "Ara Ara."
-    titomi p_ara "Ara Ara.（哎呀呀。）"
+    titomi p_ara "Ara Ara。"
 
 # game/src/plot/deb26.rpy:1583
 translate zh_hans deb26_shop_merge1_eb780b0f:
@@ -4433,7 +4433,7 @@ translate zh_hans deb26_shop_39fc0056:
 
 
     # hana e_w f_crazy p_ara "... Ara Ara!"
-    hana e_w f_crazy p_ara "……Ara Ara！（哎呀呀！）"
+    hana e_w f_crazy p_ara "……Ara Ara！"
 
 translate zh_hans deb26_shop_1b2861be:
 
@@ -5212,7 +5212,7 @@ translate zh_hans deb26_shop_sushi_ebe49958:
 
 
     # hana e_w f_crazy p_ara "Ara Ara!"
-    hana e_w f_crazy p_ara "Ara Ara！（哎呀呀！）"
+    hana e_w f_crazy p_ara "Ara Ara！"
 
 translate zh_hans deb26_shop_sushi_e52bd58e:
 

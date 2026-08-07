@@ -574,7 +574,7 @@ translate zh_hans tor06_office2_82bfd731_1:
 translate zh_hans tor06_office2_9b2abfd3:
 
     # anon "So what kind of tests are we going to run?"
-    anon "那我们要做什么测试？"
+    anon "那么我们要进行什么样的测试？"
 
 # game/src/plot/tor06.rpy:251
 translate zh_hans tor06_office2_a56d9f87:
@@ -592,7 +592,7 @@ translate zh_hans tor06_office2_1394a5dc:
 translate zh_hans tor06_office2_12ff1473:
 
     # tori "We're going to have sexual intercourse."
-    tori "我们要发生性关系。"
+    tori "我们要进行性交。"
 
 # game/src/plot/tor06.rpy:260
 translate zh_hans tor06_office2_11d2a4e8:

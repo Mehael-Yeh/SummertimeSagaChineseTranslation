@@ -22,7 +22,7 @@ translate zh_hans hana_sushi_shop_intro1_d37fdffd:
 translate zh_hans hana_sushi_shop_intro1_6051830e:
 
     # hana e_wnw f_crazy p_ara "... {i}Ara Ara!{/i}"
-    hana e_wnw f_crazy p_ara "…… {i}Ara Ara！（哎呀呀！）{/i}"
+    hana e_wnw f_crazy p_ara "…… {i}哎呀哎呀！{/i}"
 
 # game/src/plot/hana.rpy:31
 translate zh_hans hana_sushi_shop_intro1_87231104:
@@ -298,7 +298,7 @@ translate zh_hans hana_sushi_shop_outro1_43401772:
 translate zh_hans hana_sushi_shop_outro1_4e0770c6:
 
     # hana e_wnw f_crazy p_ara "{i}Ara Ara!{/i}"
-    hana e_wnw f_crazy p_ara "{i}Ara Ara！（哎呀呀！）{/i}"
+    hana e_wnw f_crazy p_ara "{i}哎呀呀！{/i}"
 
 # game/src/plot/hana.rpy:159
 translate zh_hans hana_sushi_shop_outro1_047b527a:
@@ -334,7 +334,7 @@ translate zh_hans hana_sushi_shop_outro1_86e5cbf5:
 translate zh_hans hana_sushi_shop_outro1_39dd239d:
 
     # hana e_b p_bow "Thank you! We look forward to your next visit!" (show_lang="Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!")
-    hana e_b p_bow "谢谢！期待您的再次光临！" (show_lang="Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!")
+    hana e_b p_bow "谢谢！期待您的下次光临！" (show_lang="Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!")
 
 # game/src/plot/hana.rpy:173
 translate zh_hans hana_sushi_shop_outro2_43206e25:
@@ -346,7 +346,7 @@ translate zh_hans hana_sushi_shop_outro2_43206e25:
 translate zh_hans hana_sushi_shop_outro2_07a0ce75:
 
     # hana e_b p_bow "Thank you! Visit us again soon!" (show_lang="Arigatō gozaimashita! Mata okoshi kudasai!")
-    hana e_b p_bow "谢谢！欢迎下次再来！" (show_lang="Arigatō gozaimashita! Mata okoshi kudasai!")
+    hana e_b p_bow "谢谢！欢迎再次光临！" (show_lang="Arigatō gozaimashita! Mata okoshi kudasai!")
 
 translate zh_hans strings:
 
@@ -358,13 +358,13 @@ translate zh_hans strings:
     new "O-kaerinasai mase, [saga.cast.anon]-san.（欢迎回来，先生！）"
 
     old "Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!"
-    new "Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!（谢谢！期待您的再次光临！）"
+    new "Arigatō gozaimashita! Mata no go-raiten o omachi shite orimasu!（非常感谢！期待您的再次光临！）"
 
     old "Of course, dōitashimashite!"
     new "Of course, dōitashimashite!（当然，不客气！）"
 
     old "Arigatō gozaimashita! Mata okoshi kudasai!"
-    new "Arigatō gozaimashita! Mata okoshi kudasai!（谢谢！欢迎下次再来！）"
+    new "Arigatō gozaimashita! Mata okoshi kudasai!（非常感谢！欢迎下次再来！）"
 
     old "Oh, hai!"
     new "Oh, hai!（哦，是的！）"
@@ -373,4 +373,4 @@ translate zh_hans strings:
     new "Oh, arigato! Arigato!（哦，谢谢！谢谢！）"
 
     old "Ahh, hajimemashite..."
-    new "Ahh, hajimemashite...（啊，很高兴认识你……）"
+    new "Ahh, hajimemashite...（啊，初次见面……）"

@@ -4,7 +4,7 @@
 translate zh_hans jen23_intro_cbddd005:
 
     # anon @ -m_talk "( Hmm, I wonder if [saga.cast.tammy] is doing her morning yoga routine? )"
-    anon @ -m_talk "（嗯……不知道[saga.cast.tammy]有没有在做晨间瑜伽？）"
+    anon @ -m_talk "（嗯……不知道[saga.cast.tammy]正在做晨间瑜伽没有？）"
 
 # game/src/plot/jen23.rpy:5
 translate zh_hans jen23_intro_a9c23025:

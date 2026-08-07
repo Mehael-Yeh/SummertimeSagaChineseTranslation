@@ -130,7 +130,7 @@ translate zh_hans viv01_intro_4c07f65c:
 translate zh_hans viv01_intro_3604d697:
 
     # viv "Perhaps you should stop by the library and see if they have one?"
-    viv "也许你该去图书馆看看，说不定能找到。"
+    viv "也许你可以去图书馆看看，那里说不定有？"
 
 # game/src/plot/viv01.rpy:68
 translate zh_hans viv01_intro_ea7d0dca:

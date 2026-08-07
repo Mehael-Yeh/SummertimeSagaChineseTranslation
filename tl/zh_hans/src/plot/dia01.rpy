@@ -400,7 +400,7 @@ translate zh_hans dia01_outro_30234b9a:
 translate zh_hans dia01_outro_ba7986d2:
 
     # anon "I guess I have a lot to learn about vegetables..."
-    anon "看来蔬菜这方面，我还有得学。"
+    anon "我想我对蔬菜还有很多要学的……"
 
 # game/src/plot/dia01.rpy:142
 translate zh_hans dia01_outro_3176ee7a:
@@ -412,7 +412,7 @@ translate zh_hans dia01_outro_3176ee7a:
 translate zh_hans dia01_outro_95fc00c8:
 
     # diane "I can teach you everything there is to know about gardening."
-    diane "园艺方面的知识，我都能教你。"
+    diane "我可以教你关于园艺的一切。"
 
 # game/src/plot/dia01.rpy:144
 translate zh_hans dia01_outro_6234445a:
@@ -424,7 +424,7 @@ translate zh_hans dia01_outro_6234445a:
 translate zh_hans dia01_outro_bbd878b2:
 
     # diane "Oh, I've always had a bit of a green thumb. Even when I was a kid."
-    diane "哦，我从小就挺有园艺天赋的。"
+    diane "哦，我一直有点园艺天赋。甚至还是孩子的时候就有。"
 
 # game/src/plot/dia01.rpy:146
 translate zh_hans dia01_outro_5502af91:

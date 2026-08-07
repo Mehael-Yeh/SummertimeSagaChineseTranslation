@@ -10,7 +10,7 @@ translate zh_hans bar03_barb1_49ab8c22:
 translate zh_hans bar03_barb1_b317a11a:
 
     # barb f_sad "Right, about that..."
-    barb f_sad "对了，说到这个……"
+    barb f_sad "对了，关于这个……"
 
 # game/src/plot/bar03.rpy:4
 translate zh_hans bar03_barb1_82a080ed:

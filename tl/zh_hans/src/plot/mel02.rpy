@@ -3187,7 +3187,7 @@ translate zh_hans mel02_kevin_guitar_51d05281:
 
 
     # tammy "Just come back real soon and tell me all about this talent show of yours!"
-    tammy "快点回来，跟我说说你们那场才艺表演！"
+    tammy "尽快回来，告诉我关于你的才艺表演的一切！"
 
 translate zh_hans mel02_kevin_give_8f4f1d7f:
 
@@ -3215,13 +3215,13 @@ translate zh_hans mel02_outro_0e03373c:
 translate zh_hans mel02_outro_ffef482d:
 
     # melody "I guess you can consider that a little extra reward for all your hard work."
-    melody "就当是给你辛苦付出的额外奖励吧。"
+    melody "我想你可以把这看作是对你所有辛勤工作的额外奖励。"
 
 translate zh_hans mel02_outro_5022aba1:
 
 
     # melody "If we manage to pull this talent show off, I might let you have a private viewing."
-    melody "要是这场才艺表演办成了，我或许会让你私下看看。"
+    melody "如果我们成功举办这场才艺表演，我或许会允许你私下观看。"
 
 translate zh_hans mel02_eve_den_merge_e4692251:
 

@@ -646,19 +646,19 @@ translate zh_hans ano01_erik_6bc22aa8:
 translate zh_hans ano01_erik_1527ec43:
 
     # anon f_calm "And your landlady is okay with you having this?"
-    anon f_calm "你房东还让你留着这玩意儿？"
+    anon f_calm "你房东允许你玩这种东西？"
 
 # game/src/plot/ano01.rpy:254
 translate zh_hans ano01_erik_a2b2c9c1:
 
     # erik f_worried "Oh, definitely not!"
-    erik f_worried "哦，当然不让啊！"
+    erik f_worried "哦，当然不允许！"
 
 # game/src/plot/ano01.rpy:255
 translate zh_hans ano01_erik_10c2b081:
 
     # erik "But what a landlady doesn't know, can't hurt her, right?"
-    erik "不过，只要她不知道，就没事，对吧？"
+    erik "不过房东不知道的事，就不会惹她生气，对吧？"
 
 # game/src/plot/ano01.rpy:256
 translate zh_hans ano01_erik_647262e6:
