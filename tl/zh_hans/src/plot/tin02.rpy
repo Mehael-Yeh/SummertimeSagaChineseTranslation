@@ -201,7 +201,7 @@ translate zh_hans tin02_liu_near_80e3b1d3:
 translate zh_hans tin02_liu_tina_d114c63e:
 
     # anon a_whisper f_horny "Soo... about that S-E-X..."
-    anon a_whisper f_horny "嗯……关于那个 S-E-X……"
+    anon a_whisper f_horny "那个……S-E-X……"
 
 # game/src/plot/tin02.rpy:119
 translate zh_hans tin02_liu_tina_5e94017b:
@@ -661,7 +661,7 @@ translate zh_hans tin02_liu_8f3321ec:
 translate zh_hans tin02_liu_6dff5fa8:
 
     # anon f_shy "... Yes?"
-    anon f_shy "……有？"
+    anon f_shy "……算是吧？"
 
 translate zh_hans tin02_liu_4ad21d0f:
 
@@ -724,7 +724,7 @@ translate zh_hans tin02_cubicle_c2159096:
 translate zh_hans tin02_cubicle_3e326b68:
 
     # tina f_shy "Sorry again about the other night."
-    tina f_shy "再说声对不起，关于那天晚上的事。"
+    tina f_shy "那天晚上的事，我再跟你说声对不起。"
 
 translate zh_hans tin02_cubicle_f9be23ad:
 
@@ -971,7 +971,7 @@ translate zh_hans tin02_cubicle_fence_b623de2e:
 
 
     # anon @ -m_talk "( Since I just got permission, I should probably go find [saga.cast.tina] before I leave. )"
-    anon @ -m_talk "（既然刚得到允许，我离开前应该先去找[saga.cast.tina]。）"
+    anon @ -m_talk "（既然获准进去，我最好在离开前先去找[saga.cast.tina]。）"
 
 translate zh_hans tin02_cubicle_liu_65546dad:
 

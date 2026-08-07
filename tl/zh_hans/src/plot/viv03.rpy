@@ -472,7 +472,7 @@ translate zh_hans viv03_mia_4d72430f:
 translate zh_hans viv03_mia_d442c2e8:
 
     # anon "I didn't know. What was your poem about?"
-    anon "我都不知道。你写的诗是关于什么的？"
+    anon "我都不知道。你的诗写的是什么？"
 
 # game/src/plot/viv03.rpy:244
 translate zh_hans viv03_mia_1500db04:

@@ -628,7 +628,7 @@ translate zh_hans ano07_bike_take_826cf7e2:
 translate zh_hans ano07_bike_tony_f2d662a1:
 
     # anon a_uneasy f_shy "Um... about that bike."
-    anon a_uneasy f_shy "呃……关于自行车的事。"
+    anon a_uneasy f_shy "呃……那辆自行车的事。"
 
 # game/src/plot/ano07.rpy:230
 translate zh_hans ano07_bike_tony_e6b33e98:

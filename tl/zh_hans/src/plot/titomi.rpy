@@ -359,7 +359,7 @@ translate zh_hans strings:
 
     # game/src/plot/titomi.rpy:10
     old "Ara Ara."
-    new "Ara Ara。"
+    new "Ara Ara.（哎呀呀。）"
 
     # game/src/plot/titomi.rpy:7
     old "Where are you from?"

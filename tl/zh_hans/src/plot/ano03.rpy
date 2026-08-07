@@ -370,7 +370,7 @@ translate zh_hans ano03_dimitri_eb780b0f:
 translate zh_hans ano03_dimitri_1727f574:
 
     # dimitri "Where is nice lady who takes care of you?"
-    dimitri "照顾你的漂亮女士，在哪儿？"
+    dimitri "那个照顾你的漂亮女士，在哪儿？"
 
 # game/src/plot/ano03.rpy:119
 translate zh_hans ano03_dimitri_f89a0060:
@@ -400,7 +400,7 @@ translate zh_hans ano03_dimitri_9fa7745f:
 translate zh_hans ano03_dimitri_3c66c8e1:
 
     # dimitri "I am man asking to see nice lady responsible for you..."
-    dimitri "我是来找负责照顾你的那位漂亮女士……"
+    dimitri "我来找那个照顾你的漂亮女士……"
 
 # game/src/plot/ano03.rpy:126
 translate zh_hans ano03_dimitri_27867a62:

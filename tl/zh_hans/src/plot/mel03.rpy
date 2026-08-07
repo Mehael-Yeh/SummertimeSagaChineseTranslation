@@ -438,7 +438,7 @@ translate zh_hans mel03_catch_rails_efc1dbd9:
 
 
     # anon a_side e_w f_calm @ -m_talk "( [saga.cast.melody] will know if it's about the talent show... )"
-    anon a_side e_w f_calm @ -m_talk "（如果是关于才艺表演的事，[saga.cast.melody]会知道的……）"
+    anon a_side e_w f_calm @ -m_talk "（要是才艺表演的事，[saga.cast.melody]应该知道……）"
 
 # game/src/plot/mel03.rpy:310
 translate zh_hans mel03_catch_rails_e4ac621f:

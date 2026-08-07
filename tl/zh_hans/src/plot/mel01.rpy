@@ -1612,7 +1612,7 @@ translate zh_hans mel01_craft_late_90802755:
 translate zh_hans mel01_craft_melody_60224899:
 
     # anon "About the flute-"
-    anon "关于长笛——"
+    anon "那支长笛——"
 
 # game/src/plot/mel01.rpy:856
 translate zh_hans mel01_craft_melody_39979065:
@@ -1672,7 +1672,7 @@ translate zh_hans mel01_outro_1b068d1b:
 translate zh_hans mel01_outro_4730def7:
 
     # anon "About the school's flute..."
-    anon "关于学校的笛子……"
+    anon "学校那支笛子……"
 
 # game/src/plot/mel01.rpy:897
 translate zh_hans mel01_outro_3b63a5b4:

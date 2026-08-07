@@ -1111,7 +1111,7 @@ translate zh_hans mar_couch_merge3_041279dd:
 
 
     # anon a_shy_neck e_sw p_sit_edge "Ehh... About what just happened... We were only-"
-    anon a_shy_neck e_sw p_sit_edge "呃……关于刚才发生的事……我们只是——"
+    anon a_shy_neck e_sw p_sit_edge "呃……刚才那件事……我们只是——"
 
 translate zh_hans mar_couch_merge3_b82c2e64:
 
@@ -2388,7 +2388,7 @@ translate zh_hans mar_couch_noon1a_093779d8:
 translate zh_hans mar_couch_noon1a_f78329f3:
 
     # maria "... about that."
-    maria "……关于那件事。"
+    maria "……刚才那事。"
 
 translate zh_hans mar_couch_noon1a_38e682c5:
 

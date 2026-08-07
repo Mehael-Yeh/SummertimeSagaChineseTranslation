@@ -1876,7 +1876,7 @@ translate zh_hans jos01_josie2_675a249d:
 translate zh_hans jos01_josie2_9d4c71c4:
 
     # anon e_w f_horny "So, about that car..."
-    anon e_w f_horny "那么，关于那辆车……"
+    anon e_w f_horny "那么，说到那辆车……"
 
 # game/src/plot/jos01.rpy:672
 translate zh_hans jos01_josie2_10f8f7ed:

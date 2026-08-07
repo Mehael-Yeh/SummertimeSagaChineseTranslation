@@ -1811,7 +1811,7 @@ translate zh_hans ano11_flour_merge_a114901a:
 
 
     # maria "I won't have it!"
-    maria "我绝不允许！"
+    maria "我绝不答应！"
 
 # game/src/plot/ano11.rpy:503
 translate zh_hans ano11_flour_merge_446580f0:

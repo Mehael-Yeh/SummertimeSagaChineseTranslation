@@ -1150,7 +1150,7 @@ translate zh_hans tor02_judith2_f6e8d577:
 translate zh_hans tor02_judith2_b63e7e93:
 
     # anon "So about that spare set of glasses..."
-    anon "至于那副备用眼镜……"
+    anon "那副备用眼镜的事……"
 
 # game/src/plot/tor02.rpy:549
 translate zh_hans tor02_judith2_2ea248e4:
@@ -1342,7 +1342,7 @@ translate zh_hans tor02_flake_302af377:
 translate zh_hans tor02_flake_eef1abfb:
 
     # anon a_facepalm "Sheesh, I totally forgot about that [saga.cast.judith]... my bad!"
-    anon a_facepalm "天哪，我完全忘了那件事[saga.cast.judith]……我的错！"
+    anon a_facepalm "哎呀，我把那事完全忘了，[saga.cast.judith]……是我的错！"
 
 # game/src/plot/tor02.rpy:634
 translate zh_hans tor02_flake_bf11d0e0:
@@ -2464,13 +2464,13 @@ translate zh_hans tor02_office2_354158c5:
 translate zh_hans tor02_office2_9c656fa8:
 
     # anon "Uhh, is this about the device?"
-    anon "呃，是关于那个设备的事吗？"
+    anon "呃，是那个设备的事吗？"
 
 # game/src/plot/tor02.rpy:1262
 translate zh_hans tor02_office2_39897852:
 
     # tori "No, this is about something the device showed me."
-    tori "不，是关于那个设备向我展示的东西。"
+    tori "不，是那台设备给我看的东西。"
 
 # game/src/plot/tor02.rpy:1264
 translate zh_hans tor02_office2_d91a992e_1:

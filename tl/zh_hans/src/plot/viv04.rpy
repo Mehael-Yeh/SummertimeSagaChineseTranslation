@@ -808,7 +808,7 @@ translate zh_hans viv04_office6_near_6ec666b7:
 translate zh_hans viv04_office6_roxxy_6295d66e:
 
     # anon "Hey, so about your pom-pom-"
-    anon "嘿，关于你的啦啦球——"
+    anon "嘿，说到你的啦啦球——"
 
 # game/src/plot/viv04.rpy:406
 translate zh_hans viv04_office6_roxxy_48aed0c6:
@@ -1792,7 +1792,7 @@ translate zh_hans viv04_jenny_roxxy_01d691dd:
 translate zh_hans viv04_retry_77cbb3f7:
 
     # anon f_worried "So, about [saga.cast.roxxy]'s routine..."
-    anon f_worried "那么，关于[saga.cast.roxxy]那套动作……"
+    anon f_worried "那个……[saga.cast.roxxy]那套动作……"
 
 # game/src/plot/viv04.rpy:963
 translate zh_hans viv04_retry_8387a82e:

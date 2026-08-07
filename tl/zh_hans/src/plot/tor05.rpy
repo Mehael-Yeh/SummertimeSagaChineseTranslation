@@ -622,7 +622,7 @@ translate zh_hans tor05_take_toad_388ac5b4:
 translate zh_hans tor05_take_tori_ecc1542b:
 
     # anon f_worried "About those items you needed..."
-    anon f_worried "关于你要的那些东西……"
+    anon f_worried "你要的那些东西……"
 
 # game/src/plot/tor05.rpy:372
 translate zh_hans tor05_take_help_de075ee0:
@@ -2338,7 +2338,7 @@ translate zh_hans tor05_tori2_171e41bc:
 translate zh_hans tor05_tori2_e2d063fd:
 
     # tori "You were saying something, regarding the lock on my office?"
-    tori "你刚才在说什么，关于我办公室的锁？"
+    tori "你刚才是不是提到我办公室的锁？"
 
 # game/src/plot/tor05.rpy:1281
 translate zh_hans tor05_tori2_97d067b7_1:

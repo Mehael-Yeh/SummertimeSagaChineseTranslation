@@ -28,7 +28,7 @@ translate zh_hans bar02_intro_f4c0268e:
 translate zh_hans bar02_intro_88041568:
 
     # barb "I think we should get you a partner for these sessions, what do you think?"
-    barb "我觉得你应该找个搭档一起进行这些课程，你觉得呢？"
+    barb "我觉得这些课应该给你找个搭档，你觉得呢？"
 
 # game/src/plot/bar02.rpy:7
 translate zh_hans bar02_intro_20d69fd8:
@@ -226,7 +226,7 @@ translate zh_hans bar02_mia_013a3fe8:
 translate zh_hans bar02_mia_barb_89d2db5f:
 
     # anon f_calm "About that art contest-"
-    anon f_calm "关于那场美术比赛——"
+    anon f_calm "说到那场美术比赛——"
 
 # game/src/plot/bar02.rpy:91
 translate zh_hans bar02_mia_barb_2ec95f3c:

@@ -1316,7 +1316,7 @@ translate zh_hans mel06_office4_4704aa13:
 
 translate zh_hans mel06_office4_melody_e9cb3ee3:
     # anon "Umm, about that surprise you mentioned...."
-    anon "嗯，关于你提到的那个惊喜……"
+    anon "嗯，说到你提过的那个惊喜……"
 
 translate zh_hans mel06_office4_melody_f68087d8:
     # melody "You'll have to come to my office after class if you want it..."
