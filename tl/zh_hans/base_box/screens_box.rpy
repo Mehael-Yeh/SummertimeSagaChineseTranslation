@@ -50,7 +50,7 @@ translate zh_hans strings:
     old "Display"
     new "显示"
     old "Window"
-    new "窗户"
+    new "窗口"
     old "Fullscreen"
     new "全屏"
     old "Unseen Text"

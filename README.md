@@ -76,6 +76,13 @@ SummertimeSaga/
 └── README.md
 ```
 
+## 截图示例
+
+![首页](assets/homepage.png)
+![菜单](assets/menu.png)
+![手机](assets/phone.png)
+![对话](assets/dialog.png)
+
 ## 参与贡献
 
 欢迎通过 [Issues](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/issues) 报告错译、漏译、兼容问题或术语建议，也欢迎提交 Pull Request。
