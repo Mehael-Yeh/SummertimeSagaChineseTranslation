@@ -16,6 +16,7 @@
 - 翻译源文件位于 `tl/zh_hans/`，发布版汉化包名为 `zh_hans.rpa`。
 - 项目内置默认切换为中文、语言入口和短信界面适配等辅助脚本。
 - 翻译仍在完善中，可能存在错译、漏译、语气不一致或版本兼容问题。
+- 汉化包内置`tl/zh_hans/sex_speed_control.rpy` 仿原版（v0.20.16）速度控制Mod。
 
 ## 安装方法
 
@@ -69,6 +70,7 @@ SummertimeSaga/
 ```text
 .
 ├── .github/workflows/       # GitHub Actions 自动构建与发布
+├── assets/                  # 截图示例素材
 ├── tl/zh_hans/              # Ren'Py 简体中文翻译源文件（内含sex_speed_control.rpy仿原版速度控制Mod）
 ├── tools/                   # 校验、术语审计和 RPA 构建工具
 ├── translation_context/     # 角色、剧情、术语、风格和精修进度记录
