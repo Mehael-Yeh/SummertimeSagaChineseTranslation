@@ -2186,3 +2186,11 @@ translate zh_hans strings:
     # game/res/meta/step.rpym:1797
     old "Now I can show up for French class without any anxiety of being behind."
     new "现在我可以毫无焦虑地去上法语课，不再担心跟不上了。"
+
+    # _archives/5/res/meta/step.rpym:1441
+    old "Inspect with the glasses inside [saga.cast.judith]'s locker."
+    new "检查[saga.cast.judith]的储物柜里的眼镜。"
+
+    # _archives/5/res/meta/step.rpym:1474
+    old "Inspect with the Master Blaster controller in the treehouse."
+    new "检查树屋里的Master Blaster手柄。"

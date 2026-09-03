@@ -146,9 +146,8 @@ translate zh_hans maria_pizza_shop_outro_cabaf4ec:
 # game/src/plot/maria.rpy:194
 translate zh_hans maria_pizza_pantry_intro_35eef5d2:
 
-
-    # maria "Alright, see ya later, kid."
-    maria "你来了？"
+    # maria "[saga.cast.anon]?"
+    maria "[saga.cast.anon]？"
 
 # game/src/plot/maria.rpy:198
 translate zh_hans maria_pizza_pantry_intro_80b8ab1b:
@@ -369,9 +368,6 @@ translate zh_hans strings:
     old "Tonight."
     new "今晚"
 
-translate zh_hans strings:
-
-
     old "Wages. ($[saga.prop.pizza_boxes.owed:,])"
     new "工钱（$[saga.prop.pizza_boxes.owed:,]）"
 
@@ -381,4 +377,4 @@ translate zh_hans strings:
 
     # game/src/plot/maria.rpy:73
     old "Just saying hi."
-    new "只是来打招呼"
+    new "只是来打招呼。"

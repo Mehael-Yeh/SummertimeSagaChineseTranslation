@@ -897,9 +897,8 @@ translate zh_hans mel03_office1_5f47796f:
 
 translate zh_hans mel03_office1_bc074fd4:
 
-
-    # kevin "..."
-    kevin "……"
+    # kevin "C'mon, it's getting late and you're supposed to meet [saga.cast.eve] in the park, remember?!"
+    kevin "喂，时间不早了，你还得去公园见[saga.cast.eve]呢，记得吗？！"
 
 translate zh_hans mel03_office1_187a552f:
 
