@@ -1,8 +1,9 @@
 # 夏日传说 重制版（Summertime Saga）中文汉化补丁
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/Mehael-Yeh/summertime-saga-chinese-translation/total?label=Downloads)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases)
 [![Build zh_hans RPA](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml/badge.svg)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/actions/workflows/build-chinese-rpa.yml)
+[![Release](https://img.shields.io/github/v/release/Mehael-Yeh/summertime-saga-chinese-translation?label=Release)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Mehael-Yeh/summertime-saga-chinese-translation/total?label=Downloads)](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases)
 
 [Summertime Saga](https://summertimesaga.com/) 的非官方简体中文翻译项目，提供可直接安装的 `zh_hans.rpa` 汉化包，以及可供修改的 Ren'Py 翻译源文件。
 
