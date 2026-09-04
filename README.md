@@ -25,7 +25,7 @@
 
 ### 方法一：安装 `zh_hans.rpa`（推荐）
 
-1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面下载对应版本的 `zh_hans.rpa`。
+1. 从项目的 [Releases](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases) 页面[下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases/latest)对应版本的 `zh_hans.rpa`。
 2. 完全退出游戏。
 3. 将 `zh_hans.rpa` 放入游戏根目录下的 `game` 文件夹。
 4. 启动游戏并确认界面与对话已切换为中文。
@@ -40,7 +40,7 @@ SummertimeSaga/
 
 此方式适合需要自行修改译文或参与翻译的用户。
 
-1. 下载或克隆本仓库。
+1. [下载](https://github.com/Mehael-Yeh/summertime-saga-chinese-translation/releases/latest)或克隆本仓库。
 2. 将仓库中的整个 `tl` 文件夹复制到游戏的 `game` 文件夹中。
 3. 合并目录时保留 `tl/zh_hans/` 的完整结构。
 
