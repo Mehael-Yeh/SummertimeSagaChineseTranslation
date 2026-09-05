@@ -412,7 +412,7 @@ translate zh_hans bar01_clay_02e765b5:
 translate zh_hans bar01_clay_db9aae72:
 
     # mia "Seriously?"
-    mia "真的吗？"
+    mia "认真的吗？"
 
 # game/src/plot/bar01.rpy:190
 translate zh_hans bar01_clay_4197dff8:
@@ -448,13 +448,13 @@ translate zh_hans bar01_clay_ca02af93:
 translate zh_hans bar01_clay_c6c3699f:
 
     # mia "Would a thousand dollars help?"
-    mia "一千美元能帮上忙吗？"
+    mia "一千美元够吗？"
 
 # game/src/plot/bar01.rpy:208
 translate zh_hans bar01_clay_b9fc92b0:
 
     # barb "Huh? Yeah, that would be plenty to order new equipment, restock the art shelves, and maybe even hire some real models for you kids to paint."
-    barb "嗯？是啊，这笔钱足够订购新设备、补充美术用品，甚至还能给你们这些孩子雇几个真正的模特来画画。"
+    barb "嗯？应该够的，这笔钱足够订购新设备、补充美术用品，甚至还能给你们这些孩子雇几个真正的模特来画画。"
 
 # game/src/plot/bar01.rpy:209
 translate zh_hans bar01_clay_84fbbf0e:
@@ -556,7 +556,7 @@ translate zh_hans bar01_clay_1ea26376:
 translate zh_hans bar01_clay_e50de763:
 
     # anon "I dunno..."
-    anon "我也不知道……"
+    anon "我不知道……"
 
 # game/src/plot/bar01.rpy:261
 translate zh_hans bar01_clay_e787a723:

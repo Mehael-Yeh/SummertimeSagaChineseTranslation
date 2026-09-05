@@ -46,4 +46,4 @@ translate zh_hans anon_phone_wifi_128912de:
 translate zh_hans anon_phone_wifi_ac83c525:
 
     # anon "( You already got what you wanted, leave it alone! )"
-    anon "（想要的都拿到了，别再点了！）"
+    anon "（想要的都给你了，别再点了！）"

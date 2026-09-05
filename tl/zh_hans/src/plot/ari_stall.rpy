@@ -1,6 +1,6 @@
 translate zh_hans ari_stall_11947b98:
     # anon @ -m_talk "( Holy hand grenades, Batman! )"
-    anon @ -m_talk "（神圣手榴弹啊，Batman！）"
+    anon @ -m_talk "（神圣手榴弹啊，蝙蝠侠！）"
 
 translate zh_hans ari_stall_25d0a9c4:
     # anon f_horny_smug @ -m_talk "( Those are marvelous!! )"
@@ -64,7 +64,7 @@ translate zh_hans ari_stall_9b9962dd:
 
 translate zh_hans ari_stall_8f05cc94:
     # ariane "Yeah, no shit, Sherlock..."
-    ariane "这还用你说，Sherlock……"
+    ariane "这还用你说，大侦探……"
 
 translate zh_hans ari_stall_e905450f:
     # ariane "... But this is not a dating app and I don't show off the goods for free, so fuck off!!"
@@ -116,7 +116,7 @@ translate zh_hans ari_stall_1a85cfc1:
 
 translate zh_hans ari_stall_e17cf15c:
     # anon e_b f_happy m_teeth @ -m_talk "( Man, she was smoking hot though! )"
-    anon e_b f_happy m_teeth @ -m_talk "（不过，她真的辣翻了！）"
+    anon e_b f_happy m_teeth @ -m_talk "（不过，她真的超性感！）"
 
 translate zh_hans ari_stall_3051b91b:
     # anon @ -m_talk "( Hopefully she's a forgive and forget type of girl. )"
